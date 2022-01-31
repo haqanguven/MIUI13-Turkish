@@ -1,2 +1,2 @@
-# MIUI13-Turkish
- MIUITR13
+# MIUITR Team
+# https://forum.miuitr.info/

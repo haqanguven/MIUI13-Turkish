@@ -454,7 +454,7 @@
     <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">d-Myyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
@@ -664,15 +664,15 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="miui_clock_city_name_second">İkinci saat</string>
     <string name="miui_clock_fancy_colon"></string>
     <string name="miui_digital_clock_dot">:</string>
-    <string name="miui_lock_screen_date">d MMMM EEEE</string>
-    <string name="miui_lock_screen_date_12">d MMMM EEEE</string>
-    <string name="miui_lock_screen_date_two_lines">"d MMMM
+    <string name="miui_lock_screen_date">dd/MM EEEE</string>
+    <string name="miui_lock_screen_date_12">dd/MM EEEE</string>
+    <string name="miui_lock_screen_date_two_lines">"dd/MM
 EEEE"</string>
-    <string name="miui_lock_screen_date_two_lines_12">"d MMMM
+    <string name="miui_lock_screen_date_two_lines_12">"dd/MM
 EEEE"</string>
-    <string name="miui_lock_screen_large_date">"dd/M
+    <string name="miui_lock_screen_large_date">"dd/MM
 EEE"</string>
-    <string name="miui_lock_screen_large_date_12">"dd/M
+    <string name="miui_lock_screen_large_date_12">"dd/MM
 EEE"</string>
     <string name="miui_vertical_time_format_12">"hh
 mm"</string>
@@ -924,87 +924,87 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="privacy_give_up_revoke_btn">Geri</string>
     <string name="privacy_i_know_btn">Devam et</string>
     <string name="privacy_important_prompt_title">Dikkat</string>
-    <string name="privacy_log_off_succeed">Canceled services successfully</string>
-    <string name="privacy_loging_off_warning">Canceling services…</string>
-    <string name="privacy_logoff_services_title">Cancel services</string>
-    <string name="privacy_logoff_theme_content_1">1. All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.</string>
-    <string name="privacy_logoff_theme_content_2">2. All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.</string>
-    <string name="privacy_logoff_theme_content_5">5. All the personalization items currently used on this device. Default personalization preferences will be restored.</string>
-    <string name="privacy_logoff_theme_service_warning">The following items will be deleted permanently after the services are canceled:</string>
-    <string name="privacy_network_exception">A network error occurred. Wait a minute or two and try again.</string>
-    <string name="privacy_pad_fold_Read_write_storage">Access storage</string>
-    <string name="privacy_pad_fold_entry">Privacy</string>
-    <string name="privacy_pad_fold_logoff_service_content">Cancel Wallpaper and personalization services</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
-2. Cancelation of Wallpaper and personalization services won't affect the normal usage of other Xiaomi products.
-3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
-All the wallpapers, fonts, and ringtones downloaded to this device.
-All the permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Statement on the Cancelation of Wallpaper and Personalization Services</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Read and agree to the \"Statement on the Cancelation of Wallpaper and Personalization Services\" before canceling our services.</string>
-    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">"You're about to cancel Wallpaper and personalozation services."</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancelation of Wallpaper and </font>Personalization Services&lt;/a>&lt;/font>\".\"&lt;/Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the Privacy Policy of Wallp</font>aper and Personalization&lt;/a>&lt;/font>\".\"&lt;/Data></string>
-    <string name="privacy_pad_fold_revoke_agree_content_3">3. All the wallpapers, fonts, and ringtones downloaded to this device.</string>
-    <string name="privacy_pad_fold_revoke_agree_content_4">4. All the permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization</string>
-    <string name="privacy_pad_fold_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Wallpaper and Personalization\" before withdrawing your consent.</string>
-    <string name="privacy_pad_fold_revoke_agree_introduce">"If you continue, you'll withdraw your consent to the Privacy Policy of Wallpaper and personalization. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Wallpaper and personalization provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Wallpaper and personalization services."</string>
-    <string name="privacy_pad_fold_update_content">Wallpaper and personalization Privacy Policy was updated:</string>
-    <string name="privacy_pad_important_prompt_content">"Looks like you haven't agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Wallpaper and personalization are still available to you.
-Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
-    <string name="privacy_permission_management_description">Permissions details</string>
-    <string name="privacy_permission_related_content">Permissions</string>
-    <string name="privacy_permit_privacy_policy_content">"You won't be able to keep using our unless you agree to the new version of "<a href="'%1$s'"><font color;="'#37A5FF'">Privacy Policy. Agree to the </font></a>updated Privacy Policy now?</string>
-    <string name="privacy_phone_important_prompt_content">"Looks like you haven't agreed to our User Agreement and Privacy Policy yet. However, the basic features and services of Themes are still available to you.
-Whenever you use the items stored on this device for personalization (e.g. set them as wallpapers or ringtones), we'll ask you to allow this app to access device storage."</string>
-    <string name="privacy_phone_logoff_service_content">Cancel Themes services</string>
-    <string name="privacy_phone_logoff_theme_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
-    <string name="privacy_phone_logoff_theme_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Make sure that you have the right to cancel services before you continue.
-2. Cancelation of Themes services won't affect the normal usage of other Xiaomi products.
-3. Service cancelation is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once the services are canceled. The following data will be permanently deleted or anonymized after service cancelation (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices.
-All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
-All the search history records, permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Service cancelation does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to canceling the services.</string>
-    <string name="privacy_phone_logoff_theme_service_detail_prompt">Statement on the Cancelation of Themes Services</string>
-    <string name="privacy_phone_logoff_theme_service_detail_title">Read and agree to the \"Statement on the Cancelation of Themes Services\" before canceling our services.</string>
-    <string name="privacy_phone_logoff_theme_service_introduce">"You're about to cancel Themes services."</string>
-    <string name="privacy_phone_read_and_write_storage">Access storage</string>
-    <string name="privacy_phone_read_theme_logoff_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Cancel</font>ation of Themes Services&lt;/a>&lt;/font>\".\"&lt;/Data></string>
-    <string name="privacy_phone_read_theme_privacy_policy">"&lt;Data>\"I've read and agreed to"<font color="#8E92B0"> the \"&lt;font color=\"#8E92B0\">&lt;/color>&lt;a href=\"%1$s\">Statement on the Withdrawal of Consent to the </font>Privacy Policy of Themes&lt;/a>&lt;/font>\".\"&lt;/Data></string>
-    <string name="privacy_phone_revoke_agree_content_3">3. All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.</string>
-    <string name="privacy_phone_revoke_agree_content_4">4. All the search history records, permissions preferences, settings, and cached items generated on this device.</string>
-    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Make sure that you have the right to withdraw consent before you continue.
-2. Your withdrawal of consent to the Privacy Policy of Themes won't affect the normal usage of other Xiaomi products.
-3. Withdrawal of consent is an irreversible action. Back up all the important items before you continue, as they might be deleted permanently. Remember that you won't be able to reconsider your decision once your consent is withdrawn. The following data will be permanently deleted or anonymized after withdrawal of consent (except as otherwise provided by laws and regulations, or otherwise required by regulatory authorities):"</string>
-    <string name="privacy_phone_revoke_agree_detail_content_2">"All the orders (including paid orders) made on the Xiaomi devices where you used your Mi Account. You will no longer be able to use the items you purchased.
-All the information about your likes, comments, ratings, and followers generated on the Xiaomi devices where you used your Mi Account.
-All the themes, wallpapers, dynamic wallpapers, fonts, icons, and ringtones downloaded to this device.
-All the search history records, permissions preferences, settings, and cached items generated on this device.
-All the personalization items currently used on this device. Default personalization preferences will be restored."</string>
-    <string name="privacy_phone_revoke_agree_detail_content_3">"4. After you withdraw your consent to the Privacy policy of Themes, we will cease to collect your personal information. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. 
-5. Withdrawal of consent does not imply exemption or mitigation in regard to the responsibilities brought about by actions performed prior to the withdrawal of consent."</string>
-    <string name="privacy_phone_revoke_agree_detail_prompt">Statement on the Withdrawal of Consent to the Privacy Policy of Themes</string>
-    <string name="privacy_phone_revoke_agree_detail_title">Read and agree to the \"Statement on the Withdrawal of Consent to the Privacy Policy of Themes\" before withdrawing your consent.</string>
-    <string name="privacy_phone_revoke_agree_introduce">"If you continue, you'll withdraw your consent to the Privacy Policy of Themes. The personal information already collected and retained will be deleted within the specific period in accordance with applicable laws and regulations unless required otherwise. As Themes provides its services based on the collection of the necessary personal information, your withdrawal of consent will be held as refusing to accept Themes services."</string>
-    <string name="privacy_phone_update_content">Themes Privacy Policy was updated:</string>
-    <string name="privacy_read_statement">Agree to the terms and conditions first</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">Read and agree to the new version of <a href="'%1$s'"><font color;="'#37A5FF'">Privacy Policy before you con</font></a>tinue.</string>
-    <string name="privacy_reading_the_application_list">Access the list of apps installed on this device</string>
-    <string name="privacy_remind_user_mode_agree">Agree</string>
-    <string name="privacy_remind_user_mode_content">&lt;Data>Agree to our Privacy Policy to use this feature. Rea<font color="#37A5FF">d our &lt;font color=\"#37A5FF\">&lt;/color>&lt;a hr</font>ef=\"%1$s\">Privacy Policy&lt;/a>&lt;/font> to learn how we collect, use, disclose, process, and store the personal information you provide to us when you use Themes.&lt;/Data></string>
+    <string name="privacy_log_off_succeed">Hizmetler başarıyla iptal edildi</string>
+    <string name="privacy_loging_off_warning">Hizmetler iptal ediliyor</string>
+    <string name="privacy_logoff_services_title">Hizmetleri iptal et</string>
+    <string name="privacy_logoff_theme_content_1">1. Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız</string>
+    <string name="privacy_logoff_theme_content_2">2. Beğenileriniz, yorumlarınız, puanlarınız ve takipçileriniz hakkında Xiaomi cihazlarında oluşturulan tüm bilgiler</string>
+    <string name="privacy_logoff_theme_content_5">5. Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri geri yüklenecek</string>
+    <string name="privacy_logoff_theme_service_warning">Hizmetler iptal edildikten sonra aşağıdaki öğeler kalıcı olarak silinecek:</string>
+    <string name="privacy_network_exception">Bir ağ hatası oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="privacy_pad_fold_Read_write_storage">Depolama alanına erişim</string>
+    <string name="privacy_pad_fold_entry">Gizlilik</string>
+    <string name="privacy_pad_fold_logoff_service_content">Duvar kağıdı ve kişiselleştirme hizmetlerini iptal et</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_3">3. Bu cihaza indirilen tüm duvar kağıtları, yazı tipleri ve zil sesleri</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_content_4">4. Bu cihazda oluşturulan tüm izin tercihleri, ayarları ve önbelleğe alınmış öğeler</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_1">"1. Devam etmeden önce hizmetleri iptal etme hakkınız olduğundan emin olun
+2. Duvar kağıdı ve kişiselleştirme hizmetlerinin iptali diğer Xiaomi ürünlerinin normal kullanımını etkilemeyecektir
+3. Hizmet iptali geri dönüşü olmayan bir işlemdir. Kalıcı olarak silinebileceklerinden, devam etmeden önce tüm önemli öğeleri yedekleyin. Hizmetler iptal edildikten sonra kararınızı yeniden gözden geçiremeyeceğinizi unutmayın. Aşağıdaki veriler hizmetin iptal edilmesinden sonra kalıcı olarak silinecek veya anonim hale getirilecektir:"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_2">"Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız
+Beğenileriniz, yorumlarınız, puanlarınız ve takipçileriniz hakkında Xiaomi cihazlarında oluşturulan tüm bilgiler
+Bu cihaza indirilen tüm duvar kağıtları, yazı tipleri ve zil sesleri
+Bu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış öğeler
+Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri geri yüklenecek"</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_content_3">4. Hizmetin iptali, hizmetlerin iptalinden önce gerçekleştirilen eylemlerin getirdiği sorumluluklarla ilgili olarak muafiyet veya hafifletme anlamına gelmez</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Duvar kağıdı ve kişiselleştirme hizmetlerinin iptali hakkında açıklama</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Hizmetlerimizi iptal etmeden önce duvar kağıdı ve kişiselleştirme hizmetlerinin iptali hakkında açıklamayı okuyun ve kabul edin</string>
+    <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">Duvar kağıdı ve kişiselleştirme hizmetlerini iptal etmek üzeresiniz</string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">&lt;<font color="#8E92B0">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Duvar kağıdı ve kişiselleştirme hizmetlerinin iptal edilmesine</font> ilişkin açıklama&lt;/a>&lt;/font> okudum ve kabul ediyorum"&lt;/Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy">&lt;<font color="#8E92B0">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Duvar kağıdı ve kişiselleştirme gizlilik politikasına ilişkin onayın Geri Çekilm</font>esine ilişkin açıklama&lt;/a>&lt;/font> okudum ve kabul ediyorum"&lt;/Data></string>
+    <string name="privacy_pad_fold_revoke_agree_content_3">3. Bu cihaza indirilen tüm duvar kağıtları, yazı tipleri ve zil sesleri</string>
+    <string name="privacy_pad_fold_revoke_agree_content_4">4. Bu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış öğeler</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_prompt">Duvar kağıdı ve kişiselleştirme gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklama</string>
+    <string name="privacy_pad_fold_revoke_agree_detail_title">İzninizi geri çekmeden önce duvar kağıdı ve kişiselleştirme gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklamayı okuyun ve kabul edin</string>
+    <string name="privacy_pad_fold_revoke_agree_introduce">Devam ederseniz duvar kağıdının gizlilik politikasına ve kişiselleştirmeye ilişkin onayınızı geri çekersiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Duvar kağıdı ve kişiselleştirme hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izninizi geri çekmeniz duvar kağıdı ve kişiselleştirme hizmetlerini kabul etmeyi reddetme olarak kabul edilecektir</string>
+    <string name="privacy_pad_fold_update_content">Duvar kağıdı ve kişiselleştirme gizlilik politikası güncellendi:</string>
+    <string name="privacy_pad_important_prompt_content">"Görünüşe göre kullanıcı sözleşmemizi ve gizlilik politikamızı henüz kabul etmediniz. Ancak duvar kağıdı ve kişiselleştirmenin temel özellikleri ve hizmetleri sizin için hala kullanılabilir.
+Bu cihazda saklanan öğeleri kişiselleştirme için her kullandığınızda bu uygulamanın cihaz depolamasına erişmesine izin vermenizi isteyeceğiz"</string>
+    <string name="privacy_permission_management_description">İzin ayrıntıları</string>
+    <string name="privacy_permission_related_content">İzinler</string>
+    <string name="privacy_permit_privacy_policy_content"><a href="'%1$s'"><font color;="'#37A5FF'">Gizlilik politikasıyeni sürümünü </font></a>kabul etmediğiniz sürece sitemizi kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını şimdi kabul ediyor musunuz?</string>
+    <string name="privacy_phone_important_prompt_content">"Görünüşe göre kullanıcı sözleşmemizi ve gizlilik politikamızı henüz kabul etmediniz. Ancak temaların temel özellikleri ve hizmetleri sizin için hala kullanılabilir
+Bu cihazda saklanan öğeleri kişiselleştirme için her kullandığınızda bu uygulamanın cihaz depolamasına erişmesine izin vermenizi isteyeceğiz"</string>
+    <string name="privacy_phone_logoff_service_content">Temalar hizmetlerini iptal et</string>
+    <string name="privacy_phone_logoff_theme_content_3">3. Bu cihaza indirilen tüm temalar, duvar kağıtları, hareketli duvar kağıtları, yazı tipleri, simgeler ve zil sesleri</string>
+    <string name="privacy_phone_logoff_theme_content_4">4. Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarlar ve önbelleğe alınmış öğeler</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_1">"1. Devam etmeden önce hizmetleri iptal etme hakkınız olduğundan emin olun
+2. Tema hizmetlerinin iptali diğer Xiaomi ürünlerinin normal kullanımını etkilemez
+3. Hizmet iptali geri döndürülemez bir işlemdir. Kalıcı olarak silinebileceklerinden devam etmeden önce tüm önemli öğeleri yedekleyin. Hizmetler iptal edildikten sonra kararınızı yeniden gözden geçiremeyeceğinizi unutmayın. Aşağıdaki veriler hizmet iptalinden sonra kalıcı olarak silinecek veya anonim hale getirilecektir:"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_2">"Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız
+Xiaomi cihazlarında oluşturulan beğenileriniz, yorumlarınız, puanlarınız ve takipçilerinizle ilgili tüm bilgiler
+Bu cihaza indirilen tüm temalar, duvar kağıtları, hareketli duvar kağıtları, yazı tipleri, simgeler ve zil sesleri
+Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarlar ve önbelleğe alınmış öğeler
+Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri ​​geri yüklenecek"</string>
+    <string name="privacy_phone_logoff_theme_service_detail_content_3">4. Hizmet iptal edilmesinden önce gerçekleştirilen eylemlerin getirdiği sorumluluklarla ilgili olarak muafiyet veya hafifletme anlamına gelmez</string>
+    <string name="privacy_phone_logoff_theme_service_detail_prompt">Tema hizmetlerinin ital edilmesine ilişkin açıklama</string>
+    <string name="privacy_phone_logoff_theme_service_detail_title">Hizmetlerimizi iptal etmeden önce tema hizmetlerinin iptali bildirimi okuyun ve kabul edin</string>
+    <string name="privacy_phone_logoff_theme_service_introduce">Tema hizmetlerini iptal etmek üzeresiniz</string>
+    <string name="privacy_phone_read_and_write_storage">Depolamaya erişim</string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy">&lt;<font color="#8E92B0">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Tema hizmetlerinin iptal edilmesine</font> ilişkin açıklamayı&lt;/a>&lt;/font> okudum ve kabul ediyorum"&lt;/Data></string>
+    <string name="privacy_phone_read_theme_privacy_policy">&lt;<font color="#8E92B0">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Temaların gizlilik politikasına ilişkin onayın geri çekilmesine</font> ilişkin açıklamayı&lt;/a>&lt;/font> okudum ve kabul ediyorum"&lt;/Data></string>
+    <string name="privacy_phone_revoke_agree_content_3">3. Bu cihaza indirilen tüm temalar, duvar kağıtları, hareketli duvar kağıtları, yazı tipleri, simgeler ve zil sesleri</string>
+    <string name="privacy_phone_revoke_agree_content_4">4. Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarlar ve önbelleğe alınmış öğeler</string>
+    <string name="privacy_phone_revoke_agree_detail_content_1">"1. Devam etmeden önce onayınızı geri çekme hakkınız olduğundan emin olun
+2. Temaların gizlilik politikasına ilişkin onayınızı geri çekmeniz diğer Xiaomi ürünlerinin normal kullanımını etkilemeyecektir
+3. Onayın geri alınması geri dönüşü olmayan bir işlemdir. Kalıcı olarak silinebileceklerinden devam etmeden önce tüm önemli öğeleri yedekleyin. Onayınız geri çekildikten sonra kararınızı yeniden gözden geçiremeyeceğinizi unutmayın. Aşağıdaki veriler onayın geri alınmasından sonra kalıcı olarak silinecek veya anonim hale getirilecektir:"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_2">"Mi hesabınızı kullandığınız Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız
+Mi hesabınızı kullandığınız Xiaomi cihazlarında oluşturulan beğenileriniz, yorumlarınız, puanlarınız ve takipçilerinizle ilgili tüm bilgiler
+Bu cihaza indirilen tüm temalar, duvar kağıtları, hareketli duvar kağıtları, yazı tipleri, simgeler ve zil sesleri
+Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarlar ve önbelleğe alınmış öğeler
+Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri ​​geri yüklenecek"</string>
+    <string name="privacy_phone_revoke_agree_detail_content_3">"4. Temaların gizlilik politikasına verdiğiniz onayı geri çekmenizin ardından, kişisel bilgilerinizi toplamayı durduracağız. Halihazırda toplanan ve saklanan kişisel bilgiler, aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir
+5. Onayın geri çekilmesi onayın geri alınmasından önce gerçekleştirilen eylemlerin getirdiği sorumluluklar bakımından muafiyet veya hafifletme anlamına gelmez"</string>
+    <string name="privacy_phone_revoke_agree_detail_prompt">Temaların gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklama</string>
+    <string name="privacy_phone_revoke_agree_detail_title">Onayınızı geri çekmeden önce temaların gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin Açıklamayı okuyun ve kabul edin</string>
+    <string name="privacy_phone_revoke_agree_introduce">Devam ederseniz temaların gizlilik politikasına verdiğiniz onayı geri çekersiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Temalar hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan, izninizi geri çekmeniz, Temalar hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir</string>
+    <string name="privacy_phone_update_content">Temalar gizlilik politikası güncellendi:</string>
+    <string name="privacy_read_statement">Önce şartlar ve koşulları kabul edin</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">Devam etmeden önce <a href="'%1$s'"><font color;="'#37A5FF'">Gizlilik politikası yeni sürümünü </font></a>okuyun ve kabul edin</string>
+    <string name="privacy_reading_the_application_list">Bu cihazda yüklü uygulamaların listesine erişim</string>
+    <string name="privacy_remind_user_mode_agree">Kabul et</string>
+    <string name="privacy_remind_user_mode_content">&lt;Data>Bu özelliği kullanmak için gizlilik politikamızı kabul edin. Temaları kullandığınızda bize sağladığınız kişisel bilgileri nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi, işlediğimizi ve sakladığımızı öğrenmek<font color="#37A5FF"> için &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1$</font>s\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyun&lt;/Data></string>
     <string name="privacy_remind_user_mode_title">Dikkat</string>
-    <string name="privacy_revoke_agree_content">Withdrawal of consent</string>
+    <string name="privacy_revoke_agree_content">Onayı geri al</string>
     <string name="privacy_revoke_agree_content_1">1. Mi hesabınızı kullandığınız Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız</string>
     <string name="privacy_revoke_agree_content_2">2. Mi hesabınızı kullandığınız Xiaomi cihazlarında oluşturulan beğenileriniz, yorumlarınız, puanlarınız ve takipçilerinizle ilgili tüm bilgiler</string>
     <string name="privacy_revoke_agree_content_5">5. Şu anda bu cihazda kullanılan tüm kişiselleştirme öğeleri. Varsayılan kişiselleştirme tercihleri geri yüklenecek</string>
@@ -1035,7 +1035,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="pull_down_view_refresh">Yenile</string>
     <string name="pull_down_view_title">Yenilikler</string>
     <string name="purchased">Siparişler</string>
-    <string name="read_and_agree_account_privacy">"Mi hesabı "<a href="%3$s"><font color="#37A5FF">Kullanıcı sözleşmesini ve gizlilik politikasını<a href="%4$s"><font color="#37A5FF"> okudum ve kabul ediyorum"</string>
+    <string name="read_and_agree_account_privacy"><Data>"Mi hesabı &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;a href=\"%4$s\">Gizlilik politikasını&lt;/a>&lt;/font> okuyun kabul edin"</Data></string>
     <string name="recently_used">Son kullanılanlar</string>
     <string name="recommend_trigger">Kişiselleştirilmiş öneriler</string>
     <string name="recommend_trigger_summary">Tercihlerinize göre öneriler almak için açın</string>
@@ -1340,6 +1340,8 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="shortcut_message">Ana ekran kısayolu eklensin mi</string>
     <string name="shortcut_show_tip">Tekrar gösterme</string>
     <string name="shortcut_title">Duvar kağıtlarımızı beğendiniz mi?</string>
+    <string name="show_exchange">Kullanım merkezi kısayolu</string>
+    <string name="show_exchange_desc">Kullanım merkezi kısayolunu gösterir veya gizler</string>
     <string name="show_free_aod">Ücretsiz temaları göster</string>
     <string name="show_free_font">Ücretsiz yazı tiplerini göster</string>
     <string name="show_free_icons">Ücretsiz simgeleri göster</string>
@@ -1354,6 +1356,8 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="show_mamual_hide_theme">Gizli yazı temaları göster</string>
     <string name="show_mamual_hide_wallpaper">Gizli yazı duvar kağıtlarını göster</string>
     <string name="show_phone_wallpaper">Show phone wallpapers</string>
+    <string name="show_theme_community">Topluluk kısayolu</string>
+    <string name="show_theme_community_desc">Temalar topluluğu kısayolunu gösterir veya gizler</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
     <string name="solar_term_clear_and_bright">Açık ve parlak</string>
@@ -1395,6 +1399,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="super_wallpaper_setting_choose_position_btn_text">Konum seçin</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
     <string name="super_wallpaper_setting_view_height_title">Rakım</string>
+    <string name="supersave_mode_toast_message">Bu özellik ultra pil tasarrufu kullanılırken kullanılamaz. Kullanabilmek için ultra pil tasarrufunu kapatın</string>
     <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından yaratılır. Çalışmalarını desteklemek için uygulama az miktarda reklam içeriyor</string>
     <string name="support_theme_store_supported">Desteğiniz için teşekkür ederiz</string>
     <string name="support_theme_store_title">Tasarımcılarımızı destekleyin</string>

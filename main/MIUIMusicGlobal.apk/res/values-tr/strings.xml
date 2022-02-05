@@ -694,7 +694,8 @@
     <string name="hungama_category_playlist">Çalma listesi</string>
     <string name="hungama_category_radio">Radyo</string>
     <string name="hungama_category_video">Video</string>
-    <string name="hungama_category_vip">Vip</string>
+    <string name="hungama_category_vip">Pro</string>
+    <string name="hungama_download_subscription_toast">"Bu şarkıyı indirmek için Hungama Music'e abone olun"</string>
     <string name="hungama_free_download_out_summary">Daha fazla bedava şarkı indiremezsiniz. Sınırsız şarkı indirmek için bir Pro üyeliği almak istiyor musunuz?</string>
     <string name="hungama_free_download_out_summary_toast">Zaten %d şarkı indirdiniz. Daha fazla indirmek için abonelik satın alın</string>
     <string name="hungama_playlist_category">Oynatma listesi kategorisi</string>

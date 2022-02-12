@@ -38,6 +38,7 @@ Görüntülemek için dokunun"</string>
     <string name="app_notification_title">Ekran kaydedici</string>
     <string name="auto_stop_title">Video başarıyla kaydedildi</string>
     <string name="battery_not_allowed" formatted="false">Pil seviyesi %3 seviyesinden düşük olduğunda kayıt yapılamıyor. Pilin en az %20 seviyesinde olduğundan emin olun</string>
+    <string name="battery_not_allowed_warning">"Pil %1$s'den düşük olduğunda kayıt yapılamaz. Pilin en az %2$s dolu olduğundan emin olun"</string>
     <string name="bit_rate">Video kalitesi</string>
     <string name="bit_rate_summary">Video kalitesinin büyümesi dosya boyutunun da büyümesi anlamına gelir</string>
     <string name="bubble_text">Kayıta başla</string>
@@ -241,6 +242,7 @@ Görüntülemek için dokunun"</string>
     <string name="low_battery_warning">Pil seviyesi çok düşük. Kayıt durduruldu ve video kaydedildi</string>
     <string name="low_memory">"1GB'den az kullanılabilir depolama alanınız var. Artık 20 dakikaya kadar kayıt yapabilirsiniz"</string>
     <string name="low_memory_for_pad">"%1$d GB'den daha az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz"</string>
+    <string name="low_memory_for_phone">"%1$d GB'den daha az kullanılabilir depolama alanınız var. Şimdi %2$d dakikaya kadar kayıt yapabilirsiniz"</string>
     <string name="low_memory_title">Yeterli depolama alanı yok</string>
     <string name="low_momery_warning">Yeterli depolama alanı yok. Kayıt durduruldu ve video kaydedildi</string>
     <string name="memory_not_allowed">Kullanılabilir depolama alanı yok. Kayıt yapmak için biraz alan boşaltın</string>

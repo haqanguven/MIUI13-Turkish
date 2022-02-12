@@ -617,9 +617,9 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="sim_card_detecting_check">Sim kartı bulunamadı. Sim kartın düzgün takıldığından ve bakiyenize yeterli paranızın olduğundan emin olun</string>
     <string name="sim_card_detecting_confirm_turn_on_network">Mobil veri ağına bağlanmaya izin verilsin mi?</string>
     <string name="sim_card_detecting_title">Sim kart kontrol ediliyor</string>
-    <string name="sim_card_detection">Sim kart takın</string>
+    <string name="sim_card_detection">Sim kartı</string>
     <string name="sim_card_detection_info">Sim kartınızı cihazınıza yerleştirmek için lütfen cihazla birlikte gelen yönergeleri okuyun</string>
-    <string name="sim_card_detection_info_sb">"Devam etmeden önce bir Sim kart takın. Sim kartsız bir hesap oluşturursanız cihaz bulma ve senkronizasyonla ilgili işlevler tam olarak kullanılamaz. Bu cihaz eSim'i destekler. "</string>
+    <string name="sim_card_detection_info_sb">"Devam etmeden önce bir Sim kartınızı takın. Sim kartsız bir hesap oluşturursanız cihaz bulma ve senkronizasyonla ilgili işlevler tam olarak kullanılamaz. Bu cihaz eSim'i destekler. "</string>
     <string name="sim_card_detection_info_sb_esim">eSim'i etkinleştirmek için dokunun</string>
     <string name="sim_card_detection_mobile_not_available">Sim kart ağa bağlanamadı</string>
     <string name="sim_card_detection_sb_esim">"eSim'i etkinleştir"</string>

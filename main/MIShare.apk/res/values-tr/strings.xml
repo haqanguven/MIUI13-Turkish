@@ -31,7 +31,7 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree_desc">Yukarıda listelenen zorunlu izinleri verin</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">Dosya paylaşımı</string>
+    <string name="app_name">Mi paylaşım</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
     <string name="blackshark">Black Shark</string>
@@ -132,7 +132,7 @@
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
+    <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="default_device_name">Bilinmeyen cihaz</string>
     <string name="device_list_all">Tüm cihazlar</string>
@@ -328,9 +328,9 @@ Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur. Oppo, vivo, realme ve 
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
-    <string name="miuix_appcompat_cancel_description">İptal</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
@@ -348,8 +348,8 @@ Dosya paylaşımı Mi ve Redmi telefonlarıyla uyumludur. Oppo, vivo, realme ve 
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yalnızca bir sn…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ögeler yüklenemedi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pzt</string>
     <string name="monday_shortest">Pzt</string>

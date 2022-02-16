@@ -264,7 +264,7 @@ You can change this shortcut to another feature in Settings > Accessibility."</s
     <string name="alwaysUse">Varsayılan olarak bu işlem için kullan</string>
     <string name="android_preparing_apk">%1$s hazırlanıyor</string>
     <string name="android_start_title">Telefon başlatılıyor</string>
-    <string name="android_system_label">Android Sistemi</string>
+    <string name="android_system_label">Android sistemi</string>
     <string name="android_upgrading_apk">%1$d/%2$d uygulama optimize ediliyor.</string>
     <string name="android_upgrading_complete">Açılış tamamlanıyor.</string>
     <string name="android_upgrading_fstrim">Depolama optimize ediliyor.</string>

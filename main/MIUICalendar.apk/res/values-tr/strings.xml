@@ -110,6 +110,15 @@
     <string name="arbor_day_tradition">Ağaç dikme günü</string>
     <string name="at_least_one_channel">En az bir kanala odaklanmalısınız</string>
     <string name="attendees">Katılımcılar</string>
+    <string name="auth_cancel">İptal et</string>
+    <string name="auth_continue">Devam et</string>
+    <string name="auth_notification_error_ssl_cert_invalid">SSL sertifikası geçersiz. Devam edilsin mi?</string>
+    <string name="auth_notification_error_ssl_date_invalid">SSL verileri geçersiz. Devam edilsin mi?</string>
+    <string name="auth_notification_error_ssl_expired">"SSL'nin süresi doldu. Devam edilsin mi?"</string>
+    <string name="auth_notification_error_ssl_id_mismatch">SSL kimliği uyuşmazlığı. Devam edilsin mi?</string>
+    <string name="auth_notification_error_ssl_invalid">SSL geçersiz. Devam edilsin mi?</string>
+    <string name="auth_notification_error_ssl_not_yet_valid">SSL henüz geçerli değil. Devam edilsin mi?</string>
+    <string name="auth_notification_error_ssl_untrusted">SSL güvenilmeyen. Devam edilsin mi?</string>
     <string name="autumn_begins">Sonbahar başlangıcı</string>
     <string name="autumn_begins_tradition">Sonbahar başlangıcı</string>
     <string name="autumn_equinox">Sonbahar bitişi</string>

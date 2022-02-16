@@ -5050,8 +5050,8 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="mtp_connection_failed_title">USB bağlantısı</string>
     <string name="mtp_connection_not_remind">Tekrar gösterme</string>
     <string name="mtp_ptp_mode_summary">MTP veya PTP işlevi etkin</string>
-    <string name="mtp_solution_button_cancel">Anladım</string>
-    <string name="mtp_solution_button_ok">Sorun giderme</string>
+    <string name="mtp_solution_button_cancel">İptal et</string>
+    <string name="mtp_solution_button_ok">Sorun gider</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mtrl_picker_cancel">İptal et</string>
     <string name="mtrl_picker_confirm">Kaydet</string>
@@ -9467,7 +9467,7 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="xiaomi_router_available_notif_title">Mi yönlendirici kullanılabilir</string>
     <string name="xiaomi_router_notif_summary">Mi yönlendirici kullanılabilir olduğunda beni uyar</string>
     <string name="xiaomi_router_notif_title">Mi yönlendirici bildirimleri</string>
-    <string name="xiaomi_transfer">Dosya paylaşımı</string>
+    <string name="xiaomi_transfer">Mi paylaşım</string>
     <string name="xspace">Çift uygulamalar</string>
     <string name="yes">Evet</string>
     <string name="yesterday">Dün</string>

@@ -278,18 +278,18 @@
     <string name="pa_accessibility_olympic_the_first">İlk sıra: %s</string>
     <string name="pa_accessibility_olympic_the_second">İkinci sıra: %s</string>
     <string name="pa_accessibility_olympic_the_third">Üçüncü sıra: %s</string>
-    <string name="pa_accessibility_picker_back">Araç mağazası. Geri dönme eylemi seçildi. Geri gitmek için iki kez dokunun</string>
+    <string name="pa_accessibility_picker_back">Geri dön</string>
     <string name="pa_accessibility_picker_search_cancel">Araç arama çubuğu. İptal etmek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_search_tips">Araç arama çubuğu. Aramak için iki kez dokunun</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Araç mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Araç mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_suit_item_add_to_third">Araç mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop" formatted="false">Araç mağazası uygulama listesi şu anda toplam %s öğe seçili %s, %s öğesindedir %s türde araç içerir. Araç tanıtımına girmek için çift tıklayın</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop" formatted="false">Araç mağazası uygulama listesi şu anda toplam %s öğe seçili %s, %s öğesindedir %s türde araç içerir. Araç tanıtımına girmek için çift tıklayın</string>
-    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third" formatted="false">Araç mağazası uygulama listesi şu anda toplam %s öğe seçili %s, %s öğesindedir %s türde araç içerir. Araç tanıtımına girmek için çift tıklayın</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">%s. Alttaki düğmeyi seçti. Bu öğeyi ana ekrana eklemek için iki kez dokunun</string>
-    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">%s. Alttaki düğmeyi seçti. Bu öğeyi uygulama kasasına eklemek için iki kez dokunun</string>
-    <string name="pa_accessibility_picker_widget_detail_edit">Düzenle</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_desktop_2">%s seçildi</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_minus_desktop_2">%s seçildi</string>
+    <string name="pa_accessibility_picker_widget_app_group_item_add_to_third_2">%s seçildi</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_desktop">Bu öğeyi ana ekrana eklemek için iki kez dokunun</string>
+    <string name="pa_accessibility_picker_widget_detail_button_add_to_minus_desktop">Bu öğeyi ana ekrana eklemek için iki kez dokunun</string>
+    <string name="pa_accessibility_picker_widget_detail_edit">Edit</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_desktop">%s araç seçildi. Bu öğeyi ana ekrana eklemek için sürükleyin</string>
     <string name="pa_accessibility_picker_widget_detail_widget_add_to_minus_desktop">%s araç seçildi. Bu öğeyi uygulama kasasına eklemek için sürükleyin.</string>
     <string name="pa_accessibility_picker_widget_group_all" formatted="false">Araç mağazası. %s için tüm araçları görüntülemek için seçin. %s için tüm araçları görüntülemek için iki kez dokunun</string>
@@ -551,9 +551,11 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_picker_search_error">Ağa bağlanılamadı</string>
     <string name="pa_picker_search_layout_cancel">İptal et</string>
     <string name="pa_picker_suit_list_activity_title">Kişiselleştirilmiş takım elbise</string>
+    <string name="pa_picker_theme_app_version_error">Tema duvar kağıdı uygulama sürümü anormal</string>
     <string name="pa_picker_tips_count_limit_forbidden">Uygulama kasasına daha fazla araç eklenemiyor. Yenilerini eklemek için eski araçları silin</string>
     <string name="pa_picker_toast_add_successfully">Başarıyla eklendi</string>
     <string name="pa_picker_toast_count_limit_forbidden">Daha fazla araç eklenemiyor</string>
+    <string name="pa_picker_toast_count_limit_forbidden_for_type">Bu türden daha fazla araç eklenemez</string>
     <string name="pa_picker_toast_count_limit_warning">Başarıyla eklendi. Ana ekranınıza çok fazla araç yerleştirmenin cihazınızı yavaşlatabileceğini unutmayın</string>
     <string name="pa_picker_toast_screen_cell_locked">Ana ekran düzeniniz kilitli. Araç eklenemiyor</string>
     <string name="pa_privacy_text">Gizlilik</string>
@@ -682,7 +684,11 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_sports_widget_empty_game">Kralların onuru</string>
     <string name="pa_sports_widget_empty_recommend">Önerilen</string>
     <string name="pa_stock_add_stock_button">Ekle</string>
+    <string name="pa_stock_change_cp_code_alert">Bu işlem verilerin düzgün görüntülenememesine neden olabilir</string>
+    <string name="pa_stock_change_cp_code_error">Veri kaynağı değiştirilemedi</string>
+    <string name="pa_stock_change_cp_code_progress_msg">Veri kaynağı değiştirilemedi</string>
     <string name="pa_stock_color_scheme_label">Renk uyumu</string>
+    <string name="pa_stock_data_source_label">Veri kaynağı seçin</string>
     <string name="pa_stock_delisted">(Liste dışı)</string>
     <string name="pa_stock_desc_add_stock">%1$s hisse senedi ekle</string>
     <string name="pa_stock_desc_add_success">Başarıyla eklendi</string>

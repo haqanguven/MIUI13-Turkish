@@ -432,7 +432,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="wps_lite_app_svn">svn</string>
     <string name="wps_lite_app_version">2.2.1</string>
-    <string name="wps_lite_xiaomi_app_packageName">Mi belge görüntüleyici (WPS tarafından desteklenmektedir)</string>
+    <string name="wps_lite_xiaomi_app_packageName">Mi belge</string>
     <string name="writer_characters">Karakter (Boşluklar hariç)</string>
     <string name="writer_characters_with_spaces">Karakter (Boşluklar dahil)</string>
     <string name="writer_comment_modify_username_tip">Adınızı girdikten sonra yorumlarda ve düzenlemelerde görüntülenecektir</string>

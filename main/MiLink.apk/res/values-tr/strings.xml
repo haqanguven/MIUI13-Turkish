@@ -44,7 +44,8 @@
     <string name="appcirculate_fragment_circulate_app_content_description">Uygulama anlık görüntüsü: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Şimdi aç</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Yardım</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">Açtıktan sonra yakındaki cihazları arayabilir ve video akışı işlevini deneyimlemeye başlayabilirsiniz</string>
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Açtıktan sonra yakındaki cihazları arayabilir
+ve video akışı işlevini deneyimlemeye başlayabilirsiniz"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">"Wifi ve Bluetooth'u aç"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">"Wifi ve Bluetooth'u aç"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_2">"Bluetooth'u aç"</string>
@@ -62,12 +63,12 @@ bulamıyor musunuz?"</string>
     <string name="appcirculate_toast_cancel">İptal et</string>
     <string name="appcirculate_toast_fail">Hata</string>
     <string name="appcirculate_toast_loading">Yükleniyor</string>
-    <string name="appcirculate_toast_not_support">"Mevcut uygulama %1$s'ye akışı desteklemiyor"</string>
     <string name="appcirculate_toast_not_support_device_pad">Dizüstü</string>
     <string name="appcirculate_toast_not_support_device_pc">Bilgisayar</string>
     <string name="appcirculate_toast_not_support_device_tv">Televizyon</string>
     <string name="appcirculate_toast_success_1">Başarılı oldu</string>
-    <string name="appcirculate_toast_success_2">Ekran görüntüsü başarılı ve gizlilik koruması açık</string>
+    <string name="appcirculate_toast_success_2">Özel modda yayınlanıyor</string>
+    <string name="appcirculate_toast_success_3">Ekran görüntüsü başarıyla yayınlandı</string>
     <string name="audio_record_des">Sesi mobil cihazınızdan harici monitörlere iletmek için</string>
     <string name="auth_MIUI_and_phone_model">"Bu sayfa yalnızca dahili beta kullanıcılarının
 MIUI sistem sürümü için görüntülenir"</string>
@@ -151,9 +152,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - >Xiaomi hesabınız
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
-    <string name="circulate_audio_group_subtitle_format">Toplam %1$d cihaz</string>
-    <string name="circulate_audio_group_title">Bütün ev oynatılıyor</string>
-    <string name="circulate_audio_group_title_format">%1$d cihaz</string>
+    <string name="circulate_audio_group_title">Oynatılıyor</string>
     <string name="circulate_back_button_content_description">Geri dön</string>
     <string name="circulate_card_mirror_device_button">Yansıtmayı sonlandır</string>
     <string name="circulate_card_mirror_device_pad_subtitle">Tablet ekranını yansıtma</string>
@@ -201,11 +200,8 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_card_sticker_selected">Seçildi</string>
     <string name="circulate_common_retry_later">Lütfen daha sonra tekrar deneyiniz</string>
     <string name="circulate_cta_agree">Kabul et</string>
-    <string name="circulate_cta_agreement">Lütfen okuyun ve kabul edin</string>
-    <string name="circulate_cta_agreement_miui">"MIUI+'ın kullanıcı sözleşmesi ve gizlilik politikası"</string>
-    <string name="circulate_cta_agreement_screen">"Ekran yansıtma ve Xiaomi Miaobo'nun kullanıcı sözleşmesi ve gizlilik politikası"</string>
-    <string name="circulate_cta_app_name">Xiaomi sihir merkezi</string>
-    <string name="circulate_cta_desc_pad">Mi Miuxiang merkezine hoş geldiniz. Bu uygulamayı ekran yansıtma ve Mi Miucast işlevlerini çalıştırmak ve ses ve video içeriğini kullanım için diğer cihazlara aktarmak için kullanabilirsiniz. Bu uygulamayı kullanma sürecinde internete bağlanacağız ve sizden aşağıdaki izinlere başvuracağız:</string>
+    <string name="circulate_cta_app_name">Mi Smart Hub</string>
+    <string name="circulate_cta_desc_pad">Mi Smart Hub merkezine hoş geldiniz. Bu uygulamayı ekran yansıtma ve Mi Miucast işlevlerini çalıştırmak ve ses ve video içeriğini kullanım için diğer cihazlara aktarmak için kullanabilirsiniz. Bu uygulamayı kullanma sürecinde internete bağlanacağız ve sizden aşağıdaki izinlere başvuracağız:</string>
     <string name="circulate_cta_desc_phone">Mi Miaoxiang merkezine hoş geldiniz. Bu uygulamayı ekran projeksiyonu Mi Miaobo, MIUI+ işlevlerini çalıştırmak ve ses, video ve uygulama içeriğini kullanım için diğer cihazlara aktarmalarda kullanabilirsiniz. Bu uygulamayı kullanma sürecinde internete bağlanacağız ve sizden aşağıdaki izinlere başvuracağız:</string>
     <string name="circulate_cta_exit">Çıkış</string>
     <string name="circulate_cta_premission_sound_subtitle">Projeksiyon işlemi sırasında oynatma için sesi diğer cihazlara iletin</string>
@@ -223,7 +219,6 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_device_type_name_tv">Televizyon</string>
     <string name="circulate_device_type_name_wifi_speaker">Hoparlör</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Ekranlı hoparlör</string>
-    <string name="circulate_feedback_title">@string/circulate_title</string>
     <string name="circulate_help_button_content_description">Yardım</string>
     <string name="circulate_help_card_subtitle">Yardım</string>
     <string name="circulate_help_card_title">"Cihazımı
@@ -231,11 +226,10 @@ bulamıyor musunuz?"</string>
     <string name="circulate_help_error">Mevcut ağ kullanılamıyor</string>
     <string name="circulate_help_exit_button_content_description">Çıkış</string>
     <string name="circulate_help_feedback_button">Geri bildirim</string>
-    <string name="circulate_help_loading">Yükleniyor</string>
     <string name="circulate_local_pad_name">Tabletim</string>
     <string name="circulate_local_phone_name">Telefonum</string>
     <string name="circulate_public_device_title_format">%2$s/%1$s</string>
-    <string name="circulate_title">Mi sihir merkezi</string>
+    <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">Ayarlarınıza göre TV duracak veya kapanacaktır. Kapattıktan sonra uzaktan kumanda ve TV bu sayfada kaybolacak</string>
     <string name="circulate_tv_power_alter_title">Kapat. Ekranı dinle</string>
     <string name="circulate_video_capture_fail">Ekran görüntüsü başarısız oldu</string>
@@ -244,6 +238,7 @@ bulamıyor musunuz?"</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
+    <string name="close_hotspot_hint_DFS">"TV'ye akış yapmak için önce etkin noktayı kapatın"</string>
     <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
     <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
     <string name="config_wifi_label_china">MiPaiPai wifi ağını yapılandırın</string>

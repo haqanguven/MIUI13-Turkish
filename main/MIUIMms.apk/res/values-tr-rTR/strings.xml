@@ -657,7 +657,13 @@ Sim kartınızı kontrol edin"</string>
 Bu mesaj istenmeyen olabilir"</string>
     <string name="mms_block_hint_highlight">Multimedyayı engelle</string>
     <string name="mms_main_purpose">"Mesajlaşma'nın tüm işlevlerine erişmek için internete bağlanmasına izin verin. Mi mesaj ve akıllı mesajlaşma özelliğini aç"</string>
+    <string name="mms_mi_message_main_purpose">Mi mesaja hoş geldiniz. Mi mesajı etkinleştirmek için bir mesaj gönderilmesi gerekmektedir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
+    <string name="mms_mi_message_request_notice">Mi mesajdan en iyi şekilde yararlanmanızı istiyoruz</string>
+    <string name="mms_mx_privacy_policy">Mi mesaj gizlilik politikası</string>
+    <string name="mms_smart_msg_main_purpose">Akıllı mesajlaşma gönderen kimliklerini tanıyabilir, akıllı menü hizmetleri sağlayabilir ve şüpheli mesajları belirleyebilir</string>
+    <string name="mms_smart_msg_privacy_policy">Akıllı mesajlaşma gizlilik politikası</string>
     <string name="mms_title">Mesajlaşma</string>
+    <string name="mms_user_agreement">User Agreement</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>
@@ -1393,15 +1399,19 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="system_permission_declare_disagree">Reddet</string>
     <string name="system_permission_declare_double_link" formatted="false">"Bu özelliği kullanmadan önce %1s ve %2s'lerimizi okuyun ve kabul edin"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s hoşgeldiniz! %2s</string>
+    <string name="system_permission_declare_mi_message">Mi mesaja hoş geldiniz</string>
     <string name="system_permission_declare_no_say_no">"Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız
 Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız"</string>
     <string name="system_permission_declare_privacy_declare">%1s verilerinizi toplamalı ve normal çalışması için aşağıdaki izinleri gerektirir:</string>
     <string name="system_permission_declare_privacy_declare_new">Bu uygulama internete bağlanmalı ve normal çalışabilmesi için aşağıdaki izinleri gerektirir:</string>
     <string name="system_permission_declare_privacy_link">"Kullanıcı olarak haklarınızı ve verilerinizi kullanma şeklimizi tam olarak anlamak için %1s'i okuyun ve kabul edin"</string>
+    <string name="system_permission_declare_rcs">5G mesajlaşmaya hoş geldiniz</string>
     <string name="system_permission_declare_revoke_path">Mesajlaşma ayarlarında izninizi iptal edebilir ve servisleri kapatabilirsiniz</string>
     <string name="system_permission_declare_single_link">"Bu özelliği kullanmadan önce %1s'lerimizi okuyun ve kabul edin"</string>
+    <string name="system_permission_declare_smart_message">Akıllı mesajlaşmaya hoş geldiniz</string>
     <string name="system_permission_declare_triple_link" formatted="false">"Bu özellikleri kullanmadan önce %1s,%2s'lerimizi ve %3s'lerimizi okuyun ve kabul edin"</string>
     <string name="system_permission_declare_use_network">Ağa bağlan</string>
+    <string name="system_permission_declare_user_agree">Kabul et</string>
     <string name="system_permission_disabled">Onaylama</string>
     <string name="system_permission_enabled">Onayla</string>
     <string name="system_permission_perm_agree_desc">Bu uygulamanın internete bağlanmasına izin verin ve tüm özelliklerini kullanabilmesi için isteğe bağlı izinler verin</string>
@@ -1433,6 +1443,7 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="system_permission_perm_write_mms">Mesajlaşmanın multimedya mesaj yazmasına izin ver</string>
     <string name="system_permission_perm_write_sms">Mesajlaşmanın mesaj yazmasına izin ver</string>
     <string name="system_permission_requested">Sor</string>
+    <string name="system_permission_user_privacy">Devam etmeden önce aşağıdaki hüküm ve koşulları okuyun ve kabul edin</string>
     <string name="tab_finance">Finans</string>
     <string name="tab_message">Mesajlar</string>
     <string name="tab_promotions">Promosyonlar</string>

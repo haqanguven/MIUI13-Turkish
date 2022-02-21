@@ -292,6 +292,7 @@
     <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="defalut_launcher_title">Varsayılan başlatıcı</string>
+    <string name="default_folder_name_path">com.miui.home:string/folder_name</string>
     <string name="default_folder_title_claro">Elbette</string>
     <string name="default_folder_title_game">Oyunlar</string>
     <string name="default_folder_title_hot">Popüler uygulamalar</string>
@@ -304,6 +305,7 @@
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Araçlar</string>
     <string name="default_folder_title_turkcell_uygulamalar">Turkcell uygulamalar</string>
+    <string name="default_layout_path">layout</string>
     <string name="default_screen_preview_title">Varsayılan ekranı ayarla</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
     <string name="delete">Sil</string>
@@ -778,6 +780,9 @@
     <string name="privacy_thumbnail_blur_summary">Son kullanılan uygulamalarda önizlemeleri bulanıklaştırır</string>
     <string name="privacy_thumbnail_blur_title">Önizleme bulanıklığı</string>
     <string name="process" />
+    <string name="provider_file">com.miui.home.fileprovider</string>
+    <string name="provider_settings">com.miui.home.launcher.settings</string>
+    <string name="provider_writePermission">com.android.launcher.permission.WRITE_SETTINGS</string>
     <string name="quick_app">Hızlı uygulama</string>
     <string name="recent_apps">Son kullanılanlar</string>
     <string name="recent_menu_item_info">Bilgi</string>

@@ -299,6 +299,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d günlük ücretsiz deneme edinin</item>
         <item quantity="one">%d günlük ücretsiz deneme edinin</item>
     </plurals>
+    <plurals name="gd_app_edit_desc">
+        <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin</item>
+        <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin</item>
+    </plurals>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
         <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
@@ -734,6 +738,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%s uygulamasının kalıcı erişimi var</item>
         <item quantity="one">%s uygulamasının kalıcı erişimi var</item>
     </plurals>
+    <plurals name="privacy_permission_summary_allow">
+        <item quantity="other">Allowed for %s apps</item>
+        <item quantity="one">Allowed for %s app</item>
+    </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
@@ -858,13 +866,29 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d numara</item>
         <item quantity="one">%d numara</item>
     </plurals>
+    <plurals name="summary_absorbed_time_foramt">
+        <item quantity="other">Odak modunu %d dakika boyunca aç</item>
+        <item quantity="one">Odak modunu %d dakika boyunca aç</item>
+    </plurals>
     <plurals name="summary_app_update">
         <item quantity="other">%d adet uygulama için güncelleme mevcut</item>
         <item quantity="one">%d adet uygulama için güncelleme mevcut</item>
     </plurals>
+    <plurals name="summary_condition_lock_screen_format">
+        <item quantity="other">Ekran %d dakika kilitlendikten sonra</item>
+        <item quantity="one">Ekran %d dakika kilitlendikten sonra</item>
+    </plurals>
     <plurals name="summary_flow_verify">
         <item quantity="other">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
         <item quantity="one">Operatör veri kullanım istatistikleri %d gündür senkronize edilmedi</item>
+    </plurals>
+    <plurals name="summary_result_absorbed_time_format">
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
+    </plurals>
+    <plurals name="summary_result_lock_screen_format">
+        <item quantity="other">%d dakika sonra ekranı kilitle</item>
+        <item quantity="one">%d dakika sonra ekranı kilitle</item>
     </plurals>
     <plurals name="system_anti_fraud_dialog_countdown_unit">
         <item quantity="other">(%d saniye)</item>

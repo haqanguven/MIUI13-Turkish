@@ -693,7 +693,7 @@ Yöneticiniz ağ etkinliği ve cihazınızın konum bilgileri de dahil olmak üz
     <string name="assistant_security_warning_title">%s uygulaması yardımcınız olsun mu?</string>
     <string name="assisted_gps">Yardımlı GPS</string>
     <string name="assisted_gps_disabled">"GPS'ye yardımcı olmak için sunucu kullan (GPS performansını iyileştirmek için onay işaretini kaldırın)"</string>
-    <string name="assisted_gps_enabled">"GPS'ye destek olmak için sunucu kullan (Ağ kullanımını azaltmak için kapatın)"</string>
+    <string name="assisted_gps_enabled">"GPS'ye destek olmak için sunucu kullanın (Ağ kullanımını azaltmak için kapatın)"</string>
     <string name="asst_capabilities_actions_replies_summary">Önerilen işlemler &amp; yanıtları otomatik olarak göster</string>
     <string name="asst_capabilities_actions_replies_title">Önerilen eylemler ve yanıtlar</string>
     <string name="asst_capability_prioritizer_summary">Düşük öncelikli bildirimleri otomatik olarak hassas ayarla</string>
@@ -4189,7 +4189,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_neighborhood_level_wifi">Konum wifi tarafından belirlendi</string>
     <string name="location_network_based">Wifi &amp; mobil ağ</string>
     <string name="location_no_recent_accesses">Yakın zamanda konum bilgilerine herhangi bir uygulama erişmedi</string>
-    <string name="location_no_recent_apps">Yakın zamanda hiçbir uygulama konum bilgisi isteğinde bulunmadı</string>
+    <string name="location_no_recent_apps">Yakın zamanda konum bilgisi isteği yok</string>
     <string name="location_recent_location_access_view_details">Ayrıntıları göster</string>
     <string name="location_recent_location_requests_see_all">Tümünü göster</string>
     <string name="location_scanning_bluetooth_always_scanning_description">Uygulamaların ve hizmetlerin etrafınızdaki cihazları Bluetooth kapalıyken bile her zaman taramasına izin verin. Bu özellik konuma dayalı özellikleri ve hizmetleri iyileştirmek için kullanılabilir</string>

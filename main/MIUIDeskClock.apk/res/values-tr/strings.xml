@@ -391,7 +391,6 @@
     <string name="listen_news_msg">Sabah haber servisi sağlamak için saatin internete bağlı olması gerekir</string>
     <string name="listen_news_privacy">Saat kişiselleştirilmiş hizmetleri sunmak ve alarmlarınıza sabah haberlerini eklemek için internete bağlanmalıdır. Saat uygulamasını kullanmadan önce <a href="">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyup kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="loading_ringtone">Zil sesi yükleniyor</string>
-    <string name="marketSdkVersion">3.2.6</string>
     <string name="menu_add_worldclock">Saat ekle</string>
     <string name="menu_desk_clock">Saat</string>
     <string name="menu_edit_timer_item">Zamanlayıcı görevini düzenle</string>
@@ -542,6 +541,10 @@
     <string name="reach_upper_limit">Daha fazla zamanlayıcı eklenemiyor</string>
     <string name="read_external_storage_permission_desc">Özel zil sesleri ayarlamak için</string>
     <string name="read_internal_storage">Depolama alanına erişme</string>
+    <string name="read_phone_state">Cihaz bilgilerine erişin</string>
+    <string name="read_phone_state_desc">Alarm çalarken arama durumuna erişin</string>
+    <string name="read_phone_state_desc_when_request">Arama alırken alarmları otomatik olarak duraklatmak üzere arama durumuna erişmek içindir</string>
+    <string name="remark_hint">Etiket girin</string>
     <string name="remind_ringtone">Zil sesi</string>
     <string name="repeat_count">Tekrar</string>
     <string name="repeat_count_value_five">5</string>
@@ -591,6 +594,8 @@
     <string name="shortcut_new_alarm">Alarm kur</string>
     <string name="shortcut_start_timer">Zamanlayıcı başlat</string>
     <string name="shortcut_stop_watch">Kronometreyi başlat</string>
+    <string name="show_life_post_desc">"Morning reports won't be displayed if you turn this feature off"</string>
+    <string name="show_life_post_lable">Show morning report</string>
     <string name="shut_down_alarm_no_news">Çalar saat kapatıldak sonra sabah haber servisleri kullanılamaz</string>
     <string name="shut_down_keep_screen">Ekranda tutulmayacak</string>
     <string name="shutdown_alarm_alert_enable_summary">Kapalı alarm cihazınızı kapattıktan en az 10 dakika sonra çalacaktır</string>
@@ -604,7 +609,8 @@
     <string name="skip_alarm_once_hint">%s tarihinde bir kez kapat</string>
     <string name="sleep_analysis">İstatistikleri</string>
     <string name="sleep_analysis_chart_date_format">dd/MM</string>
-    <string name="sleep_date_provider_text">Mi uyku tarafından sağlanan uyku verileri</string>
+    <string name="sleep_date_provider_text">Uyku verileri Xiaomi sağlık tarafından sağlanır</string>
+    <string name="sleep_date_provider_text_new">Uyku verileri Mi Fitness tarafından sağlanır</string>
     <string name="sleep_duration">"Uyku süresi: "</string>
     <string name="sleep_duration_avg_text_diff">Ortalama uyku süresi (%1$s-%2$s)</string>
     <string name="sleep_duration_desc">%1$s için uydum %2$s</string>
@@ -619,7 +625,8 @@
     <string name="sleep_notification_title">Yatağa gitme zamanı</string>
     <string name="sleep_record">Uykuyu izle</string>
     <string name="sleep_record_desc">Uyku verilerini kaydetmeye başlamak için açın</string>
-    <string name="sleep_record_desc_detailed">Uyku izleme işlevi Mi sağlık tarafından sağlanmaktadır. Bir kez açıldığında Mi sağlık telefon kullanımınıza, etkinlik istatistiklerine ve uyku sürelerini otomatik olarak kaydeder. Bu da istatistikleri grafik şeklinde gösterir. Uykuyu daha doğru izlemek için Mi sağlığın otomatik başlatılmasına izin verin. İlgili tüm veriler cihazınızda yerel olarak depolanacak ve bu sayede kolayca yönetilebilecek</string>
+    <string name="sleep_record_desc_detailed">"Uyku izleme işlevi Xiaomi sağlık tarafından sağlanmaktadır. Bu özelliği açarsanız Xiaomi sağlık telefon kullanımınıza, aktivite istatistiklerinize ve ayarladığınız uykuya dalma ve uyanma saatlerine göre uykunuzu otomatik olarak kaydeder ve istatistikleri size çizelgeler şeklinde gösterir. Uykuyu daha doğru izlemek için Xiaomi sağlığın otomatik olarak başlamasına izin verin. İlgili tüm veriler cihazınızda yerel olarak depolanacak ve bu da onu kolayca yönetmenize olanak tanıyacaktır"</string>
+    <string name="sleep_record_desc_detailed_new">"Uyku izleme işlevi Mi Fitness tarafından sağlanmaktadır. Bu özelliği açarsanız Mi Fitness telefon kullanımınıza, aktivitenize ve ayarladığınız uyku ve uyanma saatine göre uykunuzla ilgili verileri otomatik olarak toplar ve görüntüler. Uykuyu daha doğru izlemek için Mi Fitness'ın otomatik olarak başlamasına izin verin"</string>
     <string name="sleep_record_no_data">Mi sağlık yeterli veriyi analiz ettikten sonra istatistikleriniz burada görünecek</string>
     <string name="sleep_remind">Yatmadan önce hatırlatma</string>
     <string name="sleep_time">Uyuyakalma</string>
@@ -799,7 +806,9 @@
     <string name="upcoming_alarm">Yaklaşan alarm: %s</string>
     <string name="upcoming_alarm_hint">Alarmı zamanından önce kapatabilirsiniz</string>
     <string name="update_health_app">Mi sağlığı güncelle</string>
-    <string name="update_health_app_desc">Uyku izleme işlevi Mi sağlık tarafından sağlanmaktadır. İlgili özelliklere erişmek için Mi sağlığın en son sürümüne güncelleyin</string>
+    <string name="update_health_app_desc">Uyku izleme işlevi Xiaomi sağlık tarafından sağlanmaktadır. İlgili özelliklere erişmek için Xiaomi sağlığı en son sürümüne güncelleyin"</string>
+    <string name="update_health_app_desc_new">"Uyku izleme işlevi Mi Fitness tarafından sağlanmaktadır. İlgili özelliklere erişmek için Mi Fitness'ı en son sürümüne güncelleyin"</string>
+    <string name="update_health_app_new">"Mi Fitness'ı güncelle"</string>
     <string name="update_it">Güncelle</string>
     <string name="update_notification_info">Veri arka planda güncelleniyor</string>
     <string name="usage_start">Başlat</string>
@@ -835,6 +844,7 @@
     <string name="worldclock_search_city">Şehir seç</string>
     <string name="worldclock_second_time">"%s'da zaman"</string>
     <string name="worldclock_second_time_desc">"%s: "</string>
+    <string name="worldclock_second_time_new">%s</string>
     <string name="worldclock_title">Saat</string>
     <string name="worldclock_world_time">Zaman dilimleri</string>
     <string name="worldcolock_date_display_prefix">Mevcut: </string>
@@ -845,8 +855,5 @@
     <string name="worldcolock_timezone_gap">%s saat</string>
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
     <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
-    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
-    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
-    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="yesterday">Dün</string>
 </resources>

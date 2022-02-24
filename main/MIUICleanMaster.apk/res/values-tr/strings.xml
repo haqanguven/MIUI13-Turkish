@@ -53,6 +53,7 @@
     <string name="activity_title_uninstall_apps">Uygulamalar</string>
     <string name="activity_title_video">Videoları sil</string>
     <string name="activity_title_white_list">İstisnalar</string>
+    <string name="ad_description" formatted="false">%s | Sürüm %s | %s | %s</string>
     <string name="ad_install_success_dialog_lunch">Aç</string>
     <string name="ad_install_success_dialog_title">%1$s başarıyla yüklendi. Şimdi açılsın mı?</string>
     <string name="ad_text_adx">Reklam</string>
@@ -74,9 +75,13 @@
     <string name="app_clean_group_document_send">Gönderilen dosyalar</string>
     <string name="app_clean_group_image_recv">Alınan görüntüler</string>
     <string name="app_clean_group_image_send">Gönderilen görüntüler</string>
+    <string name="app_cleaned">Başarıyla temizlendi</string>
     <string name="app_description_content">Temizleyici cihazınızdaki çöpleri bulur ve depolama alanı boşaltır. Uygulamayı kaldırmadan önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Temizleyici hakkında</string>
     <string name="app_name">Önemsiz motor</string>
+    <string name="app_reset">Sıfırla</string>
+    <string name="app_specific_clean">Uygulama temizleyici</string>
+    <string name="app_unload">Kaldır</string>
     <string name="app_usage_never">Yakınlarda kullanılmadı</string>
     <string name="app_usage_recently">Yakınlarda kullanıldı</string>
     <string name="appcleaner_g_audio_summary_qq">QQ sesli mesajları kalıcı olarak silin</string>
@@ -180,6 +185,7 @@
     <string name="cached_garbage">Önbellek</string>
     <string name="call_log">Arama kayıtları</string>
     <string name="cancel">İptal et</string>
+    <string name="cancel_select_all">Tüm seçimi kaldır</string>
     <string name="cd_back">Geri</string>
     <string name="cd_check_box_checked">Kontrol edildi</string>
     <string name="cd_check_box_middle">Kısmi seçim</string>
@@ -258,6 +264,10 @@
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
+    <string name="clean_ing">Temizleniyor</string>
+    <string name="clean_item_tip_data_app">%s için verileri temizle</string>
+    <string name="clean_item_tip_reset_app">"%s'yi sıfırla"</string>
+    <string name="clean_item_tip_unload_app">%s uygulamasını kaldır</string>
     <string name="clean_master_icon_recall_button_text">Ekle</string>
     <string name="clean_master_icon_recall_dialog_button_negative">Hayır</string>
     <string name="clean_master_icon_recall_dialog_button_positive">Ekle</string>
@@ -268,6 +278,7 @@
     <string name="clean_master_icon_recall_title">Çöp kutusunu daha hızlı temizle</string>
     <string name="clean_master_icon_recall_toast_text">Ana ekrana kısayol eklendi</string>
     <string name="clean_summary">%1$s dosya temizlendi</string>
+    <string name="clear_app_data">Temizle</string>
     <string name="clear_bigfiles">Büyük boyutlu dosyaları, çoklu fotoğrafları ve diğer kullanılmayan öğeleri sil</string>
     <string name="clear_immediately">Şimdi temizle</string>
     <string name="clear_safe_notify">Bildirim çubuğu aracı</string>
@@ -278,7 +289,10 @@
     <string name="confirm_auto_cleaner">Tamam</string>
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
     <string name="connecting">Bağlanılıyor</string>
+    <string name="continue_check">Seç</string>
+    <string name="continue_to_do">Devam et</string>
     <string name="copy">Kopyala</string>
+    <string name="data_selected">Öğe seçildi</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -342,6 +356,7 @@
     <string name="default_cache_type">Veri dosyaları</string>
     <string name="delete_confirm">Sil</string>
     <string name="delete_confirm_msg">Tüm dosyalar kalıcı olarak silinsin mi?</string>
+    <string name="delete_slected_data">Sıfırla</string>
     <string name="desc_image">İmaj</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Fotoğrafları Xiaomi bulut üzerindende sil</string>
     <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
@@ -392,7 +407,7 @@
     <string name="empty_title_video">Silinecek video yok</string>
     <string name="engine_cm">Clean Master</string>
     <string name="engine_init">Başlatılıyor</string>
-    <string name="engine_mi">MI</string>
+    <string name="engine_mi">Xiaomi</string>
     <string name="engine_tm">Tencent</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -622,7 +637,10 @@
     <string name="install_time_invalid">--</string>
     <string name="installed">Yüklendi</string>
     <string name="installing">Yükleniyor</string>
+    <string name="is_Scanning">Taranıyor</string>
+    <string name="item_content_app_reset">%s dolu</string>
     <string name="item_title_process_mode">Bir eylem seçin</string>
+    <string name="jump_to_next">Atla</string>
     <string name="junk_syscache_alert_desc">Bu önbelleği temizlemenizi önermiyoruz. Temizlendikten sonra uygulamanın normal çalışmasını etkileyecektir</string>
     <string name="junk_tag_RF_DalvikCacheLeftovers">Yazılım sistemi kalıntısı (Dalvik-Cache)</string>
     <string name="junk_tag_RF_DemoVideo_LG">LG telefonu demo videosu</string>
@@ -809,10 +827,12 @@
     <string name="nb_clear_set">Bildirim çubuğunda ön belleği temizleyin, pil ve engelli listesi detaylarını görüntüleyin</string>
     <string name="network_not_available">Ağa bağlanılamıyor</string>
     <string name="news_change">Değiştir</string>
+    <string name="next_step">Sonraki</string>
     <string name="night">Akşam</string>
     <string name="no_network">Ağa bağlanılamadı. Daha sonra tekrar deneyin</string>
     <string name="no_network_btn">Tekrar deneyin</string>
     <string name="noon">Öğlen</string>
+    <string name="not_selected_tips">Önce uygulamaları seçin</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="nothing" />
     <string name="notification_apk_clean_button_text">Temizle</string>
@@ -874,8 +894,8 @@
     <string name="notification_whatsapp_clean_button_text">Clear</string>
     <string name="notification_whatsapp_clean_size">WhatsApp önbelleği %s değerine ulaştı</string>
     <string name="ok">Tamam</string>
-    <string name="one_tap_clean_GB">%s GB</string>
-    <string name="one_tap_clean_M">%d MB</string>
+    <string name="one_tap_clean_GB">%sGB</string>
+    <string name="one_tap_clean_M">%dMB</string>
     <string name="onekeyclean_boost_available">%s mevcut</string>
     <string name="onekeyclean_boost_cleaned">%s temizlendi</string>
     <string name="onekeyclean_boosted_title">Temizlendi</string>
@@ -1015,6 +1035,9 @@
     <string name="recommended">Öne çıkanlar</string>
     <string name="remain_item_name_n7p" />
     <string name="remain_item_name_pamp" />
+    <string name="reset_app_dialog_summary">"Seçtiğiniz uygulamaları sıfırlamak üzeresiniz. Tüm uygulama verileri kalıcı olarak silinecek ve uygulamalar ilk durumlarına geri dönecektir (Oturum açma durumunuz, ayarlarınız, önbelleğe alınmış resimleriniz, videolarınız, dosyalarınız ve sohbetleriniz dahil)"</string>
+    <string name="reset_app_dialog_title">Uygulamaları sıfırla</string>
+    <string name="reset_selected">"%s'yi sıfırla"</string>
     <string name="resutl_function_deep_clean_summary"><font color="#ff0000">%1$s</font> daha fazla dosya temizlenebilir. Daha fazla alan boşaltın</string>
     <string name="resutl_function_qq_clean_summary">QQ tarafından oluşturulan <font color="#ff0000">%1$s</font> önbelleği temizleyebilirsiniz</string>
     <string name="resutl_function_wechat_clean_summary"><font color="#ff0000">%1$s</font> WeChat önbelleği. Daha fazla alan boşaltın</string>
@@ -1031,6 +1054,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="security_center_slogan">Cihazınızı hızlı ve güvenli tutun</string>
     <string name="see_more">Daha fazla</string>
+    <string name="select_all">Tümünü seç</string>
     <string name="send">Gönder</string>
     <string name="set_immediately">Ayarla</string>
     <string name="seton_immediately">Aç</string>
@@ -1072,6 +1096,7 @@
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
     <string name="sponsored">Sponsorlu</string>
+    <string name="start_clean">Başlat</string>
     <string name="start_downloading_app">İndirme işlemine başlanıyor: %1$s</string>
     <string name="start_install">Şimdi yükle</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1133,6 +1158,11 @@
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
+    <string name="tips_app_reset_dialog">Sıfırlama uygulamayı kaldırmadan depolama alanını maksimum ölçüde boşaltır. Ancak sıfırladığınız uygulamanın tüm uygulama verileri kalıcı olarak silinecektir (Oturum açma durumunuz, ayarlarınız, önbelleğe alınmış resimleriniz, videolarınız, dosyalarınız ve sohbetleriniz dahil)</string>
+    <string name="tips_app_reset_result_page">Tüm verilerini silmek ve ilk durumlarına geri getirmek için uygulamaları sıfırlayın</string>
+    <string name="tips_app_reset_top">Sıfırlama uygulamaları ilk durumlarına geri getirir ve tüm verilerini siler</string>
+    <string name="tips_app_specific_clean_result_page">Depolama alanını boşaltın</string>
+    <string name="tips_data_page">Depolama alanında yer açmak için uygulama verilerini temizlemeyi deneyin</string>
     <string name="tips_low_storage_dialog_cancel">İptal et</string>
     <string name="tips_low_storage_dialog_msg_qq">"QQ önbellek boyutu 3GB'a ulaştı. Bu cihazınızı yavaşlatabilir. QQ önbelleği şimdi temizlensin mi?"</string>
     <string name="tips_low_storage_dialog_msg_qq_new">"QQ önbellek boyutu %d GB'a ulaştı. Bu cihazınızı yavaşlatabilir. QQ önbelleği şimdi temizlensin mi?"</string>
@@ -1155,6 +1185,9 @@
     <string name="tips_of_traffic_notification">Bildirim çubuğunda mobil veri istatistiklerini görüntüleyin</string>
     <string name="tips_of_traffic_pack_threshold">Veri kullanım limitine yaklaştığınızda daha fazla veri satın alın</string>
     <string name="tips_of_virus_scan">Cihazınızı güvende tutmak için düzenli olarak virüs taramasından geçirin</string>
+    <string name="tips_reset_page">Tüm verilerini silmek ve depolama alanını boşaltmak için uygulamaları sıfırlamayı deneyin</string>
+    <string name="tips_result_ad">Bu uygulamaları boş alanda denemek ister misiniz?</string>
+    <string name="tips_unload_page">%d gündür kullanmadığınız uygulamaları kaldırmayı deneyin</string>
     <string name="title_auto_cleaner">Temizlemeyi hatırlat</string>
     <string name="title_delete_cache">Uygulama önbelleğini temizle</string>
     <string name="title_delete_clipboard">Pano içerikleri</string>
@@ -1171,6 +1204,7 @@
     <string name="title_of_traffic_notification">Veri istatistikleri çubuğu</string>
     <string name="title_optimizer">Şartlar ve koşullar</string>
     <string name="title_share_link">Bağlantı adresini paylaş</string>
+    <string name="to_reset_app">Sıfırla</string>
     <string name="toast_add_white_list_success">İstisnalara başarıyla eklendi</string>
     <string name="toast_app_no_residual_on_sdcard">Uygulamanın SD kartınızda kayıtlı hiçbir dosyası yok</string>
     <string name="toast_backup_is_running">Yedekleme zaten çalışıyor</string>
@@ -1203,6 +1237,7 @@
     <string name="unit_mb">%s MB</string>
     <string name="unlike">Hayır</string>
     <string name="update_date_format">dd/MM/yyyy</string>
+    <string name="updating_tips">Yükleniyor</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="video_clean">Önbelleğe alınmış videoları temizle</string>
@@ -1300,6 +1335,39 @@
     <string name="white_list_large_file_header">Büyük dosyalar ve videolar: %d</string>
     <string name="white_list_residual_header">Artık dosyalar: %d</string>
     <string name="white_list_title">İstisnalar</string>
+    <string name="widget_appbehavior_apps_count">28</string>
+    <string name="widget_appbehavior_apps_count_unit">İkinci sınıf</string>
+    <string name="widget_appbehavior_apps_title">A uygulaması dahil 3 uygulama</string>
+    <string name="widget_back_guide_appbehavior_summary">Gizlilik ve güvenlik</string>
+    <string name="widget_back_guide_appbehavior_title">Gizlilik koruması</string>
+    <string name="widget_back_guide_apppredict_summary">Akıllı öneriler ile uygulamaların hızlı başlatılmasını sağlayın</string>
+    <string name="widget_back_guide_apppredict_title">Uygulama önerisi</string>
+    <string name="widget_back_guide_cleaner_summary">Telefonda gereksiz herşeyi temizleyin. Sadece bir dokunuş uzağınızdadır</string>
+    <string name="widget_back_guide_cleaner_title">Çöp temizleme</string>
+    <string name="widget_back_guide_health_summary">Cihazınızın sağlık yöneticisidir</string>
+    <string name="widget_back_guide_health_title">Telefon sağlığı</string>
+    <string name="widget_back_guide_power_summary">Tüm cihazların pil durumunu görüntüleyin</string>
+    <string name="widget_back_guide_power_title">Pil</string>
+    <string name="widget_back_guide_ramjat_summary">Telefonunuzu hızlandırın ve tek tıklamayla belleği temizleyin</string>
+    <string name="widget_back_guide_ramjat_title">Tek tıkla hızlandır</string>
+    <string name="widget_back_guide_safe_summary">Telefonu hızlı bir şekilde yönetin ve telefonun durumunu öğrenin</string>
+    <string name="widget_back_guide_safe_title">Telefon koruyucusu</string>
+    <string name="widget_behavior_perm_text">Fotoğrafları ve belgeleri okuyun</string>
+    <string name="widget_button_text">Widget ekle</string>
+    <string name="widget_cleaner_message">çöp temizlenebilir</string>
+    <string name="widget_cleaner_size">529</string>
+    <string name="widget_cleaner_size_unit">MB</string>
+    <string name="widget_health_message">Telefon çok güvenli. Optimize etmeye devam edin</string>
+    <string name="widget_health_size">86</string>
+    <string name="widget_power_size">90</string>
+    <string name="widget_power_size_message">Müsait zaman 34 saat 2 dakika</string>
+    <string name="widget_power_size_unit">%</string>
+    <string name="widget_ramjat_message">Boş hafıza</string>
+    <string name="widget_ramjat_size">732</string>
+    <string name="widget_safe_size">315.89</string>
+    <string name="widget_safe_size_1">23.6</string>
+    <string name="widget_safe_title">Cep telefonu çöpü</string>
+    <string name="widget_safe_title_1">Hafıza kullanımı</string>
     <string name="wqfile_group_chat_file">Mesaj uygulamalarında gönderilen dosyalar</string>
     <string name="wqfile_group_chat_pic">Mesaj uygulamalarından resimler</string>
     <string name="wqfile_group_chat_video">Mesaj uygulamalarından videolar</string>

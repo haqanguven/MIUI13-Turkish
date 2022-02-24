@@ -408,7 +408,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="month_september_short">Eylül</string>
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
-    <string name="morning">ÖÖ</string>
+    <string name="morning">Sabah</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mtrl_exceed_max_badge_number_content_description">"%1$d'den fazla yeni bildirim"</string>
@@ -450,6 +450,11 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="network_tip_dialog_title">İnternet bağlantısı gerekmektedir</string>
     <string name="network_unavailable_tip">Ağa bağlanın ve tekrar deneyin</string>
     <string name="new_record_name">Yeni kayıt</string>
+    <string name="new_saf_permission_dialog_content">"Kaydedici izinleri güncellendi. Kaydedicinin arama kayıtlarına erişmesine izin verin
+
+İzin nasıl verilir:
+%1$s öğesine dokunun ve ardından %2$s öğesini seçin"</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Sonraki</string>
     <string name="night">Akşam</string>
     <string name="no_content">Henüz burada öğe yok</string>
     <string name="no_file">Boş</string>
@@ -511,6 +516,8 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="permission_desc">İzin ayrıntıları</string>
     <string name="permission_dialog_cancel">İptal et</string>
     <string name="permission_dialog_ok">Ayarlar</string>
+    <string name="permission_read_phone_state">Cihaz bilgilerine erişin</string>
+    <string name="permission_read_phone_state_description">Arama alırken kaydı otomatik olarak durdurmak için arama durumuna erişmek içindir</string>
     <string name="permission_record">Ses kaydı</string>
     <string name="permission_record_description">Ses kayıt hizmetleri sağlamak için</string>
     <string name="permission_storage">Depolama alanına erişme</string>
@@ -794,6 +801,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="the_united_nations_day">Birleşmiş milletler günü</string>
     <string name="the_valentines_day">Sevgililer günü</string>
     <string name="the_water_lantern_festival">Su feneri festivali</string>
+    <string name="this_folder">Bu klasörü kullan</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>

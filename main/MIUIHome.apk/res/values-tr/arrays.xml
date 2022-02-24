@@ -498,6 +498,11 @@
         <item>Sürükle</item>
         <item>Kaldır</item>
     </string-array>
+    <string-array name="widget_component_source">
+        <item>Operasyon izinsiz</item>
+        <item>Aktif olarak ekle</item>
+        <item>Varsayılan düzen</item>
+    </string-array>
     <string-array name="widget_drag_type_name">
         <item>Masaüstü</item>
         <item>Negatif ekran</item>

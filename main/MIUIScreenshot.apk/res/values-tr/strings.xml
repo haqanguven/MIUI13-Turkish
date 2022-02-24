@@ -195,6 +195,7 @@
     <string name="heavenly_stems_wu">5</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
+    <string name="long_screenshot_error">Ekran görüntüsü alınamadı. Tekrar deneyin</string>
     <string name="long_screenshot_guide_text">"Bir kayan ekran görüntüsü
 almak için dokunun"</string>
     <string name="long_screenshot_intercepted_error">Ekran görüntüsü alınamadı. Tekrar deneyin</string>

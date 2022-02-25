@@ -269,6 +269,9 @@
     <string name="ignore_virus_install_text">Olası tüm riskleri anlıyorum. %1$s</string>
     <string name="ignore_virus_install_text_clickable">Yinede yükle</string>
     <string name="install">Yükle</string>
+    <string name="install_abi_error">Kurulum paketi 64 bitlik bir uygulamadır ve 32 bit işlemcili bir makineye kurulamaz</string>
+    <string name="install_abi_error_des">Uygulamanın 32 bit sürümünü indirip yükleyebilirsiniz</string>
+    <string name="install_abi_error_des_market">"Uygulamanın 32 bit sürümünü indirip yüklemek için Xiaomi App Store'a gidebilirsiniz"</string>
     <string name="install_app_loading">Yükleme paketi kontrol ediliyor</string>
     <string name="install_confirm_question_des_10">İlgili riskleri almak ve uygulamayı yüklemeye devam etmek istiyorsanız yüklemeye devam etmeden önce uygulamayı yetkilendirmek için lütfen uygulama yönetimine gidin</string>
     <string name="install_confirm_question_des_10_tablet">Risk almak ve kuruluma devam etmek istiyorsanız Güvenlik > Uygulamaları yönet > İzinler > Olası riskli uygulamalar bölümünde kuruluma yetki verin. Olası riskli uygulamalar bulamıyorsanız güncelleme yapın</string>

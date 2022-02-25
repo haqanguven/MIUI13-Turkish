@@ -37,6 +37,7 @@ aynı wifi ağına bağlayın ve tekrar deneyin"</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Mi bağlantı</string>
     <string name="bt_audio_share_notification_content">Seçenekleri görüntülemek için dokunun</string>
     <string name="bt_audio_share_notification_title">Ses paylaşımı</string>

@@ -330,6 +330,7 @@
     <string name="calllog_menu_blacklist">Engelle</string>
     <string name="calllog_menu_edit_before_call">Düzenle</string>
     <string name="calllog_menu_send_sms">Mesaj gönder</string>
+    <string name="calllog_record_none_toast">Gösterilecek arama kaydı yok</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d dakika %2$d saniye</string>
     <string name="callrecordview_item_op_time_missed">| Bağlanılamadı</string>
     <string name="callrecordview_item_op_time_only_minutes">%d dakika</string>
@@ -833,6 +834,7 @@ Neden: %s"</string>
     <string name="hybrid_webpage_not_available">İnternet sayfası kullanılamıyor</string>
     <string name="ic_menu_back">Geri</string>
     <string name="ic_menu_done">Tamam</string>
+    <string name="identify_numbers_text">İstenmeyen aramaları belirlemek için arayan kimliğini açın</string>
     <string name="imLabelsGroup">IM</string>
     <string name="imei">IMEI</string>
     <string name="import_all_sim_entries_miui">Tüm kişileri içe aktar</string>
@@ -1022,6 +1024,12 @@ Neden: %s"</string>
     <string name="name_phonetic_middle">Fonetik ikinci ad</string>
     <string name="name_prefix">Ad ön eki</string>
     <string name="name_suffix">Ad son eki</string>
+    <string name="new_saf_permission_dialog_content">"Kişi izinleri güncellendi. Kişilerin arama kayıtlarına erişmesine izin verin
+
+İzin nasıl verilir:
+%1$s öğesine dokunun ve ardından %2$s öğesini seçin"</string>
+    <string name="new_saf_permission_dialog_grant_permission_immediately">Sonraki</string>
+    <string name="new_saf_permission_dialog_title"><b>Gerekli izinler</b></string>
     <string name="next">Sonraki</string>
     <string name="next_birthday">Sonraki doğum günü: %s</string>
     <string name="nfc_vcard_file_name">Kişi Nfc üzerinden alındı</string>
@@ -1460,6 +1468,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="the_united_nations_day">Birleşmiş milletler günü</string>
     <string name="the_valentines_day">Sevgililer günü</string>
     <string name="the_water_lantern_festival">Su feneri festivali</string>
+    <string name="this_folder">Bu klasörü kullan</string>
     <string name="three_letter">DEF</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>

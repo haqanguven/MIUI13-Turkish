@@ -48,6 +48,7 @@
     <string name="alert_message_delete_excerpt">Bu not silinsin mi? Alıntı da silinecektir.</string>
     <string name="alert_message_delete_note">Bu not silinsin mi?</string>
     <string name="alert_message_edit_anyway">Bu notu düzenlediğiniz takdirde bazı içerikleri kaybolabilir</string>
+    <string name="alert_message_edit_anyway_new">Bu not desteklenmeyen içerik barındırmaktadır. Düzenlemek biçim değişikliklerine veya veri kaybına neden olabilir</string>
     <string name="alert_message_restore">Bu not açılamadı. İçeriğini düzenlemek için notu geri yükleyin</string>
     <string name="alert_title_delete">Notu sil</string>
     <string name="alert_title_edit_anyway">Bu not desteklenmeyen içerik içeriyor</string>
@@ -290,6 +291,7 @@
     <string name="error_send_empty_note">Boş not gönderilemez</string>
     <string name="error_send_empty_note_to_weibo">Weibo uygulamasına boş not gönderilemiyor</string>
     <string name="error_unsupport_content">Bu not desteklenmeyen içerik içeriyor. Güncellemek için buraya dokunun</string>
+    <string name="error_unsupport_content_format">Bu not desteklenmeyen içerik barındırmaktadır. %1$s veya sonraki bir sürüme güncelleyin</string>
     <string name="error_widget_exist_for_send_to_desktop">Bu not zaten ana ekranınıza yerleştirilmiş</string>
     <string name="evening">Öğleden sonra</string>
     <string name="exceed_todo_text_limitation">Görev açıklaması çok uzun</string>
@@ -838,6 +840,12 @@
     <string name="select_account_prompt">Notları senkronize et</string>
     <string name="send">Gönder</string>
     <string name="set_alarm_description">Alarm kur</string>
+    <string name="setting_big_screen_layout_columns">Kenar çubuğu</string>
+    <string name="setting_big_screen_layout_flat">Düzenler</string>
+    <string name="setting_big_screen_layout_title">Geniş ekran düzeni</string>
+    <string name="setting_layout">Düzen</string>
+    <string name="setting_micloud_sync_title">Bulut ile senkronize edin</string>
+    <string name="setting_note_list_layout_title">Düzen</string>
     <string name="setting_other">Diğer</string>
     <string name="setting_privacy">Gizlilik politikası</string>
     <string name="single_link_excerpt_saving">Öğeler kaydediliyor</string>
@@ -1085,6 +1093,15 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="view_all_notes">Tümünü görüntüle</string>
+    <string name="warn_cannot_add_new_bullet">Not çok uzun olduğundan yeni madde işaretli liste eklenemiyor</string>
+    <string name="warn_cannot_add_new_checkbox">Not çok uzun olduğu için yeni onay kutusu eklenemiyor</string>
+    <string name="warn_cannot_add_new_doodle">Not çok uzun olduğu için yeni doodle eklenemiyor</string>
+    <string name="warn_cannot_add_new_element">Not çok uzun olduğu için yeni öğe eklenemiyor</string>
+    <string name="warn_cannot_add_new_link_card">Not çok uzun olduğu için yeni bağlantı eklenemiyor</string>
+    <string name="warn_cannot_add_new_picture">Not çok uzun olduğu için yeni resim eklenemiyor</string>
+    <string name="warn_cannot_add_new_style">Not çok uzun olduğu için yeni biçim eklenemiyor</string>
+    <string name="warn_disable_edit_in_browse_mode">Notları salt okunur modda düzenleyemezsiniz</string>
+    <string name="warn_enter_browse_mode">Salt okunur moddasınız</string>
     <string name="web_sso_login_fail">Tekrar oturum açmanız gerekiyor</string>
     <string name="web_sso_login_message">Oturum açılıyor</string>
     <string name="webview_reload">Tekrar dene</string>

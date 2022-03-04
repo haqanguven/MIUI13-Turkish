@@ -2080,12 +2080,12 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_screen_hdr_gear2">Ölçülü</string>
     <string name="gb_advance_settings_screen_hdr_gear3">Güçlü</string>
     <string name="gb_advance_settings_screen_hdr_gear4">Aşırı</string>
-    <string name="gb_advance_settings_screen_hdr_summary">Kontrastı artırın ve oyunlar için detayları geliştirin</string>
+    <string name="gb_advance_settings_screen_hdr_summary">Kontrası artırın ve oyunlar için detayları geliştirin</string>
     <string name="gb_advance_settings_touch">Dokunmatik kontroller</string>
     <string name="gb_advance_settings_vibration_4d">4D titreşim</string>
     <string name="gb_advance_settings_vibration_4d_summary">Titreşimi kullanarak oyun içinde eylemleri gösterin</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundaki öldürmeler sırasında titreşim</string>
-    <string name="gb_audition_instruction">Kaydetmek icin basili tut (%1$s-%2$s saniye)</string>
+    <string name="gb_audition_instruction">Kaydetmek için basılı tut (%1$s-%2$s saniye)</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
     <string name="gb_collimator_color">Renk</string>
     <string name="gb_collimator_size">Boyut</string>
@@ -2209,7 +2209,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_turbo_time_subtitle">Oyun süresini kaydedin</string>
     <string name="gb_turbo_voice_subtitle">Sesli açık mikrofon komik şov</string>
     <string name="gb_turbo_wonder_subtitle">Harika operasyonların akıllı kaydı</string>
-    <string name="gb_voice_change_audition_tip">Yalnızca seçmeler</string>
+    <string name="gb_voice_change_audition_tip">Yalnızca seçilen</string>
     <string name="gb_voice_change_settinged">Ses değiştirici açık</string>
     <string name="gb_voice_changer_cartoon">Karikatür</string>
     <string name="gb_voice_changer_dialog_upgrade_vip">Gerçek zamanlı geri bildirimi kullanabilmek için aboneliğinizi yenileyin</string>

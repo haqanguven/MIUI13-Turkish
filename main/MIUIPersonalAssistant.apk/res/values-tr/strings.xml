@@ -353,6 +353,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_express_empty_extra">İzle</string>
     <string name="pa_express_empty_title">Burada teslimat bilgisi yok</string>
     <string name="pa_express_i_known">Tamam</string>
+    <string name="pa_express_input_again">Tekrar girin</string>
     <string name="pa_express_inqiury_select_logistics">Kurye servisini seçin</string>
     <string name="pa_express_inquiry">Sipariş kontrolü</string>
     <string name="pa_express_inquiry_frequently_used_logistics">Popüler</string>
@@ -380,6 +381,9 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_express_provider_miguo">Mi Express</string>
     <string name="pa_express_provider_mimall">Mi Store</string>
     <string name="pa_express_provider_shunfeng">SF Express</string>
+    <string name="pa_express_query_fail_content_input_again">Ekspres teslimatınız hakkında bilgi bulunamadı. Takip numaranızı kontrol edip tekrar deneyin</string>
+    <string name="pa_express_query_fail_content_manual_select">Ekspres teslimatınız hakkında bilgi bulunamadı. Bunun yerine manuel olarak bir teslimat şirketi seçmeyi deneyin</string>
+    <string name="pa_express_query_fail_title">Bilgi alınamadı</string>
     <string name="pa_express_query_history">Sipariş Geçmişi</string>
     <string name="pa_express_send">Gönder</string>
     <string name="pa_express_send_provider_cainiao">Guoguo</string>
@@ -521,6 +525,7 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_picker_detail_install_tip_un_upgrade">Önce uygulamayı güncelleyin</string>
     <string name="pa_picker_detail_launcher_screen_lock">Ana ekran düzeniniz kilitli. Araç eklenemiyor</string>
     <string name="pa_picker_detail_maml_download_error">İndirelemedi</string>
+    <string name="pa_picker_detail_maml_downloading">Öğeler indiriliyor</string>
     <string name="pa_picker_detail_modify_maml">Düzenle</string>
     <string name="pa_picker_detail_net_error">Ağ hatası. Tekrar denemek için dokunun</string>
     <string name="pa_picker_detail_preview_load_fail_can_not_add_widget">Yükleniyor</string>

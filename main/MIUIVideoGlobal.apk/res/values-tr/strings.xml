@@ -120,6 +120,7 @@
     <string name="back_to_mainpage">Keşfet</string>
     <string name="background_playback_enabled">Arka planda oynatma açık</string>
     <string name="before_yestoday">2 gün önce</string>
+    <string name="before_yestoday_new">%d gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="box_title_gallery">Video araç kutusu</string>
@@ -358,6 +359,7 @@
     <string name="content_language_key">content_language</string>
     <string name="continue_play">Devam et</string>
     <string name="controller_bar_edit">Düzenle</string>
+    <string name="copy">Kopyala</string>
     <string name="current_service_key">service</string>
     <string name="data_empty">Boş</string>
     <string name="date_picker_label_day" />
@@ -512,6 +514,7 @@ Bu kodu gönderin"</string>
     <string name="exo_track_surround_5_point_1">5.1 surround ses</string>
     <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
     <string name="exo_track_unknown">Bilinmiyor</string>
+    <string name="expand_button_title">Gelişmiş</string>
     <string name="explore">Keşfet</string>
     <string name="explore_on_mi_video">Videolarda daha fazlasına erişin</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -726,6 +729,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="galleryplus_talkback_speed_view_item">%sX</string>
     <string name="galleryplus_talkback_subtitle_time">%1$s, %2$s - %3$s</string>
     <string name="galleryplus_talkback_unfocused_speed">Seçilmedi, %sX</string>
+    <string name="galleryplus_theme_id">com.miui.video.theme.01</string>
     <string name="galleryplus_v_agree">Onayla</string>
     <string name="galleryplus_v_cancel">İptal et</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikleri yoksay ve altyazıları düzenlemeyi şimdi durdur?</string>
@@ -738,6 +742,8 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="galleryplus_v_dialog_hint_too_long">Dosya adı çok uzun</string>
     <string name="galleryplus_v_network_failed">Ağa bağlanılamadı</string>
     <string name="galleryplus_v_ok">Tamam</string>
+    <string name="galleryplus_video_circulate_error">Oynatma aktarılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="galleryplus_video_circulate_loading">Oynatma aktarılıyor</string>
     <string name="galleryplus_video_circulate_quit">Çıkmak için dokunun</string>
     <string name="galleryplus_video_edit_save_video">Alt yazılar ile video oluşturuluyor</string>
     <string name="galleryplus_vp_hardware_unsported">Bu video cihazınızda oynatılamıyor</string>
@@ -785,6 +791,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
     <string name="input_new_pwd">Yeni şifreyi girin</string>
     <string name="input_size_tips">1000 karaktere kadar girebilirsiniz</string>
+    <string name="input_size_tips_new">En fazla %d karakter girebilirsiniz</string>
     <string name="isornot_your_mi_account">Bu Mi hesabı sizin mi?</string>
     <string name="issue">Sorun</string>
     <string name="item_card_all_replies">Tüm yanıtlar</string>
@@ -890,6 +897,7 @@ videolarda izleyin"</string>
     <string name="lv_cast">Yansıt</string>
     <string name="lv_check_delete_file">Silinecek ögeleri seçin</string>
     <string name="lv_check_send_file">Bir defada yalnızca tek bir dosya gönderebilirsiniz</string>
+    <string name="lv_check_send_file_new">Bir seferde yalnızca %d dosya gönderebilirsiniz</string>
     <string name="lv_confirm_delete_history">Seçili ögeler silinsin mi?</string>
     <string name="lv_confirm_delete_videos">Ögeler silinsin mi?</string>
     <string name="lv_confirm_hide_videos">Videolar gizlensin mi?</string>
@@ -952,10 +960,14 @@ videolarda izleyin"</string>
     <string name="lv_subtitle_no_subtitle">Altyazı kullanılamıyor</string>
     <string name="lv_subtitle_non_subtitle_file">Altyazı dosyası yok</string>
     <string name="lv_subtitle_offset_add_1s">+1 saniye</string>
+    <string name="lv_subtitle_offset_add_1s_new">+%d saniye</string>
     <string name="lv_subtitle_offset_add_dot5s">+0.5 saniye</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">+%fs</string>
     <string name="lv_subtitle_offset_normal">Altyazıları hareket ettirme</string>
-    <string name="lv_subtitle_offset_sub_1s">-1 saniye</string>
-    <string name="lv_subtitle_offset_sub_dot5s">-0.5 saniye</string>
+    <string name="lv_subtitle_offset_sub_1s">-1s</string>
+    <string name="lv_subtitle_offset_sub_1s_new">-%ds</string>
+    <string name="lv_subtitle_offset_sub_dot5s">-0.5s</string>
+    <string name="lv_subtitle_offset_sub_dot5s_new">-%fs</string>
     <string name="lv_subtitle_onlinesub_language">Dil: %s</string>
     <string name="lv_subtitle_onlinesub_loading">Altyazı yükleniyor</string>
     <string name="lv_subtitle_onlinesub_loading_wait">Altyazı yükleniyor</string>
@@ -969,6 +981,7 @@ videolarda izleyin"</string>
     <string name="lv_subtitle_onlinesub_title">Çevrimiçi altyazı</string>
     <string name="lv_subtitle_open_subtitle_file_title">Altyazı dosyası bul</string>
     <string name="lv_subtitle_preoffset_max">5 saniyeden ileri gidilemiyor</string>
+    <string name="lv_subtitle_preoffset_max_new">"%d saniyeden fazla ileri gidilemiyor"</string>
     <string name="lv_subtitle_subonline_non_network">Ağa bağlanılamadı. Ağa bağlanın ve tekrar deneyin</string>
     <string name="lv_subtitle_synchronization_title">Senkronizasyon</string>
     <string name="lv_subtitle_title">Altyazı</string>
@@ -990,6 +1003,8 @@ videolarda izleyin"</string>
     <string name="mediation_ad_can_not_share">Bu video paylaşılamıyor</string>
     <string name="mi_video">Videolar</string>
     <string name="midnight">Gece</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
@@ -1003,7 +1018,9 @@ videolarda izleyin"</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
-    <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
@@ -1012,7 +1029,11 @@ videolarda izleyin"</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yalnızca bir sn…</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ögeler yüklenemedi</string>
+    <string name="mnc_live_subscribe_toast">Başarıyla abone olundu</string>
     <string name="mnc_live_tv">Canlı TV</string>
+    <string name="mnc_live_unsubscribe_toast">Abonelikten başarıyla çıkıldı</string>
+    <string name="mnc_subscribe_push_context">Şimdi izlemek için dokunun</string>
+    <string name="mnc_subscribe_push_title">Akış başlıyor</string>
     <string name="moment_guide_desc">Yakınlaşmak ve uzaklaşmak için hareket kullan</string>
     <string name="moment_tab_all">Tümü</string>
     <string name="moment_tab_facebook">Facebook</string>
@@ -1114,6 +1135,7 @@ videolarda izleyin"</string>
     <string name="no_subscriptions">Boş</string>
     <string name="noon">Gün ortası</string>
     <string name="not_connect_wifi_tip">Mobil veri kullanarak ögeleri indirmek ek tarife ücretlerine neden olabilir. Yine de indirilsin mi?</string>
+    <string name="not_set">Ayarlanmadı</string>
     <string name="not_show">Tekrar gösterme</string>
     <string name="not_support_share">Bu öğe şu anda paylaşılamıyor</string>
     <string name="notice_comment_action">%s gönderinize yorum yaptı</string>
@@ -1408,7 +1430,8 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="plus_menu_share">Paylaş</string>
     <string name="plus_mine_gallery">Albümlerim</string>
     <string name="plus_mine_videos">Videolarım</string>
-    <string name="plus_player_8k_video_not_support">Bu videoda 8K video oynatılamıyor</string>
+    <string name="plus_player_8k_video_not_support">Bu cihazda 8K videolar oynatılamıyor</string>
+    <string name="plus_player_8k_video_not_support_new">Bu cihazda %dK videolar oynatılamıyor</string>
     <string name="plus_player_audio_track">Ses dosyası</string>
     <string name="plus_player_detail_file_location">"Konum: "</string>
     <string name="plus_player_detail_file_name">"Dosya adı: "</string>
@@ -1504,6 +1527,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">Öncelikle resim içinde resim özelliğini kullanmak için videolara izin verin</string>
     <string name="popup_window_home_tip">Çevrim içi videoları indirin</string>
+    <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_agree_subtitle">Gizlilik politikasına onay vermek videoların tüm özelliklerini kullanmanıza olanak tanır</string>
     <string name="privacy_agree_title">İzin</string>
     <string name="privacy_experience_plan">Ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için kullanıcı verilerini bizimle paylaşmak için kullanıcı deneyimi programımıza katılın</string>
@@ -1511,13 +1535,11 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="privacy_revoke_setting">Anahtarı kapatarak videolar uygulamasının gizlilik politikasına verdiğiniz izni geri çekersiniz</string>
     <string name="privacy_revoke_subtitle">Videoların gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="privacy_revoke_title">İznin geri çekilmesi</string>
-    <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">%s karşılığında reklamları kaldırın</string>
     <string name="pro_prize_popup_style_two">%s karşılığında daha fazla özelliğin kilidini açın</string>
     <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Şifre</string>
     <string name="psw_sign_in">Şifre kullanarak oturum aç</string>
-    <string name="publicstr">MIIBtz</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Yenilemek için yukarı doğru çekin</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Yükleniyor</string>
     <string name="pull_to_refresh_from_bottom_release_label">Yenilemek için bırakın</string>
@@ -1684,6 +1706,16 @@ Hiçbir şey göstermiyor"</string>
     <string name="storage_internal_sdcard">Dahili depolama</string>
     <string name="submit">Gönder</string>
     <string name="subscribe">Abone ol</string>
+    <string name="subscribe_author_recommend_btn">Abone ol</string>
+    <string name="subscribe_author_recommend_title">Bu içerik oluşturucuların en yeni videolarını görmek için abone olun</string>
+    <string name="subscribe_dialog_import_agree">İçe aktar</string>
+    <string name="subscribe_dialog_import_cancel">İptal et</string>
+    <string name="subscribe_dialog_import_content">"Tüm aboneliklerinizi tek bir yerde toplamak için video aboneliklerinizi Google hesabınıza aktarın. Hepsini videolardan izleyebilirsiniz. Şimdi içe aktarılsın mı?"</string>
+    <string name="subscribe_dialog_import_title">Google hesabına aktar</string>
+    <string name="subscribe_error_toast">Abone olunamadı</string>
+    <string name="subscribe_import_hint_btn">İçe aktar</string>
+    <string name="subscribe_import_hint_content">Abonelikleri Google hesabınıza aktarın</string>
+    <string name="subscribe_login_for_video">Tüm aboneliklerinizi görüntülemek için Google hesabınızda oturum açın</string>
     <string name="subscribed">Abone olundu</string>
     <string name="subscriptions">Aboneliklerim</string>
     <string name="subtitle_add_subtitle_failed">Altyazı eklenemedi. Dosyaların hasar görmediğinden emin olun</string>
@@ -1691,6 +1723,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="subtitle_offset_normal">Altyazıları hareket ettirme</string>
     <string name="subtitle_padding_default_hint">Altyazılar ayarlanıyor</string>
     <string name="suggested_publishers">Önerilen hesaplar</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
@@ -1698,6 +1731,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="switch_ratio_pause">Yürütme hızı dengeli değil. Varsayılan hıza geri dönülüyor</string>
     <string name="symbol_rmb">¥</string>
     <string name="sync_favorites_limit">"Favorilerinizde 500'den fazla video var. Senkronizasyona devam etmek için eski videolardan bazılarını sileceğiz"</string>
+    <string name="sync_favorites_limit_new">"Favorilerinizde %d'den fazla video var. Senkronizasyona devam etmek için önceki videolardan bazılarını silmemiz gerekecek"</string>
     <string name="sync_favorites_message">Bu cihazdaki favoriler hesabınız ile senkronize edilsin mi? Kullanılamayan ögeler silinecektir</string>
     <string name="sync_favorites_title">Favorileri senkronize et</string>
     <string name="t_check_hide_file">Gizlenecek ögeleri seçin</string>
@@ -1710,6 +1744,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="t_lv_downloading_new_version">Güncellemeler indiriliyor</string>
     <string name="t_lv_no_new_version">Videolar uygulaması güncel</string>
     <string name="t_lv_password_limit">Şifre en az 4 karakter uzunluğunda olmalıdır</string>
+    <string name="t_lv_password_limit_new">Şifre en az %d karakter uzunluğunda olmalıdır</string>
     <string name="t_lv_password_null">Şifre boş bırakılamaz</string>
     <string name="t_lv_password_wrong">Şifre yanlış. Tekrar deneyin</string>
     <string name="t_lv_search_null">Arama yapmak için anahtar kelime girin</string>
@@ -1717,6 +1752,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="t_network_error">Bir ağ hatası oluştu</string>
     <string name="t_ovp_check_delete_favor">Kaldırılacak öğeleri seçin</string>
     <string name="t_password_limit">Şifre en az 4 karakter uzunluğunda olmalıdır</string>
+    <string name="t_password_limit_new">Şifre en az %d karakter uzunluğunda olmalıdır</string>
     <string name="t_password_null">Şifre boş bırakılamaz</string>
     <string name="t_password_wrong">Girdiğiniz şifre hatalı. Tekrar deneyin</string>
     <string name="t_start_download">İndirmeye başlanıyor:</string>
@@ -1787,12 +1823,12 @@ Hiçbir şey göstermiyor"</string>
     <string name="time_picker_label_minute">D</string>
     <string name="tip_auth_again">Daha önce üçüncü taraf içerik sağlayacısının ilgili gizlilik politikasının koşullarını kabul etmediğiniz için anlarda video içeriğini gösteremiyoruz. Gizlilik politikasını kabul etmek için aşağıdaki tuşa dokunun ve bu özelliğe erişin</string>
     <string name="tip_author_click">Bu hesaptan daha fazla video görüntülemek için dokunun</string>
+    <string name="tip_content_or">veya</string>
     <string name="tip_download_video_to_save_here">%d. video indirilenlerinize kaydedilecektir</string>
     <string name="tip_enter_the_website">%d. Bir internet sitesini veya uygulamayı açın</string>
     <string name="tip_local_long_press_for_manager">Videoları yönetmek için basılı tutun</string>
     <string name="tip_local_manager_here">Dosyalarınızı burada yönetin</string>
     <string name="tip_play_a_video">%d. Bir video oynatın</string>
-    <string name="tip_pop">"Anlar'dan içerik Firework tarafından sağlanmaktadır. Görüntüleme deneyiminizi geliştirmek ve daha alakalı içerik önerileri almak için Firework'un, Gizlilik politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin verin. Hizmetleri kullanmadan önce "<a href="%1$s">Firework Gizlilik Politikasını</a> okuyun ve kabul edin</string>
     <string name="tip_storage_used_space" formatted="false">Kullanılan: %.2f GB/%.2f GB</string>
     <string name="tip_tap_download_button">"%d. ''İndir'' seçeneğine dokunun"</string>
     <string name="tip_topic_click">Bu konuda daha fazla video bulmak için dokunun</string>
@@ -1843,6 +1879,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_id_hint">E-posta, telefon veya Mi hesap kimliği</string>
+    <string name="v7_preference_off">Kapalı</string>
+    <string name="v7_preference_on">Açık</string>
     <string name="v_agree">Kabul et</string>
     <string name="v_app_name">Videolar</string>
     <string name="v_cancel">İptal et</string>

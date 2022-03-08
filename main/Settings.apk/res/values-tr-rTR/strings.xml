@@ -3656,7 +3656,7 @@ Bunu daha sonra Ayarlar > Uygulamalar ve bildirimler seçeneğinden değiştireb
     <string name="how_adjust_font_size">Metin boyutunu nasıl ayarlarım?</string>
     <string name="how_backup_content">"Yedekleri yerel olarak veya buluta kaydedebilirsiniz. Yerel yedeklemeler mobil cihazınızda, bilgisayarınızda veya USB sürücünüzde saklanabilir
 
-Mobil cihaz
+Mobil
 Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğelerinizi cihazınızda depolanan ayrı bir dosyaya (MIUI-backup-AllBackup) kaydedin. Not: Fabrika ayarlarına sıfırlama işlemi gerçekleştirildiğinde bu tür yedeklemeler kalıcı olarak silinir. Yedekleri bilgisayarınıza kopyalamayı unutmayın
 
 Bilgisayar
@@ -3676,8 +3676,8 @@ Not: Şifrelenmiş yedeklemeler için ayarladığınız şifreyi unutmayın! Unu
     <string name="how_encrypt_title">3. Yedeklerimi nasıl şifreleyebilirim?</string>
     <string name="how_restore_backup_content">"Farklı yöntemler kullanılarak yedeklenmiş öğeleri nasıl geri yükleyebilirsiniz:
 
-Mobil cihaz
-Mobil cihaz öğesine dokunarak öğeleri geri yükleme seçeneğini bulun ve devam etmek için yedeklemeyi seçin
+Mobil
+Mobil öğesine dokunarak öğeleri geri yükleme seçeneğini bulun ve devam etmek için yedeklemeyi seçin
 
 Bilgisayar
 Yedeklemeyi USB kablosu ile bilgisayarınızdan MIUI-backup-AllBackup'a kopyalayın ve mobil cihazınızdan öğeleri geri yükleyin
@@ -5561,12 +5561,12 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="owner_space">İlk alan</string>
     <string name="packages_subtitle">Dahil olan paketler</string>
     <string name="pad_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
-    <string name="pad_backup_title">Mobil cihaz</string>
+    <string name="pad_backup_title">Mobil</string>
     <string name="pad_computer_backup_summary">Bilgisayar kullanarak öğeleri yedekleme ve geri yükleme</string>
     <string name="pad_flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücüsü kullanın</string>
     <string name="pad_how_backup_content">"Yedekleri yerel olarak veya buluta kaydedebilirsiniz. Yerel yedeklemeler mobil cihazınızda, bilgisayarınızda veya USB sürücünüzde saklanabilir
 
-Mobil cihaz
+Mobil
 Sistem ayarlarınızı, hesaplarınızı, uygulama verilerinizi ve diğer öğeleri cihazınızda depolanan ayrı bir dosyaya kaydedin (MIUI-backup-AllBackup). Not: Fabrika ayarlarına sıfırlama yapmak bu tür yedeklemeleri kalıcı olarak siler. Yedekleri bilgisayarınıza kopyalamayı unutmayın
 
 Bilgisayar
@@ -5579,7 +5579,7 @@ Xiaomi bulut
 Kişilerinizi, fotoğraflarınızı, videolarınızı, uygulama listenizi, sistem ayarlarınızı ve ana ekran düzeninizi bulutla senkronize edin"</string>
     <string name="pad_how_restore_backup_content">"Farklı yöntemlerle yedeklenmiş öğeleri şu şekilde geri yükleyebilirsiniz:
 
-Mobil cihaz
+Mobil
 Mobil cihaza dokunun, öğeleri geri yükleme seçeneğini bulun ve devam etmek için yedeklemeyi seçin
 
 Bilgisayar
@@ -5718,7 +5718,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin"</string>
     <string name="personal_section_title">Kişiselleştirme</string>
     <string name="personalize_title">Duvar kağıdı &amp; kişiselleştirme</string>
     <string name="phone_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
-    <string name="phone_backup_title">Mobil cihaz</string>
+    <string name="phone_backup_title">Mobil</string>
     <string name="phone_call_noise_suppression">Arama sırasında gürültü engelleme</string>
     <string name="phone_language">Diller</string>
     <string name="photo_data">Fotoğraf ve videolar</string>

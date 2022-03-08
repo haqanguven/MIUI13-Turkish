@@ -31,11 +31,11 @@
     <string name="add_sound">Özel hazır ayar ekle</string>
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">Mi ayarlar</string>
+    <string name="app_name">Kulaklık</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="apply_sound">Uygula</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
-    <string name="bottomsheet_action_expand_halfway">Expand halfway</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="can_you_here">Sesi duyuyor musun?</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
@@ -132,7 +132,7 @@
     <string name="dolby_dax_profile_dynamic">Dinamik</string>
     <string name="dolby_dax_setting">Dolby efektler</string>
     <string name="dolby_dax_title">Surround ses</string>
-    <string name="early_morning">ÖÖ</string>
+    <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
     <string name="earthly_branches_hai">22</string>
@@ -148,6 +148,8 @@
     <string name="effect_3dsurround">Surround ses</string>
     <string name="effect_3dsurround_summary">Kulaklıklar ve hoparlörler için ses üretiminin derinliğini artırın</string>
     <string name="effect_3dsurround_summary_headphone">Kulaklıklar için ses üretiminin derinliğini artırın</string>
+    <string name="effect_virtual_surround">Sanal sürükleyici ses</string>
+    <string name="effect_virtual_surround_summary">Kulaklıklarda ses ve video oynatma için ses derinliğini zenginleştirin (Bu özellik %.1f ses oynatıldığında çalışmaz)</string>
     <string name="empty" />
     <string name="end_wireless_transmission">Durdur</string>
     <string name="eq_auto">Özel</string>

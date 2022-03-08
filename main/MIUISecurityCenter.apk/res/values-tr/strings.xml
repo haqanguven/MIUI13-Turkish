@@ -1073,7 +1073,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_main_netcheck_title">Ağı test et</string>
     <string name="card_main_optimize_manage_action">Şimdi hızlandır</string>
     <string name="card_main_optimize_manage_summary">Önbelleği temizleyin ve cihazınızı hızlandırın</string>
-    <string name="card_main_optimize_manage_title">Hızı arttır</string>
+    <string name="card_main_optimize_manage_title">Hızlandır</string>
     <string name="card_main_overscroll_tips">Güvenlik en iyi haliyle</string>
     <string name="card_main_private_space_action">Oluştur</string>
     <string name="card_main_private_space_summary">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
@@ -1236,7 +1236,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="cpu_usage_android_system">Android sistemi</string>
     <string name="cpu_usage_process_run_time_little_time">1 dakikadan az</string>
     <string name="cpu_usage_process_run_time_little_time_new">Less than %d minute</string>
-    <string name="cpu_usage_view_action_btn_text">Görüntülemek için dokunun</string>
+    <string name="cpu_usage_view_action_btn_text">Görüntüle</string>
     <string name="create_gamebooster_destop">Ana ekran kısayolu başarıyla oluşturuldu</string>
     <string name="create_shortcut">Oyun hız arttırıcı için Ana ekran kısayolu oluştur</string>
     <string name="create_table_aaid">CREATE TABLE AAID( _id INTEGER PRIMARY KEY AUTOINCREMENT, package_name TEXT NOT NULL, aaid TEXT NOT NULL );</string>
@@ -3153,7 +3153,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="operator_number_cmcc">10086</string>
     <string name="operator_number_telcom">10000</string>
     <string name="operator_number_unicom">10010</string>
-    <string name="optimize_manage_title">Hızı arttır</string>
+    <string name="optimize_manage_title">Hızlandır</string>
     <string name="optimize_result_available_memory_info">Kullanılabilir bellek:</string>
     <string name="optimize_result_button_cloudspace">Bulut depolama alanı ekle</string>
     <string name="optimize_result_button_consume_power_analysis">Pili tara</string>
@@ -3724,7 +3724,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_app_lock_introduction">Ek ekran kilidi</string>
     <string name="pp_app_permission_settings">Uygulama izinleri</string>
     <string name="pp_app_permission_settings_detail">Uygulamaların gizlilikle ilgili izinleri kullanmasına izin verin</string>
-    <string name="pp_app_reads_clipboard_smart_reminder">Panoyu koruma</string>
+    <string name="pp_app_reads_clipboard_smart_reminder">Pano koruma</string>
     <string name="pp_app_reads_clipboard_smart_reminder_detail">MIUI uygulamaların panonuza erişmesine izin verilip verilmediğine karar verecektir. Bunu yaptıklarında bir bildirim alırsınız</string>
     <string name="pp_app_warning_permission_tips">Uygulama davranışı bildirimleri</string>
     <string name="pp_app_warning_permission_tips_detail">Uygulamalar konumunuza eriştiğinde, ses kaydettiğinde veya kamera kullandığında bildirim alın</string>
@@ -3765,7 +3765,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_privacy_input_tips">Klavyenizi koruyun</string>
     <string name="pp_privacy_lab_blur_location">Yaklaşık konum</string>
     <string name="pp_privacy_lab_blur_location_summary">Konum bilginizi kişiselleştirerek uygulamaların yaklaşık konumunuza erişmesine izin verin</string>
-    <string name="pp_privacy_lab_clipboard">Panoyu koru</string>
+    <string name="pp_privacy_lab_clipboard">Pano koruma</string>
     <string name="pp_privacy_lab_clipboard_summary">"MIUI'nin bir uygulamanın panoya erişip erişemeyeceğine ve eriştiğinde bildirim alıp alamayacağına karar vermesine izin verin"</string>
     <string name="pp_privacy_lab_operator_get_number">Telefon numarasına erişim</string>
     <string name="pp_privacy_lab_operator_get_number_summary">Uygulamaların oturum açmak için telefon numaranıza erişmek istediklerinde sizden izin istemelerini isteyin</string>

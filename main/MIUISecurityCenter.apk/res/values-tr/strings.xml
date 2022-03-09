@@ -310,6 +310,7 @@
     <string name="app_behavior_key_camera">Fotoğraf çekme</string>
     <string name="app_behavior_key_location">Konum</string>
     <string name="app_behavior_key_protect">Kişisel bilgileri koru</string>
+    <string name="app_behavior_kill_process">@string/menu_item_force_stop</string>
     <string name="app_behavior_link_start">Tetiklenmiş başlangıç</string>
     <string name="app_behavior_list_load_more">Daha fazla</string>
     <string name="app_behavior_location">%1s konum bilgisi almaya çalıştı</string>
@@ -485,6 +486,7 @@
     <string name="app_manager_manage_space">Alan yönetimi</string>
     <string name="app_manager_memory">Ram</string>
     <string name="app_manager_menu_clear_data">Verileri temizle</string>
+    <string name="app_manager_mobile_slot">Mobile veri (Sim %d)</string>
     <string name="app_manager_mobile_slot1">Mobil veri (Sim 1)</string>
     <string name="app_manager_mobile_slot2">Mobil veri (Sim 2)</string>
     <string name="app_manager_net_control_title">Veri kullanımını kısıtla</string>
@@ -663,6 +665,9 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="applock_gulide_third_part">Oturumu kapattığınızda hesap kaldırılacak</string>
     <string name="applock_header_text_less_than_half">Çok küçük. Biraz daha sürükleyin</string>
     <string name="applock_lock_all">Tümünü kilitle</string>
+    <string name="applock_lock_mode_locked">Cihaz kilitlendiğinde</string>
+    <string name="applock_lock_mode_locked_or_exit">Cihaz kilitlendiğinde veya uygulamadan çıktıktan sonra</string>
+    <string name="applock_lock_mode_locked_or_exit_or_wait">Cihaz kilitlendiğinde veya uygulamadan çıktıktan sonra %d dakika içinde</string>
     <string name="applock_login_and_add_account">Oturum aç &amp; ekle</string>
     <string name="applock_mixtype_hidepwd_icon">Gizle</string>
     <string name="applock_mixtype_showpwd_icon">Göster</string>
@@ -748,14 +753,14 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_task_default_task_summary_save_power">"Pil %s'den düşük olduğunda pil tasarrufunu açın"</string>
     <string name="auto_task_default_task_summary_sleep">Uyku vaktini planlayın ve cihaz davranışını özelleştirin</string>
     <string name="auto_task_default_task_summary_watch_video">Uygulamayı açın, wifi ağını açın ve ses seviyesini ayarlayın</string>
-    <string name="auto_task_default_task_title_driver_car">Sürücü</string>
-    <string name="auto_task_default_task_title_get_up">Uyanma</string>
-    <string name="auto_task_default_task_title_listen_music">Müzik dinleme</string>
-    <string name="auto_task_default_task_title_meet">Toplantı</string>
-    <string name="auto_task_default_task_title_noon_break">Gün</string>
-    <string name="auto_task_default_task_title_save_power">Pilden tasarruf edin</string>
-    <string name="auto_task_default_task_title_sleep">Uyku</string>
-    <string name="auto_task_default_task_title_watch_video">Videoları izle</string>
+    <string name="auto_task_default_task_title_driver_car">Araç modu</string>
+    <string name="auto_task_default_task_title_get_up">Uyanma modu</string>
+    <string name="auto_task_default_task_title_listen_music">Müzik modu</string>
+    <string name="auto_task_default_task_title_meet">Toplantı modu</string>
+    <string name="auto_task_default_task_title_noon_break">Dinlenme modu</string>
+    <string name="auto_task_default_task_title_save_power">Pil tasarrufu modu</string>
+    <string name="auto_task_default_task_title_sleep">Uyku modu</string>
+    <string name="auto_task_default_task_title_watch_video">Video modu</string>
     <string name="auto_task_delete_task">Görevi sil</string>
     <string name="auto_task_dialog_button_close">Tamamlandı</string>
     <string name="auto_task_disconnect_to_some_device">%s ile bağlantıyı kes</string>
@@ -1079,6 +1084,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="card_main_private_space_summary">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
     <string name="card_main_private_space_title">İkinci alan</string>
     <string name="card_main_sectool_title">Araçlar</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_xspace_action">Oluştur</string>
     <string name="card_main_xspace_summary">Dilediğiniz uygulama için çift hesap oluşturun</string>
     <string name="card_main_xspace_title">Çift uygulamalar</string>
@@ -2003,6 +2009,7 @@ gönüllüsü"</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
     <string name="gamebox_brightness">Parlaklık</string>
     <string name="gamebox_browser_not_find">Önce Mi tarayıcıyı yükleyin</string>
+    <string name="gamebox_bullet_chat">Ekran yorumları</string>
     <string name="gamebox_collimator">Görüş</string>
     <string name="gamebox_display_1">Yok</string>
     <string name="gamebox_display_2">Doygunluk</string>
@@ -2104,6 +2111,10 @@ gönüllüsü"</string>
     <string name="gb_dialog_record_way_ai">AI kayıtları oyun kutusuna kaydedilir ve 7 gün boyunca orada saklanır</string>
     <string name="gb_dialog_record_way_finish">Bitti</string>
     <string name="gb_dialog_record_way_manual">El ile 30 saniyeye kadar video kaydedin</string>
+    <string name="gb_dialog_record_way_manual_desc" formatted="false">Oyun oturumu sırasında manuel olarak %d-%d saniye video kaydedin</string>
+    <string name="gb_dialog_record_way_setting_tip_one">Artan güç tüketimi ve gecikme</string>
+    <string name="gb_dialog_record_way_setting_tip_title">Bu özellik aşağıdaki sorunlara neden olabilir:</string>
+    <string name="gb_dialog_record_way_setting_tip_two">Diğer ekran kaydedicilerle çakışmalar</string>
     <string name="gb_dialog_record_way_setting_tips">Not: Oyun videoları kaydetme gecikmeye neden olabilir. Güç tüketiminide arttırabilir</string>
     <string name="gb_dialog_record_way_title">Kayıt yöntemini seçin</string>
     <string name="gb_dialog_wlan_wifi_weak">460 milisaniye</string>
@@ -2133,6 +2144,7 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_game_video_page_null">Oyun oturumlarınızın önemli anlarını kaydedin</string>
     <string name="gb_game_video_record_finish_tips">Video başarıyla kaydedildi</string>
     <string name="gb_game_video_save">Kaydet</string>
+    <string name="gb_game_video_save_tip">Kaydedildi</string>
     <string name="gb_game_video_type_ai">AI</string>
     <string name="gb_game_video_type_ai_record">AI kaydı</string>
     <string name="gb_game_video_type_manual">El ile</string>
@@ -2145,6 +2157,7 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_gpu_driver_update_app_tips">Mevcut sürüm güncel</string>
     <string name="gb_have_signed">Bugün yer bildirimi yapıldı</string>
     <string name="gb_manual_record_dialog_del_video_message">Seçilen videolar kalıcı olarak silinsin mi?</string>
+    <string name="gb_manual_video_record_title">Kayıtlar</string>
     <string name="gb_msg_completely_shielded">Mesajları gizle</string>
     <string name="gb_msg_completely_shielded_summary">Gizle</string>
     <string name="gb_msg_not_shielded_summary">Göster</string>
@@ -2154,9 +2167,6 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_msg_transparent_dispaly_summary">Şeffaf</string>
     <string name="gb_network_status_bad">Bir bağlantı hatası oluştu</string>
     <string name="gb_new_feature">Yeni özellik</string>
-    <string name="gb_ngtb_cpu">CPU</string>
-    <string name="gb_ngtb_fps">FPS</string>
-    <string name="gb_ngtb_gpu">GPU</string>
     <string name="gb_not_support_on_device">Bu uygulama dış ekranda kullanılamaz</string>
     <string name="gb_operat_frequently">Çok hızlı değil</string>
     <string name="gb_performance_balance">Dengeli mod</string>
@@ -2167,13 +2177,22 @@ düşürürken güç tasarrufu sağlar"</string>
     <string name="gb_performance_tips">"Performans modu telefon performansını artırabilir
 Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kullanım önerilmemektedir"</string>
     <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
+    <string name="gb_shoulder_guide_message1">Açılır tetikleyici aracılığıyla kullanmak için [L] öğesini herhangi bir işlevsel konuma getirin</string>
+    <string name="gb_shoulder_guide_message2">Eylem [1] düğmeye basılarak etkinleştirilir. Eylem [2] düğme bırakılarak etkinleştirilir</string>
+    <string name="gb_shoulder_guide_tips1">Araç kutusunu açın ve açılır tetikleyicileri yapılandırın</string>
+    <string name="gb_shoulder_guide_title1">Eylem</string>
+    <string name="gb_shoulder_guide_title2">Sekans</string>
     <string name="gb_shoulder_key">Omuz düğmeleri</string>
     <string name="gb_shoulder_key_add_show_btn">Oyunlar sırasında sanal düğmeleri göster</string>
     <string name="gb_shoulder_key_add_tips">[L] ve [R] düğmelerini herhangi bir işlevsel konuma getirin ve omuz düğmeleriyle kullanın</string>
     <string name="gb_shoulder_key_btn_cancel">İptal et</string>
     <string name="gb_shoulder_key_btn_save_exit">Kaydet</string>
     <string name="gb_shoulder_key_circle_left">L</string>
+    <string name="gb_shoulder_key_circle_left_sub1">L1</string>
+    <string name="gb_shoulder_key_circle_left_sub2">L2</string>
     <string name="gb_shoulder_key_circle_right">R</string>
+    <string name="gb_shoulder_key_circle_right_sub1">R1</string>
+    <string name="gb_shoulder_key_circle_right_sub2">R2</string>
     <string name="gb_shoulder_key_dialog_message">Oyun oynamadığınız zamanlarda oyun hızlandırıcıyı başlatmak için her iki omuz düğmesini aynı anda kullanabilirsiniz</string>
     <string name="gb_shoulder_key_dialog_txt">Omuz düğmelerini kullanarak oyun hızlandırıcıyı açabilirsiniz</string>
     <string name="gb_shoulder_key_guide_btn_done">Anladım</string>
@@ -2189,6 +2208,14 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_shoulder_key_settings_summary">Oyunlar sırasında onlara atadığınız özellikler için omuz düğmelerini kullanın</string>
     <string name="gb_shoulder_key_settings_title">Oyun hızlandırıcı için omuz düğmelerini kullanın</string>
     <string name="gb_shoulder_key_settings_title_new">Oyun hızlandırıcı hızlı başlangıç</string>
+    <string name="gb_shoulder_set_left_right">Kur [%s]</string>
+    <string name="gb_shoulder_set_title">Bunları yapılandırmak için açılır tetikleyicileri açın</string>
+    <string name="gb_shoulder_set_title2">[%s] öğesini herhangi bir işlevsel konuma taşıyın ve açılır tetikleyici aracılığıyla kullanın</string>
+    <string name="gb_shoulder_single_trigger">Eylem</string>
+    <string name="gb_shoulder_subsection_down">Bas</string>
+    <string name="gb_shoulder_subsection_trigger">Sekans</string>
+    <string name="gb_shoulder_subsection_up">Serbest bırak</string>
+    <string name="gb_shoulder_update_left_right">%s düzenle</string>
     <string name="gb_sign_gift">Ödül kazanmak için yer bildirimi yapın</string>
     <string name="gb_sign_gift_button_text">Al</string>
     <string name="gb_sign_notification_summary">Xunyou hızlandırıcı almak için her gün yer bildirimi yapın</string>
@@ -3145,6 +3172,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_now">Mobil veriyi kullan</string>
     <string name="open_right_now">Kırmızı zarfları derhal tut</string>
     <string name="open_right_now_short">Hemen kap</string>
+    <string name="open_shut_down_password">@string/ew_guide_start_agree</string>
     <string name="operator_name_cmcc">Çin Mobil</string>
     <string name="operator_name_mi_mobile">Mi Mobil</string>
     <string name="operator_name_telcom">Çin Telekom</string>
@@ -4256,6 +4284,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="result_sms_title_antispam">Kötü niyetli mesajlar tehtit altında</string>
     <string name="result_sms_title_auth">Finansal mesaj sızma tehlikesi mevcut</string>
     <string name="result_wifi_header">Wifi riskleri tespit edildi</string>
+    <string name="resume">Geri yükle</string>
     <string name="right_precent">%100</string>
     <string name="risk_app_install_agree_button">Bu uygulamaya güven</string>
     <string name="risk_app_install_agree_checkbox">Olası tüm riskleri almaya hazırım</string>
@@ -5312,6 +5341,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_flow_rank">Mobil veri kullanımı</string>
     <string name="title_flow_verify">Hesaplamaları karşılaştır</string>
     <string name="title_flow_verify_failed">5 gün boyunca ayarlanamadı</string>
+    <string name="title_flow_verify_failed_new">Arka arkaya %d gün ayarlanamadı</string>
     <string name="title_garbage_clean">Uygulama önbellek boyutu aşıldı: %s</string>
     <string name="title_garbage_less">Uygulama önbelleği küçük</string>
     <string name="title_garbage_lib">Çöp veritabanını güncelle</string>
@@ -5609,6 +5639,7 @@ Bu özellik hareket yumuşatma ile çalışmaz
 Çözünürlüğü yükseltmeyi deneyin"</string>
     <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını gerektirir</string>
     <string name="verify_shut_down_password_title">Kapatma onayı</string>
+    <string name="verify_sms_cancel">@string/cancel_button</string>
     <string name="verify_sms_ensure_allow">Gönder</string>
     <string name="verify_sms_title">%1$s bir ileti göndermeye çalışıyor</string>
     <string name="video_repeat">Tekrar oynat</string>

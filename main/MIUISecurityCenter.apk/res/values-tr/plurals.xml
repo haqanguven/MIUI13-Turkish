@@ -257,6 +257,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%2$d oyunu kaldır (%1$s dahil)</item>
         <item quantity="one">%2$d oyunu kaldır (%1$s dahil)</item>
     </plurals>
+    <plurals name="gb_dialog_record_way_ai_desc">
+        <item quantity="other">Önemli anları otomatik olarak kaydedin ve oturumun öne çıkan noktalarıyla videolar oluşturun. Her oyun oturumundan sonra bunları kalıcı olarak kaydetmeyi seçebilirsiniz. Kaydedilmemiş videolar %1$d gün sonra otomatik olarak silinecek</item>
+        <item quantity="one">Önemli anları otomatik olarak kaydedin ve oturumun öne çıkan noktalarıyla videolar oluşturun. Her oyun oturumundan sonra bunları kalıcı olarak kaydetmeyi seçebilirsiniz. Kaydedilmemiş videolar %1$d gün sonra otomatik olarak silinecek</item>
+    </plurals>
     <plurals name="gb_game_video_ai_record_finish_tips">
         <item quantity="other">%d AI kaydı oyun hızlandırıcıya kaydedildi</item>
         <item quantity="one">%d AI kaydı oyun hızlandırıcıya kaydedildi</item>

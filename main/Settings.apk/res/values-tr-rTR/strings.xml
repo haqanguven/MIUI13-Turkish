@@ -3010,7 +3010,7 @@ Daha ayrıntılı bilgi için kuruluş yöneticinizle iletişime geçin"</string
     <string name="external_ram_dialog_btn_cancel">Sonra</string>
     <string name="external_ram_dialog_btn_ok">Yeniden başlat</string>
     <string name="external_ram_dialog_icon_confirm">Tamam</string>
-    <string name="external_ram_dialog_icon_info">"Sistem Ram'i %1$s %2$s arttıracak"</string>
+    <string name="external_ram_dialog_icon_info">"Sistem Ram'i %1$s %2$s arttırdı"</string>
     <string name="external_ram_dialog_icon_title">Bellek arttırma</string>
     <string name="external_ram_dialog_message">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
     <string name="external_ram_dialog_title">Cihazı yeniden başlatın</string>

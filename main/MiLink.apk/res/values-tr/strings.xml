@@ -63,9 +63,10 @@ bulamıyor musunuz?"</string>
     <string name="appcirculate_toast_cancel">İptal et</string>
     <string name="appcirculate_toast_fail">Hata</string>
     <string name="appcirculate_toast_loading">Yükleniyor</string>
-    <string name="appcirculate_toast_not_support_device_pad">Dizüstü</string>
-    <string name="appcirculate_toast_not_support_device_pc">Bilgisayar</string>
-    <string name="appcirculate_toast_not_support_device_tv">Televizyon</string>
+    <string name="appcirculate_toast_not_support_device_pad">Bu uygulama tabletlerde açılamıyor</string>
+    <string name="appcirculate_toast_not_support_device_pc">"Bu uygulama bilgisayarlarda açılamıyor"</string>
+    <string name="appcirculate_toast_not_support_device_tv">"Bu uygulama TV'lerde açılamıyor"</string>
+    <string name="appcirculate_toast_not_support_device_tv_connected">"Bu TV'ye zaten bağlı"</string>
     <string name="appcirculate_toast_success_1">Başarılı oldu</string>
     <string name="appcirculate_toast_success_2">Özel modda yayınlanıyor</string>
     <string name="appcirculate_toast_success_3">Ekran görüntüsü başarıyla yayınlandı</string>
@@ -239,6 +240,10 @@ bulamıyor musunuz?"</string>
     <string name="close">Kapat</string>
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
     <string name="close_hotspot_hint_DFS">"TV'ye akış yapmak için önce etkin noktayı kapatın"</string>
+    <string name="close_invisible_mode_dialog_cancel">İptal et</string>
+    <string name="close_invisible_mode_dialog_message">Mi Smart Play şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
+    <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
+    <string name="close_invisible_mode_dialog_title">Gizlisin</string>
     <string name="close_slave_wifi_hint">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
     <string name="close_slave_wifi_hint_china">Yansıtmadan önce yardımcı wifi ağları ile bağlantıyı kesin</string>
     <string name="config_wifi_label_china">MiPaiPai wifi ağını yapılandırın</string>
@@ -523,6 +528,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
 4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası listede yoksa, yansıtma işlevi hakkında daha fazla bilgi almak için üretici ile iletişime geçin</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="invisible_mode_dialog_content">Gizli moddayken yayınlamayı kullanamazsınız. Önce Gizli modu kapatın</string>
+    <string name="invisible_mode_dialog_content_audio_relay">Gizli moddayken oynatma aktarılamaz. Önce Gizli modu kapatın</string>
+    <string name="invisible_mode_dialog_pos">Kapat</string>
+    <string name="invisible_mode_dialog_title">Gizlisin</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
     <string name="menu_new_display_open">Yeni pencerede aç</string>

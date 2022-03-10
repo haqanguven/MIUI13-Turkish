@@ -314,7 +314,8 @@
     <string name="friday_shortest">Cum</string>
     <string name="function_not_support">Bu özellik desteklenmiyor</string>
     <string name="game_booster">Oyun hız arttırıcı</string>
-    <string name="gamebooster_network_dialog_message">Güvenlik uygulamasına oyun hız arttırmanın tüm özelliklerini kullanmak için ağa bağlanma izni verilsin mi?</string>
+    <string name="gamebooster_network_dialog_message">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
+    <string name="gamebooster_network_dialog_message_pad">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
     <string name="gamebox_no_network_btn">Yeniden yükle</string>
     <string name="gb_adv_touch_adv_title">Klasik mod (Varsayılan)</string>
@@ -362,6 +363,7 @@
     <string name="gb_game_speed_closed_fail">Işık hızı modu kapatılamadı</string>
     <string name="gb_game_speed_open">Işık hızı modu açık</string>
     <string name="gb_game_speed_open_fail">Işık hızı modu açılamadı</string>
+    <string name="gb_global_settings">Genel ayarlar</string>
     <string name="gb_gpu_control_anisotropic_filtering">Anizotropik filtreleme</string>
     <string name="gb_gpu_control_anti_aliasing">Kenar yumuşatma</string>
     <string name="gb_gpu_control_fps">Kare hızı</string>
@@ -393,6 +395,9 @@
     <string name="gb_pannel_control_mode_high_quality">Yüksek kalite</string>
     <string name="gb_pannel_control_mode_normal">Varsayılan</string>
     <string name="gb_pannel_control_mode_power_saving">Güç tasarrufu</string>
+    <string name="gb_webwindow_schemedialog_accept">Aç</string>
+    <string name="gb_webwindow_schemedialog_cancel">İptal et</string>
+    <string name="gb_webwindow_schemedialog_title">Oyunlar şimdi açılsın mı?</string>
     <string name="gb_weixinpay_can_not_complete">Ödeme tamamlanamıyor. Devam etmek için yükleyin</string>
     <string name="gcm_defaultSenderId">496841722182</string>
     <string name="gdpr_msg">"&lt;Data>Güvenlik uygulamasının temel özelliklerini kullanabilmek için Xiaominin güvenlik uygulamasının özelliklerini kullanım şekliniz de dahil olmak üzere (Örneğin: Mobil veri kullanım istatistikleri, zararlı yazılım bilgileri ve aynı zamanda cihazınız hakkındaki temel bilgiler) kişisel verilerinizi ve &lt;a href=\"https://privacy.mi.com/all/%1$s_%2$s\">Gizlilik politikası&lt;/a>nda belirtmiş olduğumuz diğer tür bilgileri toplayacağını, işleyeceğini ve kullanacağını kabul etmeniz gerekmektedir&lt;/Data>"</string>

@@ -63,6 +63,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="account_permission_dialog_title">İzni geri al</string>
     <string name="account_permission_private_policy">Gizlilik politikası</string>
     <string name="account_permission_user_privacy">Son kullanıcı lisans sözleşmesi</string>
+    <string name="account_provider_uri">content://com.android.email.provider/uiaccts</string>
     <string name="account_security_dialog_content_fmt">"%s hesabının güvenlik ayarlarını
          güncellemeniz gerekmektedir"</string>
     <string name="account_security_dialog_title">Güvenlik güncellemesi</string>
@@ -89,6 +90,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="account_settings_description_label">Hesap adı</string>
     <string name="account_settings_display">Ekran</string>
     <string name="account_settings_does_not_support_pop">POP3 protokolü bu öğenin ayarlanmasını desteklemiyor</string>
+    <string name="account_settings_does_not_support_pop_attachment">POP3 ekleri otomatik olarak indirebilir ancak düzenlenemez</string>
     <string name="account_settings_edit_quick_responses_label">Hızlı yanıt</string>
     <string name="account_settings_edit_quick_responses_summary">E-postalara yapıştırılacak kısa mesajları düzenle</string>
     <string name="account_settings_enable_account_smime">account_settings_enable_account_smime</string>
@@ -166,6 +168,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="account_setup_correct_address_tips">E-posta adresini girin</string>
     <string name="account_setup_creating_account_msg">"    Hesap oluşturuluyor"</string>
     <string name="account_setup_deleting_account_msg">"    Hesap kaldırılıyor"</string>
+    <string name="account_setup_domain_invalid_toast">Geçerli bir e-posta alanı girin</string>
     <string name="account_setup_exchange_certificate_title">İstemci sertifikası</string>
     <string name="account_setup_exchange_no_certificate">Yok</string>
     <string name="account_setup_failed_auth_required">Kimlik doğrulama yöntemleri sunucu tarafından desteklenmez</string>
@@ -296,6 +299,9 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="attachment_decoding">Eklenti paketleri açılıyor</string>
     <string name="attachment_detail_empty_prompt">Dosyaları seçin</string>
     <string name="attachment_download_all">Tümünü indir</string>
+    <string name="attachment_drag_add_inline">Yerleştir</string>
+    <string name="attachment_drag_add_picture_prompt">Seçilen resimleri yerleştirmek veya eklemek ister misiniz?</string>
+    <string name="attachment_drag_create_email_prompt">Seçilen dosyalar yeni bir e-postaya eklensin mi?</string>
     <string name="attachment_image">Resim</string>
     <string name="attachment_list_search_hint">Ekleri ara</string>
     <string name="attachment_mgr_name">Eklentiler</string>
@@ -341,6 +347,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="bill_remind">Geri ödeme hatırlatıcı</string>
     <string name="bill_remind_due">%s tarihli bir geri ödemeniz var. Görüntülemek için dokunun</string>
     <string name="blank_feedback_toast">Geri bildirim yazmanız gerekmektedir</string>
+    <string name="blank_place_holder">　</string>
     <string name="body_forward_email_text">[İlet]</string>
     <string name="body_hint">E-posta oluştur</string>
     <string name="body_inline_pic_text">[Resim]</string>
@@ -471,15 +478,22 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="click_download_all_content">[ İndirmek için dokunun ]</string>
     <string name="click_to_reload">Yenilemek için ekrana dokunun</string>
     <string name="close">Kapat</string>
+    <string name="close_custom_folder">Alt klasörleri gizle</string>
     <string name="collapse_recipient_details">Alıcı ayrıntılarını daralt</string>
     <string name="colon">:</string>
+    <string name="command_139_mail_open_pop3_imap">KQ</string>
     <string name="compose">Oluştur</string>
     <string name="compose_add_attachment_permission_denied">E-posta yönlendirilemiyor. Harici depolamaya erişim izinleri gerekli</string>
+    <string name="compose_encrypt_lock_description">Şifrele</string>
+    <string name="compose_encrypt_unlock_description">Şifreyi çöz</string>
+    <string name="compose_encrypt_unlock_w_description">Güvenilir bir kişi değil</string>
     <string name="compose_event">Davetiye</string>
     <string name="compose_paste_address_oob">Çok fazla karakter</string>
     <string name="compose_picturesexceedlimits">Bir iletide 5 satır-içi resim miktarı aşılamıyor</string>
     <string name="compose_send">Gönder</string>
     <string name="compose_sent">E-posta gönderildi</string>
+    <string name="compose_smime_sign_description">İmza uygula</string>
+    <string name="compose_smime_unsign_description">İmzayı kaldır</string>
     <string name="compose_to_label">Kime</string>
     <string name="compress_failed_and_retry">Sıkıştıramadı. Tekrar deneyin</string>
     <string name="compress_img">Görüntüleri sıkıştır</string>
@@ -581,8 +595,13 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="default_signature">Mi telefonumdan gönderildi</string>
     <string name="default_signature_2">%s cihazımdan gönderildi</string>
     <string name="default_signature_pad">"Mi Pad'imden gönderildi"</string>
+    <string name="default_signature_phone">Mi telefonumdan gönderildi</string>
     <string name="delete">Sil</string>
     <string name="delete_contact_content">Bu kişi şimdi silinsin mi?</string>
+    <string name="delete_message_dialog_content">Bu e-postayı silmek ve göndereni engellemek ister misiniz?</string>
+    <string name="delete_message_dialog_left_button">Sil ve engelle</string>
+    <string name="delete_message_dialog_right_button">Sadece sil</string>
+    <string name="delete_message_dialog_title">E-posta siliniyor</string>
     <string name="delete_message_event">Bu davetiye silinsin mi?</string>
     <string name="deleted">Silindi</string>
     <string name="device_activity_btn_str">Etkinleştir</string>
@@ -654,10 +673,8 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="edit_signature">İmzayı düzenle</string>
     <string name="editor_max_length_limit_hint">Girdiğiniz mesaj çok uzun</string>
     <string name="elided_padding_token"> </string>
-    <string name="email_feedback_uri" />
     <string name="email_netease">NetEase posta</string>
     <string name="email_no_snippet">[Bu mesajın gövde metni yok]</string>
-    <string name="email_package_name">com.android.email</string>
     <string name="email_qq">QQ posta</string>
     <string name="email_sina">Sina posta</string>
     <string name="email_suggestions_authority">com.android.email.provider</string>
@@ -676,7 +693,37 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="error">Hata</string>
-    <string name="error_icon_content_description">Error</string>
+    <string name="error_icon_content_description">Hata</string>
+    <string name="error_message_account_or_password">Hesap kimliği veya parolası yanlış</string>
+    <string name="error_message_auth_error">Oturum açmak için bir doğrulama kodu kullanın</string>
+    <string name="error_message_blacklist">Hesabınız engellenenler listesine eklendi. Bu sorunu çözmek için e-posta servis sağlayıcınıza başvurun</string>
+    <string name="error_message_imap_or_pop3_service_not_open">"IMAP veya POP3'ü açın ve tekrar deneyin"</string>
+    <string name="error_message_imap_service_not_open">"IMAP'yi açın ve tekrar deneyin"</string>
+    <string name="error_message_outlook_error">Önce outlookun internet sürümünde kimliğinizi doğrulayın</string>
+    <string name="error_message_respond_revert_01">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_02">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_03">Bu alan adı mevcut değil. Bağlantıyı kontrol edin ve tekrar deneyin</string>
+    <string name="error_message_respond_revert_04">@string/error_message_auth_error</string>
+    <string name="error_message_respond_revert_05">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_06">Girdiğiniz şifre yanlış</string>
+    <string name="error_message_respond_revert_07">Kimliğiniz doğrulanamadı. Oturum açmak için bir doğrulama kodu kullanın</string>
+    <string name="error_message_respond_revert_08">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_09">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_10">@string/error_message_imap_or_pop3_service_not_open</string>
+    <string name="error_message_respond_revert_11">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_12">@string/error_message_blacklist</string>
+    <string name="error_message_respond_revert_14">@string/error_message_outlook_error</string>
+    <string name="error_message_respond_revert_15">@string/error_message_blacklist</string>
+    <string name="error_message_respond_revert_16">Parolanızın süresi doldu. Şifrenizi güncelleyin ve tekrar oturum açın</string>
+    <string name="error_message_respond_revert_17">@string/error_message_imap_service_not_open</string>
+    <string name="error_message_respond_revert_18">@string/error_message_outlook_error</string>
+    <string name="error_message_respond_revert_19">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_20">@string/error_message_auth_error</string>
+    <string name="error_message_respond_revert_21">"POP3'ü açın ve tekrar deneyin"</string>
+    <string name="error_message_respond_revert_22">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_23">@string/error_message_account_or_password</string>
+    <string name="error_message_respond_revert_24">@string/error_message_blacklist</string>
+    <string name="error_message_respond_revert_25">Ağ bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="evening">Öğleden sonra</string>
     <string name="exception_cancel">"
         Bu etkinlik için
@@ -795,6 +842,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="folder_list_current_account">Geçerli posta kutusu</string>
     <string name="folder_list_display_all">Tüm klasörleri göster</string>
     <string name="folder_list_display_only_import">Yalnızca önemli klasörleri görüntüleme</string>
+    <string name="folder_list_switch_account">Değiştir</string>
     <string name="folder_no_mails">Bu klasörde e-posta yok</string>
     <string name="folder_notification_setting_tip">Gelen kutunuzda birden fazla klasör var. Belirli klasörlerdeki yeni mesajlarla ilgili bildirimleri ayarlayın</string>
     <string name="folder_picker_title">Klasörleri seçin</string>
@@ -850,6 +898,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="from_heading">"Başlangıç: "</string>
     <string name="general_preference_confirm_delete_label">Silmeden önce onayla</string>
     <string name="general_preference_confirm_send_label">Göndermeden önce onayla</string>
+    <string name="general_preference_delete_message_prompt_title">Silmeden önce sor</string>
     <string name="general_preference_load_picture">Çevrimiçi resimleri yükle</string>
     <string name="general_preference_str_auto_translation">Hızlı çeviri</string>
     <string name="general_preference_str_auto_translation_prompt">Çeviriyi görmek için metni kopyalayın</string>
@@ -927,7 +976,8 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="intent_account_manager_entry">com.android.email.activity.setup.ACCOUNT_MANAGER_ENTRY</string>
     <string name="intent_exchange_package">com.android.exchange</string>
     <string name="interact_with_server_error">Sunucuya bağlanılamadı</string>
-    <string name="invalid_recipient">%s adresi geçersizdir</string>
+    <string name="invalid_recipient_dialog_message">Geçerli bir alıcı e-posta adresi girin</string>
+    <string name="invalid_recipient_dialog_title">Gönderilemedi</string>
     <string name="invalid_recipient_title">Alıcı hatası</string>
     <string name="invoice_card_amount">Miktar</string>
     <string name="invoice_card_buyer">Alıcı</string>
@@ -1112,6 +1162,8 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="mibill_privacy_policy_title">Faturaları otomatik olarak yönet</string>
     <string name="midnight">Gece</string>
     <string name="min_payment_text">Minimum ödeme</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -1126,6 +1178,8 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1298,6 +1352,7 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="one_month">1 ay</string>
     <string name="one_week">1 hafta</string>
     <string name="open_calendar_and_contacts_permission">E-posta uygulamasına ayarlar menüsünde takvim bilgilerine erişim izni verin</string>
+    <string name="open_custom_folder">Alt klasörleri göster</string>
     <string name="open_external_storage_and_calendar_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına erişim izni verin</string>
     <string name="open_external_storage_and_contacts_and_calendar_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına, kişilere ve takvim bilgilerine erişim izni verin</string>
     <string name="open_external_storage_and_contacts_permission">E-posta uygulamasına ayarlar menüsünde depolama alanına ve kişilere erişim izni verin</string>
@@ -1359,9 +1414,12 @@ Farklı bir e-posta hesabı kullanmayı deneyin"</string>
     <string name="pdf_save_error">Gövde çok büyük. PDF dosyası olarak dışa aktarılamaz</string>
     <string name="pdf_save_no_body">Metnin başarıyla yüklenmesini bekleyin ve tekrar deneyin</string>
     <string name="pdf_save_to">Kaydedildi</string>
+    <string name="pdf_signature_add">Yeni bir imza ekle</string>
     <string name="pdf_signature_create_title">İmza oluştur</string>
+    <string name="pdf_signature_delete">İmzayı sil</string>
     <string name="pdf_signature_manager_max_count">Maksimum imza sayısı. Lütfen mevcut imzayı silin ve tekrar deneyin</string>
     <string name="pdf_signature_manager_title">İmza yöneticisi</string>
+    <string name="pdf_signature_select">İmza seçin</string>
     <string name="pdf_viewer_actionbar_more_other">Başka bir uygulama tarafından aç</string>
     <string name="pdf_viewer_actionbar_more_wps">WPS ile aç</string>
     <string name="pdf_viewer_file_damage_toast">Pdf dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
@@ -1535,6 +1593,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="request_entity_large">Dosya çok büyük</string>
     <string name="request_permission_activity">İzin isteği</string>
     <string name="respond_inline">"   Sıralı yanıtla"</string>
+    <string name="respond_inline_text">Orijinal e-postayı düzenle</string>
     <string name="retry">Yeniden dene</string>
     <string name="retry_login">Tekrar oturum açın</string>
     <string name="saturday">Cumartesi</string>
@@ -1565,6 +1624,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="select_attachment_type">Eklentiyi seçin</string>
     <string name="select_no_file">Hiçbir eklenti seçilmedi</string>
     <string name="select_path">Yol seç</string>
+    <string name="selected">Seçildi</string>
     <string name="send">Gönder</string>
     <string name="send_encrypt_dialog_fail_content">Alıcının güvenilir bir imza sertifikası olmadığı için bu e-posta şifrelenemez. Bu e-posta şifrelenmemiş bir biçimde mi gönderildi?</string>
     <string name="send_encrypt_dialog_fail_title">Şifreli posta gönderilemiyor</string>
@@ -1617,6 +1677,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="setting_key_confirm_send">confirm_send</string>
     <string name="setting_key_contact_add_options">contact_add_options</string>
     <string name="setting_key_default_open_attachment">default_open_attachment</string>
+    <string name="setting_key_delete_message">preference_delete_message</string>
     <string name="setting_key_email_about">email_about</string>
     <string name="setting_key_help_QQ">help_QQ</string>
     <string name="setting_key_help_weixin">help_weixin</string>
@@ -1648,6 +1709,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
     <string name="show_images_all">Tüm görüntüleri yükle ve göster</string>
     <string name="show_password">Şifreyi göster</string>
     <string name="show_server_cet">Sertifikayı görüntüle</string>
+    <string name="shrink">Daralt</string>
     <string name="sign_in_dialog_office365">Ofis 365</string>
     <string name="sign_in_dialog_outlook_enterprise">İş (Takvimsiz)</string>
     <string name="sign_in_dialog_outlook_exchange">Exchange (Takvimli)</string>
@@ -1849,6 +1911,7 @@ Hesap kaldırılsın mı?"</string>
     <string name="undo">Geri al</string>
     <string name="unknow">Bilinmiyor</string>
     <string name="unread_string">okunmamış konuşma</string>
+    <string name="unselected">Seçim kaldırıldı</string>
     <string name="unzip_file_failed">Dosya çıkartılamadı</string>
     <string name="update_domain_summary">Kullanılabilir alanların ve yapılandırmaların listesini güncelleyin</string>
     <string name="update_domain_title">Etki alanı ayarlarını güncelle</string>
@@ -1860,6 +1923,7 @@ Hesap kaldırılsın mı?"</string>
     <string name="upload_log_title">E-posta uygulamasını geliştirmemize yardımcı olmak için hata günlüklerini bize gönderin</string>
     <string name="upload_log_yes">Gönder</string>
     <string name="uploading_logs">Yükleniyor</string>
+    <string name="uri_139_mail_open_pop3_imap">10658139139</string>
     <string name="user_experience_content">Lütfen kullanıcı deneyimi planını okuduğunuzu ve kabul ettiğinizi onaylayın</string>
     <string name="user_experience_log">Kullanıcı deneyimi planı</string>
     <string name="user_experience_login">Oturum aç</string>

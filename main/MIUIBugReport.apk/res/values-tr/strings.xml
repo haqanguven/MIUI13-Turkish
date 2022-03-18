@@ -833,6 +833,7 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="submit_dialog_confirm">Onayla</string>
     <string name="submit_dialog_content">Geri bildirimi kullanabilmek için <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> kabul etmelisiniz. Bildirdiğiniz sorunlar eklediğiniz öğelerle birlikte Miui sunucularına yüklenir (Cihazınız ve ağ hakkındaki bilgilerle birlikte kişisel bilgileri de içerebilir). Bu da bize sorunu bulmamızda ve çözmemizde yardımcı olacaktır</string>
     <string name="submit_dialog_content_global">"Geri bildirimleriniz, eklentiler ve kayıtlar da Miui sunucularına ve Miui forum'un geliştiriciler için ayrılan kısıtlanmış bir bölümüne gönderilir. Başlıklarınız ve forum etkinlikleriniz hakkındaki bilgiler de analiz edilmek ve ileride iletişime geçebilmek amacıyla toplanır. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir"</string>
+    <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Geri bildiriminiz kayıtlar, telefon numaranız veya e-posta adresiniz, eklerle birlikte (varsa), MIUI sunucularına gönderilecektir. Kayıtlar, kişisel bilgi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek &lt;a href=\"%1$s\">Gizlilik politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı sözleşmemizi&lt;/a> okuduğunuz ve kabul ettiğiniz anlamına gelir&lt;/Data></string>
     <string name="submit_dialog_not_show_again">Tekrar gösterme</string>
     <string name="submit_dialog_title">Rapor gönder</string>
     <string name="submit_feedback_info_failed">Rapor gönderilemedi</string>
@@ -997,5 +998,7 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor. Lütfen SD kartı kontrol edin</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="xiaomi_update_sdk_update_dialog_cancel">İptal et</string>
+    <string name="xiaomi_update_sdk_update_dialog_ok">Tamam</string>
     <string name="yesterday">Dün</string>
 </resources>

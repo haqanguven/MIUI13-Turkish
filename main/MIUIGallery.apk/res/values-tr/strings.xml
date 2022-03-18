@@ -1943,6 +1943,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="midnight">Gece</string>
     <string name="migrate_msg">Bazı albümler bir sistem güncellemesinden sonra öğeleri taşımak için izin gerektirir</string>
     <string name="miplay_adjust_volume">Sesi %d olarak ayarla</string>
+    <string name="miplay_circulate_failed">Oynatma aktarılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="miplay_circulating_msg">Oynatma aktarılıyor</string>
     <string name="miplay_pause_video">Duraklat</string>
     <string name="miplay_play_video">Oynat</string>
     <string name="miplay_seekbar_content_description">Oynatma ilerlemesi: %1$s %2$s</string>

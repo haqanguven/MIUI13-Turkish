@@ -137,6 +137,10 @@
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
+    <string name="close_invisible_mode_dialog_cancel">İptal et</string>
+    <string name="close_invisible_mode_dialog_message">Mi Smart Play şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
+    <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
+    <string name="close_invisible_mode_dialog_title">Gizlisin</string>
     <string name="config_bodyFontFamily">sans-serif</string>
     <string name="config_bodyFontFamilyMedium">sans-serif-medium</string>
     <string name="config_controlsPackage">com.android.systemui</string>

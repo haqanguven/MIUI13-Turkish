@@ -645,6 +645,14 @@
         <item>Hızlı çekim modu (Video)</item>
         <item>Toplu taşıma kısayolları</item>
     </string-array>
+    <string-array name="max_number_titles">
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>Sınırsız</item>
     <string-array name="media_feedback_level_entries">
         <item>Güçlü</item>
         <item>Orta</item>
@@ -1158,7 +1166,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     <string-array name="wifi_proxy_settings">
         <item>Yok</item>
         <item>El ile</item>
-        <item>Proxy otomatik yapılandır</item>
+        <item>Otomatik yapılandır</item>
     </string-array>
     <string-array name="wifi_signal">
         <item>Yetersiz</item>

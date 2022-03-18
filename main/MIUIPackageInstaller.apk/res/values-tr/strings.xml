@@ -47,6 +47,7 @@
     <string name="am">ÖÖ</string>
     <string name="anonymous_source_continue">Devam et</string>
     <string name="anonymous_source_warning">Telefonunuz ve kişisel verileriniz bilinmeyen uygulamalardan gelen saldıralara karşı daha savunmasızdır. Bu uygulamayı yükleyerek uygulama kullanımı sonucunda telefonunuzda oluşabilecek herhangi bir zarar ve yaşanabilecek veri kayıplarından kendinizin sorumlu olduğunu kabul etmiş sayılırsınız</string>
+    <string name="app_crash_test_text">Yükleyici gücünü kapat</string>
     <string name="app_detail_change_log">Yenilikler</string>
     <string name="app_detail_introduction">Bu uygulama hakkında</string>
     <string name="app_detail_other_info">Diğer bilgiler</string>
@@ -523,6 +524,7 @@
     <string name="search_menu_title">Ara</string>
     <string name="second_recomment_ad_title">&lt;font color=#0BAE73>%1$s&lt;/font>yükleyen kullanıcılar şunları da beğendi:</string>
     <string name="send">Gönder</string>
+    <string name="server_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="settings">Ayarlar</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>

@@ -40,6 +40,7 @@
     <string name="am">ÖÖ</string>
     <string name="amazon_introduction">Gezegenimizdeki en biyolojik çeşitlilikteki bölge dünyanın akciğerleri olarak anılır</string>
     <string name="amazon_orange_winged_info">Turuncu kanatlı amazon yüksek tiz çığlıklar atan büyük gürültülü bir papağandır</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="animal_branch">Aile</string>
     <string name="animal_class">Sınıf</string>
     <string name="animal_item">Düzen</string>
@@ -775,6 +776,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
+    <string name="time_placeholder">--</string>
     <string name="title_activity_easy_mode">Basit mod</string>
     <string name="title_mix_match_sound">Doğa karışımı</string>
     <string name="title_mix_match_tips">Demoları dinlemek için hayvanlara dokunun. Karışıma en fazla 5 hayvan ekleyebilirsiniz</string>

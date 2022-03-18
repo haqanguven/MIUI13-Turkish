@@ -70,6 +70,7 @@
     <string name="alert_weather_enable_settings_title">Hava durumu uyarıları</string>
     <string name="already_voted_toast">Bugün zaten oy verdiniz</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Hava durumu</string>
     <string name="aqi_15_days_desc">15 günlük hava kalitesi tahmini</string>
     <string name="aqi_24_hours_desc">24 saatlik hava kalitesi tahmini</string>
@@ -461,6 +462,8 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="minute_rain_refreshing_now">Yenileniyor</string>
     <string name="minute_rain_title">Yağış tahmini</string>
     <string name="missing_required_permission">Gerekli izni devre dışı bıraktınız</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -475,6 +478,8 @@ Konumu el ile değiştirmek veya şehir seçmek için dokunun"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>

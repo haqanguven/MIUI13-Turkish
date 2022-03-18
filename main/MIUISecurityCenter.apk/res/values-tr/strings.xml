@@ -2380,10 +2380,15 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gs_show_way_vertical">Dikey</string>
     <string name="gs_sign_notification">"Her gün saat 20.00'de check-in yapmayı hatırlat"</string>
     <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
+    <string name="gtb_after_acceleration">Sonra</string>
+    <string name="gtb_auto_memory_clean">Belleği otomatik olarak temizle</string>
+    <string name="gtb_before_acceleration">Önce</string>
+    <string name="gtb_brightness_adjust">Parlaklık</string>
     <string name="gtb_brightness_dialog_right_btn">Devam et</string>
     <string name="gtb_brightness_dialog_sub_message">* Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
     <string name="gtb_content_switch">İçerik önerileri</string>
     <string name="gtb_content_switch_summary">Oyunla ilgili içerik önerileri alın</string>
+    <string name="gtb_deep_garbage_cleaning">Derin temizlik yapılıyor</string>
     <string name="gtb_dialog_btn_close">Kapalı</string>
     <string name="gtb_dialog_btn_open">Açık</string>
     <string name="gtb_dialog_hint_smart_5g">Bu özelliği ayarlardan açıp kapatabilirsiniz</string>
@@ -2395,8 +2400,11 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_dialog_privacy_voice_title">Xunyou oyun ses değiştirici</string>
     <string name="gtb_dialog_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir. Bu özellik şimdi açılsın mı?</string>
     <string name="gtb_dialog_title_smart_5g">5G ağ optimizasyonu</string>
+    <string name="gtb_dnd">Rahatsız etme</string>
     <string name="gtb_exit_game_to_gtb">Oyun kutusunu aç</string>
     <string name="gtb_exit_game_to_home">Ana ekrana dön</string>
+    <string name="gtb_garbage_clean">Depolama alanını boşaltın</string>
+    <string name="gtb_garbage_cleaned_tip">Performansı artırmak için %1$s yer açın</string>
     <string name="gtb_guide_finish">Atla</string>
     <string name="gtb_guide_game_mode_tips">Tercih edilen oyun modunu seçin</string>
     <string name="gtb_guide_gtb_button_done">Bitir</string>
@@ -2410,6 +2418,17 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_guide_gtb_line_xspace">Tamamen yeni oyun hızlandırıcı ile oyununuzu hızlandırın</string>
     <string name="gtb_guide_small_window_app_desc">Tek adımda konuşun ve oynayın</string>
     <string name="gtb_guide_small_window_app_title">Küçük pencere uygulamaları</string>
+    <string name="gtb_intelligent_garbage_clean">Depolama alanını boşaltın</string>
+    <string name="gtb_memory_clean">Hafızayı temizle</string>
+    <string name="gtb_mode_normal">Düzenli</string>
+    <string name="gtb_mode_performance">Performans</string>
+    <string name="gtb_open_performance_mode_tip">Performans modu güç tüketimini artırırken ve cihazınızı ısıtırken oyun deneyiminizi iyileştirecektir</string>
+    <string name="gtb_phone_accelerate">Performansı artırın</string>
+    <string name="gtb_realtime_performance_monitoring">Ekran performansı</string>
+    <string name="gtb_screenrecord">Kayıt</string>
+    <string name="gtb_screenshot">Ekran görüntüsü</string>
+    <string name="gtb_screenshot_pinned">Ekran görüntüsü</string>
+    <string name="gtb_setting">Ayarlar</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">"Bağlantıyı sabit tutmak ve ağlar arasında geçiş yapmaktan kaçınmak için oyun oturumları sırasında tüm iletişim hizmetlerini ikincil Sim'de engelleyin. Oynatmayı bıraktığınızda ikincil Sim'in engellemesi kaldırılacaktır"</string>
     <string name="gtb_setting_item_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Mi veya Redmi yönlendiricilerine bağlandığında bağlantı hızını %10-%20 artırın</string>
@@ -2431,6 +2450,10 @@ manzara moduna geçin"</string>
     <string name="gtb_spring_festival_push_join">Katıl</string>
     <string name="gtb_spring_festival_push_see">Görüntüle</string>
     <string name="gtb_spring_festival_shortcut_create">Ana ekran kısayolu oluştur</string>
+    <string name="gtb_start_phone_accelerate">Artır</string>
+    <string name="gtb_stop_accelerate">Durdur</string>
+    <string name="gtb_timer">Zamanlayıcı</string>
+    <string name="gtb_voice_changer">Ses değiştirici</string>
     <string name="gtb_wlan_speed_tips">Mi wifi kullanılıyor</string>
     <string name="guide_get_operator_error"><font color="'#33b4ff'">Yanlış taşıyıcı mı?</font></string>
     <string name="guide_operator_text">"Operatörünüz: "</string>

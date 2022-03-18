@@ -137,6 +137,7 @@
     <string name="back">Geri</string>
     <string name="back_confirm">Uygulamayı arkaplana itmek için dokunun</string>
     <string name="banner_op">Müzikler</string>
+    <string name="best_experience">En iyi deneyim</string>
     <string name="bluetooth_device">Bluetooth ses cihazı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
@@ -251,7 +252,7 @@
     <string name="columbus_player_speed_video">Videoyu atla</string>
     <string name="columbus_player_unit_sec">saniye</string>
     <string name="columbus_skip_ad">Atla</string>
-    <string name="com.crashlytics.android.build_id">6c7d82c814fa4f4380b985ae36716541</string>
+    <string name="com.crashlytics.android.build_id">8d62271004e844cebf1c4a4a2666946f</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
@@ -401,6 +402,7 @@
     <string name="download_error_insufficient_space">Yetersiz alan</string>
     <string name="download_fail_to_fetch_info">İndirilemedi. Tekrar deneyin</string>
     <string name="download_filesize_unknown">Bilinmiyor</string>
+    <string name="download_free">Müzik indir</string>
     <string name="download_in_process">İndiriliyor</string>
     <string name="download_info_start_deleted_tasks">İndirilenleri sil</string>
     <string name="download_manage">İndirilenler</string>
@@ -443,6 +445,7 @@
     <string name="download_while_playing_no_vip_summary">Otomatik olarak favori şarkılar indirilsin (İçerik ödemeli)</string>
     <string name="download_while_playing_summary">Otomatik olarak çevrimiçi şarkılar indirilsin mi</string>
     <string name="download_while_playing_title">Akış esnasında indir</string>
+    <string name="downloaded">İndirildi</string>
     <string name="downloaded_empty">Boş</string>
     <string name="downloading_apk">İndiriliyor. İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz</string>
     <string name="downloading_empty">Boş</string>
@@ -490,8 +493,8 @@
     <string name="eq_preset_select">Hazır ayarlardan seçin</string>
     <string name="eq_rock">Rock</string>
     <string name="equalizer">Ekolayzer</string>
-    <string name="eras_ad">AD</string>
-    <string name="eras_bc">BC</string>
+    <string name="eras_ad">CE</string>
+    <string name="eras_bc">BCE</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="error_message_no_internet_connection">İnternete bağlanılamadı. Lütfen internet bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="error_message_something_went_wrong">Bir şeyler ters gitti lütfen tekrar deneyin.</string>
@@ -580,6 +583,7 @@
     <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
     <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
     <string name="filter_size_unit">%dKB</string>
+    <string name="find_you_tunes">Ezgilerinizi bulun</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="floating_view_dialog_desc">Bu sayfadan şimdi çıkarsanız müzik çalma durdurulacaktır. Yine de çıkılsın mı?</string>
     <string name="floating_view_dialog_leave">Çık</string>
@@ -643,12 +647,16 @@
     <string name="format_not_support">Dosya biçimi desteklenmiyor</string>
     <string name="format_unsupported_or_corrupted">Bu format desteklenmiyor veya dosya bozuk</string>
     <string name="fragment_title_artist_album">Albümler</string>
+    <string name="free">Ücretsiz</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">C</string>
     <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">Çeşitli</string>
     <string name="get_more_favorite_content_after_login">Daha fazla şarkı ve videoyu keşfetmek için oturum açın</string>
+    <string name="get_one_day_vip">%d-günlük VIP aldınız</string>
+    <string name="get_one_hour_vip">%d-saatlik VIP aldınız</string>
+    <string name="get_vip">VIP al</string>
     <string name="google_account_login">Google ile giriş yap</string>
     <string name="google_api_key">AIzaSyDtXevw-xV0_qPieue5APFY-mRmbt3lU8w</string>
     <string name="google_app_id">1:948829309969:android:408e9565fb2b9648</string>
@@ -674,6 +682,7 @@
     <string name="hide_album">Albümü gizle</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
     <string name="hide_lyric">Sözleri gizle</string>
+    <string name="hifi_quality">Yüksek kalite</string>
     <string name="high_sound_quality">Yüksek</string>
     <string name="higher_quality_music">Yüksek kaliteli müzik</string>
     <string name="higher_quality_music_summary">Daha yüksek bit hızında müzik indir ve aktar</string>
@@ -710,6 +719,7 @@
     <string name="i_know">Tamam</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="id_namespace">hungama</string>
+    <string name="imported">İçe aktarıldı</string>
     <string name="impunity_declaration_content">Ürünü kullanmaya başlamadan önce <a href="http://www.miui.com/res/doc/eula.html?lang=en">User Agreement</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en">Gizlilik politikası</a> sözleşmelerimizi kabul etmeniz gerekmektedir</string>
     <string name="impunity_declaration_ignore">Tekrar gösterme</string>
     <string name="impunity_declaration_negative_text">Çık</string>
@@ -796,6 +806,7 @@
     <string name="joox_vip_expired_hint">"VIP üyeliğinizin süresi doldu. JOOX'tan indirilen şarkılar yalnızca indirilenlerinizde gösterilecektir"</string>
     <string name="jooxdebugvip">JooxVip anahtar testi</string>
     <string name="jooxtestlogin">Joox giriş testi</string>
+    <string name="just_hit_next">Sadece ileri dokunun</string>
     <string name="keep_queued_download">Koru</string>
     <string name="ktv_playlist">KTV oynatma listesi</string>
     <string name="language_page_confirm">Onayla</string>
@@ -805,6 +816,7 @@
     <string name="latest_song">Geçmişi oynat(%d)</string>
     <string name="like">Beğen</string>
     <string name="list_item_play_all_tracks">Tümünü oynat</string>
+    <string name="listen_anywhere">İstediğiniz yerde dinleyin</string>
     <string name="load_shuffle">Yükleniyor</string>
     <string name="loadercontainer_loading">Yükleniyor</string>
     <string name="loading">Yükleniyor</string>
@@ -895,6 +907,7 @@
     <string name="middle_sound_quality">Standard</string>
     <string name="midnight">ÖÖ</string>
     <string name="milink_unavaliable_please_update">Mi bağlantı işlevi kullanılamaz. MIUI sistemini güncellemek gerekir</string>
+    <string name="millions_songs">Milyonlarca şarkı</string>
     <string name="min_sleep_time">%d</string>
     <string name="missing_title">&lt;Bilinmiyor></string>
     <string name="miuishare_account_login_ok">Oturum aç</string>
@@ -997,6 +1010,7 @@
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
@@ -1024,6 +1038,7 @@
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="mulit_choice_management">Birden çok öğeyi yönet</string>
     <string name="music_browser_label">Müzikler</string>
     <string name="music_filter">Ses dosyalarını filtrele</string>
@@ -1099,6 +1114,8 @@
     <string name="offline_opt_in_message">Size reklamverenin sitesine bir bağlantının olduğu bildirim göndereceğiz.</string>
     <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın.</string>
     <string name="ok">Tamam</string>
+    <string name="one_day_vip">%d-günlük VIP</string>
+    <string name="one_hour_vip">%d-saatlik VIP</string>
     <string name="online_apk_acquired">Yüklendi: %%%d</string>
     <string name="online_apk_acquiring">Yükleniyor: %%%d</string>
     <string name="online_apk_download_error_no_enough_space">Yetersiz depolama alanı nedeniyle indirilemedi</string>
@@ -1244,7 +1261,7 @@ mutlu ol"</string>
     <string name="retry_after_network_available">Ağa bağlanamıyor. Veri bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="retry_download">Tekrar dene</string>
     <string name="revoke_upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilmeyecek</string>
-    <string name="ringtone_editing">Zil sesi editörü</string>
+    <string name="ringtone_editing">Zil sesi düzenleyici</string>
     <string name="ringtone_not_support">Bu şarkının formatı desteklenmiyor</string>
     <string name="ringtone_selected">Seçildi</string>
     <string name="ringtones_play">Oynat</string>
@@ -1525,6 +1542,7 @@ mutlu ol"</string>
     <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
     <string name="unlimited_downloads">Sınırsız indirme</string>
     <string name="unlimited_offline_songs">Sınırsız çevrimdışı şarkı</string>
+    <string name="unlimited_skips">Sınırsız atlama</string>
     <string name="update_now">Şimdi güncelle</string>
     <string name="upgrade_music">Müzik güncelle</string>
     <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın</string>
@@ -1538,7 +1556,8 @@ mutlu ol"</string>
     <string name="upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilecek</string>
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
-    <string name="user_playlist_plaza">Oynatma listeleri</string>
+    <string name="user_experience_program_open">"Telif hakkı kısıtlamalarından dolayı indirilen şarkıarı oynatabilmek içim Kullanıcı Deneyimi Programı'na kaydolmanız gerekir. Bunu Ayarlar > Şifreler &amp; Güvenlik > Gizlilik > Kullanıcı Deneyimi Programı'na kaydol menüsünden yapabilirsiniz"</string>
+    <string name="user_playlist_plaza">Çalma listeleri</string>
     <string name="user_privacy_dialog_negative_text">İptal et</string>
     <string name="user_privacy_dialog_positive_count_down_text">Geri al (%s saniye)</string>
     <string name="user_privacy_dialog_positive_text">Geri al</string>
@@ -1558,6 +1577,7 @@ mutlu ol"</string>
     <string name="vip_required">Ayrıcalıklı Şarkı Paketindeki bu şarkı çalmak için sizin olsun. Şimdi şarkı atıldı</string>
     <string name="vip_required_with_song">Ayrıcalıklı şarkı paketindeki %s sizin olsun. Şimdi bu şarkı atlandı</string>
     <string name="voice_search_first_hint">Sesli aramayı deneyin</string>
+    <string name="watch_video">Video izle</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>

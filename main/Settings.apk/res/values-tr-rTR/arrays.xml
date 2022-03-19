@@ -653,6 +653,7 @@
         <item>2</item>
         <item>1</item>
         <item>Sınırsız</item>
+    </string-array>
     <string-array name="media_feedback_level_entries">
         <item>Güçlü</item>
         <item>Orta</item>

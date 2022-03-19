@@ -73,87 +73,87 @@
         <item quantity="one">"%1$s'den %2$d yükleme paketi (%3$s) alınıyor"</item>
     </plurals>
     <plurals name="send_audio_dialog_desc">
-        <item quantity="other">%2$d audio files (%3$s) from %1$s</item>
-        <item quantity="one">%2$d audio file (%3$s) from %1$s</item>
+        <item quantity="other">%1$s kaynağından %2$d ses dosyası (%3$s)</item>
+        <item quantity="one">%1$s kaynağından %2$d ses dosyası (%3$s)</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_received">
-        <item quantity="other">Received %2$d audio files (%3$s) from %1$s</item>
-        <item quantity="one">Received %2$d audio file (%3$s) from %1$s</item>
+        <item quantity="other">"%1$s'den %2$d ses dosyası alındı (%3$s)"</item>
+        <item quantity="one">"%1$s'den %2$d ses dosyası alındı (%3$s)"</item>
     </plurals>
     <plurals name="send_audio_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d audio files (%3$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d audio file (%3$s) from %1$s…</item>
+        <item quantity="other">%1$s öğesinden %2$d ses dosyası alınıyor (%3$s)</item>
+        <item quantity="one">%1$s öğesinden %2$d ses dosyası alınıyor (%3$s)</item>
     </plurals>
     <plurals name="send_file_dialog_desc">
-        <item quantity="other">%2$d %3$s files (%4$s) from %1$s</item>
-        <item quantity="one">%2$d %3$s file (%4$s) from %1$s</item>
+        <item quantity="other">%1$s kaynağından %2$d %3$s dosya (%4$s)</item>
+        <item quantity="one">%1$s kaynağından %2$d %3$s dosya (%4$s)</item>
     </plurals>
     <plurals name="send_file_dialog_desc_received">
-        <item quantity="other">Received %2$d %3$s files (%4$s) from %1$s</item>
-        <item quantity="one">Received %2$d %3$s file (%4$s) from %1$s</item>
+        <item quantity="other">%1$s öğesinden %2$d %3$s dosya alındı (%4$s)</item>
+        <item quantity="one">%1$s öğesinden %2$d %3$s dosya alındı (%4$s)</item>
     </plurals>
     <plurals name="send_file_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d %3$s files (%4$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d %3$s file (%4$s) from %1$s…</item>
+        <item quantity="other">%1$s klasöründen %2$d %3$s dosya alınıyor (%4$s)</item>
+        <item quantity="one">%1$s klasöründen %2$d %3$s dosya alınıyor (%4$s)</item>
     </plurals>
     <plurals name="send_image_dialog_desc">
-        <item quantity="other">%2$d images from %1$s</item>
-        <item quantity="one">%2$d image from %1$s</item>
+        <item quantity="other">%1$s öğesinden %2$d fotoğraf</item>
+        <item quantity="one">%1$s öğesinden %2$d fotoğraf</item>
     </plurals>
     <plurals name="send_image_dialog_desc_received">
-        <item quantity="other">Received %2$d images from %1$s</item>
-        <item quantity="one">Received %2$d image from %1$s</item>
+        <item quantity="other">%1$s klasöründen %2$d fotoğraf alındı</item>
+        <item quantity="one">%1$s klasöründen %2$d fotoğraf alındı</item>
     </plurals>
     <plurals name="send_image_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d images from %1$s…</item>
-        <item quantity="one">Receiving %2$d image from %1$s…</item>
+        <item quantity="other">%1$s öğesinden %2$d fotoğraf alınıyor</item>
+        <item quantity="one">%1$s öğesinden %2$d fotoğraf alınıyor</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc">
-        <item quantity="other">%2$d images and videos from %1$s</item>
-        <item quantity="one">%2$d image or video from %1$s</item>
+        <item quantity="other">%1$s tarafından oluşturulan %2$d fotoğraf ve video</item>
+        <item quantity="one">%1$s tarafından oluşturulan %2$d fotoğraf ve video</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_received">
-        <item quantity="other">Received %2$d images and videos from %1$s</item>
-        <item quantity="one">Received %2$d image or video from %1$s</item>
+        <item quantity="other">%1$s tarafından oluşturulan %2$d resim ve video alındı</item>
+        <item quantity="one">%1$s tarafından oluşturulan %2$d resim ve video alındı</item>
     </plurals>
     <plurals name="send_image_video_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d images and videos from %1$s…</item>
-        <item quantity="one">Receiving %2$d image or video from %1$s…</item>
+        <item quantity="other">%1$s öğesinden %2$d resim ve video alınıyor</item>
+        <item quantity="one">%1$s öğesinden %2$d resim ve video alınıyor</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc">
-        <item quantity="other">%2$d files from %1$s</item>
-        <item quantity="one">%2$d file from %1$s</item>
+        <item quantity="other">%1$s içindeki %2$d dosya</item>
+        <item quantity="one">%1$s içindeki %2$d dosya</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_received">
-        <item quantity="other">Received %2$d files from %1$s</item>
-        <item quantity="one">Received %2$d file from %1$s</item>
+        <item quantity="other">%1$s klasöründen %2$d dosya alındı</item>
+        <item quantity="one">%1$s klasöründen %2$d dosya alındı</item>
     </plurals>
     <plurals name="send_more_type_file_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d files from %1$s…</item>
-        <item quantity="one">Receiving %2$d file from %1$s…</item>
+        <item quantity="other">%1$s klasöründen %2$d dosya alınıyor</item>
+        <item quantity="one">%1$s klasöründen %2$d dosya alınıyor</item>
     </plurals>
     <plurals name="send_video_dialog_desc">
-        <item quantity="other">%2$d videos from %1$s</item>
-        <item quantity="one">%2$d video from %1$s</item>
+        <item quantity="other">%1$s öğesinden %2$d video</item>
+        <item quantity="one">%1$s öğesinden %2$d video</item>
     </plurals>
     <plurals name="send_video_dialog_desc_received">
-        <item quantity="other">Received %2$d videos from %1$s</item>
-        <item quantity="one">Received %2$d video from %1$s</item>
+        <item quantity="other">%1$s kullanıcısından %2$d video alındı</item>
+        <item quantity="one">%1$s kullanıcısından %2$d video alındı</item>
     </plurals>
     <plurals name="send_video_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d videos from %1$s…</item>
-        <item quantity="one">Receiving %2$d video from %1$s…</item>
+        <item quantity="other">%1$s öğesinden %2$d video alınıyor</item>
+        <item quantity="one">%1$s öğesinden %2$d video alınıyor</item>
     </plurals>
     <plurals name="send_zip_dialog_desc">
-        <item quantity="other">%2$d archives (%3$s) from %1$s</item>
-        <item quantity="one">%2$d archive (%3$s) from %1$s</item>
+        <item quantity="other">"%1$s'den %2$d arşiv (%3$s)"</item>
+        <item quantity="one">"%1$s'den %2$d arşiv (%3$s)"</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_received">
-        <item quantity="other">Received %2$d archives (%3$s) from %1$s</item>
-        <item quantity="one">Received %2$d archive (%3$s) from %1$s</item>
+        <item quantity="other">"%1$s'den %2$d arşiv  alındı (%3$s)"</item>
+        <item quantity="one">"%1$s'den %2$d arşiv  alındı (%3$s)"</item>
     </plurals>
     <plurals name="send_zip_dialog_desc_receiving">
-        <item quantity="other">Receiving %2$d archives (%3$s) from %1$s…</item>
-        <item quantity="one">Receiving %2$d archive (%3$s) from %1$s…</item>
+        <item quantity="other">%1$s klasöründen %2$d arşiv alınıyor (%3$s)</item>
+        <item quantity="one">%1$s klasöründen %2$d arşiv alınıyor (%3$s)</item>
     </plurals>
 </resources>

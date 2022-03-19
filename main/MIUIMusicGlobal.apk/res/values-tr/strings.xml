@@ -942,7 +942,7 @@
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ögeler yüklenemedi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
     <string name="mobile_recommended_title">Mobil veri kullanımı</string>
     <string name="modify_lyric">Şarkı sözünü düzenle</string>
     <string name="modify_pic">Kapağı değiştir</string>
@@ -950,8 +950,8 @@
     <string name="modify_progress_helper">Şarkı sözünü düzenleme işlemi için yukarı veya aşağı kaydırın</string>
     <string name="modify_song_info">Şarkı bilgilerini düzenle</string>
     <string name="modify_song_info_success">Şarkı bilgileri güncellendi</string>
-    <string name="moe_inbox_name">Notification Center</string>
-    <string name="moe_message_to_register">Entegrasyon Doğrulamasına kaydolmak için kayıt düğmesine tıklayın</string>
+    <string name="moe_inbox_name">Bildirim merkezi</string>
+    <string name="moe_message_to_register">Entegrasyon doğrulamasına kaydolmak için kayıt düğmesine tıklayın</string>
     <string name="moe_message_to_unregister">Cihaz entegrasyon doğrulaması için kaydedildi. Kaydı silmek için düğmeye tıklayın</string>
     <string name="moe_notification_center_empty">Bildirim merkezi boş</string>
     <string name="moe_register">Kayıtlı</string>

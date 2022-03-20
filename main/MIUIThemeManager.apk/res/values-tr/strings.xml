@@ -91,6 +91,7 @@
     <string name="app_name_pad">Kişiselleştirme</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_list_permission_desc">Şeffaf duvar kağıtları ile uyumlu uygulamaları göstermek içindir</string>
+    <string name="application_notify_title">Dikkat</string>
     <string name="apply_choosen_type_resource">Seçili öğeleri uygula</string>
     <string name="apply_default_font_tip">Sistem geçerli yazı tipi kullanılmaya devam edilsin mi?</string>
     <string name="apply_failed">Uygulanamadı</string>
@@ -245,9 +246,11 @@
     <string name="component_title_video_wallpaper">Duvar kağıdı filmleri</string>
     <string name="component_title_wallpaper">Duvar kağıtları</string>
     <string name="concentration_old_period">Daha fazla</string>
+    <string name="configure_success_not_enable_aod">Başarıyla uygulandı. Temanın etkili olması için her zaman açık ekranı açın</string>
     <string name="copy">Kopyala</string>
     <string name="count_down_tip">%d saniye kaldı</string>
     <string name="create_home_icon">Ana ekran kısayolu</string>
+    <string name="current_device_not_support_superwallpaper_dialog_content">Süper duvar kağıtları bu cihazda desteklenmiyor</string>
     <string name="current_using">Kullanılıyor</string>
     <string name="current_using_desktop_wallpaper_text">Ana ekran</string>
     <string name="current_using_float_wallpaper_text">Şeffaf</string>
@@ -255,6 +258,7 @@
     <string name="current_version">Mevcut sürüm: %1$s</string>
     <string name="current_version_incompatible">Uyumlu değil</string>
     <string name="custom_storage_permission_desc">Kişiselleştirme tercihlerini değiştirebilmek ve indirilen öğeleri kaydedebilmek için önce bu özelliğin depolama alanına erişmesine izin verin. Bu izni Ayarlar > Gizlilikten verebilirsiniz</string>
+    <string name="custom_theme">name,id</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -300,6 +304,8 @@
     <string name="de_super_wp_land_position_default_des">İniş noktası</string>
     <string name="de_to_comment">Yorum</string>
     <string name="de_try">Dene</string>
+    <string name="deep_sea">Derin deniz</string>
+    <string name="deep_sea_resource_comment">Dünyadaki yaşamın kökeni</string>
     <string name="deleting">Siliniyor</string>
     <string name="desc_more_online_wallpaper">Daha fazla duvar kağıdı</string>
     <string name="description_author">Geliştirici</string>
@@ -374,6 +380,8 @@
     <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
     <string name="exchange_alert">Promosyon etkinliklerimiz sırasında kupon alabilir ve temalarla değiştirebilirsiniz</string>
+    <string name="exchange_code_dialog_title">Dikkat</string>
+    <string name="exchange_code_not_match_account_dialog_content">Bu kod zaten başka bir Mi hesabı tarafından kullanılmış. Bu Mi hesabı ile oturum açın ve tekrar deneyin</string>
     <string name="exit_extreme_mode_dialog_agree">Kabul et</string>
     <string name="exit_extreme_mode_dialog_cancel">İptal et</string>
     <string name="exit_extreme_mode_dialog_title">Ekstrem modu kapat</string>
@@ -409,6 +417,9 @@
     <string name="exo_download_downloading">İndiriliyor</string>
     <string name="exo_download_failed">İndirilemedi</string>
     <string name="exo_download_notification_channel_name">İndirilenler</string>
+    <string name="exo_download_paused">İndirmeler duraklatıldı</string>
+    <string name="exo_download_paused_for_network">Ağ için bekleyen indirmeler</string>
+    <string name="exo_download_paused_for_wifi">Wifi için bekleyen indirmeler</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
@@ -614,6 +625,13 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="loading_picture">Resim yükleniyor</string>
     <string name="loading_resource_detail_fail">Kaynak yüklenemiyor</string>
     <string name="loading_resource_detail_info">Yükleniyor</string>
+    <string name="local_mode">Çevrimdışı mod</string>
+    <string name="local_mode_close">Çevrimdışı mod kapatılsın mı?</string>
+    <string name="local_mode_close_desc">Çevrimiçi hizmetleri kullanmak istiyorsanız çevrimdışı modu kapatın. Şimdi kapatılsın mı?</string>
+    <string name="local_mode_desc">Çevrimdışı mod yalnızca yerel içeriği kullanır ve çevrimiçi hizmetleri kullanmaz</string>
+    <string name="local_mode_hint">"Çevrimdışı modu kullanıyorsunuz
+Kapatmak için dokunun"</string>
+    <string name="local_mode_open">Çevrimdışı mod</string>
     <string name="local_photos">Yerel fotoğraflar</string>
     <string name="local_resouce_creator_name">Geliştirici: %1$s</string>
     <string name="lock_screen_apply">Kilit ekranı olarak ayarla</string>
@@ -621,7 +639,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="lockscreen_apply_failured_but_home_apply_success">Ana ekran duvar kağıdı uygulandı. Kilit ekranı duvar kağıdı uygulanamıyor</string>
     <string name="lockscreen_apply_success">Kilit ekranı duvar kağıdı uygulandı</string>
     <string name="lockscreen_apply_success_but_home_apply_failured">Kilit ekranı duvar kağıdı uygulandı. Ana ekran duvar kağıdı uygulanamıyor</string>
-    <string name="lockscreen_desk_wallpaper">Ana ekran ve kilit ekranı duvar kağıtları</string>
+    <string name="lockscreen_desk_wallpaper">Ana ekran ve kilit ekranı duvar kağıtlarını içerir</string>
     <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
     <string name="lockscreen_magazine_summary">Kategoriler</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>
@@ -1047,6 +1065,9 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="refresh_footer_release">Yüklemek için bırakın</string>
     <string name="region_not_support">Temalar bölgenizde desteklenmiyor</string>
     <string name="reload">Yeniden deneyin</string>
+    <string name="repeat_exchange_dialog_content">Kod kullanılamıyor. Şimdi başka hangi ödüllerin mevcut olduğunu kontrol edin?</string>
+    <string name="repeat_exchange_dialog_positive_btn">Kontrol et</string>
+    <string name="repeat_exchange_dialog_title">Tekrar dene</string>
     <string name="request_time_out">İstek zaman aşımına uğradı. Tekrar deneyin</string>
     <string name="resource_account_abnormal_state">Hesap hatası. Bir veya iki dakika bekleyin ve ardından tekrar deneyin</string>
     <string name="resource_account_fail_to_add">Hesap eklenemiyor</string>
@@ -1391,6 +1412,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
     <string name="super_wallpaper">Süper duvar kağıdı</string>
+    <string name="super_wallpaper_dialog_content">Pil tasarrufu duvar kağıtlarının dinamik özelliklerini kapatır</string>
     <string name="super_wallpaper_download_progress">%%%1$d</string>
     <string name="super_wallpaper_list_footer_text">Yeni yayınlarımız için takipte kalın</string>
     <string name="super_wallpaper_list_label">Süper duvar kağıdı</string>
@@ -1400,6 +1422,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="super_wallpaper_setting_coordinate_title">Koordinatlar</string>
     <string name="super_wallpaper_setting_view_height_title">Rakım</string>
     <string name="supersave_mode_toast_message">Bu özellik ultra pil tasarrufu kullanılırken kullanılamaz. Kullanabilmek için ultra pil tasarrufunu kapatın</string>
+    <string name="superwallpaper_has_bound_account_dialog_content">Bu duvar kağıdı zaten başka bir Mi hesabı ile ilişkilendirilmiş. Bu Mi hesabı ile oturum açın ve tekrar deneyin</string>
     <string name="support_theme_store_des">İyi temalar her zaman yetenekli tasarımcılar tarafından yaratılır. Çalışmalarını desteklemek için uygulama az miktarda reklam içeriyor</string>
     <string name="support_theme_store_supported">Desteğiniz için teşekkür ederiz</string>
     <string name="support_theme_store_title">Tasarımcılarımızı destekleyin</string>
@@ -1532,9 +1555,10 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="theme_import_from_sdcard">İçe aktar</string>
     <string name="theme_is_external_priority_storage">SD karta kaydet</string>
     <string name="theme_is_external_priority_storage_summary">Temalar uygulaması değişikliklerin uygulanabilmesi için yeniden başlatılacaktır</string>
-    <string name="theme_log_out">Sign out</string>
+    <string name="theme_log_out">Oturumu kapat</string>
     <string name="theme_multiple_button_title_customize">Kişiselleştir</string>
     <string name="theme_name">%1$s</string>
+    <string name="theme_need_login_dialog_content">Devam etmek için Mi hesabınızda oturum açın</string>
     <string name="theme_no">Hayır</string>
     <string name="theme_not_include_module_desc">Bu tema aşağıdaki öğeleri içermiyor: %s</string>
     <string name="theme_on_the_phone_alert">Aramalar sırasında oynatılamıyor</string>
@@ -1556,6 +1580,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="theme_user_agreement_remind_never">Tekrar gösterme</string>
     <string name="theme_user_agreement_remind_summary">Temalar uygulamasının her açılışında kullanım koşulları uyarısını göster. Bu ayar cihazınızı yeniden başlattığınızda etkili olacaktır</string>
     <string name="theme_user_agreement_title">Kullanım koşulları</string>
+    <string name="theme_version_need_update_prompt_dialog_content">Devam etmek için Ttmaları %s veya sonraki bir sürüme güncelleyin</string>
     <string name="theme_wallpaper">Duvar kağıdı kategorisi</string>
     <string name="theme_yes">Evet</string>
     <string name="third_party_pickers_activity_title">Ekle %1$s</string>
@@ -1651,6 +1676,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="video_not_support_message">Bu video yanlış görüntülenebilir veya cihazınızı yavaşlatabilir. Yine de uygulansın mı?</string>
     <string name="video_not_support_title">Bu video çok büyük</string>
     <string name="video_silence_apply_success">Sessiz video başarıyla yapılandırıldı</string>
+    <string name="video_wallpaper_apply_warning">Bu duvar kağıdı hem ana ekranınıza hem de Kilit ekranınıza uygulanacaktır. Şimdi uygulansın mı?</string>
     <string name="video_wallpaper_import">Öğe eklemek için dokunun</string>
     <string name="vip_level_dialog_positive">Biliyorum</string>
     <string name="vip_level_dialog_title">İpuçları</string>
@@ -1714,7 +1740,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_setting_aod_wallpaper_banner_button_text">Her zaman açık ekran</string>
     <string name="wallpaper_setting_find_more_text">Daha fazla çevrimiçi duvar kağıdı</string>
     <string name="wallpaper_setting_home_wallpaper_banner_button_text">Ana ekran</string>
-    <string name="wallpaper_setting_library">Kütüphane</string>
+    <string name="wallpaper_setting_library">Duvar kağıdı</string>
     <string name="wallpaper_setting_live">Canlı</string>
     <string name="wallpaper_setting_lock_screen_wallpaper_banner_button_text">Kilit ekranı</string>
     <string name="wallpaper_setting_online_wallpaper_actionbar_title">Çevrimiçi duvar kağıtları</string>

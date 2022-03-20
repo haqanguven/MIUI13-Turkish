@@ -81,7 +81,7 @@
     <string name="all_apps_search_app">Uygulama ara</string>
     <string name="all_apps_search_market_message">Çevrimiçi ara</string>
     <string name="all_apps_setting_classic_title">Klasik</string>
-    <string name="all_apps_setting_desktop_desc">Tüm yüklü uygulamaları Ana ekranda göster. Mevcut kısayolları görmek uygulamayı yönetmek veya kaldırmak için uygulamanın simgesine basın ve basılı tutun</string>
+    <string name="all_apps_setting_desktop_desc">Tüm yüklü uygulamaları ana ekranda göster. Mevcut kısayolları görmek uygulamayı yönetmek veya kaldırmak için uygulamanın simgesine basın ve basılı tutun</string>
     <string name="all_apps_setting_desktop_title">Normal</string>
     <string name="all_apps_setting_drawer_desc">Tüm yüklü uygulamalarınızı ana ekranda yukarı doğru kaydırarak açılabilen uygulama çekmecesine yerleştirin. Ana ekrana taşıdığınız tüm uygulamaları uygulama çekmecesinde de bulabileceksiniz</string>
     <string name="all_apps_setting_drawer_tips_desc">Uygulama çekmecesi ana ekranda yukarı doğru kaydırarak açılır. Uygulama çekmecesi ile ana ekran moduna geçmek içerik merkezini kullanılmaz hale getirir. Yine de geçilsin mi?</string>
@@ -179,7 +179,7 @@
     <string name="branch_deepview_button">Uygulamayı al</string>
     <string name="branch_deepview_button_description">Kurulumdan hemen sonra bu içeriği görün</string>
     <string name="branch_feature_description">Hızlı nulucu uygulamaların yanı sıra uygulama içi içeriği ve öğeleri çevrimiçi olarak bulabilir</string>
-    <string name="branch_guide_attention">Using enhanced search requires sharing your search requests, Google Ads ID, and IP address with Branch Metrics Inc. Read and agree to <font color="#B3000000"><a href="http://url1">End User Discovery Terms &amp; Conditions</a></font> and <font color="#B3000000"><a href="http://url2">Branch Discovery Privacy Policy</a></font> before using this feature.</string>
+    <string name="branch_guide_attention">Gelişmiş aramayı kullanmak arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşif Gizlilik Politikasını</a></font> okuyun ve kabul edin</string>
     <string name="branch_guide_description_one">Tüm uygulamalarınızı uygulama çekmecesine koyacağız. Ana ekranınız düzgün ve düzenli görünecek</string>
     <string name="branch_guide_description_three">Yerleşik arama ile ihtiyacınız olan her şeyi anında bulabileceksiniz</string>
     <string name="branch_guide_description_two">Uygulama çekmecesi uygulamaları otomatik olarak kategorilere ayırır</string>
@@ -197,8 +197,8 @@
     <string name="branch_new_feature">Yeni özellik</string>
     <string name="branch_privacy_policy">Gizlilik politikası</string>
     <string name="branch_search_guide_description">Arama sonuçlarımız artık çok daha kapsamlı</string>
-    <string name="branch_search_guide_privacy">"This service is powered by Branch Metrics Inc. Your location info, search queries, and Google Ads ID will be shared with Branch. Read and agree to Branch's "<font color="#B3000000"><a href="http://url1">Terms and Conditions</a></font> and <font color="#B3000000"><a href="http://url2">Privacy Policy</a></font> before using this service.</string>
-    <string name="branch_search_guide_title">Favori uygulamalarınızda aradığınızı bulun</string>
+    <string name="branch_search_guide_privacy">Bu hizmet Branch Metrics Inc. tarafından sağlanmaktadır. Konum bilginiz, arama sorgularınız ve Google Reklamlar Kimliğiniz, Branch ile paylaşılacaktır. Bu hizmeti kullanmadan önce Branch <font color="#B3000000"><a href="http://url1">Şartlar ve Koşullar</a></font> ve <font color="#B3000000"><a href="http://url2">Gizlilik Politikasını</a></font> okuyun ve kabul edin</string>
+    <string name="branch_search_guide_title">Aradığınızı favori uygulamalarınızda bulun</string>
     <string name="branch_terms_condition">Şartlar ve koşullar</string>
     <string name="branch_tip_title">Hızlı bulucu ile ihtiyacınız olan her şeyi bir çırpıda bulabilirsiniz</string>
     <string name="branch_ui_version">Şube kullanıcı arayüzü sürümü</string>
@@ -300,7 +300,7 @@
     <string name="chooser_wallpaper">Yeni bir duvar kağıdı seçin</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
-    <string name="close_multi_finger_slide_summary">Bu hareketler bazı senaryolarda göz ardı edilecektir (öRNEĞİN: oyunlar ve videoların oynatılması)</string>
+    <string name="close_multi_finger_slide_summary">Bu hareketler bazı senaryolarda göz ardı edilecektir (Örneğin: Oyunlar ve videoların oynatılması)</string>
     <string name="close_multi_finger_slide_title">Üç ve dört parmak hareketlerine yanıt vermeyin</string>
     <string name="cloud_app_restore_title">Beklemede</string>
     <string name="com.crashlytics.android.build_id">2f7a3e6e66204a0f8c6f6f969ad26e4a</string>
@@ -883,6 +883,11 @@
     <string name="recents_title_market">Uygulama bul</string>
     <string name="recents_title_security_scan">Güvenlik taraması</string>
     <string name="recents_tv_small_window_text">Kayan pencereler</string>
+    <string name="recents_worldcirculate_text">Seçmek için bırakın</string>
+    <string name="recnets_worldcirculate_button_text">Mi Smart Hub</string>
+    <string name="recnets_worldcirculate_display_computer_info">Uygulama %s üzerinde çalışıyor</string>
+    <string name="recnets_worldcirculate_display_default_info">Buraya geri getirmek için dokunun</string>
+    <string name="recnets_worldcirculate_display_pad_info">Uygulama %s üzerinde çalışıyor</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_app">Uygulama önerileri</string>
     <string name="recommend_apps_default_title">Boş</string>
@@ -1081,7 +1086,7 @@
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
-    <string name="uni_search_permission_content">Çevrimiçi arama özelliklerini aç. (Arama hizmetleri Branch tarafından sağlanmaktadır)</string>
+    <string name="uni_search_permission_content">Çevrimiçi arama özelliklerini aç</string>
     <string name="uni_search_permission_msg">Arama sonuçlarını iyileştirmek için POCO Başlatıcıya konumunuza ve kişilerinize erişim izni verin</string>
     <string name="uni_search_permission_title">Gelişmiş arama</string>
     <string name="uni_search_setting_summary">Uygulama içinde içerikleri direkt bulun</string>

@@ -108,6 +108,10 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">"İçeriğiniz topluluk standartlarımızı ihlal eden öğeler içeriyor (%1$s). Hesabınız %2$s'e kadar %3$d gün askıya alındı"</item>
         <item quantity="one">"İçeriğiniz topluluk standartlarımızı ihlal eden öğeler içeriyor (%1$s). Hesabınız %2$s'e kadar %3$d gün askıya alındı"</item>

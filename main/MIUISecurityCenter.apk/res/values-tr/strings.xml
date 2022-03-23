@@ -1693,7 +1693,8 @@ gönüllüsü"</string>
     <string name="exit_dialog_garbage_clean_title">Çöpü temizle</string>
     <string name="exit_dialog_homepage_optimise_message">Cihazınızın performans puanı 80 puandan düşük. Şimdi optimize edilsin mi?</string>
     <string name="exit_dialog_release_memory_positive_button">Kapat</string>
-    <string name="exit_dialog_release_memory_title">Cihazınızı <font color="#0099ff">%%%d</font> hızlandırın</string>
+    <string name="exit_dialog_release_memory_title"><Data>&lt;font color=#0099ff>%d%%&lt;/font> ile cihazınızı hızlandırın</Data></string>
+    <string name="exit_dialog_release_memory_title_new"><Data>Cihazınızı &lt;font color=#0099ff>%s&lt;/font> hızlandırın</Data></string>
     <string name="exit_dialog_release_storage_message">"Cihazınızdaki depolamanın %80'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_message_new">"Cihazınızdaki depolamanın %s'den fazlası dolu. Hiç kullanmadığınız uygulamaları kaldırarak yer açın"</string>
     <string name="exit_dialog_release_storage_positive_button">Boş alan</string>
@@ -1959,12 +1960,20 @@ gönüllüsü"</string>
 1. Oyun oynarken mobil veri hizmeti olmadan Sim karta gelen tüm aramalar otomatik olarak reddedilecektir
 2. Cevapsız aramalarla ilgili bildirimler göreceksiniz ve diğer kişi o anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
 3. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenmektedir"</string>
+    <string name="function_auto_reject_detail_new">"Bu özellik hakkında:
+%1$d. Oyun oynarken Sim karta mobil veri hizmeti olmadan gelen tüm aramalar otomatik olarak reddedilecektir
+%2$d. Cevapsız aramalar hakkında bildirimler göreceksiniz ve diğer kişi şu anda meşgul olduğunuzu söyleyen bir sesli mesaj duyacaktır
+%3$d. Bu özellik yalnızca Çin'deki mobil operatörler tarafından desteklenir"</string>
     <string name="function_auto_reject_title">Veri hizmeti olmadan Sim kartlarına yapılan VoLTE aramalarını reddet</string>
     <string name="function_close">Kapat</string>
     <string name="function_gwsd_detail">"Bu özellik hakkında:
  1. Veri Sim üzerinden gelen aramalar mobil veri bağlantısını kesmez. Bağlantı yalnızca bir aramayı cevapladığınızda kesilecektir
  2. Bu özellik açıldığında arayan arama bekletme zil seslerini duymaz. 6 saniye içinde cevap vermezseniz gelen aramaya son verilir
  3. Bu özellik sadece veri Sim kartlarında çalışır. Birincil Sim ile yapılan aramalar mobil veri bağlantısını keser"</string>
+    <string name="function_gwsd_detail_new">"Bu özellik hakkında:
+  %1$d. Bir veri Sim'inde veya bir VoLTE şebekesine bağlı normal bir Sim kartta mobil veri kullanırken, siz açana kadar bağlantı gelen aramalar tarafından kesilmeyecektir
+  %2$d. Bu özellik açıkken, normal bir SIM kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen aramalar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir
+  %5$d. Çin Mobile ve Çin Unicom tarafından verilen Veri Sim kartları desteklenir. Çin Mobil, Çin Unicom ve Çin Telecom tarafından verilen normal Sim kartlar desteklenir"</string>
     <string name="function_gwsd_title">Gelen aramaları veri Sim bağlantısını kesmesine izin verme</string>
     <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
     <string name="function_shield_eye_shield">Okuma modunu kapat</string>
@@ -2000,7 +2009,6 @@ gönüllüsü"</string>
     <string name="game_video_network_eror">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin</string>
     <string name="game_wid_viewpoint_buttom">Kısa bir mola verin</string>
     <string name="gamebooster_lowbattery_notification_summary">Cihazınız kapanmadan önce şarj edin</string>
-    <string name="gamebooster_lowbattery_notification_title">"Pil seviyesi %%5'den az"</string>
     <string name="gamebooster_main_activity_back">Geri</string>
     <string name="gamebooster_network_dialog_cn_message">Güvenliğin internete bağlanmasına ve konumunuza erişmesine izin verilmediğinde oyun hızlandırıcıyı kullanamazsınız. Şimdi izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message">Güvenlik uygulamasına oyun hız arttırmanın tüm özelliklerini kullanmak için ağa bağlanma izni verilsin mi?</string>
@@ -2109,9 +2117,11 @@ gönüllüsü"</string>
     <string name="gb_dialog_game_uninstall_tips_message_xspace">İlişkili çift oyunlar aynı anda kaldırılacak ve oyun içi verileri silinecektir</string>
     <string name="gb_dialog_game_uninstall_tips_title">%s yazılımını kaldır</string>
     <string name="gb_dialog_record_way_ai">AI kayıtları oyun kutusuna kaydedilir ve 7 gün boyunca orada saklanır</string>
+    <string name="gb_dialog_record_way_ai_new">AI kayıtları oyun kutusuna kaydedilir ve orada %d gün boyunca saklanır</string>
     <string name="gb_dialog_record_way_finish">Bitti</string>
     <string name="gb_dialog_record_way_manual">El ile 30 saniyeye kadar video kaydedin</string>
     <string name="gb_dialog_record_way_manual_desc" formatted="false">Oyun oturumu sırasında manuel olarak %d-%d saniye video kaydedin</string>
+    <string name="gb_dialog_record_way_manual_new">%d saniyeye kadar uzunluktaki videoları manuel olarak kaydedin</string>
     <string name="gb_dialog_record_way_setting_tip_one">Artan güç tüketimi ve gecikme</string>
     <string name="gb_dialog_record_way_setting_tip_title">Bu özellik aşağıdaki sorunlara neden olabilir:</string>
     <string name="gb_dialog_record_way_setting_tip_two">Diğer ekran kaydedicilerle çakışmalar</string>
@@ -2139,6 +2149,7 @@ gönüllüsü"</string>
 Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_game_time_toast">Zamanlayıcı artık kullanılabilir</string>
     <string name="gb_game_video_bottom_tips">Oyunlarınızdaki oturumlarınızın kayıtlarını izleyin. Videolar varsayılan olarak 7 gün boyunca orada saklanır</string>
+    <string name="gb_game_video_bottom_tips_new">Oyun hızlandırıcı oyun vakitlerinizde önemli anları tekrar ziyaret edin. Videolar %d gün sonra otomatik olarak silinecek</string>
     <string name="gb_game_video_item_tag">Anahtar an</string>
     <string name="gb_game_video_page_delete_success">Başarıyla silindi</string>
     <string name="gb_game_video_page_null">Oyun oturumlarınızın önemli anlarını kaydedin</string>
@@ -2263,8 +2274,6 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_voice_changer_setting_realtime_subtitle">Sesinizin gerçek zamanlı olarak nasıl değiştiğini kontrol edin</string>
     <string name="gb_voice_changer_setting_realtime_title">Gerçek zamanlı geri bildirim</string>
     <string name="gb_voice_changer_setting_rights">Hizmet şartları ve gizlilik politikası</string>
-    <string name="gb_voice_changer_toast_window_bubble_tips">"Ses değiştiriciyi şimdi deneyin
-3 günlük ücretsiz deneme içindir"</string>
     <string name="gb_voice_changer_toast_window_new_tips">"Ses değiştiriciyi deneyin
 Farklı karakterler ve özel efektler arasında geçiş yapın"</string>
     <string name="gb_voice_changer_toast_window_open">%s efekti açıldı</string>
@@ -2290,8 +2299,11 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gb_wonderful_video_header_title">Bugün</string>
     <string name="gb_wonderful_video_save_suc">Başarıyla kaydedildi</string>
     <string name="gb_xunyou_gift_type_one">Xunyou 1 günlük destek</string>
+    <string name="gb_xunyou_gift_type_one_new">Xunyou %d günlük artış</string>
     <string name="gb_xunyou_gift_type_three">Xunyou 3 günlük destek</string>
+    <string name="gb_xunyou_gift_type_three_new">Xunyou %d günlük artış</string>
     <string name="gb_xunyou_gift_type_two">Xunyou 2 günlük destek</string>
+    <string name="gb_xunyou_gift_type_two_new">Xunyou %d günlük artış</string>
     <string name="gcm_defaultSenderId">436805358632</string>
     <string name="gd_app_edit_done">Bitti</string>
     <string name="gd_app_edit_title">Add apps</string>
@@ -2355,11 +2367,9 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gs_dialog_confirm_close_title">Kapat</string>
     <string name="gs_forbid_autosync">Arka plan senkronizasyonunu sınırla</string>
     <string name="gs_game_ai_record">AI kullanarak kaydey</string>
-    <string name="gs_game_ai_record_subtitle">Oynarken araç kutusuna kayıt yapmaya başlayabilirsiniz. Önemli anlara sahip videolar otomatik olarak oluşturulacak ve varsayılan olarak 7 gün sonra silinecek. Videoları kalıcı olarak kaydetmeyi de seçebilirsiniz</string>
     <string name="gs_game_disturb_msg">Rahatsız etme</string>
     <string name="gs_game_duration">Süre</string>
     <string name="gs_game_manual_record">El ile kayıt</string>
-    <string name="gs_game_manual_record_subtitle">Tek seferde 30 saniyeye kadar video kaydetmek için kayan kısayolu kullanın. Videolar 7 gün sonra otomatik olarak silinecektir</string>
     <string name="gs_game_manual_record_subtitle_child">Bu özelliği kullanırken bazı sorunlarla karşılaşabilirsiniz:</string>
     <string name="gs_game_manual_record_subtitle_child_carton">Oyun videoları kaydetme gecikmeye neden olabilir. Güç tüketiminide arttırabilir</string>
     <string name="gs_game_manual_record_subtitle_child_conflict">Diğer ekran kayıt özellikleri düzgün çalışmayabilir</string>
@@ -2379,6 +2389,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gs_show_way_horizontal">Yatay</string>
     <string name="gs_show_way_vertical">Dikey</string>
     <string name="gs_sign_notification">"Her gün saat 20.00'de check-in yapmayı hatırlat"</string>
+    <string name="gs_sign_notification_new">"Günlük %d ÖÖ'de check-in yapmayı hatırlat"</string>
     <string name="gs_slip_gamebox_detail">Kısayol panelinin görünmesini sağlamak için kaydırıcıyı kullanın veya ekranın üst kenarından kaydırın</string>
     <string name="gtb_after_acceleration">Sonra</string>
     <string name="gtb_auto_memory_clean">Belleği otomatik olarak temizle</string>
@@ -2432,6 +2443,7 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="gtb_setting_item_summary_disable_ndds_sim">"Bağlantıyı sabit tutmak ve ağlar arasında geçiş yapmaktan kaçınmak için oyun oturumları sırasında tüm iletişim hizmetlerini ikincil Sim'de engelleyin. Oynatmayı bıraktığınızda ikincil Sim'in engellemesi kaldırılacaktır"</string>
     <string name="gtb_setting_item_summary_smart_5g">Oyun hızlandırıcı bir 5G ağı algıladığında ağ gecikmesini azaltmak için cihazınızı mevcut en iyi ağa bağlayabilir</string>
     <string name="gtb_setting_item_summary_smart_wlan_speed" formatted="false">Mi veya Redmi yönlendiricilerine bağlandığında bağlantı hızını %10-%20 artırın</string>
+    <string name="gtb_setting_item_summary_smart_wlan_speed_new">Mi veya Redmi yönlendiricilerine bağlanıldığında bağlantı hızını %1$s-%2$s artırın</string>
     <string name="gtb_setting_item_title_brightness">Ekran parlaklığını otomatik olarak azalt</string>
     <string name="gtb_setting_item_title_disable_ndds_sim">"İkincil Sim'i engelle"</string>
     <string name="gtb_setting_item_title_smart_5g">5G ağ optimizasyonu</string>
@@ -2756,6 +2768,8 @@ bekleniyor"</string>
     <string name="memory_clean_no_need_clean">Her şey yolunda gözüküyor</string>
     <string name="memory_clean_no_need_clean_1" formatted="false">"%s temizlendi
 Cihazınız şimdi %%%d daha hızlı"</string>
+    <string name="memory_clean_no_need_clean_1_new" formatted="false">"%s temizlendi
+Cihazınız artık %s daha hızlı"</string>
     <string name="memory_clear_unused">Önbelleği temizle (%s)</string>
     <string name="memory_title">Kullanılan: %1$s Toplam: %2$s</string>
     <string name="menu_add">Ekle</string>
@@ -2779,6 +2793,7 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_item_notification_antispam_text_normal">Engelli listesi</string>
     <string name="menu_item_notification_garbage_text">%s</string>
     <string name="menu_item_notification_optimize_text">%%%d dolu</string>
+    <string name="menu_item_notification_optimize_text_new">%s dolu</string>
     <string name="menu_item_notification_power_text">Güç</string>
     <string name="menu_item_notification_title">Bildirim panelinde menüsü</string>
     <string name="menu_item_shortcut_summary">Ana ekranınıza yerleştirmek istediğiniz özellikleri seçin</string>
@@ -2799,12 +2814,14 @@ Cihazınız şimdi %%%d daha hızlı"</string>
     <string name="menu_summary_garbage_cleanup">Çöp bulunamadı</string>
     <string name="menu_summary_garbage_cleanup_ex">%s çöp kutusunu temizle</string>
     <string name="menu_summary_garbage_cleanup_new">%%%d depolama alanı</string>
+    <string name="menu_summary_garbage_cleanup_new_new">%s depolama alanı</string>
     <string name="menu_summary_networkassistants">Veri planınızı yönetin</string>
     <string name="menu_summary_networkassistants_2">Sınırın üzerinde gitti</string>
     <string name="menu_summary_networkassistants_3">Yeterli veri kaldı</string>
     <string name="menu_summary_networkassistants_4">Veri tükeniyor</string>
     <string name="menu_summary_optimize_manage">Hafızayı temizle</string>
     <string name="menu_summary_optimize_manage_1">Cihazınızı %%%d daha hızlandırın</string>
+    <string name="menu_summary_optimize_manage_1_new">Cihazınızı %s daha hızlı yapın</string>
     <string name="menu_summary_power_manager">Pil tasarrufu size ücretler arasında daha fazla zaman verir</string>
     <string name="menu_summary_power_manager_1">Pil tamamen şarj oldu</string>
     <string name="menu_summary_power_manager_2">%s kaldı</string>
@@ -3079,6 +3096,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_link_cleaner_3002">WeChat çöp kutusunu temizleyin</string>
     <string name="notification_link_cleaner_4000">QQ çöp kutusunu temizle</string>
     <string name="notification_link_optimizemanage_1011">%%%d bellek dolu. Şimdi temizle</string>
+    <string name="notification_link_optimizemanage_1011_new">%s bellek dolu. Şimdi temizle</string>
     <string name="notification_low_battery_need_charge">Cihazınızı şarj edin</string>
     <string name="notification_low_battery_open_save_mode">Pil tasarrufunu aç</string>
     <string name="notification_low_battery_title">"Kalan pil %s'den daha az"</string>
@@ -3095,6 +3113,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_optimize_button_text">Temizle</string>
     <string name="notification_optimize_message">Hızı artırmak için belleği temizleyin</string>
     <string name="notification_optimize_title">%%%d bellek dolu</string>
+    <string name="notification_optimize_title_new">%s bellek dolu</string>
     <string name="notification_power_consume_issue_summary">Yüksek güç tüketimi</string>
     <string name="notification_power_consume_suggest_summary">Pilden tasarruf etmek için sorunları düzeltin</string>
     <string name="notification_qq_clean_hint">Çöp kutusu cihazınızı yavaşlatır</string>
@@ -4368,6 +4387,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="scan_status_risk">Riskli</string>
     <string name="scan_status_safe">Güvenli</string>
     <string name="scanning_bar_number">%%%d</string>
+    <string name="scanning_bar_number_new">%s</string>
     <string name="screenrecord_not_find">Ekran kaydedicinin en son sürümünü yükleyin ve tekrar deneyin</string>
     <string name="sd_eject">SD kartı çıkarın</string>
     <string name="sd_eject_summary">SD kartı güvenli bir şekilde çıkarmak için bağlantısını kesin</string>
@@ -4471,8 +4491,11 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="signal_exception_title">Sinyal gücünü test et</string>
     <string name="signed_rule">Kurallar</string>
     <string name="signed_rule_one">1. Sırasıyla 1, 2 veya 3 gün boyunca Xunyou hızlandırıcı almak için 10, 20 veya 28 gün üst üste yer bildirimi yapın</string>
+    <string name="signed_rule_one_new">%1$d. Sırasıyla %5$d, %6$d veya %7$d gün boyunca Xunyou desteği almak için her ay arka arkaya %2$d, %3$d veya %4$d gün giriş yapın</string>
     <string name="signed_rule_three">3. Yer bildirimi yaptığınız günler her ay başında yenilenir. Kalan günler devredilmez</string>
+    <string name="signed_rule_three_new">%1$d. Check-in yaptığınız günler her ayın başında iptal olur. Kalan günler devredilmez</string>
     <string name="signed_rule_two">2. Her ay yalnızca 1 Xunyou hızlandırıcı kazanabilirsiniz</string>
+    <string name="signed_rule_two_new">%D. Ayda sadece 1 Xunyou takviyesi alabilirsiniz</string>
     <string name="sim_car_absent__tip">Kayıp modunu kapatmak için ekran kilidini onaylayın</string>
     <string name="sim_car_absent_intercept_action">Ekran kilidini onaylayın (%d)</string>
     <string name="sim_car_absent_intercept_action_last">Ekran kilidini onaylayın</string>
@@ -5066,7 +5089,8 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını düşürür. Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
-    <string name="superpower_notification_new_title">"Kalan pilin %%%d'den az"</string>
+    <string name="superpower_notification_new_title">"%%%d'den az pil kaldı"</string>
+    <string name="superpower_notification_new_title_new">"%s'den az pil kaldı"</string>
     <string name="superpower_notification_summary">Ultra pil tasarrufunu aç</string>
     <string name="superpower_notification_time_12">dd MMMM EEEE</string>
     <string name="superpower_notification_time_24">dd MMMM EEEE</string>

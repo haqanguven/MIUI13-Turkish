@@ -179,7 +179,7 @@
     <string name="branch_deepview_button">Uygulamayı al</string>
     <string name="branch_deepview_button_description">Kurulumdan hemen sonra bu içeriği görün</string>
     <string name="branch_feature_description">Hızlı nulucu uygulamaların yanı sıra uygulama içi içeriği ve öğeleri çevrimiçi olarak bulabilir</string>
-    <string name="branch_guide_attention">Gelişmiş aramayı kullanmak arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşif Gizlilik Politikasını</a></font> okuyun ve kabul edin</string>
+    <string name="branch_guide_attention">"Gelişmiş aramayı kullanmak arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce <font color="#B3000000"><a href="http://url1">Son Kullanıcı Keşif Şartlar &amp; Koşullarını</a></font> ve <font color="#B3000000"><a href="http://url2">Branch Keşif Gizlilik Politikasını</a></font> okuyun ve kabul edin"</string>
     <string name="branch_guide_description_one">Tüm uygulamalarınızı uygulama çekmecesine koyacağız. Ana ekranınız düzgün ve düzenli görünecek</string>
     <string name="branch_guide_description_three">Yerleşik arama ile ihtiyacınız olan her şeyi anında bulabileceksiniz</string>
     <string name="branch_guide_description_two">Uygulama çekmecesi uygulamaları otomatik olarak kategorilere ayırır</string>

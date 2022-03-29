@@ -278,8 +278,10 @@
     <string name="pa_accessibility_olympic_the_first">İlk sıra: %s</string>
     <string name="pa_accessibility_olympic_the_second">İkinci sıra: %s</string>
     <string name="pa_accessibility_olympic_the_third">Üçüncü sıra: %s</string>
+    <string name="pa_accessibility_picker_app_group_list_item">%1$s/%2$d</string>
     <string name="pa_accessibility_picker_back">Geri dön</string>
     <string name="pa_accessibility_picker_search_cancel">Araç arama çubuğu. İptal etmek için iki kez dokunun</string>
+    <string name="pa_accessibility_picker_search_clear">Arama geçmişini temizle</string>
     <string name="pa_accessibility_picker_search_tips">Araç arama çubuğu. Aramak için iki kez dokunun</string>
     <string name="pa_accessibility_picker_suit_item_add_to_desktop">Araç mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun</string>
     <string name="pa_accessibility_picker_suit_item_add_to_minus_desktop">Araç mağazası. %s seçildi. Ayrıntıları görüntülemek için iki kez dokunun</string>
@@ -576,8 +578,9 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_recommend_no_network">Önce uygulamayı indirin</string>
     <string name="pa_rtk_card_title">Gösterge paneli</string>
     <string name="pa_rtk_more_content_description">Seçenekler</string>
-    <string name="pa_rtk_more_text">İlgilenmiyorum</string>
     <string name="pa_rtk_place_holder_text">Bu araç şimdilik panonuza taşındı</string>
+    <string name="pa_rtk_recommend_card_title">Önerilen kartı</string>
+    <string name="pa_rtk_unlike_text">Sabitlemeyi kaldır</string>
     <string name="pa_rts_summary">Gösterge tablosuna en sık kullanılan araçları yerleştirin</string>
     <string name="pa_rts_text">Gösterge paneli</string>
     <string name="pa_scan">Tara</string>

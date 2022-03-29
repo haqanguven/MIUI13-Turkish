@@ -556,7 +556,7 @@ engellenenler listesine eklendi"</string>
     <string name="loading_mms">Yalnızca bir saniye</string>
     <string name="manage_permission_app_label">Cihaz izinleri</string>
     <string name="mark_number_by_own_dialog_subtitle">%1$s olarak işaretlendi</string>
-    <string name="marketSdkVersion">3.2.5</string>
+    <string name="marketSdkVersion">3.2.10</string>
     <string name="me">Ben</string>
     <string name="menu_add_black">Bu numarayı engelle</string>
     <string name="menu_add_contact">Mevcut kişiye ekle</string>
@@ -1502,6 +1502,7 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="title_allow_network_access">Bilgileri otomatik olarak güncelle</string>
     <string name="title_collapse_sp_messages">Bildirimler grubu</string>
     <string name="title_hide_verification_code">"Kilit ekranında OTP'leri otomatik olarak gizle"</string>
+    <string name="title_not_show_read_mms_perm_req">Gerekli izinler</string>
     <string name="title_pref_cm_smart_sms">5G akıllı mesajlaşma</string>
     <string name="title_show_blocked_messages">Engellenen mesajlar</string>
     <string name="title_show_list_avatar">Profil fotoğrafları</string>
@@ -1524,6 +1525,7 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="toast_not_show_email_perm_req">Bu özelliği kullanmak için mesajlaşmanın e-postanıza erişmesine izin verin</string>
     <string name="toast_not_show_location_perm_req">Bu özelliği kullanmak için mesajlaşmanın konumunuza erişmesine izin verin</string>
     <string name="toast_not_show_microphone_perm_req">Bu özelliği kullanabilmek için mesajlaşmanın mikrofon kullanmasına izin verin</string>
+    <string name="toast_not_show_read_mms_perm_req">Alınan mesajları görüntüleyebilmek için mesajları ve multimedya mesajlarını okuma izni vermeniz gerekir. Bu izni ayarlardan verebilirsiniz</string>
     <string name="toast_not_show_send_sms_perm_req">Bu özelliği kullanabilmek için önce bu uygulamanın mesaj göndermesine izin verin</string>
     <string name="toast_not_show_storage_perm_req">Bu özelliği kullanabilmek için mesajlaşmanın depolama alanına erişmesine izin verin</string>
     <string name="toast_not_show_write_contacts_perm_req">Bu özelliği kullanmak için mesajlaşmanın kişileri düzenlemesine izin verin</string>

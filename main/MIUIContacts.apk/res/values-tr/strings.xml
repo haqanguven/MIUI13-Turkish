@@ -1164,6 +1164,7 @@ Neden: %s"</string>
     <string name="preference_smart_group_location_title">Konumlar</string>
     <string name="preference_smart_group_title">Akıllı gruplar</string>
     <string name="preference_tone_title">Tonlar</string>
+    <string name="preference_yellowpage_function_setting">Sarı sayfa ayarları</string>
     <string name="previous">Önceki</string>
     <string name="privacy_password_message1">Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır.</string>
     <string name="privacy_password_message2">Gizlilik koruma şifresi kullanın. Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır.</string>
@@ -1173,6 +1174,7 @@ Neden: %s"</string>
     <string name="privacy_password_title2">Gizlilik koruma şifresini kullan</string>
     <string name="privacy_password_title3">Şifrenizi güncelleyin</string>
     <string name="privacy_password_title4">Şifre güncellendi</string>
+    <string name="privacy_settings_blue_scan_connect">Yakındaki cihazlara bağlanın</string>
     <string name="privacy_settings_call_phone">Yap</string>
     <string name="privacy_settings_call_phone_description">Üçüncü taraf uygulamalarda arama yapmak için</string>
     <string name="privacy_settings_call_phone_description_for_pad">Üçüncü taraf uygulamalarda arama yapmak için</string>
@@ -1486,6 +1488,7 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="toast_for_failed_saving_nickname">Takma ad kaydedilemedi</string>
     <string name="toast_for_saving_nickname">Takma ad kaydedildi</string>
     <string name="toast_join_with_empty_contact">Başka bir kişiyle birleştirmeden önce kişinin adını yazın</string>
+    <string name="toast_not_show_blue_scan_connect_perm_req">Diğer cihazlardan kişileri içe aktarabilmek için bu özelliğin Bluetooth aracılığıyla yakındaki cihazlara bağlanmasına izin verin</string>
     <string name="toast_not_show_camera_perm_req">Profil fotoğrafları çekmek ve kamerayı kullanabilmek için önce bu uygulamanın fotoğraf çekmesine ve video kaydetmesine izin verin</string>
     <string name="toast_not_show_location_perm_req">Bluetooth aracılığıyla diğer cihazlardan kişileri içe aktarabilmek için önce bu uygulamanın konumunuza erişmesine izin verin</string>
     <string name="toast_not_show_read_calllogs_perm_req">Arama geçmişini görüntüleyebilmek için önce bu uygulamanın arama geçmişine erişmesine izin verin</string>

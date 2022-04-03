@@ -116,7 +116,7 @@
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarlayın</string>
     <string name="default_debt_msg_words">"Bu cihaz gecikmiş taksit ödemesi nedeniyle kilitlendi
 Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
-    <string name="default_lock_msg_words">Bu cihaz mevcut bir Mi hesabı ile ilişkilendirilmiş durumda. Güvenlik nedenlerinden dolayı cihazı doğrulamak için parolanızı girmeniz gerekmektedir</string>
+    <string name="default_lock_msg_words">Bu cihaz mevcut bir Mi hesabı ile ilişkilendirilmiş durumda. Güvenlik nedenlerinden dolayı cihazı doğrulamak için şifrenizi girmeniz gerekmektedir</string>
     <string name="default_lock_msg_words_with_phone">Merhabalar. Telefonumu kaybettim. Lütfen benimle iletişime geçer misiniz? Teşekkürler</string>
     <string name="device_locked">Cihaz kilitli</string>
     <string name="device_lost">Bu cihaz kayıp</string>

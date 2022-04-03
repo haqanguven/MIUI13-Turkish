@@ -496,7 +496,7 @@ engellenenler listesine eklendi"</string>
     <string name="group_notify_message_title">Grup mesajı bildirimi</string>
     <string name="group_rejoin_failed">Grup işlemi başarısız oldu</string>
     <string name="group_resend_message">Tekrar gönder (%d)</string>
-    <string name="group_verification_codes_summary">Bir kerelik parolaları otomatik olarak grupla</string>
+    <string name="group_verification_codes_summary">Bir kerelik şifreleri otomatik olarak grupla</string>
     <string name="group_verification_codes_title">OTP mesajlar grubu</string>
     <string name="group_view_settings_disolved">Grup dağıtılmış. Grup verileri görünmüyor</string>
     <string name="group_view_settings_not_memeber">Bu grupta değil. Grup verilerini göremiyor</string>
@@ -964,12 +964,12 @@ Devam etmeden önce gizlilik politikasının yeni sürümünü okuyun ve kabul e
     <string name="privacy_dialog_title_update">Güncellenmiş gizlilik politikası</string>
     <string name="privacy_dialog_title_update_confim">Uygulamayı kullanamıyorum</string>
     <string name="privacy_mode_hint">Misafir modunda mesaj gönderilemiyor</string>
-    <string name="privacy_password_message1">Gizlilik koruma parolası uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır</string>
-    <string name="privacy_password_message2">Gizlilik koruma parolası kullanın. Gizlilik koruma parolası uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır</string>
-    <string name="privacy_password_message3">Mesajlaşma parolası uygulamalar, fotoğraflar, notlar ve gizli notlar için çalışacak olan gizlilik koruma parolası ile değiştirilecektir</string>
+    <string name="privacy_password_message1">Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır</string>
+    <string name="privacy_password_message2">Gizlilik koruma şifresi kullanın. Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır</string>
+    <string name="privacy_password_message3">Mesajlaşma şifresi uygulamalar, fotoğraflar, notlar ve gizli notlar için çalışacak olan gizlilik koruma şifresi ile değiştirilecektir</string>
     <string name="privacy_password_set_password">Ayarla</string>
     <string name="privacy_password_title1">Şifre oluştur</string>
-    <string name="privacy_password_title2">Gizlilik koruma parolası kullan</string>
+    <string name="privacy_password_title2">Gizlilik koruma şifresi kullan</string>
     <string name="privacy_password_title3">Şifrenizi güncelleyin</string>
     <string name="privacy_password_title4">Şifre güncellendi</string>
     <string name="privacy_policy">Gizlilik politikası</string>

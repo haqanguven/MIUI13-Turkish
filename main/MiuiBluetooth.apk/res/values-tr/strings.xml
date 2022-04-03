@@ -163,7 +163,7 @@
     <string name="bluetooth_pairing_decline">İptal et</string>
     <string name="bluetooth_pairing_device_down_error_message">%1$s ile iletişim kurulamıyor</string>
     <string name="bluetooth_pairing_error_message">%1$s ile eşleştirilemedi</string>
-    <string name="bluetooth_pairing_pin_error_message">Pin veya parola yanlış olduğundan %1$s ile eşleştirilemedi</string>
+    <string name="bluetooth_pairing_pin_error_message">Pin veya şifre yanlış olduğundan %1$s ile eşleştirilemedi</string>
     <string name="bluetooth_pairing_rejected_error_message">Eşleştirme %1$s tarafından reddedildi</string>
     <string name="bluetooth_pairing_will_share_phonebook">Eşleme işlemi bağlantı kurulduğunda kişilerinize ve arama geçmişine erişim izni verir</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Cihazla yerel internet bağlantısını paylaşıyor</string>

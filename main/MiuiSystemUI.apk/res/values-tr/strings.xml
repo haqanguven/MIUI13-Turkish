@@ -413,7 +413,7 @@
     <string name="biometric_dialog_now_wiping_dialog_dismiss">Dismiss</string>
     <string name="biometric_dialog_tap_confirm">Tamamlamak için onaylaya dokunun</string>
     <string name="biometric_dialog_try_again">Tekrar dene</string>
-    <string name="biometric_dialog_use_password">Parola kullan</string>
+    <string name="biometric_dialog_use_password">Şifre kullan</string>
     <string name="biometric_dialog_use_pattern">Desen kullan</string>
     <string name="biometric_dialog_use_pin">Pin kullan</string>
     <string name="biometric_dialog_wrong_password">Yanlış şifre</string>
@@ -473,7 +473,7 @@
     <string name="bluetooth_pairing_decline">İptal et</string>
     <string name="bluetooth_pairing_device_down_error_message">%1$s ile iletişim kurulamıyor</string>
     <string name="bluetooth_pairing_error_message">%1$s ile eşleştirilemedi</string>
-    <string name="bluetooth_pairing_pin_error_message">Pin veya parola yanlış olduğundan %1$s ile eşleştirilemedi</string>
+    <string name="bluetooth_pairing_pin_error_message">Pin veya şifre yanlış olduğundan %1$s ile eşleştirilemedi</string>
     <string name="bluetooth_pairing_rejected_error_message">Eşleştirme %1$s tarafından reddedildi</string>
     <string name="bluetooth_pairing_will_share_phonebook">Eşleme işlemi bağlantı kurulduğunda kişilerinize ve arama geçmişine erişim izni verir</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Cihazla yerel internet bağlantısını paylaşıyor</string>
@@ -1100,15 +1100,15 @@ Göstermeye devam edilsin mi?"</string>
     <string name="inline_stop_button">Bildirimleri durdur</string>
     <string name="inline_turn_off_notifications">Bildirimleri kapat</string>
     <string name="inline_undo">Geri al</string>
-    <string name="input_lockscreen_password_hint_text">Parolanı gir</string>
+    <string name="input_lockscreen_password_hint_text">Şifre gir</string>
     <string name="input_lockscreen_pattern_hint_text">Desen çiz</string>
     <string name="input_lockscreen_pin_hint_text">Pin gir</string>
-    <string name="input_password_after_boot_msg">Cihaz kilidini açmak için parolanızı girin</string>
+    <string name="input_password_after_boot_msg">Cihaz kilidini açmak için şifrenizi girin</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Arama sırasında alan değiştirilemiyor</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Aile bekçisi açıkken boşluklar arasında geçiş yapamıyorum</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_superpower_active">Ultra pil tasarrufu açıkken alanlar arasında geçiş yapamıyorum</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Cihaz yeniden başlatıldıktan sonra ilk alana girmeniz gerekmektedir</string>
-    <string name="input_password_hint_text">Parolayı girin</string>
+    <string name="input_password_hint_text">Şifreyi girin</string>
     <string name="input_pattern_after_boot_msg">Cihaz yeniden başlatıldığında deseninizi çizmeniz gerekir</string>
     <string name="input_pattern_hint_text">Kilit açma deseninizi seçin</string>
     <string name="input_pin_after_boot_msg">"Cihaz yeniden başlatıldığında Pin'inizi girmeniz gerekir"</string>
@@ -1182,7 +1182,7 @@ Yalnızca desteklenen şarj cihazlarını kullanın"</string>
     <string name="keyboardview_keycode_delete">Sil</string>
     <string name="keyboardview_keycode_enter">Enter</string>
     <string name="keyguard_accessibility_next_alarm">Sonraki alarm %1$s için ayarlandı</string>
-    <string name="keyguard_accessibility_password">Cihaz parolası</string>
+    <string name="keyguard_accessibility_password">Cihaz şifresi</string>
     <string name="keyguard_accessibility_pin_area">Pin alanı</string>
     <string name="keyguard_accessibility_sim_pin_area">Sim Pin alanı</string>
     <string name="keyguard_accessibility_sim_puk_area">Sim Puk alanı</string>
@@ -1261,7 +1261,7 @@ Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="kg_invalid_sim_pin_hint">4 ila 8 sayı olan bir Pin yazın</string>
     <string name="kg_invalid_sim_puk_hint">Puk kodu 8 sayı veya daha fazla olmalıdır</string>
     <string name="kg_login_too_many_attempts">Çok fazla desen denemesi</string>
-    <string name="kg_password_instructions">Parolanı gir</string>
+    <string name="kg_password_instructions">Şifre gir</string>
     <string name="kg_password_pin_failed">Sim Pin işlemi başarısız oldu</string>
     <string name="kg_password_puk_failed">Sim Puk işlemi başarısız oldu</string>
     <string name="kg_password_wrong_pin_code_pukked">Yanlış Sim Pin kodu. Şimdi cihazınızın kilidini açmak için operatörünüze başvurmanız gerekir</string>
@@ -1699,8 +1699,8 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="phone_locked_forget_password_suggesstion_two_content"><font color="#a5220e">Sil &amp;amp; Sıfırla</font> seçeneğini seçin ve cihaz yeniden başlatılana kadar bekleyin</string>
     <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
     <string name="phone_locked_string">Telefon kilitlendi</string>
-    <string name="phone_locked_string_owner_user">İlk alan parolasını girmek için çok sayıda başarısız girişimde bulunuldu. Bu cihaz şimdi kilitlendi</string>
-    <string name="phone_locked_string_second_user">İkinci alan parolasını girmek için çok sayıda başarısız girişimde bulunuldu. Bu cihaz şimdi kilitlendi</string>
+    <string name="phone_locked_string_owner_user">İlk alan şifresini girmek için çok sayıda başarısız girişimde bulunuldu. Bu cihaz şimdi kilitlendi</string>
+    <string name="phone_locked_string_second_user">İkinci alan şifresini girmek için çok sayıda başarısız girişimde bulunuldu. Bu cihaz şimdi kilitlendi</string>
     <string name="picture_color_mode">Resim renk modu</string>
     <string name="picture_color_mode_desc">"sRGB'yi kullan"</string>
     <string name="pip_close">"PIP'yi kapat"</string>

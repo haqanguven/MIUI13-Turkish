@@ -1183,7 +1183,7 @@ bakın"</string>
     <string name="page_radio_rank">榜单</string>
     <string name="page_radio_replay">听回听</string>
     <string name="page_radio_see_all">查看全部</string>
-    <string name="password_must_include">Parola sayılar, büyük ve küçük harfler içermelidir</string>
+    <string name="password_must_include">Şifre sayılar, büyük ve küçük harfler içermelidir</string>
     <string name="password_password_hint">Lütfen yeni bir şifre girin</string>
     <string name="password_phone_hint">Lütfen telefon numarasını girin</string>
     <string name="password_phone_not_exists">Telefon numarası kayıtlı değil, lütfen önce kayıt olun</string>

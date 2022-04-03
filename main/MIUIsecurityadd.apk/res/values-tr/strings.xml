@@ -154,8 +154,8 @@
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
-    <string name="close_password_dialog_message">Parola kapatıldıktan sonra başlangıç alanındaki parolada devre dışı bırakılır. Girdiğiniz parmak izi ve yüz verilerini silinecek. Parmak izi, yüz tanıma ve cihaz korumasını kullanamayacaksınız</string>
-    <string name="close_password_dialog_title">Parola doğrulamasını kapat</string>
+    <string name="close_password_dialog_message">Şifre kapatıldıktan sonra başlangıç alanındaki şifre devre dışı bırakılır. Girdiğiniz parmak izi ve yüz verilerini silinecek. Parmak izi, yüz tanıma ve cihaz korumasını kullanamayacaksınız</string>
+    <string name="close_password_dialog_title">Şifre doğrulamasını kapat</string>
     <string name="com.crashlytics.android.build_id">c9c977faf0af44f192fecd504961d332</string>
     <string name="confirmDelete">Silme işlemini onayla</string>
     <string name="confirm_main_space_password">Lütfen ilk alan için şifreyi onaylayın</string>

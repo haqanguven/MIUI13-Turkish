@@ -1453,9 +1453,9 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="pref_privacy_clear_history">Geçmişi temizle</string>
     <string name="pref_privacy_clear_history_dlg">Geçmiş temizlensin mi?</string>
     <string name="pref_privacy_clear_history_summary">Tarama geçmişini temizle</string>
-    <string name="pref_privacy_clear_passwords">Kayıtlı parolaları temizle</string>
-    <string name="pref_privacy_clear_passwords_dlg">Tüm kayıtlı parolalar temizlensin mi?</string>
-    <string name="pref_privacy_clear_passwords_summary">Kayıtlı parolaların tamamını temizle</string>
+    <string name="pref_privacy_clear_passwords">Kayıtlı şifreleri temizle</string>
+    <string name="pref_privacy_clear_passwords_dlg">Tüm kayıtlı şifreler temizlensin mi?</string>
+    <string name="pref_privacy_clear_passwords_summary">Kayıtlı şifrelerin tamamını temizle</string>
     <string name="pref_privacy_enable_geolocation">Konum</string>
     <string name="pref_privacy_enable_geolocation_summary">Tarayıcının konumunuza erişimine izin verin</string>
     <string name="pref_privacy_policy">Gizlilik politikası</string>

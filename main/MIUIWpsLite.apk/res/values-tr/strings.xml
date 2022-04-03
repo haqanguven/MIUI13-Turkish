@@ -309,9 +309,9 @@
     <string name="public_iat_audiocomment_reply_longpress">Konuşmak için uzun basın</string>
     <string name="public_iat_audiocomment_reply_stop">Yayın sonu</string>
     <string name="public_iat_convert_to_text">Metni çevir</string>
-    <string name="public_inputEditPasswdText">Değiştirmek için parolayı girin veya salt okunur açın</string>
+    <string name="public_inputEditPasswdText">Değiştirmek için şifreyi girin veya salt okunur açın</string>
     <string name="public_inputEditPasswdTextReadOnly">Yazar belge için düzenleme şifresi koymuştur. Devam etmek için şifreyi girin</string>
-    <string name="public_inputPasswd">Belgeyi açmak için parola girin</string>
+    <string name="public_inputPasswd">Belgeyi açmak için şifre girin</string>
     <string name="public_isSaveOrNot">Belgede yaptığınız değişiklikler kaydedilsin mi?</string>
     <string name="public_is_download_wps">WPS indirmek istiyor musunuz?</string>
     <string name="public_jump_to_tips">Sayfa değiştirmek için buraya dokunun ve bir sayfa numarası girin</string>

@@ -148,7 +148,7 @@
     <string name="bluetooth_pairing_decline">İptal et</string>
     <string name="bluetooth_pairing_device_down_error_message">%1$s ile iletişim kurulamıyor</string>
     <string name="bluetooth_pairing_error_message">%1$s ile eşleştirilemedi</string>
-    <string name="bluetooth_pairing_pin_error_message">Pin veya parola yanlış olduğundan %1$s ile eşleştirilemedi</string>
+    <string name="bluetooth_pairing_pin_error_message">Pin veya şifre yanlış olduğundan %1$s ile eşleştirilemedi</string>
     <string name="bluetooth_pairing_rejected_error_message">Eşleştirme %1$s tarafından reddedildi</string>
     <string name="bluetooth_pairing_will_share_phonebook">Eşleme işlemi bağlantı kurulduğunda kişilerinize ve arama geçmişine erişim izni verir</string>
     <string name="bluetooth_pan_nap_profile_summary_connected">Cihazla yerel internet bağlantısını paylaşıyor</string>
@@ -588,7 +588,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wapi_password_is_not_hex_format">Geçersiz onaltılık karakterler</string>
     <string name="wapi_password_length_is_max">Şifre uzunluğu 64 karakteri aşamaz</string>
     <string name="wapi_password_length_is_min">Şifre uzunluğu 8 karakterden az olamaz</string>
-    <string name="wapi_password_length_is_min_to_max">Parola şu şekilde olmalıdır: 8-64 karakter</string>
+    <string name="wapi_password_length_is_min_to_max">Şifre şu şekilde olmalıdır: 8-64 karakter</string>
     <string name="wapi_yes">Evet</string>
     <string name="wifi_ap_unable_to_handle_new_sta">Erişim noktası geçici olarak dolu</string>
     <string name="wifi_auto_sel_wapi_cert">Otomatik seç</string>

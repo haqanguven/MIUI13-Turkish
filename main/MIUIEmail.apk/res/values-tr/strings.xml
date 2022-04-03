@@ -388,7 +388,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="change_folders_selection_dialog_title">Klasörleri değiştir</string>
     <string name="change_sync_settings">Senkronizasyon ayarlarını değiştir</string>
     <string name="changepw_dialog_auth_tips">%S için yetkilendirme kodunu tekrar girin</string>
-    <string name="changepw_dialog_tips">%s hesabı parolasını yeniden girin</string>
+    <string name="changepw_dialog_tips">%s hesabı şifresini yeniden girin</string>
     <string name="character_counter_content_description">Karakterler %1$d/%2$d girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %2$d içinde %1$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d/%2$d</string>
@@ -694,7 +694,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="eras_bc">BCE</string>
     <string name="error">Hata</string>
     <string name="error_icon_content_description">Hata</string>
-    <string name="error_message_account_or_password">Hesap kimliği veya parolası yanlış</string>
+    <string name="error_message_account_or_password">Hesap kimliği veya şifresi yanlış</string>
     <string name="error_message_auth_error">Oturum açmak için bir doğrulama kodu kullanın</string>
     <string name="error_message_blacklist">Hesabınız engellenenler listesine eklendi. Bu sorunu çözmek için e-posta servis sağlayıcınıza başvurun</string>
     <string name="error_message_imap_or_pop3_service_not_open">"IMAP veya POP3'ü açın ve tekrar deneyin"</string>
@@ -714,7 +714,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="error_message_respond_revert_12">@string/error_message_blacklist</string>
     <string name="error_message_respond_revert_14">@string/error_message_outlook_error</string>
     <string name="error_message_respond_revert_15">@string/error_message_blacklist</string>
-    <string name="error_message_respond_revert_16">Parolanızın süresi doldu. Şifrenizi güncelleyin ve tekrar oturum açın</string>
+    <string name="error_message_respond_revert_16">Şifrenizin süresi doldu. Şifrenizi güncelleyin ve tekrar oturum açın</string>
     <string name="error_message_respond_revert_17">@string/error_message_imap_service_not_open</string>
     <string name="error_message_respond_revert_18">@string/error_message_outlook_error</string>
     <string name="error_message_respond_revert_19">@string/error_message_account_or_password</string>
@@ -1519,7 +1519,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="qq_authorization_know">Yetkilendirme kodunu anlama</string>
     <string name="qq_authorization_tips">Artık istemiyor</string>
     <string name="qq_auto_login_failed_cpy_pass_success">Başarıyla kopyalandı. Oturum sayfasına geri dönün ve kodu şifre formuna yapıştırın</string>
-    <string name="qq_auto_login_failed_dialog_message">Doğrulama kodunu kopyalayın, oturum açma sayfasında oturum açmak için kullanıcı adı ve parola girine dokunun ve kodu şifre formuna yapıştırın</string>
+    <string name="qq_auto_login_failed_dialog_message">Doğrulama kodunu kopyalayın, oturum açma sayfasında oturum açmak için kullanıcı adı ve şifre girine dokunun ve kodu şifre formuna yapıştırın</string>
     <string name="qq_auto_login_failed_dialog_positive_label">Kodu kopyala</string>
     <string name="qq_bar_open_imap">Yardım</string>
     <string name="qq_bar_send_message">Mesaj gönder</string>
@@ -1640,7 +1640,7 @@ Tamamen senkronize edilmesini bekleyin veya mesajı bilgisayarınızda görünt�
 (Otomatik senkronizasyon zamanı ayarını açtığınızdan emin olun)"</string>
     <string name="ser_resp_err_map_landing_more_failure">Çok fazla sayıda başarısız oturum açma girişimi</string>
     <string name="ser_resp_err_map_landing_too_frequently">Çok fazla oturum açma girişimi</string>
-    <string name="ser_resp_err_map_mailbox_locked">E-posta hesabı parola korumalıdır</string>
+    <string name="ser_resp_err_map_mailbox_locked">E-posta hesabı şifre korumalıdır</string>
     <string name="ser_resp_err_map_mailbox_not_open">E-posta hesabı yok</string>
     <string name="ser_resp_err_map_max_connections">Çok fazla bağlantı girişimi</string>
     <string name="ser_resp_err_map_nouser">Kullanıcı mevcut değil</string>

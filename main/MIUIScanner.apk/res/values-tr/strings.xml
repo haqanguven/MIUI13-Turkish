@@ -383,7 +383,7 @@
     <string name="general_plant">Aradığınız şey olabilir:</string>
     <string name="general_recognized">Sizin için tanımlandı:</string>
     <string name="general_title">Lütfen tanınacak nesneyi fotoğraflayın</string>
-    <string name="general_wifi_data_wrong_data">"Hem SSID'yi hem de parolayı girin"</string>
+    <string name="general_wifi_data_wrong_data">"Hem SSID'yi hem de şifreyi girin"</string>
     <string name="global_default_language">@string/language_value_english</string>
     <string name="go_shut_down">Kapat</string>
     <string name="goods_query">Emtia sorgulama</string>

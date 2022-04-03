@@ -1098,7 +1098,7 @@ Uygulamalar:
     <string name="bluetooth_blacklist_cancel_remove_device">İptal et</string>
     <string name="bluetooth_blacklist_remove_device">Engeli kaldır</string>
     <string name="bluetooth_broadcasting">Yayınlama</string>
-    <string name="bluetooth_confirm_passkey_msg">Şu cihazla eşlemek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Şu parolanın göründüğünden emin olun:&lt;br>&lt;b>%2$s&lt;/b></string>
+    <string name="bluetooth_confirm_passkey_msg">Şu cihazla eşlemek için:&lt;br>&lt;b>%1$s&lt;/b>&lt;br>&lt;br>Şu şifrenin göründüğünden emin olun:&lt;br>&lt;b>%2$s&lt;/b></string>
     <string name="bluetooth_connect_access_dialog_content">"%1$s bu telefona bağlanmak istiyor
 
 Daha önce %2$s ile bağlantı kurmadınız"</string>
@@ -1189,7 +1189,7 @@ Daha önce %2$s ile bağlantı kurmadınız"</string>
     <string name="bluetooth_enable_page_scan">Bluetooth sayfa taramasını etkinleştir</string>
     <string name="bluetooth_enable_page_scan_summary">Bluetooth testi için sayfa taramayı devre dışı bırak veya etkinleştir</string>
     <string name="bluetooth_enter_passkey_msg">Eşleme kodunu yazın ve sonra Return veya Enter tuşuna basın</string>
-    <string name="bluetooth_enter_passkey_other_device">Bu parolayı diğer cihazda da girmeniz gerekebilir</string>
+    <string name="bluetooth_enter_passkey_other_device">Bu şifreyi diğer cihazda da girmeniz gerekebilir</string>
     <string name="bluetooth_enter_pin_other_device">"Bu Pin'i diğer cihazda da yazmanız gerekebilir"</string>
     <string name="bluetooth_error_title" />
     <string name="bluetooth_fastConnect_key_device_id">Cihaz kimliği</string>
@@ -2187,7 +2187,7 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="dark_mode_day_night_mode_summary">Gün batımında karanlık moda geçin ve gün doğumunda kapatın</string>
     <string name="dark_mode_day_night_mode_title">Gün batımından gün doğumuna</string>
     <string name="dark_mode_font_background_title">Metin ve arka planı otomatik ayarla</string>
-    <string name="dark_mode_time_settings">Karanlık modu planla</string>
+    <string name="dark_mode_time_settings">Karanlık mod zamanlayıcı</string>
     <string name="dark_theme_slice_subtitle">Pil ömrünü uzatmaya yardımcı olur</string>
     <string name="dark_theme_slice_title">Koyu temayı deneyin</string>
     <string name="dark_ui_activation_off_auto">Gün batımına kadar kapalı tut</string>
@@ -4457,7 +4457,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="man_add_application">Otomatik başlatma uygulaması ekle</string>
     <string name="manage_conversations">Görüşmeleri yönetme</string>
     <string name="manage_device_admin">Cihaz yönetimi uygulamaları</string>
-    <string name="manage_external_storage_title">Tüm dosyalara erişim</string>
+    <string name="manage_external_storage_title">Dosyalara erişim</string>
     <string name="manage_facerecoginition_text">Yüz verilerini yönet</string>
     <string name="manage_fakecell_settings">Sahte baz istasyonları koruması</string>
     <string name="manage_fingerprint_text">Parmak izlerini Yönet</string>
@@ -5708,7 +5708,7 @@ Bu hizmeti kullanmadan önce %s bölümünü okuyun ve kabul edin"</string>
     <string name="permission_settings_title">Uygulama izinleri</string>
     <string name="permissions_label">İzinler</string>
     <string name="permit_draw_overlay">Diğer uygulamalar üstünde gösterime izin ver</string>
-    <string name="permit_manage_external_storage">Tüm dosyaları yönetme erişimine izin ver</string>
+    <string name="permit_manage_external_storage">Dosyaları yönetme erişimi</string>
     <string name="permit_running_network">Arkaplan verisi</string>
     <string name="permit_usage_access">Kullanım erişimine izin ver</string>
     <string name="permit_write_settings">Sistem ayarlarının değiştirilmesine izin ver</string>
@@ -6392,7 +6392,7 @@ Bu ayar bu telefondaki tüm kullanıcıları etkiler"</string>
     <string name="screen_dark_mode_select_time_error_summary">Başlangıç ve bitiş zamanları aynı olamaz</string>
     <string name="screen_dark_mode_smart_dark_apps_setting_summary">Bazı uygulamalar karanlık modda yanlış görüntülenebilir. Tek tek uygulamalar için karanlık modu kullanmayı burada kısıtlayabilirsiniz</string>
     <string name="screen_dark_mode_smart_dark_title">Global karanlık mod</string>
-    <string name="screen_dark_mode_time_title">Karanlık modu planla</string>
+    <string name="screen_dark_mode_time_title">Karanlık mod zamanlayıcı</string>
     <string name="screen_effect">Renk şeması</string>
     <string name="screen_enhance_engine_ai_note">%d. Bu özellik güç tüketimini biraz artırır</string>
     <string name="screen_enhance_engine_ai_note_2">%d. Yalnızca Galeri uygulamasından alınan görüntüler geliştirilebilir</string>
@@ -7091,7 +7091,7 @@ Not: Bu cihazın kilidini açmak için parmak izinizi kullanamazsınız. Daha fa
     <string name="show_background_processes">Önbellekteki işlemleri göster</string>
     <string name="show_badge_notifications_short">Rozetler</string>
     <string name="show_carrier_under_keyguard_title">Operatör adı</string>
-    <string name="show_charging_in_non_lockscreen_animation">Cihazın kilidi açıldıktan sonra şarj animasyonu</string>
+    <string name="show_charging_in_non_lockscreen_animation">Şarj animasyonu</string>
     <string name="show_charging_in_non_lockscreen_animation_summary">Cihazınızın kilidi açıldıktan sonra yalnızca video oynatma ve diğer benzer tam ekran sahneleri için gizleyerek şarj animasyonunu görüntülemeye devam edin</string>
     <string name="show_connected_devices_summary">Bağlı cihazları görüntüle</string>
     <string name="show_connected_devices_title">Bağlı cihazlar</string>
@@ -7859,7 +7859,7 @@ Google'nin kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz
     <string name="tether_over_limit_dialog_title">Veri kullanım uyarısı</string>
     <string name="tether_over_limit_warning_notify_message">Kişisel bağlantı noktasını kapat</string>
     <string name="tether_over_limit_warning_notify_title">Kişisel bağlantı noktası veri sınırına ulaşıldı</string>
-    <string name="tether_password_illegal_character">Parola geçersiz karakterler içeriyor. Lütfen tekrar girin</string>
+    <string name="tether_password_illegal_character">Şifre geçersiz karakterler içeriyor. Lütfen tekrar girin</string>
     <string name="tether_settings_disabled">İnternet paylaşımı kapalı</string>
     <string name="tether_settings_disabled_on_data_saver">Veri tasarrufu açıkken taşınabilir bağlantı noktalarına bağlanılamaz veya kullanılamaz</string>
     <string name="tether_settings_summary_all">Bağlantı noktası, USB, Bluetooth, Ethernet</string>

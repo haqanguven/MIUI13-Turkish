@@ -366,7 +366,7 @@
     <string name="call_barring_deactivate_success">Arama engelleme devre dışı bırakıldı</string>
     <string name="call_barring_new_pwd">Yeni şifre</string>
     <string name="call_barring_old_pwd">Eski şifre</string>
-    <string name="call_barring_pwd_not_match">Parolalar uyuşmuyor</string>
+    <string name="call_barring_pwd_not_match">Şifreler uyuşmuyor</string>
     <string name="call_barring_right_pwd_number">4 rakamlı bir şifre girin</string>
     <string name="call_barring_settings">Arama engelleme ayarları</string>
     <string name="call_barring_sum">Arama kısıtlama ayarları</string>
@@ -1772,7 +1772,7 @@ UT arayüzü: %5$s"</string>
     <string name="registration_status_checking_status">Kontrol ediliyor</string>
     <string name="registration_status_done">Aramalar alınıyor</string>
     <string name="registration_status_failed_try_later">Hesap kaydedilemedi. %s</string>
-    <string name="registration_status_invalid_credentials">Girdiğiniz kullanıcı adı veya parola hatalı</string>
+    <string name="registration_status_invalid_credentials">Girdiğiniz kullanıcı adı veya şifre hatalı</string>
     <string name="registration_status_no_data">Ağ bağlantınız yok</string>
     <string name="registration_status_no_wifi_data">Bir wifi ağına bağlı değilsiniz</string>
     <string name="registration_status_not_receiving">Aramalar alınamıyor</string>
@@ -2316,7 +2316,7 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wificall_switch_summary">Bağlantı zayıf olduğu zamanlarda cihazınız Wifi ve VoLTE arasında geçiş yapabilir</string>
     <string name="wificall_switch_title">Wifi üzerinden ara</string>
     <string name="wild_prompt_str">Joker karakteri şununla değiştir</string>
-    <string name="wrong_password">Girdiğiniz parola doğru değil</string>
+    <string name="wrong_password">Girdiğiniz şifre doğru değil</string>
     <string name="xcap_setting_summary">Arama engelleme, sesli mesaj &amp; arama yönlendirme ve arama bekletme</string>
     <string name="xcap_setting_title">Arama servisi ayarları</string>
     <string name="yesterday">Yesterday</string>

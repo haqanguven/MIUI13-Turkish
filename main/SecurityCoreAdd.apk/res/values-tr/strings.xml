@@ -532,7 +532,7 @@ Aksi halde, İkinci alana kilit ekranından giriş yapamazsınız"</string>
     <string name="removingSpace">Siliniyor</string>
     <string name="repeat_scanner_fingerprint">Tekrar ekle</string>
     <string name="reset_passwd_success">Şifre başarıyla sıfırlandı</string>
-    <string name="reset_password_dialog_message">İlk alan ve ikinci alan için farklı şifre türleri kullanıyorsunuz. İkinci alanda gizlenecek kısayol için ilk alanla aynı parola türünü kullanmalıdır</string>
+    <string name="reset_password_dialog_message">İlk alan ve ikinci alan için farklı şifre türleri kullanıyorsunuz. İkinci alanda gizlenecek kısayol için ilk alanla aynı şifre türünü kullanmalıdır</string>
     <string name="reset_password_dialog_positve_btn_title">Değiştir</string>
     <string name="reset_password_dialog_title">İkinci alan kısayolu gizlenemiyor</string>
     <string name="restore_normal_show">Özel mesajları gösterme</string>

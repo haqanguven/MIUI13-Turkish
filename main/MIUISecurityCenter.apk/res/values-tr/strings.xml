@@ -1784,7 +1784,7 @@ gönüllüsü"</string>
     <string name="file_confirm_start_activity">"%s'nin galerinize ve sosyal medya uygulamalarınıza erişmesine izin verilmiyor. Bu uygulama öğeleri paylaşmak için bu cihazda depolanan dosyalara erişmek istiyor. İzin veriyor musun?"</string>
     <string name="finger_remind_message">Öncelikle parmak izinizi ekleyin. Ayarları açmak için dokunun</string>
     <string name="fingerprint_identify_msg">Parmak izi kilit açmayı etkinleştir</string>
-    <string name="fingerprint_not_identified_msg">Parmak izi okunamadı. Parolanızı girin</string>
+    <string name="fingerprint_not_identified_msg">Parmak izi okunamadı. Şifrenizi girin</string>
     <string name="fingerprint_not_remind">Tekrar sorma</string>
     <string name="fingerprint_remind_dialog_title">Parmak izi kilit açma</string>
     <string name="fingerprint_to_lock">Parmak izi ile aç</string>
@@ -3424,9 +3424,9 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="permission_instruction_read_contacts">Bu izin uygulamaların cihazınızda depolanan kişi bilgilerine erişmesine izin verir. Bu bilgiler belirli kişilerle aramalar, e-postalar ve diğer yöntemler aracılığıyla iletişiminizin sıklığını içerebilir. Bu izin uygulamaların kişileri kaydetmesine de izin verir. Kötü amaçlı uygulamalar bu izni izniniz olmadan kişileri paylaşmak için kullanabilir</string>
     <string name="permission_instruction_read_notify_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan bildirim metin mesajlarını okumasına izin verir</string>
     <string name="permission_instruction_read_phone_state">Bu izin uygulamaların telefon numaranıza, IMEI, IMSI ve diğer cihaz tanımlayıcılara erişmesine izin verir. Uygulamalar normalde bu izni çağrılarınızın yönlendirilip yönlendirilmediğini belirlemek için kullanır. Bir sanal cihaz kimliği kullanıyorsanız uygulamalar gerçek cihaz tanımlayıcılarınıza erişemez</string>
-    <string name="permission_instruction_read_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm metin mesajlarını okumasına izin verir. Bu tür mesajlar parolaları, banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
+    <string name="permission_instruction_read_sms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm metin mesajlarını okumasına izin verir. Bu tür mesaj şifreleri banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
     <string name="permission_instruction_read_write_calendar">Bu izin uygulamaların takviminize erişmesinin yanı sıra takvim etkinliklerini okumasına, eklemesine, kaldırmasına, düzenlemesine, paylaşmasına ve kaydetmesine olanak tanır. Kötü amaçlı uygulamalar izniniz olmadan adınızdan mesaj göndermek veya takvim etkinliklerini düzenlemek için bu izni kullanabilir</string>
-    <string name="permission_instruction_receive_mms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm multimedya mesajlarını okumasına izin verir. Bu tür mesajlar parolaları banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
+    <string name="permission_instruction_receive_mms">Bu izin uygulamaların cihazınızda veya Sim kartınızda depolanan tüm multimedya mesajlarını okumasına izin verir. Bu tür mesaj şifreleri banka hesabı ayrıntılarını ve diğer kişisel bilgileri içerebilir</string>
     <string name="permission_instruction_record_audio">Bu izin uygulamaların ses kaydetmek için mikrofonu kullanmasına izin verir. Bu iznin uygulamaların başkalarıyla yaptığınız görüşmeler dahil her şeyi kaydetmesine izin verdiğini unutmayın. Uygulamaların bu izni yalnızca siz uygulamaları kullanırken kullanmasına izin vermek en iyisidir</string>
     <string name="permission_instruction_running_background">Bu izin uygulamaların arka planda çalışmasına izin verir. Bunu yaparken uygulamalar veri toplayabilir ve hizmet sağlayabilir. Bu tür faaliyetlerin güç tüketimini artırdığını unutmayın</string>
     <string name="permission_instruction_running_exceed_data">Bu izin uygulamaların mobil veri kullanım sınırlarını göz ardı etmesine izin verir</string>
@@ -3859,9 +3859,9 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pp_safe_box">Özel alan</string>
     <string name="pp_safe_box_detail">Gizliliğinizi korumak için MIUI uygulamaların fotoğraflarınıza ve sosyal medya sohbet geçmişinize nasıl erişeceğini kontrol etmenizi sağlar</string>
     <string name="pp_safe_box_summary">Gizlilik koruması</string>
-    <string name="pp_safe_input_pwd">Parolalarınızı koruyun</string>
+    <string name="pp_safe_input_pwd">Şifreleri koru</string>
     <string name="pp_safe_keyboard">Güvenli klavye</string>
-    <string name="pp_safe_save_pwd_and_account">Parolaları güvenli bir ortamda saklayın</string>
+    <string name="pp_safe_save_pwd_and_account">Şifreleri güvenli bir ortamda saklayın</string>
     <string name="pp_safe_share_img_detail">Konum bilgisi ve meta veriler olmadan fotoğrafları paylaşın</string>
     <string name="pp_smart_manager_pwd">Şifreler</string>
     <string name="pp_sms_and_contacts">Kişiler ve mesajlaşma</string>
@@ -4222,7 +4222,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="privacy_search_keyword_6">Gizle</string>
     <string name="privacy_show_other_permissions">Diğer izinleri göster</string>
     <string name="privacy_show_password">Şifreleri göster</string>
-    <string name="privacy_show_password_summary">Parolaları kısa süre görünür tutun</string>
+    <string name="privacy_show_password_summary">Şifreler kısa süre görünür tutun</string>
     <string name="privacy_special_permission_summary">Uygulamaların hassas izinleri nasıl kullandığını izleyin</string>
     <string name="privacy_special_permission_title">Özel izinler</string>
     <string name="privacy_summary">"MIUI'de gizlilik koruması hakkında bilgi edinin"</string>
@@ -5066,7 +5066,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="summary_never_flow_verify">Bu numara operatörünüz ile doğrulanmadı</string>
     <string name="summary_open_flashligt">El fenerini aç</string>
     <string name="summary_open_phone_check">Bir güvenlik taraması çalıştırın</string>
-    <string name="summary_password_manager">Parola yöneticisi parolalarınızı şifrelemenize ve bunları bulutta saklamanıza olanak tanır</string>
+    <string name="summary_password_manager">Şifre yöneticisi şifrelerinizi şifrelemenize ve bunları bulutta saklamanıza olanak tanır</string>
     <string name="summary_payment_risk">Ödeme ortamı güvenli değil gibi görünüyor</string>
     <string name="summary_permission">İstenmeyen ödeme işlemlerinden kaçının ve kişisel verilerinizi koruyun</string>
     <string name="summary_permission_root">Bu cihazın root erişimi açık gibi görünüyor. Bu durumu cihaz güvenliğine zarar verebilir</string>
@@ -5617,7 +5617,7 @@ Kalan veri miktarı geçen aydan kalan veri miktarınıda içerir"</string>
     <string name="usbsharenet_exception_title">USB üzerinden paylaşılan interneti test et</string>
     <string name="usbsharenet_pc_exception_summary">USB üzerinden paylaşılan internet kullanılarak internete bağlanılamıyor. Bilgisayarınızın internet bağlantısını kontrol edin</string>
     <string name="use_immediately">Kullanım</string>
-    <string name="use_other_ime_warn">Üçüncü taraf klavyeler parolalar ve diğer hassas bilgiler dahil yazdığınız her şeyi kaydedebilir</string>
+    <string name="use_other_ime_warn">Üçüncü taraf klavyeler şifreler ve diğer hassas bilgiler dahil yazdığınız her şeyi kaydedebilir</string>
     <string name="user_define_title">Kural ekle</string>
     <string name="user_guide">Daha yeni oyunlar keşfetmek için yukarı kaydırın</string>
     <string name="user_guide_title">Joystick seçtikleri</string>

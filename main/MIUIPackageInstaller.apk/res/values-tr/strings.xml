@@ -31,10 +31,8 @@
     <string name="about_pure_mode">Güvensiz mod hakkında</string>
     <string name="about_safe_mode">Güvenli mod hakkında</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="ad_developer">Geliştirici: %1$s</string>
     <string name="ad_permissions">&lt;u>Uygulama izinleri&lt;u/></string>
     <string name="ad_privacy">&lt;u>Gizlilik politikası&lt;u/></string>
-    <string name="ad_publisher">Geliştirici: %1$s</string>
     <string name="ads">Reklamlar</string>
     <string name="ads_install_button">Yükle</string>
     <string name="ads_install_button_installed">Aç</string>
@@ -282,6 +280,8 @@
     <string name="install_unknow_source">Bilinmeyen uygulamaları yükle</string>
     <string name="install_version">Sürüm: %1$s</string>
     <string name="install_version_replace">Sürüm: %1$s -> %2$s</string>
+    <string name="isntall_failed_verification">Kurulum paketinin Android sürümünüzle uyumsuzluğundan kaynaklanabilecek kurulum doğrulaması başarısız oldu</string>
+    <string name="isntall_failed_verification_resolve_uggestion">"İlgili uygulamaları yüklemek için lütfen Xiaomi App Store'a gidin"</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="learn_more">Daha fazla bilgi</string>
     <string name="lock_finger">Parmak izi kilidi</string>

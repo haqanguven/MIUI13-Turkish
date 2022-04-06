@@ -119,10 +119,10 @@
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
     <string name="back_to_mainpage">Keşfet</string>
     <string name="background_playback_enabled">Arka planda oynatma açık</string>
-    <string name="before_yestoday">2 gün önce</string>
     <string name="before_yestoday_new">%d gün önce</string>
     <string name="bind_sign_in_title">Hesap ekle</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="box_title_gallery">Video araç kutusu</string>
     <string name="box_title_mivideo">Ek özellikler</string>
     <string name="brvah_app_name">Kütüphane</string>
@@ -131,6 +131,7 @@
     <string name="brvah_loading">Yükleniyor</string>
     <string name="btn_clear_history">Geçmişi temizle</string>
     <string name="btn_empty_go_to_download">İndir</string>
+    <string name="btn_playlist_play_all">Oynat</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_choose">Seçimi kaldır</string>
     <string name="cancel_subscribe_tips">Takip sonlandırılsın mı?</string>
@@ -431,6 +432,8 @@ Bu kodu gönderin"</string>
     <string name="dialog_set_default_later">Hayır</string>
     <string name="dialog_set_default_set">Ayarla</string>
     <string name="dialog_set_default_text">Videolar varsayılan video oynatıcı olarak ayarlansın mı?</string>
+    <string name="dialog_title_delete_folder">Bu klasörü silerseniz içindeki tüm dosyalar da kalıcı olarak silinecektir. Klasör şimdi silinsin mi?</string>
+    <string name="dialog_title_hidden_folder">Bu klasörü gizlerseniz içindeki dosyalar videolarınız arasında görünmez. Klasör şimdi gizlensin mi?</string>
     <string name="dialog_video_change">Değiştir</string>
     <string name="dialog_video_download_tip">İndirme sırasına eklendi</string>
     <string name="dialog_video_download_view">Görüntüle</string>
@@ -1172,7 +1175,7 @@ videolarda izleyin"</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -1185,7 +1188,7 @@ videolarda izleyin"</string>
     <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
-    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_selected">%1$s - %2$s</string>
     <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
     <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
     <string name="mtrl_picker_save">Kaydet</string>
@@ -1321,6 +1324,7 @@ videolarda izleyin"</string>
     <string name="ovp_navigation_language">Dil</string>
     <string name="ovp_navigation_localvideo">Yerel</string>
     <string name="ovp_navigation_notice">Bildirimler</string>
+    <string name="ovp_navigation_playlist">Oynatma listesi</string>
     <string name="ovp_navigation_score">Uygulamamıza puan verin</string>
     <string name="ovp_navigation_setting">Ayarlar</string>
     <string name="ovp_navigation_subscribe">Abone ol</string>
@@ -1482,9 +1486,11 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="play_list_detial_delete">Sil</string>
     <string name="play_list_detial_play">Oynat</string>
     <string name="play_list_detial_rename">Yeniden adlandır</string>
+    <string name="play_list_player_skeleton_file">mnc_live_tv_list_player_skeleton.json</string>
     <string name="play_list_save_dialog_create">Çalma listesi oluştur</string>
     <string name="play_list_save_dialog_title">Çalma listesine ekle</string>
     <string name="play_list_sign_in_dialog_message">Tüm çalma listelerinizi görüntülemek için Google hesabınız ile oturum açın</string>
+    <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
     <string name="play_list_user_local">Yerel</string>
     <string name="play_list_user_online">Çevrim içi</string>
     <string name="playlist_create">Oluştur</string>
@@ -1749,6 +1755,10 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="sign_in_title">Mi hesabında oturum aç</string>
     <string name="slid_fail_message">Video kaydedilemedi</string>
     <string name="slide_save_message">Video oluşturuluyor</string>
+    <string name="small_video_cancel_button">İptal et</string>
+    <string name="small_video_download_button">İndir</string>
+    <string name="small_video_snack_download_description">"En sevdiğiniz içerik oluşturucuların en son videolarını görmek için SnackVideo'yu indirin"</string>
+    <string name="small_video_snack_download_title">SnackVideo</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="sns_access_token_expired_warning">Oturum sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
     <string name="sns_bind_limit">Çok fazla sayıda denemede bulundunuz. Diğer oturum açma yöntemlerini deneyin</string>
@@ -1859,6 +1869,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="tab_name_movies">Filmler</string>
     <string name="tab_name_trending">Çevrimiçi</string>
     <string name="tab_name_video">Videolar</string>
+    <string name="tab_playlist_local">Yerel</string>
+    <string name="tab_playlist_online">Çevrimiçi</string>
     <string name="tag_index">tag_index</string>
     <string name="tag_key">tag_key</string>
     <string name="tag_object">tag_object</string>
@@ -1925,6 +1937,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="tip_enter_the_website">%d. Bir internet sitesini veya uygulamayı açın</string>
     <string name="tip_local_long_press_for_manager">Videoları yönetmek için basılı tutun</string>
     <string name="tip_local_manager_here">Dosyalarınızı burada yönetin</string>
+    <string name="tip_login_for_your_online_playlist">Oynatma listelerinizi görüntülemek için oturum açın</string>
     <string name="tip_play_a_video">%d. Bir video oynatın</string>
     <string name="tip_pop">"&lt;com.miui.video.biz.livetv.data.mnc.information.Data>Anlar'dan içerik Firework tarafından sağlanmaktadır. Görüntüleme deneyiminizi geliştirmek ve daha alakalı içerik önerileri almak için Firework'un, Gizlilik Politikası'na göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin verin. Hizmetleri kullanmadan önce &lt;a href=\"%1$s\">Firework Gizlilik Politikasını&lt;/a> okuyun ve kabul edin.&lt;/com.miui.video.biz.livetv.data.mnc.information.Data>"</string>
     <string name="tip_storage_used_space" formatted="false">Kullanılan: %.2f GB/%.2f GB</string>
@@ -1947,6 +1960,8 @@ Hiçbir şey göstermiyor"</string>
     <string name="toast_bookmark_success_to_add">Yer imi eklendi</string>
     <string name="toast_bookmark_success_to_delete">Yer imi silindi</string>
     <string name="toast_bookmark_url_error">Geçerli bir bağlantı girin</string>
+    <string name="toast_fail_to_delete">Silinemedi. Tekrar deneyin</string>
+    <string name="toast_fail_to_rename">Yeniden adlandırılamadı. Tekrar deneyin</string>
     <string name="toast_m3u8_download_path_tip">m3u8 formatındaki içerik için indirme yolu değiştirilemiyor</string>
     <string name="toast_no_data">Bu ürün şu anda mevcut değil. Daha sonra gel</string>
     <string name="toast_play_error_tip">Bu dosya oynatılamıyor</string>

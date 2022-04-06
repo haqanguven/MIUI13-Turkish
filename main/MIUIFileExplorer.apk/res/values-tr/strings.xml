@@ -970,9 +970,9 @@
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_state">Wifi ağı</string>
-    <string name="withdraw">Geri çek</string>
-    <string name="withdraw_consent">İznin geri alınması</string>
-    <string name="withdraw_consent_content">"Devam ederseniz dosyaların gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosyaların hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından onayınızı geri çekmeniz dosyaların hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir"</string>
+    <string name="withdraw">Geri al</string>
+    <string name="withdraw_consent">İzinleri geri al</string>
+    <string name="withdraw_consent_content">Devam ederseniz dosyalar uygulamasının gizlilik politikasına verdiğiniz izinleri geri alırsınız. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosyaların hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izinleri geri almanız dosyaların hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir</string>
     <string name="withdraw_consent_summary">Dosyaların gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="year_month_day_format">dd MMM yyyy</string>
     <string name="yes">Evet</string>

@@ -301,7 +301,6 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="ai_the_summer_palace">Yaz sarayı</string>
     <string name="ai_the_terracotta_army">Terracotta ordusu</string>
     <string name="ai_tianjin">Tianjin</string>
-    <string name="ai_ultra_pixel_108mp">108MP</string>
     <string name="ai_valentine_day">Sevgililer günü</string>
     <string name="ai_victoria_harbor">Victoria limanı</string>
     <string name="ai_watermark_title">Al filigran</string>
@@ -344,7 +343,6 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="auxiliary_close_status">Ek efektler kapalı</string>
     <string name="auxiliary_exposure_feedback_status">Poz doğrulama açık</string>
     <string name="auxiliary_focus_peak_status">Odak yardımcısı açık</string>
-    <string name="back_bokeh_use_hint">En iyi etki için nesnenizi 1,5 metre içinde tutun</string>
     <string name="background">Arka plan</string>
     <string name="beauty_body">Vücut tipi</string>
     <string name="beauty_body_body">İnce</string>
@@ -379,7 +377,6 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="beauty_makeups_nude">Ten</string>
     <string name="beauty_makeups_pinkfemale">Yaprak</string>
     <string name="beauty_makeups_solid">Dış hat</string>
-    <string name="beauty_makeups_toughman">Bronz</string>
     <string name="beauty_mo_fe">Doğal</string>
     <string name="beauty_mo_ma">Klasik</string>
     <string name="beauty_mo_or">Orijinal</string>
@@ -409,6 +406,7 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="button_normal_video_title">Kamera kaydet</string>
     <string name="camcorder_tip_8k_max_video_duration">"8K'da 6 dakikaya kadar kaydedebilirsiniz"</string>
     <string name="camcorder_tip_current_max_video_duration">Mevcut çözünürlükte %d dakikaya kadar kayıt yapabilirsiniz</string>
+    <string name="camcorder_tip_super_night_video_4k_max_video_duration" formatted="false">%dK en uzun %d dakikayı kaydedebilir</string>
     <string name="camera_disabled">Kamera devre dışı bırakıldı</string>
     <string name="camera_error_title">Kamera hatası</string>
     <string name="camera_facedetection_sub_option_hint">Deneysel özelli</string>
@@ -521,9 +519,7 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="clone_guide_tip6">Klonlarla savaşın</string>
     <string name="clone_guide_tip7">Etkileşimi yakalayın</string>
     <string name="clone_guide_tip8">Kendi fikirlerinizle gelin</string>
-    <string name="clone_guide_title1">%d</string>
     <string name="clone_guide_title2">Fotoğraflarda klonlama</string>
-    <string name="clone_guide_title3">%d</string>
     <string name="clone_guide_title4">Nasıl görünür</string>
     <string name="clone_guide_video_title2">Videolarda klonlama</string>
     <string name="clone_landscape_hint">Klonlama yalnızca manzara modunda çalışır</string>
@@ -658,7 +654,6 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="dialog_button_ok">Tamam</string>
     <string name="dialog_button_reject">Reddet</string>
     <string name="dialog_button_scan">Cihaz ara</string>
-    <string name="dialog_google_lens_option_0">Google Lens (Önerilen)</string>
     <string name="dialog_ok">Tamam</string>
     <string name="dialog_ok_time">Tamam (%d saniye)</string>
     <string name="dialog_privacy_watermark_button_cancel">İptal et</string>
@@ -682,7 +677,7 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="dolly_zoom_capture_tip5">Video kaydedilemedi</string>
     <string name="dolly_zoom_capture_tip6">Konunuzu çerçevenin ortasına taşıyın</string>
     <string name="dolly_zoom_guide_tip1">Konunuzla arka plan arasında yeterli boşluk olduğundan emin olun</string>
-    <string name="dolly_zoom_guide_tip10">Ve dahası!</string>
+    <string name="dolly_zoom_guide_tip10">Ve dahası</string>
     <string name="dolly_zoom_guide_tip2">Geniş düz renk alanlarından kaçınmaya çalışın</string>
     <string name="dolly_zoom_guide_tip3">Konunuzu çerçeveye yerleştirin</string>
     <string name="dolly_zoom_guide_tip4">Konunuzun hareket etmemesini isteyin</string>
@@ -747,6 +742,7 @@ ve tercihleri otomatik olarak ayarla"</string>
     <string name="edit_face_ruddy">Alyanak</string>
     <string name="edit_face_slender">İnce</string>
     <string name="edit_hairline">İnce çizgi</string>
+    <string name="edit_head_narrow">xx</string>
     <string name="edit_jelly_lips">Dudak parlatıcısı</string>
     <string name="edit_lips">Dudaklar</string>
     <string name="edit_makeup">Makyaj</string>
@@ -878,11 +874,20 @@ telefonunuzu döndürün"</string>
     <string name="hand_gesture_open_tip">Zamanlayıcıyı başlatmak için kameraya avucunuzu gösterin</string>
     <string name="hand_gesture_tip">Avuç deklanşör</string>
     <string name="hdr_tip">HDR</string>
+    <string name="heavenly_stems_bing">3</string>
+    <string name="heavenly_stems_ding">4</string>
+    <string name="heavenly_stems_geng">7</string>
+    <string name="heavenly_stems_gui">10</string>
+    <string name="heavenly_stems_ji">6</string>
+    <string name="heavenly_stems_jia">1</string>
+    <string name="heavenly_stems_ren">9</string>
+    <string name="heavenly_stems_wu">5</string>
+    <string name="heavenly_stems_xin">8</string>
+    <string name="heavenly_stems_yi">2</string>
     <string name="hibernate_hint">Kamerayı uyandırmak için ekrana dokunun</string>
     <string name="hine_hht">"Düşük ışıkta kamera birden çok fotoğraf çekecek
 ve parazitin en az seviyede olduğu bir kare oluşturacaktır"</string>
     <string name="hint_ae_af_lock">Otomatik odaklama ve otomatik pozlama kilitlendi</string>
-    <string name="hint_ae_af_lock_extra">Otomatik odaklama ve otomatik pozlama kilitlendi. Kamera ayarlarında Google mercek’e geç</string>
     <string name="hint_ae_lock">Otomatik pozlama kilitlendi</string>
     <string name="hint_device_water_mark">Fotoğraf filigranı otomatik olarak eklenecektir</string>
     <string name="hint_eye_light">Göz ışıltısı efektleri flaş açık olduğunda en iyi sonucu verir</string>
@@ -920,8 +925,8 @@ Daha iyi sonuç için merceği temizleyin"</string>
     <string name="lighting_hint_title">Stüdyo ışıklandırması</string>
     <string name="lighting_hint_too_close">Kamerayı uzaklaştırın</string>
     <string name="lighting_hint_too_far">Kamerayı yaklaştırın</string>
-    <string name="lighting_hint_usage">"Portre modunda
-stüdyo ışıklandırma efektlerini kullanabilirsiniz"</string>
+    <string name="lighting_hint_usage">"Stüdyo ışıklandırma efektlerini
+portre modunda kullanabilirsiniz"</string>
     <string name="lighting_lanshan">Çöküş</string>
     <string name="lighting_movie_light_effect_title">Sinematik efektler</string>
     <string name="lighting_neon">Neon</string>
@@ -1026,7 +1031,7 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="makeup_reset_toast">Makyaj efektleri başarıyla temizlendi</string>
     <string name="manual_picture_style">Parametreler</string>
     <string name="manually_raw_hint">RAW</string>
-    <string name="manually_raw_tip">RAW formatı ile yakınlaştırma kullanılamıyo\"</string>
+    <string name="manually_raw_tip">RAW formatı ile yakınlaştırma kullanılamıyor</string>
     <string name="masterfilter_description_title">Filtrelere giriş</string>
     <string name="message_snap_double_confirm">"Ses tuşuna uzun basmanız NFC'yi çalıştıracaktır. Bu özelliği değiştirmek istiyor musunuz?"</string>
     <string name="midnight">Gece</string>
@@ -1067,7 +1072,7 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="mimoji_create_emoticon_error">Çıkartma paketi oluşturulamadı</string>
     <string name="mimoji_create_emoticon_progress">Çıkartma paketi oluşturuluyor</string>
     <string name="mimoji_create_tips">Doğrudan kameraya bakın</string>
-    <string name="mimoji_custom_image">Custom avatar</string>
+    <string name="mimoji_custom_image">Özel avatar</string>
     <string name="mimoji_delete"><font fgcolor="#ffff0000">Sil</font></string>
     <string name="mimoji_delete_dialog_title">Bu avatar şimdi silinsin mi?</string>
     <string name="mimoji_delete_mimoji">Avatarı sil</string>
@@ -1145,6 +1150,8 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="mimoji_tips">Bir fotoğraf çekmek için dokunun. Bir video çekmek için basın ve basılı tutun</string>
     <string name="miservice_notification_content">Daha fazlasını öğrenmek için dokunun</string>
     <string name="miservice_notification_title">Kameradaki yeni özellikler hakkında daha fazla bilgi edinin</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -1159,6 +1166,8 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -1198,6 +1207,7 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="module_name_super_moon">Süper ay</string>
     <string name="module_name_video">Video</string>
     <string name="module_name_vlog">Vlog</string>
+    <string name="moiton_detection_tip">xxxmd çalışıyor</string>
     <string name="moive_frame">Film çerçevesi</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
@@ -1328,8 +1338,9 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="pm">ÖS</string>
     <string name="popup_tip_3d_beauty_intro_text">3D güzellik</string>
     <string name="popup_tips_near_range_mode">Odağı kapat</string>
-    <string name="popup_tips_privacy_watermark_edit">Edit watermark</string>
+    <string name="popup_tips_privacy_watermark_edit">Filigranı düzenle</string>
     <string name="portait_effect_entry_blackwhite">S&amp;B</string>
+    <string name="portait_effect_entry_cold_white">Yıldız ışığı</string>
     <string name="portait_effect_entry_cool">Nane</string>
     <string name="portait_effect_entry_dusk">Alacakaranlık</string>
     <string name="portait_effect_entry_fairytale">Çocukluk</string>
@@ -1341,12 +1352,13 @@ daha büyük göstermek için Makro modu kullanın"</string>
     <string name="portait_effect_entry_movie">Film</string>
     <string name="portait_effect_entry_nature">Doğa</string>
     <string name="portait_effect_entry_original">Orijinal</string>
-    <string name="portait_effect_entry_oxygen">Oxygen</string>
+    <string name="portait_effect_entry_oxygen">Oksijen</string>
     <string name="portait_effect_entry_pink">Kızarma</string>
-    <string name="portait_effect_entry_pink_orange">Citrus</string>
+    <string name="portait_effect_entry_pink_orange">Turunçgiller</string>
     <string name="portait_effect_entry_riddle">Şeker</string>
     <string name="portait_effect_entry_romance">Romantik</string>
     <string name="portait_effect_entry_sepia">Sepya</string>
+    <string name="portait_effect_entry_shallots">Güneş ışını</string>
     <string name="portait_effect_entry_story">Hikaye</string>
     <string name="portait_effect_entry_tea">Çay</string>
     <string name="portrait_bokeh_first_tips">"Fotoğraflarınızdaki arkaplanı bulanıklaştırmak için
@@ -1417,7 +1429,6 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_beautify_entry_normal">Orta</string>
     <string name="pref_camera_beauty">Güzelleştirme</string>
     <string name="pref_camera_beauty_deep">Güzelleştirme Pro</string>
-    <string name="pref_camera_coloreffect_default">none</string>
     <string name="pref_camera_coloreffect_entry_big_face">Genişletme</string>
     <string name="pref_camera_coloreffect_entry_blackwhite">S&amp;B</string>
     <string name="pref_camera_coloreffect_entry_fisheye">Balık gözü</string>
@@ -1451,7 +1462,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_dual_enable_title">Çift kamerayı aç</string>
     <string name="pref_camera_dual_sat_enable_title">Çift SAT kamerayı aç</string>
     <string name="pref_camera_dynamic_frame_rate_summary">"Düşük ışık koşullarında video kalitesini iyileştirmek için kare hızını %1$d'den %2$d FPS'ye düşürün"</string>
-    <string name="pref_camera_dynamic_frame_rate_summary_new">Reduce frame rate for videos in low light or high temperature environments automatically</string>
+    <string name="pref_camera_dynamic_frame_rate_summary_new">Düşük ışıklı veya yüksek sıcaklıklı ortamlardaki videolar için kare hızını otomatik olarak azaltın</string>
     <string name="pref_camera_dynamic_frame_rate_title">Kare hızını düşük ışığa ayarlayın</string>
     <string name="pref_camera_dynamic_frame_rate_title_new">Otomatik kare hızı</string>
     <string name="pref_camera_eis_entry_normal">EIS</string>
@@ -1515,17 +1526,11 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_jpegquality_entry_normal">Standart</string>
     <string name="pref_camera_jpegquality_title">Fotoğraf kalitesi</string>
     <string name="pref_camera_live_sticker_internal_title">Dahili sihirli araçlar</string>
-    <string name="pref_camera_long_press_shutter_feature_default">record</string>
     <string name="pref_camera_long_press_shutter_feature_title">Deklanşör tuşuna basın &amp; basılı tutun</string>
-    <string name="pref_camera_long_press_viewfinder_google_lens">Google mercek</string>
-    <string name="pref_camera_long_press_viewfinder_lock_ae_af">AE/AF kilidi</string>
-    <string name="pref_camera_long_press_viewfinder_title">Manzara bulucu ayarları</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_burst">Seri çekim</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_focus">Odakla</string>
     <string name="pref_camera_long_pressing_burst_shooting_entry_record">Video kaydet</string>
     <string name="pref_camera_long_pressing_shutter_title">AE/AF/AWB sabitlenmesi için deklanşör tuşuna basın &amp; basılı tutun</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_google_lens">Google Lens</string>
-    <string name="pref_camera_long_pressing_viewfinder_entry_lock_ae_af">AE/AF kilidi</string>
     <string name="pref_camera_lying_summary">Telefon yere paralel olunca dizilim hakkında bilgilendir</string>
     <string name="pref_camera_lying_title">Dizilim hakkında bilgilendir</string>
     <string name="pref_camera_magic_mirror_title">Sihirli ayna</string>
@@ -1551,7 +1556,6 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_peak_entry_off">Kapalı</string>
     <string name="pref_camera_peak_entry_on">Açık</string>
     <string name="pref_camera_peak_title">Vurgulama yardımcısı</string>
-    <string name="pref_camera_picture_format_entry_raw">RAW</string>
     <string name="pref_camera_picturesize_entry_fullscreen">Tam ekran</string>
     <string name="pref_camera_picturesize_entry_standard">Standart 4:3</string>
     <string name="pref_camera_picturesize_title_simple_mode">Kamera çerçevesi</string>
@@ -1578,6 +1582,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_reference_capture_title_left_golden_spiral">Altın spiral A</string>
     <string name="pref_camera_reference_capture_title_right_golden_spiral">Altın spiral B</string>
     <string name="pref_camera_referenceline_title">Kılavuz çizgileri</string>
+    <string name="pref_camera_saturation_default">3</string>
     <string name="pref_camera_saturation_title">Doygunluk</string>
     <string name="pref_camera_scenemode_entry_auto">Otomatik</string>
     <string name="pref_camera_scenemode_entry_backlight">Arka plan ışığı</string>
@@ -1629,6 +1634,8 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_touch_focus_delay_title">Dokunmaya odaklanma zaman aşımı süresini uzatın</string>
     <string name="pref_camera_touchafaec_entry_off">Kapalı</string>
     <string name="pref_camera_touchafaec_entry_on">Açık</string>
+    <string name="pref_camera_track_eye_preferred_description">Çerçevede bir kişi olduğunda gözleri odakta tutmak için göz hareketini takip edin</string>
+    <string name="pref_camera_track_eye_preferred_title">Göz izleme odağı</string>
     <string name="pref_camera_track_focus_intro_description">Hareketli nesnelerle fotoğraf çektiğinizde veya video çektiğinizde bu özellik insanları, kedileri ve köpekleri algılar vede onları otomatik olarak odakta tutar. Ek olarak hareketi izlemek için herhangi bir konuya iki kez de dokunabilirsiniz</string>
     <string name="pref_camera_track_focus_intro_goto">Aç</string>
     <string name="pref_camera_track_focus_preferred_description">İnsanlara ve hayvanlara otomatik olarak odaklanmak için açın. Ayrıca manuel izleme için öğeleri seçmek mümkün olacak.</string>
@@ -1651,6 +1658,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_video_tag_description">Oynatma sırasında işaretlenen anlara geri dönebilmek için video çekerken etiketle kısmına dokunun</string>
     <string name="pref_camera_volumekey_function_entry_shutter">Deklanşör</string>
     <string name="pref_camera_volumekey_function_entry_timer">Deklanşör geri sayımı</string>
+    <string name="pref_camera_volumekey_function_entry_timer_new">Zamanlayıcı (%d saniye)</string>
     <string name="pref_camera_volumekey_function_entry_volume">Ses</string>
     <string name="pref_camera_volumekey_function_entry_zoom">Yakınlaştırma</string>
     <string name="pref_camera_volumekey_function_title">Ses tuşları fonksiyonu</string>
@@ -1662,13 +1670,8 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_camera_whitebalance_entry_incandescent">Parlak ışık</string>
     <string name="pref_camera_whitebalance_entry_manual">Manuel</string>
     <string name="pref_camera_whitebalance_entry_measure">Değer</string>
-    <string name="pref_camera_whitebalance_title">BD</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">Düşük ışık</string>
     <string name="pref_camera_zoom_mode_entry_macro">Makro</string>
-    <string name="pref_camera_zoom_mode_entry_standard">NORMAL</string>
-    <string name="pref_camera_zoom_mode_entry_tele">TELE</string>
-    <string name="pref_camera_zoom_mode_entry_tele_2X">TELE 2X</string>
-    <string name="pref_camera_zoom_mode_entry_tele_abbr">TELE</string>
     <string name="pref_camera_zoom_mode_entry_ultra">Ultra geniş</string>
     <string name="pref_camera_zoom_mode_entry_wide">Geniş</string>
     <string name="pref_camera_zoom_mode_title">Mercek</string>
@@ -1698,8 +1701,6 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_front_mirror_label_auto">Otomatik</string>
     <string name="pref_front_mirror_title">Ayna ön kamera</string>
     <string name="pref_google_lens">Google Lens</string>
-    <string name="pref_google_lens_summary">Kullanılabilir seçenekleri görüntülemek için kamerayı kişi bilgilerine, bağlantı adreslerine ve QR kodlarına doğrultun</string>
-    <string name="pref_google_lens_title">Lens tavsiyeleri</string>
     <string name="pref_groupshot_with_primitive_title">Orijinal fotoğrafları da kaydet</string>
     <string name="pref_hdr10_hdr10plus_video_mode_description">4K (HDR10+) ve 8K (HDR10) videolar için renkleri optimize edin. Bu özellik yalnızca HDR10+/HDR10 uyumlu cihazlarda çalışır</string>
     <string name="pref_hdr10_video_mode_description">4K ve 8K videolar için renkleri ve kontrastı otomatik olarak optimize edin. Optimize edilmiş videolar yalnızca HDR10 uyumlu cihazlarda oynatılabilir</string>
@@ -1711,8 +1712,6 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_lens_dirty_detect_summary">Lensler kirliyken bir bildirim alın</string>
     <string name="pref_lens_dirty_detect_title">Kirli lensleri bildir</string>
     <string name="pref_live_duration_title">Canlı süre</string>
-    <string name="pref_menu_ai_ultra_pixel_photography">AI %s</string>
-    <string name="pref_menu_ultra_pixel_photography">%s Ultra HD</string>
     <string name="pref_module_settings">Modlar</string>
     <string name="pref_more_mode_style_title">Kamera modları</string>
     <string name="pref_multi_camera_dual_video_front">Ön kamera</string>
@@ -1774,6 +1773,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_video_denoise_off">Kapalı</string>
     <string name="pref_video_denoise_on">Açık</string>
     <string name="pref_video_denoise_title">Gürültü filtresi</string>
+    <string name="pref_video_encoder_default">h264</string>
     <string name="pref_video_encoder_entry_h264">H.264 Yüksek uyumluluk</string>
     <string name="pref_video_encoder_entry_h265">H.265 Yüksek performans</string>
     <string name="pref_video_encoder_title">Video kodlayıcı</string>
@@ -1788,7 +1788,6 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_video_speed_fast_title">Hızlandırılmış çekim</string>
     <string name="pref_video_speed_slow_title">Ağır çekim</string>
     <string name="pref_video_subtitle">Altyazılar</string>
-    <string name="pref_video_time_lapse_frame_interval_default">120</string>
     <string name="pref_video_time_lapse_frame_interval_entry_10">10X (0.3-saniye aralığı)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_120">120X (4-saniye aralığı)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_150">150X (5-saniye aralığı)</string>
@@ -1803,7 +1802,6 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="pref_video_time_lapse_frame_interval_entry_90">90X (3-saniye aralığı)</string>
     <string name="pref_video_time_lapse_frame_interval_entry_900">900X (30-saniye aralığı)</string>
     <string name="pref_video_time_lapse_frame_interval_title">Hızlandırılmış çekim kayıt aralığı</string>
-    <string name="pref_video_volumekey_function_default">shutter</string>
     <string name="pref_watermark_off">Kapalı</string>
     <string name="pref_watermark_on">Açık</string>
     <string name="pref_watermark_title">Filigran</string>
@@ -1845,6 +1843,7 @@ Arkaplanı bulanıklaştırırken nesneyi netleştirin"</string>
     <string name="remote_online_unavailable">Yakındaki cihazlar bulunamadı</string>
     <string name="remote_online_waiting">Diğer cihazın bağlanması bekleniyor</string>
     <string name="remote_online_whats">Çift telefon kaydı nasıl çalışır?</string>
+    <string name="required_permissions_supportModifiable">android.permission.CAMERA;android.permission.RECORD_AUDIO;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="reset_manual_picture_style_toast">Parametreler başarıyla sıfırlandı</string>
     <string name="reset_manually_parameter_confirmed">Tamam</string>
     <string name="reset_manually_parameter_hint">Sıfırla</string>
@@ -2111,16 +2110,10 @@ Sahneden daha da uzağa gidemediğinizde ultra geniş açı modu yardımcı olur
     <string name="video_effect_entry_summer_day">Yaz</string>
     <string name="video_effect_entry_summer_day_describe">Filtrelere giriş</string>
     <string name="video_effect_entry_wind_sing">Esinti</string>
-    <string name="video_hdr10_tip">HDR10</string>
-    <string name="video_hdr10plus_tip">HDR10+</string>
-    <string name="video_hybrid_tip">hybrid</string>
     <string name="video_overheat_tip_content">Görünüşe göre cihazınız çok sıcak. Daha düşük çözünürlükte video çekmeyi deneyin</string>
     <string name="video_reach_size_limit">Boyut sınırına erişildi</string>
     <string name="video_shortcut_short">Video</string>
     <string name="video_tag_flag_title">Etiket</string>
-    <string name="video_true_colour_tip">TC</string>
-    <string name="video_ultra_clear_tip">4K UHD</string>
-    <string name="video_ultra_clear_tip_8k">Al 8K</string>
     <string name="view_privacy_policy">Gizlilik politikasını görüntüle</string>
     <string name="vv_duartion_hint">%1$s | Bölüm %2$d | %3$s</string>
     <string name="vv_hint">Yalnızca manzara modunda vlog çekebilirsiniz</string>

@@ -1684,7 +1684,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="image_with_time">%s fotoğrafı çekildi</string>
     <string name="image_with_time_and_location">Fotoğraf %1$s tarihinde çekildi. Konum: %2$s</string>
     <string name="impunity_declaration_settings">İnternet bağlantısı bildirimi</string>
-    <string name="impunity_declaration_summary">Galerinin her açılışında internet bağlantısı bildirimi göster</string>
+    <string name="impunity_declaration_summary">Galerinin her açılışında internet bağlantısı bildirimini gösterir</string>
     <string name="initializing_cloud">Başlatılıyor</string>
     <string name="input_a_name">İsim girin</string>
     <string name="input_baby_name">Adı girin</string>
@@ -2501,13 +2501,13 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="privacy_cloud_confirm_detail_negative">Çıkış</string>
     <string name="privacy_cloud_confirm_detail_positive">Kabul et</string>
     <string name="privacy_cloud_confirm_rejected">Bu hesap için Xiaomi bulutun gizlilik politikasına ilişkin onay geri çekildi. Farklı bir hesap kullanmayı deneyin</string>
-    <string name="privacy_detail">Gizlilik politikasını görüntüle</string>
+    <string name="privacy_detail">Gizlilik politikası</string>
     <string name="privacy_detail_map">Galeri haritası gizlilik politikasını görüntüle</string>
     <string name="privacy_entrance">Gizlilik</string>
     <string name="privacy_map">Galeri haritası</string>
     <string name="privacy_map_detail">Bu hizmet bir harita üzerinde konum bilgisine sahip fotoğrafları ve videoları görüntülemenizi sağlar. Size bu hizmeti sağlamak için Baidu harita SDK kullanıyoruz. <a href="%1$s">Açık platform ürünleri ve hizmetleri için Baidu haritası gizlilik politikasını</a> okuyun ve kabul edin</string>
     <string name="privacy_map_detail_content">Açık platform ürünleri ve hizmetleri için Baidu haritası gizlilik politikası</string>
-    <string name="privacy_map_detail_content_new">Galeri haritası üçüncü taraf veri paylaşım bildirimi</string>
+    <string name="privacy_map_detail_content_new">Haritanın veri paylaşım bildirimi</string>
     <string name="privacy_permission">İzinler</string>
     <string name="privacy_permission_account">Hesaplar</string>
     <string name="privacy_permission_account_detail">Bulut ile oturum açmak ve öğeleri senkronize etmek için</string>
@@ -2517,7 +2517,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="privacy_permission_clip_write">Öğeleri panoya kaydetme</string>
     <string name="privacy_permission_clip_write_detail">Öğeleri kopyalamak için</string>
     <string name="privacy_permission_contact">Kişiler</string>
-    <string name="privacy_permission_contact_detail">Fotoğraflarda ve videolarda kişileri adlandırmak için</string>
+    <string name="privacy_permission_contact_detail">Fotoğraflarda ve videolarda kişileri adlandırmak içindir</string>
     <string name="privacy_permission_detail">İzin ayrıntıları</string>
     <string name="privacy_permission_disagree">Onaylama</string>
     <string name="privacy_permission_location">Konum</string>
@@ -2527,9 +2527,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="privacy_permission_request_positive">İzin ver</string>
     <string name="privacy_permission_request_title">İzin gerekli</string>
     <string name="privacy_permission_shotcut">Ana ekran kısayolu</string>
-    <string name="privacy_permission_shotcut_detail">Ana ekran kısayolları oluşturmak için</string>
+    <string name="privacy_permission_shotcut_detail">Ana ekran kısayolları oluşturmak içindir</string>
     <string name="privacy_permission_storage">Depolama</string>
-    <string name="privacy_permission_storage_detail">Fotoğrafları ve videoları saklamak için</string>
+    <string name="privacy_permission_storage_detail">Fotoğrafları ve videoları saklamak içindir</string>
     <string name="privacy_reject_map_detail_new">"Galeri haritası <a href="%1$s">Üçüncü şahıs veri paylaşımı bildirimine</a> ilişkin onayınızı geri çekmeniz galeri haritası hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. Diğer galeri özelliklerini normal şekilde kullanmaya devam edebileceksiniz. İzniniz şimdi geri çekilsin mi?"</string>
     <string name="privacy_rejected">İznin geri alınması</string>
     <string name="privacy_rejected_map">Galeri haritasının gizlilik politikasına ilişkin onayınızı geri çekin</string>
@@ -2572,7 +2572,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="recommanded_face_abandon_tip">Önerilenlerden kaldırıldı</string>
     <string name="recommanded_face_added_tip">%s adlı kişiye eklendi</string>
     <string name="recommend_category_title">Galerinin seçtikleri</string>
-    <string name="recommend_page_label">Önerilenler</string>
+    <string name="recommend_page_label">Diğer</string>
     <string name="recovery_merge">Birleştir</string>
     <string name="recovery_merge_or_rename">Albümleri birleştir</string>
     <string name="recovery_merge_or_rename_message">Bu ada sahip başka bir albüm mevcut. Şimdi birleştirilsin mi?</string>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="abbrev_wday_month_day_no_year">EEEEMMMMd</string>
-    <string name="abbrev_wday_month_day_no_year_alarm">EEEMMMd</string>
+    <string name="abbrev_wday_month_day_no_year">dMMMMEEEE</string>
+    <string name="abbrev_wday_month_day_no_year_alarm">dMMMEEE</string>
     <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
@@ -486,7 +486,6 @@
     <string name="bluetooth_profile_headset">Telefon araması</string>
     <string name="bluetooth_profile_hearing_aid">İşitme cihazı</string>
     <string name="bluetooth_profile_hid">Giriş cihazı</string>
-    <string name="bluetooth_profile_le_audio">LE_AUDIO</string>
     <string name="bluetooth_profile_map">Mesaj erişimi</string>
     <string name="bluetooth_profile_opp">Dosya aktarımı</string>
     <string name="bluetooth_profile_pan">İnternet erişimi</string>
@@ -556,6 +555,7 @@ Oynatma kalitesi"</string>
     <string name="bugreport_in_power">Hata raporu kısayolu</string>
     <string name="bugreport_in_power_summary">Hata raporu almak için güç menüsünde bir düğme göster</string>
     <string name="button_convert_fbe">Sil ve dönüştür</string>
+    <string name="cache_db_name">app_icons.db</string>
     <string name="cached_apps_freezer_device_default">Cihaz varsayılanı</string>
     <string name="cached_apps_freezer_disabled">Devre dışı</string>
     <string name="cached_apps_freezer_enabled">Etkin</string>
@@ -568,6 +568,7 @@ Oynatma kalitesi"</string>
     <string name="category_work">İş</string>
     <string name="cell_data_off">Kapalı</string>
     <string name="cell_data_off_content_description">Mobil veri kapalı</string>
+    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_theme_reboot">Temayı değiştirmek için cihazı yeniden başlatmanız gerekmektedir</string>
     <string name="character_counter_content_description">Karakterler %1$d/%2$d girdi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
@@ -1050,6 +1051,7 @@ Kilidi açmak için Pin'inizi girin"</string>
     <string name="hidden_notifications_text">Kilidi açmadan önce onları görün</string>
     <string name="hidden_notifications_title">Bildirimleri daha hızlı alın</string>
     <string name="high_temp_alarm_help_care_steps">Bakım adımlarına bakın</string>
+    <string name="high_temp_alarm_help_url">help_uri_usb_warm</string>
     <string name="high_temp_alarm_notify_message">Bu cihazı şarj ederken bir sorun var. Güç adaptörünü çıkarın ve kablo ısınabileceğinden dikkatli olun</string>
     <string name="high_temp_alarm_title">Şarj cihazının fişini çek</string>
     <string name="high_temp_dialog_message">"Telefonunuz otomatik olarak soğumaya çalışacaktır. Telefonunuzu kullanmaya devam edebilirsiniz ancak daha yavaş çalışabilir
@@ -1219,6 +1221,7 @@ Yalnızca desteklenen şarj cihazlarını kullanın"</string>
     <string name="keyguard_missing_sim_instructions_long">Sim kart eksik veya okunamıyor. Sim kartı takın</string>
     <string name="keyguard_missing_sim_message">Telefonda Sim kart yok</string>
     <string name="keyguard_missing_sim_message_short">Sim kart yok</string>
+    <string name="keyguard_more_overflow_text">+%d</string>
     <string name="keyguard_network_locked_message">Ağ kilitli</string>
     <string name="keyguard_password_enter_password_code">Kilidi açmak için şifre yazın</string>
     <string name="keyguard_password_enter_pin_code">Pin kodunu yazın</string>
@@ -1299,6 +1302,7 @@ Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="kg_wrong_password">Yanlış şifre</string>
     <string name="kg_wrong_pattern">Yanlış desen</string>
     <string name="kg_wrong_pin">Yanlış Pin</string>
+    <string name="kilobyte_per_second">KB/s</string>
     <string name="label_view">Görüntüle</string>
     <string name="launch_defaults_none">Hiçbir varsayılan tercih ayarlanmadı</string>
     <string name="launch_defaults_some">Bazı varsayılan tercihler ayarlandı</string>
@@ -1513,7 +1517,6 @@ Daha fazla bilgi için yöneticinize başvurun
 
 Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="monitoring_description_vpn_settings">Vpn ayarlarını aç</string>
-    <string name="monitoring_description_vpn_settings_separator">" "</string>
     <string name="monitoring_subtitle_ca_certificate">CA sertifikaları</string>
     <string name="monitoring_subtitle_network_logging">Ağ günlüğü</string>
     <string name="monitoring_subtitle_vpn">Vpn</string>
@@ -1588,7 +1591,6 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="mtrl_picker_confirm">Kaydet</string>
     <string name="mtrl_picker_date_format">dd MMM yyyy</string>
     <string name="mtrl_picker_header_prompt">Bir tarih seçin</string>
-    <string name="mtrl_picker_header_selected">%1$s</string>
     <string name="mtrl_picker_range_header_prompt">Bir tarih aralığı seçin</string>
     <string name="music_controls_no_title">Başlık yok</string>
     <string name="nav_bar">Gezinti çubuğu</string>
@@ -1722,6 +1724,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="pm">ÖS</string>
     <string name="pointer_location">İşaretçi konumu</string>
     <string name="pointer_location_summary">Mevcut dokunmatik verilerini gösteren yer paylaşımı</string>
+    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - tam şarj olmasına %2$s var</string>
     <string name="power_discharge_by">Yaklaşık %1$s kadar sürmeli (%2$s)</string>
     <string name="power_discharge_by_enhanced">Kullanımınıza göre yaklaşık %1$s kadar sürmelidir (%2$s)</string>
@@ -1757,7 +1760,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
 - Kilit ekranından ve durum çubuğundan gizle
 - Bildirim listesinin en altında göster
 
-"<b>Seviye 0</b>"
+"<b>Seviye 0</b>
 - Uygulamadan tüm bildirimleri engelle"</string>
     <string name="power_remaining_charging_duration_only">Tam olarak şarj olmasına %1$s kaldı</string>
     <string name="power_remaining_duration_only">Yaklaşık %1$s kaldı</string>
@@ -1769,11 +1772,9 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="power_remaining_less_than_duration_only">"Kalan %1$s'den az"</string>
     <string name="power_remaining_more_than_subtext">"Kalan %1$s'den daha az (%2$s)"</string>
     <string name="power_remaining_only_more_than_subtext">"Kalan %1$s'den daha az"</string>
-    <string name="power_remaining_settings_home_page">%1$s - %2$s</string>
     <string name="power_suggestion_battery_run_out">Pil %1$s bitebilir</string>
     <string name="pref_show_lunar_calendar_title">Kilit ekranında geleneksel Çin takvimini göster</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="preference_summary_default_combination">%1$s / %2$s</string>
     <string name="priority_onboarding_appear_as_bubble_text">Uygulamaların üzerinde yüzen bir balon olarak görün</string>
     <string name="priority_onboarding_behavior">Öncelikli görüşmeler:</string>
     <string name="priority_onboarding_done_button_title">Tamam</string>
@@ -2069,6 +2070,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="select_webview_provider_toast_text">Bu seçenek artık geçerli değil. Tekrar deneyin</string>
     <string name="send">Gönder</string>
     <string name="sensor_privacy_mode">Sensörler kapalı</string>
+    <string name="settings_package">com.android.settings</string>
     <string name="shared_data_delete_failure_text">Paylaşılan verileri silerken bir hata oluştu</string>
     <string name="shared_data_no_accessors_dialog_text">Bu paylaşılan veriler için edinilmiş kiralama yok. Silmek ister misiniz?</string>
     <string name="shared_data_no_blobs_text">Bu kullanıcı için paylaşılan veri yok</string>
@@ -2093,7 +2095,7 @@ Ağ etkinliğinizi izleyebilecek bir VPN'ye de bağlısınız"</string>
     <string name="show_silently">Bildirimleri sessizce göster</string>
     <string name="show_touches">Hafifçe dokunmayı göster</string>
     <string name="show_touches_summary">Hafifçe dokunmalarda görsel geri bildirim göster</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>Görene <font color="#e6e6e6">kadar</font> &lt;fo<font color="#e6e6e6">nt colo</font>r=#e6e6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini basılı tutun&lt;img src=\"\">&lt;/Data></string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;Data>G<font color="#e6e6e6">örene</font> &lt;font color=\"#e6e6e6\">kadar&lt;/font> &lt;fo&lt;font color=\"#e6e6e6\">nt colo&lt;/font>r=#e6e6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini basılı tutun&lt;img src=\"\">&lt;/Data></string>
     <string name="shut_down_password_forget_password_suggesstion_two_content"><font color="#e6e6e6">[Veriyi sil]</font> öğesini seçin ve ardından <font color="#e6e6e6">[Yeniden başlat]</font> öğesine dokunun</string>
     <string name="sim_state_locked_dialog_title">Geçersiz Sim kart</string>
     <string name="sim_state_locked_puk_dialog_message">En az %d kez yanlış Puk kodu girdiniz. Sim kartınız şu anda geçersiz. Bu Sim kartı bir başkasıyla değiştirin</string>
@@ -2395,7 +2397,6 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="user_switch_to_user">%s hesabına geç</string>
     <string name="v7_preference_off">Kapat</string>
     <string name="v7_preference_on">Aç</string>
-    <string name="velocity_tracker_impl">platform</string>
     <string name="verify_apps_over_usb_summary">ADB/ADT üzerinden yüklenen uygulamaları zararlı davranışlara karşı denetle</string>
     <string name="verify_apps_over_usb_title">"USB'den yüklenen uygulamaları doğrula"</string>
     <string name="voice_assist_label">Ses asistanını aç</string>
@@ -2490,7 +2491,6 @@ Wifi adresi (BSSID)
     <string name="wifi_is_off">Wifi kapalı</string>
     <string name="wifi_limited_connection">Sınırlı bağlantı</string>
     <string name="wifi_metered_label">Ölçülü</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
     <string name="wifi_no_internet">İnternet erişimi yok</string>
     <string name="wifi_no_internet_no_reconnect">Otomatik olarak bağlanma</string>
     <string name="wifi_not_in_range">Kapsama alanı dışında</string>
@@ -2510,7 +2510,7 @@ Wifi adresi (BSSID)
     <string name="wifi_security_none_owe">Yok/Gelişmiş açık</string>
     <string name="wifi_security_owe">Geliştirilmiş açık</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3-Personel</string>
     <string name="wifi_security_sae">WPA3-Kişisel</string>
     <string name="wifi_security_short_WAPI_CERT">WAPI CERT</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -2536,9 +2536,9 @@ Wifi adresi (BSSID)
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA-Kişisel</string>
     <string name="wifi_security_wpa2">WPA2-Kişisel</string>
-    <string name="wifi_security_wpa2_wpa3">WPA2/WPA3-Personal</string>
+    <string name="wifi_security_wpa2_wpa3">WPA2/WPA3-Personel</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2-Kişisel</string>
-    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
+    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personel</string>
     <string name="wifi_ssid_is_empty">SSID boş bırakılamaz</string>
     <string name="wifi_ssid_length_is_max">SSID 32 karakter uzunluğunda olabilir</string>
     <string name="wifi_status_mac_randomized">MAC randomize edildi</string>

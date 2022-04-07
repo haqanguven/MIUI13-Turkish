@@ -545,6 +545,8 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="message_no_voice_capability">Bu cihazda arama yapılamıyor</string>
     <string name="midnight">Gece</string>
     <string name="missedcall_notification_public_version_title">Telefon</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çunuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -559,6 +561,8 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
@@ -755,7 +759,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="scam_message">Arama yönlendirmeyi ayarlıyorsunuz. Bundan sonra gelen tüm aramalarınız %1$s telefon numarası tarafından cevaplanacaktır. Bu yönlendirme numarasına sahip değilseniz kişisel bilgilerinizi ifşa etme veya mülkünüzün güvenliğini tehlikeye atma riski altında olabilirsiniz. Bu özelliği dikkatli kullanın</string>
     <string name="scam_message_2">**21* yönlendirme numarası# arama yönlendirme kodudur. Herhangi bir sorunuz varsa operatörünüzle iletişime geçin</string>
     <string name="scam_ok">Tuş</string>
-    <string name="scam_title">Fraud risk reminder</string>
+    <string name="scam_title">Dolandırıcılık riski hatırlatıcısı</string>
     <string name="screen_zoom_summary_custom">Özel (%d)</string>
     <string name="screen_zoom_summary_default">Varsayılan</string>
     <string name="screen_zoom_summary_extremely_large">En büyük</string>
@@ -829,7 +833,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="speed_label_very_slow">Çok yavaş</string>
     <string name="standby_bucket_summary">Uygulama bekleme durumu: %s</string>
     <string name="status_unavailable">Kullanım dışı</string>
-    <string name="storage_category">Storage</string>
+    <string name="storage_category">Depolama</string>
     <string name="strict_mode">Yüksek düzey modu etkin</string>
     <string name="strict_mode_summary">Uygulama ana işlem parçasında uzun işlem yapınca ekranı yakıp söndür</string>
     <string name="sunday">Pazar</string>
@@ -1025,7 +1029,7 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_hand_sel_wapi_cert">WAPI sertifikası</string>
     <string name="wifi_limited_connection">Sınırlı bağlantı</string>
     <string name="wifi_metered_label">Ölçülü</string>
-    <string name="wifi_network_prefix_length_hint">24</string>
+
     <string name="wifi_no_internet">İnternet erişimi yok</string>
     <string name="wifi_no_internet_no_reconnect">İnternet erişimi algılanmadı. Otomatik olarak tekrar bağlanmayacak</string>
     <string name="wifi_not_in_range">Kapsama alanı dışında</string>
@@ -1042,8 +1046,8 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_security_none_owe">Yok/Gelişmiş Açık</string>
     <string name="wifi_security_owe">Gelişmiş açık</string>
     <string name="wifi_security_passpoint">Passpoint</string>
-    <string name="wifi_security_psk_sae">WPA2/WPA3-Personal</string>
-    <string name="wifi_security_sae">WPA3-Personal</string>
+    <string name="wifi_security_psk_sae">WPA2/WPA3-Personel</string>
+    <string name="wifi_security_sae">WPA3-Personel</string>
     <string name="wifi_security_short_dpp">DPP</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_short_eap_suiteb">Suite-B-192</string>
@@ -1062,11 +1066,11 @@ Herhangi bir kullanıcı diğer tüm kullanıcılar için uygulamaları güncell
     <string name="wifi_security_wapi_cert">WAPI-Cert</string>
     <string name="wifi_security_wapi_psk">WAPI-PSK</string>
     <string name="wifi_security_wep">WEP</string>
-    <string name="wifi_security_wpa">WPA-Personal</string>
-    <string name="wifi_security_wpa2">WPA2-Personal</string>
-    <string name="wifi_security_wpa2_wpa3">WPA2/WPA3-Personal</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personal</string>
-    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personal</string>
+    <string name="wifi_security_wpa">WPA-Personel</string>
+    <string name="wifi_security_wpa2">WPA2-Personel</string>
+    <string name="wifi_security_wpa2_wpa3">WPA2/WPA3-Personel</string>
+    <string name="wifi_security_wpa_wpa2">WPA/WPA2-Personel</string>
+    <string name="wifi_security_wpa_wpa2_wpa3">WPA/WPA2/WPA3-Personel</string>
     <string name="wifi_ssid_is_empty">Ssid alanı boş bırakılamaz</string>
     <string name="wifi_ssid_length_is_max">Ssid uzunluğu 32 karakteri aşamaz</string>
     <string name="wifi_status_mac_randomized">MAC randomize edildi</string>

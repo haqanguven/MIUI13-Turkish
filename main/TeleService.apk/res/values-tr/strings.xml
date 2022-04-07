@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="HIPS_Perm_External_Storage">Depolama</string>
+    <string name="HIPS_Perm_External_Storage_Desc">Cihazınızdaki dosyalara ve fotoğraflara erişin ve kaydedin</string>
+    <string name="HIPS_Perm_Read_Contact">Kişiler</string>
+    <string name="HIPS_Perm_Read_Contact_Desc">Kişilerinize erişin</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ENTRY">Ruim kurumsal Pin kilidini aç</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_ERROR">Ruim şirket kilidini açma isteği başarısız oldu</string>
     <string name="PERSOSUBSTATE_RUIM_CORPORATE_IN_PROGRESS">Ruim kurumsal kilidini açma isteği</string>
@@ -117,7 +121,7 @@
     <string name="abc_capital_off">Kapalı</string>
     <string name="abc_capital_on">Açık</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
-    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
     <string name="abc_menu_delete_shortcut_label">Sil</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">İşlev+</string>
@@ -156,7 +160,7 @@
     <string name="advanced_settings_show">▷ Tümünü görüntülemek için dokunun</string>
     <string name="advertisements_disable">Reklamlar kapalı</string>
     <string name="advertisements_enable">Reklamlar açık</string>
-    <string name="afternoon">Afternoon</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="ai_assistant_not_installed">Önce AI arama asistanını yükleyin</string>
     <string name="ai_assistant_setting_title">AI arama asistanı</string>
     <string name="alert_dialog_close">Profili kapat</string>
@@ -168,7 +172,7 @@
     <string name="alertdialogtitle">Sonuçlar</string>
     <string name="all_day">Tüm gün</string>
     <string name="all_empty_alert">Yeni SIP hesabının ayrıntılarını girin</string>
-    <string name="allow">Granted</string>
+    <string name="allow">İzin ver</string>
     <string name="already_auto">Zaten otomatik seçimde</string>
     <string name="always_enable_mms">Her zaman multimedya mesajlarını al</string>
     <string name="always_enable_mms_summary">Mobil veri kapalıyken dahi multimedya mesajını alır</string>
@@ -183,7 +187,7 @@
     <string name="app_name">Tercihler</string>
     <string name="arrears_sim_summary">Bağlantıda kalmak için telefon bakiyenizi doldurun</string>
     <string name="arrears_sim_title">Yetersiz bakiye</string>
-    <string name="ask">Ask</string>
+    <string name="ask">Sor</string>
     <string name="atr_disable">Bölge trafik raporları kapalı</string>
     <string name="atr_enable">Bölge trafik raporları açık</string>
     <string name="audio_mode_bluetooth">Bluetooth</string>
@@ -719,7 +723,7 @@
     <string name="dual_4g_switch_summary">Her iki Sim yuvası için 4G bağlantısına izin verin</string>
     <string name="dual_4g_switch_title">Çift 4G</string>
     <string name="eab_provisioned_switch_string">EAB/Varlık sağlandı</string>
-    <string name="early_morning">Morning</string>
+    <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
     <string name="earthly_branches_hai">22</string>
@@ -870,19 +874,19 @@
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
     <string name="fmt_date_long_month">MMMM</string>
-    <string name="fmt_date_long_month_day">MMMM d</string>
+    <string name="fmt_date_long_month_day">d MMMM</string>
     <string name="fmt_date_long_year_month">MMMM yyyy</string>
-    <string name="fmt_date_long_year_month_day">MMMM d, yyyy</string>
+    <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
     <string name="fmt_date_numeric_day">d</string>
     <string name="fmt_date_numeric_month">M</string>
-    <string name="fmt_date_numeric_month_day">M-d</string>
+    <string name="fmt_date_numeric_month_day">d-M</string>
     <string name="fmt_date_numeric_year">yyyy</string>
     <string name="fmt_date_numeric_year_month">M-yyyy</string>
-    <string name="fmt_date_numeric_year_month_day">M-d-yyyy</string>
+    <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
     <string name="fmt_date_short_month">MMM</string>
-    <string name="fmt_date_short_month_day">MMM d</string>
+    <string name="fmt_date_short_month_day">d MMM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
-    <string name="fmt_date_short_year_month_day">MMM d, yyyy</string>
+    <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
     <string name="fmt_date_time">D T</string>
     <string name="fmt_date_time_timezone">D T z</string>
     <string name="fmt_date_timezone">D z</string>
@@ -1180,6 +1184,8 @@ Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde mümkündür"<
     <string name="miui_network_selection_reset_text">Sıfırla</string>
     <string name="miui_notification_network_selection_title">Sim servisi yok</string>
     <string name="miui_notification_network_selection_title_by_sim">Sim %s servisi yok</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
@@ -1194,6 +1200,8 @@ Acil aramalar yalnızca hücresel kapsama alanı olan bölgelerde mümkündür"<
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>

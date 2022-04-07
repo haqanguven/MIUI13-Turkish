@@ -6852,7 +6852,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="security_keyguard_category_name">Kilit ekranı</string>
     <string name="security_password_category_name">Ekran kilidi</string>
     <string name="security_passwords_title">Gizlilik</string>
-    <string name="security_patch">Güvenlik yaması sürümü</string>
+    <string name="security_patch">Güvenlik sürümü</string>
     <string name="security_privacy_settings_title">Gizlilik</string>
     <string name="security_relative">Güvenlik</string>
     <string name="security_settings_face_enroll_dialog_ok">Tamam</string>

@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="about_device_info">Cihaz detaylarını görüntüle</string>
     <string name="accept">İzin ver</string>
+    <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="access_token_expired_warning">Weibo hesabının süresi doldu</string>
     <string name="access_token_invalid_warning">Weibo hesabı geçersiz</string>
     <string name="account">Hesap</string>
@@ -96,6 +97,8 @@ Hesap kimliğiniz: %s"</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Mi hesabı</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="area_code_no_search_result">Sonuç bulunamadı</string>
+    <string name="area_code_search_hint">Ülke veya bölge arayın</string>
     <string name="auth_fail_warning">Oturum sona erdi. Daha sonra yeniden oturum açın</string>
     <string name="authorize_title">Yetkilendirme</string>
     <string name="bind_facebook">Facebook hesabınıza bağlanın</string>
@@ -530,7 +533,10 @@ Bu kodu amirinize gönderin"</string>
     <string name="multi_user_not_show_sync_activity_title">Xiaomi bulut ile senkronizasyonu aç</string>
     <string name="my_device_title">Mevcut cihaz</string>
     <string name="need_install_wechat">"Önce WeChat'i yükleyin"</string>
-    <string name="night">ÖS</string>
+    <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
+    <string name="night">Akşam</string>
+    <string name="no_account_or_forget_password">Hesap oluşturun veya şifrenizi mi unuttunuz?</string>
     <string name="no_install">Yüklü değil</string>
     <string name="no_network_btn">Yenile</string>
     <string name="no_network_title">Ağa bağlanılamıyor</string>
@@ -770,7 +776,9 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_talkback_voice_captcha">Ses doğrulama kodunu oynat</string>
     <string name="passport_ticket_login_select_sim_card">Sim kartı seç</string>
     <string name="passport_ticket_login_select_sim_card_1">Sim 1</string>
+    <string name="passport_ticket_login_select_sim_card_1_with_phone_number">Sim %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_2">Sim 2</string>
+    <string name="passport_ticket_login_select_sim_card_2_with_phone_number">Sim %1$d: %2$s</string>
     <string name="passport_ticket_login_select_sim_card_cancel">İptal et</string>
     <string name="passport_title_reg">Bir hesap oluşturun</string>
     <string name="passport_trust_device">Bu cihazı onaylı cihazlara ekle</string>
@@ -833,6 +841,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="privacy_policy_reject_confirm_title">"Mi hesabını kullanamıyorum"</string>
     <string name="privacy_policy_update_msg">Mi hesabı gizlilik politikası güncellendi:&lt;br/>%1$s&lt;br/>Yeni sürüm &lt;a href=%2$s>&lt;u>gizlilik politikasını &lt;/u>&lt;/a> okuyun ve kabul edin</string>
     <string name="privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
+    <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="provision_back">Geri</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
@@ -936,6 +945,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="system_ad_summary">"Sistem uygulamalarında az sayıda reklam gösterilmesine izin vermek için bu özelliği açın. Bu reklamlar ürünlerimizi ve hizmetlerimizi geliştirmemize ve iyileştirmemize yardımcı olur. İstediğiniz zaman bu özelliği kapatmayı seçebilirsiniz. Desteğin için teşekkürler. "</string>
     <string name="system_ad_switch">Sistem uygulamalarındaki reklamlar</string>
     <string name="system_ad_switch_failed">Ayar uygulanamadı</string>
+    <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="talkback_scan_barcode">QR kodu tara</string>
     <string name="temporary_not_available">Bu özellik henüz mevcut değil</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
@@ -1000,6 +1010,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="two_factor_auth_need_code_summary">Diğer bağlı Mi cihazlarında bir kod göreceksiniz. Oturum açmak için yeni bir cihaza bu kodu girin</string>
     <string name="two_factor_auth_summary">Yeni bir cihazda veya yeni bir yerde oturum açmaya çalıştığınızda diğer bağlı cihazlarda bu konuda bilgilendirilirsiniz. Bu tür oturum açma girişimlerinin sizin tarafınızdan onaylanıp onaylanmadığını onaylamanız gerekir</string>
     <string name="unbind_sns_description">Bu hesabı kaldırdıktan sonra %s hesap bilgilerinizle Mi hesabınızda oturum açamazsınız</string>
+    <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="unlock_help_notice">"Yardım:
 1. Şifrenizi unuttuysanız şifrenizi sıfırlamak için id.mi.com adresine gidin
 2. Cihaz kilidini açamıyorsanız kilidi açmak için i.mi.com adresine gidin

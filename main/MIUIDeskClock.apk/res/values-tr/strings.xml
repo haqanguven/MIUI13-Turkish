@@ -37,6 +37,7 @@
     <string name="add_clock">Saat ekle</string>
     <string name="add_common_timer">Zamanlayıcı ekle</string>
     <string name="add_timer">Sık zamanlayıcı</string>
+    <string name="add_timer_dialog_title">Zamanlayıcı ekle</string>
     <string name="add_timezone_title">Zaman dilimi ekle</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
@@ -759,6 +760,7 @@
     <string name="timer_alert_type_beach">Plaj</string>
     <string name="timer_alert_type_forest">Orman</string>
     <string name="timer_alert_type_mute">Varsayılan</string>
+    <string name="timer_alert_type_no">Hiçbiri</string>
     <string name="timer_alert_type_rain">Çiseleme</string>
     <string name="timer_alert_type_spring_rain">Yaz yağmuru</string>
     <string name="timer_alert_type_stove_fire">Soba ateşi</string>
@@ -770,6 +772,9 @@
     <string name="timer_continue">Devam et</string>
     <string name="timer_continue_timer">Zamanlayıcıyı devam ettir</string>
     <string name="timer_created">Zamanlayıcı başarıyla eklendi</string>
+    <string name="timer_desc_use_brush_teeth">Diş fırçalama</string>
+    <string name="timer_desc_use_facial_mask">Yüz maskesi</string>
+    <string name="timer_desc_use_sleep">Kestir</string>
     <string name="timer_end_time">Zamanlayıcı %s süresinde durur</string>
     <string name="timer_end_time_format">HH:mm dd MMM</string>
     <string name="timer_end_time_format_today">HH:mm</string>
@@ -778,6 +783,7 @@
     <string name="timer_is_paused">Zamanlayıcı duraklatıldı</string>
     <string name="timer_item_delete">Sil</string>
     <string name="timer_item_duration_display">%1$d dakika %2$d saniye</string>
+    <string name="timer_item_edit">Düzenle</string>
     <string name="timer_item_label_hint">Zamanlayıcı adı</string>
     <string name="timer_item_picker_hour">S</string>
     <string name="timer_item_picker_minute">D</string>
@@ -833,6 +839,7 @@
     <string name="wednesday_shortest">Ç</string>
     <string name="week_ringtone_recommend_desc">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Varsayılan alarmınız olarak ayarlansın mı?</string>
     <string name="white_noise">Ortam gürültüsü</string>
+    <string name="white_noise_guide_desc">Odaklanmanızı sağlamak için bir arka plan sesi ekleyin</string>
     <string name="white_noise_selector">Ses dosyası seç</string>
     <string name="workday_alarm_clock">Çalışma günleri alarmı</string>
     <string name="worldclock_edit_label">Dünya Saati</string>

@@ -28,7 +28,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="actionbar_button_up_description">Geri</string>
-    <string name="afternoon">ÖS</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="ai_assistant">AI arama yardımcısı</string>
     <string name="ai_assistant_not_installed">Önce AI arama yardımcısını yükleyin</string>
     <string name="ai_dial">AI arama</string>
@@ -41,7 +41,11 @@
     <string name="antispam_local_marked">Yerel işaretli</string>
     <string name="antispam_notification_title">Bilinmeyen numara</string>
     <string name="antispam_provider">%s olarak tanımlandı</string>
-    <string name="app_name">Mi ayarlar</string>
+    <string name="app_name">blur</string>
+    <string name="bluetooth_permission_content">Sistem izinleri güncellendi. Bu uygulamanın Bluetooth cihazlarınızı görüntüleyebilmesi için adlarına erişmesine izin verin</string>
+    <string name="bluetooth_permission_grant_immediately">İzin ver</string>
+    <string name="bluetooth_permission_later">Şimdi değil</string>
+    <string name="bluetooth_permission_title">Gerekli izinler</string>
     <string name="callFailed_cb_enabled">Telefonunuzun tüm yada belirli aramalara kapalı olma fonksiyonu açık durumdayken giden arama yapamazsınız</string>
     <string name="callFailed_congestion">Ağ meşgul</string>
     <string name="callFailed_dialToDial">Arama isteği farklı numara ile arama isteği olarak değiştirildi</string>
@@ -96,6 +100,7 @@
     <string name="call_recording_notification_message_sd_unmounted">SD kart kaldırıldı</string>
     <string name="call_recording_notification_title">Arama kaydedildi</string>
     <string name="call_recording_notification_title_error">Arama kayıt edilemedi</string>
+    <string name="caller_info_name_delimiter">" veya "</string>
     <string name="caller_manage_header">Konferans araması %s</string>
     <string name="can_not_use">Kullanılamıyor</string>
     <string name="cancel">İptal et</string>
@@ -250,7 +255,7 @@
     <string name="dialpad_wxyz">WXYZ</string>
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Görüntülü arama özelliği diğer cihazda desteklenmiyor</string>
-    <string name="early_morning">ÖÖ</string>
+    <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
     <string name="earthly_branches_hai">22</string>
@@ -322,6 +327,7 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="font_camera_tip">Ön kamerayı kullanmak için cihazı katlayın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -474,9 +480,22 @@
     <string name="relay_call_device_name">Bağlı cihaz (%1$s)</string>
     <string name="relay_deny_permission_msg">Ses kaydetme izni olmadan arama yapılamaz</string>
     <string name="relay_grant_permissions_on_phone">Telefonunuza ses kaydetme izni verin</string>
+    <string name="relay_known">Anladım</string>
+    <string name="relay_network_error">Ağ hatası</string>
+    <string name="relay_network_error_msg">Bir ağ hatası nedeniyle bu cihazda arama alınamıyor. Bunun yerine telefonunuza geri dönün</string>
     <string name="remind_unlock_message">Cihazınız şu an kilitli. %s cihaz kilidini açmanızdan sonra kullanılabilir durumda olacaktır. Kilit şimdi açılsın mı?</string>
+    <string name="remind_unlock_screen_message">%s özelliğini kullanabilmek için cihazınızın kilidini açın. Şimdi açılsın mı?</string>
     <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.READ_EXTERNAL_STORAGE</string>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
+    <string name="saf_permission_content">"Sistem izinleri güncellendi. Aramaları kaydedebilmek için önce izninizi verin
+
+İzin nasıl verilir:
+%1$s öğesine dokunun ve ardından %2$s öğesini seçin"</string>
+    <string name="saf_permission_grant_permission_immediately">Sonraki</string>
+    <string name="saf_permission_later">Şimdi değil</string>
+    <string name="saf_permission_refused">Eksik izinler nedeniyle aramalar kaydedilemiyor</string>
+    <string name="saf_permission_title">Gerekli izinler</string>
+    <string name="saf_permission_use_this_folder">Bu klasörü kullan</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
     <string name="saturday_shortest">C</string>

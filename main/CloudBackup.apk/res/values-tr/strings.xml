@@ -49,6 +49,7 @@
     <string name="backup_action_no_space_with_wechat_on_content">WeChat verilerini yedeklemek için yeterli bulut depolama alanı yok. Öğeleri yedeklemek için depolama planınızı yükseltin</string>
     <string name="backup_action_no_space_with_wechat_on_title">WeChat verileri yedeklenemedi</string>
     <string name="backup_action_retry_now">Tekrar dene</string>
+    <string name="backup_failed_reason_app_data_error">WeChat verileri yedeklenemedi</string>
     <string name="backup_failed_reason_app_usage_denied">Öğeleri yedeklemek için gerekli izinleri verin</string>
     <string name="backup_failed_reason_cloud_space_not_enough">Xiaomi bulutda yeterli depolama alanı yok. Planınızı yükseltin veya depolama alanını boşaltın</string>
     <string name="backup_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın</string>
@@ -511,6 +512,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restore_detail_category_settings">Ayarlar</string>
     <string name="restore_detail_more">Daha fazla</string>
     <string name="restore_detail_title">Geri yüklenecek öğeleri seçin</string>
+    <string name="restore_failed_reason_app_data_error">WeChat verileri geri yüklenemedi</string>
     <string name="restore_failed_reason_disk_space_not_enough">Yeterli depolama alanı yok. İlk önce depolama alanını boşaltın</string>
     <string name="restore_failed_reason_network_error">Ağ hatası. Bir iki dakika bekleyin ve tekrar deneyin</string>
     <string name="restore_finish_description">Geri yükleme tamamlandı</string>

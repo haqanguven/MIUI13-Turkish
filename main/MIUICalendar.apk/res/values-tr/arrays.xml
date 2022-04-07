@@ -509,6 +509,20 @@
         <item>@string/month_november</item>
         <item>@string/month_december</item>
     </string-array>
+    <string-array name="months_English_array">
+        <item>Ocak</item>
+        <item>Şubat</item>
+        <item>Mart</item>
+        <item>Nisan</item>
+        <item>Mayıs</item>
+        <item>Haziran</item>
+        <item>Temmuz</item>
+        <item>Ağustos</item>
+        <item>Eylül</item>
+        <item>Ekim</item>
+        <item>Kasım</item>
+        <item>Aralık</item>
+    </string-array>
     <string-array name="months_short">
         <item>@string/month_january_short</item>
         <item>@string/month_february_short</item>

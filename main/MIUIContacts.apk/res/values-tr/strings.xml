@@ -164,6 +164,8 @@
     <string name="bh_not_contact">Sonuç bulunamadı</string>
     <string name="bh_notice">Dikkat</string>
     <string name="bh_online_service">Çevrimiçi destek</string>
+    <string name="bh_open_carrier_services_short">Mi taşıyıcı hizmetleri</string>
+    <string name="bh_open_carrier_services_short_reason">Bu özelliği kullanabilmek için Mi taşıyıcı hizmetlerini açın</string>
     <string name="bh_option_agree_dec">Mi taşıyıcı hizmetleri uygulamayı kullanmadan önce internete bağlanmasına ve gerekli izinleri vermesine izin verin</string>
     <string name="bh_order_detail">Sipariş detayları</string>
     <string name="bh_order_id">Sipariş kimliği</string>
@@ -195,6 +197,7 @@
     <string name="bh_please_fill_total_limit_title">Lütfen toplam paketi doldurunuz</string>
     <string name="bh_please_set_pkg">Bakiyenizi kontrol edebilmek için planınızı ayarlayın</string>
     <string name="bh_privacy_policy">Gizlilik politikası</string>
+    <string name="bh_qualification_and_certificate">Lisanslar ve sertifika</string>
     <string name="bh_receive_zero_card">Ücretsiz Sim</string>
     <string name="bh_recharge_money">Miktar</string>
     <string name="bh_recharge_record">Kaydı yeniden doldur</string>

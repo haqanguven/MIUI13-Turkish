@@ -419,6 +419,7 @@
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Öğleden sonra</string>
+    <string name="exit_overview_because_task_stack_changed">Arka planda oluşan değişikliklerden dolayı son kullanılanlar kapatıldı</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
     <string name="failed_to_drop">Taşınamıyor</string>
@@ -764,6 +765,11 @@
     <string name="navigation_guide_recent_title">Son kullanılanları aç</string>
     <string name="navigation_guide_recent_title_spec_with_quotation_pad">Son kullanılanları aç</string>
     <string name="navigation_guide_settings">Hareket önizlemeleri</string>
+    <string name="navigation_position_center">Merkez</string>
+    <string name="navigation_position_left">Sol</string>
+    <string name="navigation_position_right">Sağ</string>
+    <string name="navigation_position_summary">Gezinme düğmelerinin özel konumları yalnızca Ana ekrana uygulanabilir</string>
+    <string name="navigation_position_title">Gezinme düğmeleri konumu</string>
     <string name="navigation_set_miui_home_as_default_dialog_cancel">İptal et</string>
     <string name="navigation_set_miui_home_as_default_dialog_message">Üçüncü taraf başlatıcılarla tam ekran hareketleri kullanılamıyor. Sistem başlatıcıya geç ve tam ekran hareketleri açılsın mı?</string>
     <string name="navigation_set_miui_home_as_default_dialog_ok">Tamam</string>

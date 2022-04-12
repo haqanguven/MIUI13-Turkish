@@ -4281,7 +4281,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="lock_settings_title">Cihaz güvenliği</string>
     <string name="lock_settings_with_fingerprint">Kilit ekranı &amp; şifre</string>
     <string name="lock_setup">Kurulum tamamlandı</string>
-    <string name="lock_sound_effect_enable_title">Cihazı kilitleme sesi</string>
+    <string name="lock_sound_effect_enable_title">Cihaz kilitleme sesi</string>
     <string name="lock_sounds_enable_title">Ekran kilitleme sesi</string>
     <string name="lockdown_settings_summary">Kilit ekranında akıllı kilit parmak iziyle kilit açma ve bildirimler özelliğini kapatan güç düğmesi seçeneğini görüntüleyin</string>
     <string name="lockdown_settings_title">Kilitleme seçeneğini göster</string>
@@ -5559,6 +5559,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="owner_info_settings_summary">Yok</string>
     <string name="owner_info_settings_title">Kilit ekranı imzası</string>
     <string name="owner_space">İlk alan</string>
+    <string name="p2p_summary_enable_GPS">Bu özellik konum servisleri açıkken çalışır</string>
     <string name="packages_subtitle">Dahil olan paketler</string>
     <string name="pad_backup_summary">Bu cihazdaki öğeleri yedekleyin ve geri yükleyin</string>
     <string name="pad_backup_title">Mobil</string>

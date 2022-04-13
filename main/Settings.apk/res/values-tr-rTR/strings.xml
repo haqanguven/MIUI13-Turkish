@@ -1235,7 +1235,7 @@ Daha önce %2$s ile bağlantı kurmadınız"</string>
     <string name="bluetooth_message_access_notification_content">Güvenilmeyen cihaz mesajlarınıza erişmek istiyor. Ayrıntılar için dokunun</string>
     <string name="bluetooth_message_move_out_of_blacklist">Şimdi %1$s engellemesini kaldırılsın mı?</string>
     <string name="bluetooth_mi_fast_connect">Mi bağlantı</string>
-    <string name="bluetooth_mi_fast_connect_summary">Yakındaki bluetooth cihazlarına bağlan</string>
+    <string name="bluetooth_mi_fast_connect_summary">Yakındaki bluetooth cihazlarına bağlanın</string>
     <string name="bluetooth_middle_name">Durum</string>
     <string name="bluetooth_move_out_of_blacklist">Cihazın engellemesini kaldır</string>
     <string name="bluetooth_name_not_set">Ad ayarlanmadı. Hesap adı kullanılıyor</string>
@@ -1534,7 +1534,7 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_lhdc_property">Özellikler</string>
     <string name="bt_pre_summary">Yüksek kaliteli ses deneyimi sağlar</string>
     <string name="bt_rarely_used_device_title">Nadir kullanılan cihazlar (%d)</string>
-    <string name="bt_show_notification_summary">Bildirim alanında kalıcı bir bildirim göster</string>
+    <string name="bt_show_notification_summary">Bildirim alanında kalıcı bir bildirim gösterir</string>
     <string name="bt_show_notification_title">Bluetooth bağlantıları hakkında bilgilendir</string>
     <string name="bt_trace_log">Bluetooth izleme günlüğü</string>
     <string name="bt_trace_log_summary">Bluetooth izleme günlüğü</string>
@@ -2069,7 +2069,7 @@ Aşağı indirilen alanı açmak için ekranın üst kısmından aşağı kaydı
     <string name="cool_color">Soğuk</string>
     <string name="copy">Kopyala</string>
     <string name="copyable_slice_toast">%1$s panoya kopyalandı</string>
-    <string name="copyright">Copyright</string>
+    <string name="copyright">Telif hakkı</string>
     <string name="copyright_title">Telif hakkı</string>
     <string name="country_name">%s (Sistem)</string>
     <string name="create">Oluştur</string>
@@ -5224,7 +5224,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_repair_action_btn">Geri yükle</string>
-    <string name="nfc_repair_action_desc">NFC özelliklerini kullanmanızı engelleyen sorunları düzeltmek için <b>Geri yükle</b> öğesine dokunun. NFC işlevi geri yüklenirken geçerli sayfadan ayrılmayın. Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
+    <string name="nfc_repair_action_desc">NFC özelliklerini kullanmanızı engelleyen sorunları düzeltmek için geri yükle öğesine dokunun. NFC işlevi geri yüklenirken geçerli sayfadan ayrılmayın. Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
     <string name="nfc_repair_btn_no">Hayır</string>
     <string name="nfc_repair_btn_reboot">Yeniden başlat</string>
     <string name="nfc_repair_btn_reboot_later">Daha sonra</string>

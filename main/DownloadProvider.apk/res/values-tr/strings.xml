@@ -327,7 +327,7 @@
     <string name="permdesc_downloadManager">Uygulamaya indirme yöneticisine erişme ve dosya indirmek için indirme yöneticisini kullanma izni verir. Zararlı uygulamalar indirme işlemlerini kesmek ve özel bilgilere erişmek için bunu kullanabilir</string>
     <string name="permdesc_downloadManagerAdvanced">Uygulamaya indirme yöneticisinin gelişmiş fonksiyonlarına erişme izni verir. Zararlı uygulamalar indirme işlemlerini kesmek ve özel bilgilere erişmek için bunu kullanabilir</string>
     <string name="permdesc_downloadWithoutNotification">Uygulamaya kullanıcıya herhangi bir bildirim göstermeden dosyaları indirme yöneticisi ile indirme izni verir</string>
-    <string name="permdesc_seeAllExternal">Uygulamaya indiren uygulamadan bağımsız olarak SD karta yapılan tüm indirme işlemlerini görme izni verir</string>
+    <string name="permdesc_seeAllExternal">Uygulamaya bağımsız olarak SD karta yapılan tüm indirme işlemlerini görme izni verir</string>
     <string name="permlab_accessAllDownloads">Tüm sistem indirmelerine erişim</string>
     <string name="permlab_downloadCacheNonPurgeable">İndirme önbelleğinde alan ayır</string>
     <string name="permlab_downloadCompletedIntent">İndirme bildirimleri gönder</string>

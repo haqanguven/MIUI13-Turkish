@@ -818,7 +818,7 @@
     <string name="permdesc_write_settings">Uygulamaya ana ekran ayarlarını ve kısayollarını düzenleme izni verir</string>
     <string name="permlab_install_shortcut">Kısayolları yükle</string>
     <string name="permlab_install_widget">Araçları yükle</string>
-    <string name="permlab_read_settings">Ana ekran ayarlarını ve kısayolları oku</string>
+    <string name="permlab_read_settings">Ana ekran ayarlarını ve kısayollarını okuma</string>
     <string name="permlab_uninstall_shortcut">Kısayolları kaldır</string>
     <string name="permlab_uninstall_widget">Araçları kaldır</string>
     <string name="permlab_write_settings">Ana ekran ayarları ve kısayollarını düzenle</string>

@@ -1324,7 +1324,7 @@ izin isteğinde bulunuldu"</string>
     <string name="permlab_readSms">Kısa mesajlarımı oku</string>
     <string name="permlab_readSyncSettings">Senkronize ayarlarını okuma</string>
     <string name="permlab_readSyncStats">Senkronize istatistiklerini okuma</string>
-    <string name="permlab_receiveBootCompleted">başlangıçta çalıştırma</string>
+    <string name="permlab_receiveBootCompleted">Başlangıçta çalıştırma</string>
     <string name="permlab_receiveMms">Kısa mesajları al (MMS)</string>
     <string name="permlab_receiveSms">Kısa mesajları al (SMS)</string>
     <string name="permlab_receiveWapPush">Kısa mesajları al (WAP)</string>
@@ -1339,8 +1339,8 @@ izin isteğinde bulunuldu"</string>
     <string name="permlab_requestPasswordComplexity">Ekran kilidi karmaşıklığı iste</string>
     <string name="permlab_route_media_output">Medya çıkışını yönlendirme</string>
     <string name="permlab_runInBackground">Arka planda çalıştırma</string>
-    <string name="permlab_sdcardRead">Paylaşılan depolama alanının içeriğini oku</string>
-    <string name="permlab_sdcardWrite">Paylaşılan depolama alanımın içeriğini değiştir veya sil</string>
+    <string name="permlab_sdcardRead">Paylaşılan depolama alanının içeriğini okuma</string>
+    <string name="permlab_sdcardWrite">Paylaşılan depolama alanı içeriğini değiştir veya sil</string>
     <string name="permlab_sendSms">Mesajları gönderme ve görüntüleme</string>
     <string name="permlab_setAlarm">Alarm ayarla</string>
     <string name="permlab_setInputCalibration">Giriş cihazı kalibrasyonunu değiştir</string>

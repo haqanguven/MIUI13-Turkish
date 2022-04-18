@@ -481,7 +481,7 @@ http://www.miliao.com
     <string name="login_failed">Oturum açılamadı. Tekrar deneyin</string>
     <string name="logining">Oturum açılıyor</string>
     <string name="midnight">Gece</string>
-    <string name="miliao_account_guide">Dilediğiniz yerden Xiaomi bulut, Miui tema mağazası ve diğer Mi hizmetlerinde oturum açmak için Mi hesabınızı kullanın</string>
+    <string name="miliao_account_guide">Dilediğiniz yerden Xiaomi bulut, MIUI tema mağazası ve diğer Mi hizmetlerinde oturum açmak için Mi hesabınızı kullanın</string>
     <string name="miliao_account_login">Mi Talk ile oturum açın</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>

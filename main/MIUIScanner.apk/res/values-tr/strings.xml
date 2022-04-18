@@ -423,7 +423,7 @@
     <string name="intelligent_recognition">Akıllı tanıma</string>
     <string name="jd_shopping_title">"JD'de ara"</string>
     <string name="jingdong">JD</string>
-    <string name="keywords_search_code">Tarayıcı;Tarama;QR kodu;QR;Tanıma;Barkod;Barkod;Ürün;Ürünler;Alipay;WeChat;QR kodunu nasıl tarar;Barkod nasıl taranır;Nasıl taranır;Miui tarayıcı</string>
+    <string name="keywords_search_code">Tarayıcı;Tarama;QR kodu;QR;Tanıma;Barkod;Barkod;Ürün;Ürünler;Alipay;WeChat;QR kodunu nasıl tarar;Barkod nasıl taranır;Nasıl taranır;MIUI tarayıcı</string>
     <string name="keywords_search_document">Tarayıcı;Belgeyi tara;Belgeleri tara;OCR;Metni tara;Tara</string>
     <string name="keywords_search_namecard">Tarayıcı;Kartvizit;Kartvizit;Tarama;Tarama kartları;Kart;Kartlar;Rehber;İletişim.</string>
     <string name="keywords_search_study">Tarayıcı;Sorunlar;Sorunları çöz;Ödev;Okul;Fizik;Kimya;Matematik;Matematik;İngilizce;Tarih;Çince</string>
@@ -452,7 +452,7 @@
     <string name="local_ocr_recognition_str">Çevrimdışı çeviriye geçildi</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="logout_service">İzni geri al</string>
-    <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için Miui'yi en yeni sürümüne güncelleyin"</string>
+    <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için MIUI'yi en yeni sürümüne güncelleyin"</string>
     <string name="midnight">Gece</string>
     <string name="mihome_goto_install">Şimdi kur</string>
     <string name="mihome_goto_update">Güncelle</string>

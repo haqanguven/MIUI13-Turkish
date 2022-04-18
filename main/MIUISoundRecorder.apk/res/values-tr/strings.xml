@@ -295,7 +295,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="invisible_mode_error_tip">Mikrofonu kullanabilmek için ayarlardan gizli modu kapatın</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="keywords_search_call_record">Aramaları kaydet;Aramayı kaydet;Arama kaydı;Arama kayıtları</string>
-    <string name="keywords_search_record">Yeni kayıt;Kayıt ekle;Kayıt;Kayıtlar;Transkript;Kopyasını yaz;Kaydedici;Konuşma kaydedici;Ses kaydedici;Kayıt uygulaması;Kayıt etme uygulaması;Nasıl kayıt yaparım;Nasıl ses kaydederim;Kaydedici nerede;Miui kaydedici</string>
+    <string name="keywords_search_record">Yeni kayıt;Kayıt ekle;Kayıt;Kayıtlar;Transkript;Kopyasını yaz;Kaydedici;Konuşma kaydedici;Ses kaydedici;Kayıt uygulaması;Kayıt etme uygulaması;Nasıl kayıt yaparım;Nasıl ses kaydederim;Kaydedici nerede;MIUI kaydedici</string>
     <string name="keywords_search_record_list">Ses kaydedici;Transkript;Transkriptler;Kayıt;Kaydı paylaş;Kayıtları paylaş,Kayıt,Kayıtlar</string>
     <string name="korea_permission_phone">Telefon</string>
     <string name="korea_permission_phone_resc">Cihaz durumuna erişmek ve aramalar sırasında kayıtları kontrol etmek için</string>

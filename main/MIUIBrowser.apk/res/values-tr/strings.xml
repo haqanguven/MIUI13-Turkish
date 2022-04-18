@@ -1063,7 +1063,7 @@ Mi hesabınızda oturum açın"</string>
     <string name="miuishare_account_login_ok">Oturum açın</string>
     <string name="miuishare_account_need_activate">Weibo hesabı Mi hesabınız ile eşleştirilmiş olması gerekmekterir. Şimdi Mi hesabında oturum açılsın mı?</string>
     <string name="miuishare_account_need_login">Weibo hesabının mevcut Mi hesabınız ile eşleştirilmiş olması gerekmektedir. Şimdi oturum açılsın mı?</string>
-    <string name="miuishare_app_name">Miui paylaşım</string>
+    <string name="miuishare_app_name">MIUI paylaşım</string>
     <string name="miuishare_dialog_cancel">İptal et</string>
     <string name="miuishare_no_network">Ağa bağlanılamadı</string>
     <string name="miuishare_publish">Gönder</string>
@@ -1586,7 +1586,7 @@ Bu sayfadan ayrılmak istediğinize emin misiniz?"</string>
     <string name="send_startpage">Başlangıç ​​sayfası</string>
     <string name="sequence_bookmark_description">Yer işaretlerini yeniden düzenlemek için basılı tutun</string>
     <string name="share_by_yidianzixun">[Bilgi]</string>
-    <string name="share_image_text">"Miui'de ne paylaştığıma bak"</string>
+    <string name="share_image_text">"MIUI'de ne paylaştığıma bak"</string>
     <string name="share_page_text">Ne paylaştığıma bak: %1$s @MIUI| %2$s</string>
     <string name="share_video">Video paylaş</string>
     <string name="short_video_ad_download_app">%s indir</string>

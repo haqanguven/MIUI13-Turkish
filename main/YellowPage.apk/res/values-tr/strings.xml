@@ -680,8 +680,8 @@ Toplam: %3$s RMB"</string>
     <string name="user_agreement2">" Hizmet şartları"</string>
     <string name="user_agreement4">Gizlilik politikası</string>
     <string name="user_notice_all_purpose_yellowpage">Sarı sayfalara hoş geldiniz! Arayan kimlikleri tanımak ve muhtemelen sahte aramaları tanımlamak için bu uygulamayı kullanabilirsiniz. Telefon ve rehberde bu uygulamanın normal çalışabilmesi için internete bağlanması gerekir</string>
-    <string name="user_notice_identify_summary_format">Telefonunuz bir wifi ağına bağlı durumdayken istenmeyen aramaları engellemek için Miui veri tabanını kullanacaktır. Bu hizmeti kullanarak %1$s ve %2$s sözleşmelerimizi kabul etmiş sayılıyorsunuz</string>
-    <string name="user_notice_identify_summary_format_cta">Telefonunuz bir wifi ağına bağlı durumdayken istenmeyen aramaları engellemek için Miui veri tabanını kullanacaktır. Bu hizmeti kullanarak %1$s ve %2$s sözleşmelerimizi kabul etmiş sayılıyorsunuz</string>
+    <string name="user_notice_identify_summary_format">Telefonunuz bir wifi ağına bağlı durumdayken istenmeyen aramaları engellemek için MIUI veri tabanını kullanacaktır. Bu hizmeti kullanarak %1$s ve %2$s sözleşmelerimizi kabul etmiş sayılıyorsunuz</string>
+    <string name="user_notice_identify_summary_format_cta">Telefonunuz bir wifi ağına bağlı durumdayken istenmeyen aramaları engellemek için MIUI veri tabanını kullanacaktır. Bu hizmeti kullanarak %1$s ve %2$s sözleşmelerimizi kabul etmiş sayılıyorsunuz</string>
     <string name="user_notice_main_purpose_heduohao">CMCC Heduohao</string>
     <string name="user_notice_main_purpose_palmhall">CMCC çevrimiçi hizmet salonu</string>
     <string name="user_notice_main_purpose_yellowpage">Telefon numaraları tanımlanıyor</string>

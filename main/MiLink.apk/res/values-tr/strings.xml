@@ -547,7 +547,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miplay_accessibility_prev">Önceki şarkı</string>
     <string name="miplay_accessibility_seekbar">İlerleme çubuğu</string>
     <string name="miplay_accessibility_volume">Ses</string>
-    <string name="miplay_detail_divider_title">TV &amp; hoparlörler</string>
+    <string name="miplay_detail_divider_title">TV ve hoparlörler</string>
     <string name="miplay_detail_header_no_song">Oynatma geçmişi yok</string>
     <string name="miplay_device_full_name">%1$s üzerinden %2$s</string>
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
@@ -556,7 +556,9 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miplay_mini_card_no_song_subtitle">Oyun yok</string>
     <string name="miplay_mini_card_no_song_title">Mobil müzik</string>
     <string name="miplay_service_timeout_toast">Bağlantı zaman aşımına uğradı. Lütfen daha sonra tekrar deneyin</string>
-    <string name="miplay_song_title_empty">No songs</string>
+    <string name="miplay_song_title_empty">Şarkı yok</string>
+    <string name="miuix_access_state_desc">Seçildi</string>
+    <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
@@ -571,6 +573,8 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
+    <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>

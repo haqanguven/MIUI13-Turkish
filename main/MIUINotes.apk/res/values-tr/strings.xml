@@ -193,7 +193,7 @@
     <string name="date_time_picker_has_not_set_alarm">Alarm kurulu değil</string>
     <string name="date_time_picker_has_set_alarm">Alarm başarıyla kuruldu</string>
     <string name="db_downgrade_clear_button">Uygulama verilerini temizle</string>
-    <string name="db_downgrade_clear_date_reminder">Farklı bir Miui sürümüne geçmek notlar uygulamasının uygulama verilerinin silinmesini gerektirir. Bu işlemi yapmadan önce notlarınızı Xiaomi bulut alanınıza yedeklemiş olduğunuzdan emin olun</string>
+    <string name="db_downgrade_clear_date_reminder">Farklı bir MIUI sürümüne geçmek notlar uygulamasının uygulama verilerinin silinmesini gerektirir. Bu işlemi yapmadan önce notlarınızı Xiaomi bulut alanınıza yedeklemiş olduğunuzdan emin olun</string>
     <string name="default_folder_name">Adsız klasör</string>
     <string name="default_update_documents">Bir güncelleme mevcut. Şimdi güncellensin mi?</string>
     <string name="delete_folder_dialog_tile">Klasörü sil</string>
@@ -1099,6 +1099,7 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="view_all_notes">Tümünü görüntüle</string>
     <string name="warn_cannot_add_new_bullet">Not çok uzun olduğundan yeni madde işaretli liste eklenemiyor</string>
     <string name="warn_cannot_add_new_checkbox">Not çok uzun olduğu için yeni onay kutusu eklenemiyor</string>
+    <string name="warn_cannot_add_new_content">Not çok uzun olduğu için yeni içerik eklenemiyor</string>
     <string name="warn_cannot_add_new_doodle">Not çok uzun olduğu için yeni doodle eklenemiyor</string>
     <string name="warn_cannot_add_new_element">Not çok uzun olduğu için yeni öğe eklenemiyor</string>
     <string name="warn_cannot_add_new_link_card">Not çok uzun olduğu için yeni bağlantı eklenemiyor</string>

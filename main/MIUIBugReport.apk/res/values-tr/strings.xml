@@ -94,7 +94,7 @@
     <string name="catch_full_log_add_photo_dialog_content">Bildirmek istediğiniz sorun kameranın fotoğraf kalitesi ile ilgiliyse sorunu bulmamıza yardımcı olmak için orijinal bir örnek fotoğraf ekleyin. Şimdi fotoğraf eklensin mi?</string>
     <string name="catch_full_log_category">Tarama kategorisi</string>
     <string name="catch_full_log_dialog_confirm_text">Ana ekrana git</string>
-    <string name="catch_full_log_dialog_content">Miui bir kayıt oluşturuyor. Bu durum cihazınızın genel performansını etkileyebilir. Bildirmek istediğiniz sorunu tekrar oluşturamıyorsanız kayıtlara geri gidin ve iptal et seçeneğine dokunun</string>
+    <string name="catch_full_log_dialog_content">MIUI bir kayıt oluşturuyor. Bu durum cihazınızın genel performansını etkileyebilir. Bildirmek istediğiniz sorunu tekrar oluşturamıyorsanız kayıtlara geri gidin ve iptal et seçeneğine dokunun</string>
     <string name="catch_full_log_dialog_title">Günlükler oluşturuluyor</string>
     <string name="catch_full_log_dump_hprof_failed">Gecikme kaydı oluşturulamadı</string>
     <string name="catch_full_log_item_content_catch_direct">"1. Bildirmek istediğiniz özelliğe geri gidin ve tekrarlayın
@@ -268,7 +268,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="err_type_suggestion">Öneriler</string>
     <string name="err_type_system">Sistem</string>
     <string name="err_type_system_summary">Hafıza, performans, vb.</string>
-    <string name="err_type_systemapp">Miui uygulamaları</string>
+    <string name="err_type_systemapp">MIUI uygulamaları</string>
     <string name="err_type_translate">Dil</string>
     <string name="err_type_xiaomi_family">Mi ev</string>
     <string name="err_type_xiaomi_service">Müşteri hizmetleri</string>
@@ -307,7 +307,7 @@ Bu kodu yöneticiye gönderin"</string>
 %1$d. Sorunla hangi uygulamada veya sayfada karşılaştınız?
 %2$d. Hangi işlemleri yaptıktan sonra sorun ortaya çıktı?
 %3$d. Sorunu düzeltmemizde bize yardımcı olabilecek ek bilgiler verin"</string>
-    <string name="feedback_description_hint_suggestion">"Miui'yi nasıl geliştirmek istediğinizi söyleyin"</string>
+    <string name="feedback_description_hint_suggestion">"MIUI'yi nasıl geliştirmek istediğinizi söyleyin"</string>
     <string name="feedback_description_suggest_hint">Yeni () özelliğini eklemenizi istiyorum, çünkü () ihtiyacım var</string>
     <string name="feedback_detail_copy_toast">Panoya kopyalandı</string>
     <string name="feedback_detail_feedback_attach">Eklentiler</string>
@@ -739,7 +739,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="please_agree_protocal">Lütfen protokolü kabul edin</string>
     <string name="pm">ÖS</string>
-    <string name="post_miui_bbs_failed">Miui foruma gönderilemedi</string>
+    <string name="post_miui_bbs_failed">MIUI foruma gönderilemedi</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_category_title">Gizlilik</string>
     <string name="privacy_policy_title">Gizlilik politikası</string>
@@ -831,8 +831,8 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="stop_full_log_dialog_title">Günlükler oluşturuluyor</string>
     <string name="submit_dialog_cancel">Reddet</string>
     <string name="submit_dialog_confirm">Onayla</string>
-    <string name="submit_dialog_content">Geri bildirimi kullanabilmek için <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> kabul etmelisiniz. Bildirdiğiniz sorunlar eklediğiniz öğelerle birlikte Miui sunucularına yüklenir (Cihazınız ve ağ hakkındaki bilgilerle birlikte kişisel bilgileri de içerebilir). Bu da bize sorunu bulmamızda ve çözmemizde yardımcı olacaktır</string>
-    <string name="submit_dialog_content_global">"Geri bildirimleriniz, eklentiler ve kayıtlar da Miui sunucularına ve Miui forum'un geliştiriciler için ayrılan kısıtlanmış bir bölümüne gönderilir. Başlıklarınız ve forum etkinlikleriniz hakkındaki bilgiler de analiz edilmek ve ileride iletişime geçebilmek amacıyla toplanır. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir"</string>
+    <string name="submit_dialog_content">Geri bildirimi kullanabilmek için <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> kabul etmelisiniz. Bildirdiğiniz sorunlar eklediğiniz öğelerle birlikte MIUI sunucularına yüklenir (Cihazınız ve ağ hakkındaki bilgilerle birlikte kişisel bilgileri de içerebilir). Bu da bize sorunu bulmamızda ve çözmemizde yardımcı olacaktır</string>
+    <string name="submit_dialog_content_global">"Geri bildirimleriniz, eklentiler ve kayıtlar da MIUI sunucularına ve MIUI forum'un geliştiriciler için ayrılan kısıtlanmış bir bölümüne gönderilir. Başlıklarınız ve forum etkinlikleriniz hakkındaki bilgiler de analiz edilmek ve ileride iletişime geçebilmek amacıyla toplanır. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir"</string>
     <string name="submit_dialog_content_global_with_contactinfo">&lt;Data>Geri bildiriminiz kayıtlar, telefon numaranız veya e-posta adresiniz, eklerle birlikte (varsa), MIUI sunucularına gönderilecektir. Kayıtlar, kişisel bilgi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek &lt;a href=\"%1$s\">Gizlilik politikamızı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı sözleşmemizi&lt;/a> okuduğunuz ve kabul ettiğiniz anlamına gelir&lt;/Data></string>
     <string name="submit_dialog_not_show_again">Tekrar gösterme</string>
     <string name="submit_dialog_title">Rapor gönder</string>
@@ -909,8 +909,8 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="title_frequent_question_feedback_main">Yardım</string>
     <string name="title_mi_family">Yakınlardaki Mi ev mağazaları</string>
     <string name="title_nonsystem_app">Diğer uygulamalar</string>
-    <string name="title_same_question_feedback_main">"Miui forum'da benzer konular"</string>
-    <string name="title_system_app">Miui uygulamaları</string>
+    <string name="title_same_question_feedback_main">"MIUI forum'da benzer konular"</string>
+    <string name="title_system_app">MIUI uygulamaları</string>
     <string name="title_user_guide">Kullanım kılavuzu</string>
     <string name="toast_app_tag_required">Sorununuzu seçin</string>
     <string name="toast_catch_full_log_catching">Tek seferde yalnızca bir tane kayıt oluşturabilirsiniz</string>

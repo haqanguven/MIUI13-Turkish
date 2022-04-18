@@ -658,7 +658,7 @@ aç"</string>
     <string name="share_button">Paylaş</string>
     <string name="share_menu_title">Paylaş</string>
     <string name="share_subject">Paylaş</string>
-    <string name="share_weather_desc">\#Miui hava durumu#Bugün %1$s %2$s</string>
+    <string name="share_weather_desc">\#MIUI hava durumu#Bugün %1$s %2$s</string>
     <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Ekran görüntüsü alınamadı</string>

@@ -128,8 +128,10 @@
     <string name="button_sure_abandon">Değişiklikler yoksayılsın mı?</string>
     <string name="card_item_ad_permission_text_view">Yetki</string>
     <string name="card_item_ad_policy_text_view">Gizlilik</string>
+    <string name="card_item_ad_popular">Popüler</string>
     <string name="card_item_ad_text">Reklam</string>
     <string name="card_item_ad_version_text_view">Sürüm:</string>
+    <string name="card_item_download_recommend">Önerilen</string>
     <string name="card_vote_item_vs">-</string>
     <string name="change_alert">Ağ bağlantınızı kontrol edin ve yeniden deneyin</string>
     <string name="china_version_first_start_network_msg">"Hava durumu uygulamasını kullanabilmek için Xiaomi'nin %1$s ve %2$s sözleşmelerini kabul etmeniz gerekmektedir. Hava durumu uygulamasının normal olarak çalışabilmesi için konumunuza erişmesi ve internete bağlanması gerekmektedir. Kabul edilsin mi?"</string>

@@ -1023,7 +1023,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="sync_dspt_entrance_provision_confirm_content">"MIUI ile birlikte gelen yerleşik uygulamalar fotoğraflarınızı, kişilerinizi, notlarınızı ve daha fazlasını yedeklemek için Xiaomi bulut'a ihtiyaç duymaktadır. Xiaomi bulut ücretsiz ve kullanıma hazır durumdadır"</string>
     <string name="sync_dspt_entrance_provision_confirm_content_pad">Fotoğraflarınızı, mesajlarınızı, notlarınızı ve daha fazlasını yedeklemek için Xiaomi bulutu kullanabilirsiniz. Xiaomi bulut kutudan çıktığı haliyle ücretsiz ve kullanıma hazırdır</string>
     <string name="sync_dspt_entrance_provision_confirm_content_v2">"MIUI ile birlikte gelen yerleşik uygulamalar fotoğraflarınızı, kişilerinizi, notlarınızı ve daha fazlasını yedeklemek için Xiaomi bulut'a ihtiyaç duymaktadır. Xiaomi bulut ücretsiz ve kullanıma hazır durumdadır"</string>
-    <string name="sync_dspt_entrance_provision_confirm_open">Xiaomi bulut kullan</string>
+    <string name="sync_dspt_entrance_provision_confirm_open">Kullan</string>
     <string name="sync_dspt_entrance_provision_confirm_title">Xiaomi bulutu kullanmıyor musunuz?</string>
     <string name="sync_dspt_entrance_provision_network">"Bu uygulamanın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Senkronizasyon işlemi mobil veri bağlantısı veya wifi'nin açılmasını gerektirebilir"</string>
     <string name="sync_dspt_entrance_provision_network_china">Bu uygulamanın normal olarak çalışabilmesi için internete bağlanması gerekmektedir. Senkronizasyon işlemi mobil veri bağlantısı veya wifi ağının açılmasını gerektirebilir</string>

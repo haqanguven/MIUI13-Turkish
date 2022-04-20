@@ -2611,9 +2611,9 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="disconnected">Bağlı değil</string>
     <string name="display_advanced_mode_summary">Renk gamı seçenekleri</string>
     <string name="display_advanced_mode_title">Gelişmiş ayarlar</string>
-    <string name="display_animate_category">Animasyonlu efektler</string>
-    <string name="display_animate_content">Cihazın kilidi açılırken görüntülenen animasyonlu efektleri azaltın</string>
-    <string name="display_animate_title">Animasyonları azalt</string>
+    <string name="display_animate_category">Animasyon efektleri</string>
+    <string name="display_animate_content">Cihaz kilidi açılırken görüntülenen animasyon efektini azaltabilirsiniz</string>
+    <string name="display_animate_title">Kilit açma animasyonu</string>
     <string name="display_auto_rotate_rotate">Açık</string>
     <string name="display_auto_rotate_stay_in_current">Kapalı</string>
     <string name="display_auto_rotate_stay_in_landscape">Manzara modunda kilitle</string>

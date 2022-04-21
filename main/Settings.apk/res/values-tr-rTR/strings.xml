@@ -4841,7 +4841,7 @@ Ek ayarlara erişmeye devam edin"</string>
     <string name="miui_sos_remind_open">Acil durum araması düzgün çalışabilmek için en az 1 kişinin eklenmesine ihtiyaç duyar</string>
     <string name="miui_sos_remind_sendinfo">Acil durumlarda ulaşılacaklar listesine eklediğiniz kişilere bundan bahsetmeyi unutmayın. Böylece acil durum sırasında size daha hızlı yardımcı olabilirler</string>
     <string name="miui_sos_remind_sendnow">Şimdi gönder</string>
-    <string name="miui_sos_remind_sendnow_donot_send">Gönderilemedi</string>
+    <string name="miui_sos_remind_sendnow_donot_send">Gönderme</string>
     <string name="miui_sos_remind_title">Uyarı</string>
     <string name="miui_sos_settings_alert_contacts_repeat">Çoklu kişiler eklenemez</string>
     <string name="miui_sos_settings_alert_contacts_too_many">3 adet acil durumlarda aranacak kişi ekleyebilirsiniz</string>
@@ -7357,7 +7357,7 @@ Hizmetlerimizi kullanmadan önce %s sayfamızı okuyun ve kabul edin"</string>
     <string name="sos_privacy_policy_no_net_button">Tamam</string>
     <string name="sos_privacy_policy_no_net_message">Onayınızı geri çekebilmeniz için cihazınızın ağa bağlanması gerekir. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="sos_privacy_policy_no_net_title">Ağa bağlanılamadı</string>
-    <string name="sos_privacy_policy_revoke">İznin geri alınması</string>
+    <string name="sos_privacy_policy_revoke">İzni geri al</string>
     <string name="sos_privacy_policy_revoke_message_reject">"Devam ederseniz acil durum aramasının gizlilik politikasına verdiğiniz onayı geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir
 
 Acil durum araması hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan onayınızı geri çekmeniz güvenlik hizmetlerini kabul etmeyi reddetme olarak değerlendirilecektir

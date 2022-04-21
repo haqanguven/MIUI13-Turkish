@@ -1054,7 +1054,7 @@
     <string name="create_new_face">Yeni kişi</string>
     <string name="create_quick_icon_on_desk">Kısayol oluştur</string>
     <string name="creating_baby_album">Albüm oluşturuluyor</string>
-    <string name="creativity_summary">Ek yaratıcılık ve düzenleme özellikleri göster</string>
+    <string name="creativity_summary">Ek yaratıcılık ve düzenleme özellikleri gösterir</string>
     <string name="creativity_title">Yaratıcılık</string>
     <string name="crop_label">Kesilen fotoğraflar</string>
     <string name="cta_agreement_declare">Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için bu uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
@@ -2502,7 +2502,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="privacy_cloud_confirm_detail_positive">Kabul et</string>
     <string name="privacy_cloud_confirm_rejected">Bu hesap için Xiaomi bulutun gizlilik politikasına ilişkin onay geri çekildi. Farklı bir hesap kullanmayı deneyin</string>
     <string name="privacy_detail">Gizlilik politikası</string>
-    <string name="privacy_detail_map">Galeri haritası gizlilik politikasını görüntüle</string>
+    <string name="privacy_detail_map">Galeri haritası gizlilik politikası</string>
     <string name="privacy_entrance">Gizlilik</string>
     <string name="privacy_map">Galeri haritası</string>
     <string name="privacy_map_detail">Bu hizmet bir harita üzerinde konum bilgisine sahip fotoğrafları ve videoları görüntülemenizi sağlar. Size bu hizmeti sağlamak için Baidu harita SDK kullanıyoruz. <a href="%1$s">Açık platform ürünleri ve hizmetleri için Baidu haritası gizlilik politikasını</a> okuyun ve kabul edin</string>

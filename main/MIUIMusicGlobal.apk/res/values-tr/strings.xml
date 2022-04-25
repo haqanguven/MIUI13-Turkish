@@ -447,6 +447,7 @@
     <string name="download_while_playing_title">Akış esnasında indir</string>
     <string name="downloaded">İndirildi</string>
     <string name="downloaded_empty">Boş</string>
+    <string name="downloading">Yükleniyor</string>
     <string name="downloading_apk">İndiriliyor. İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz</string>
     <string name="downloading_empty">Boş</string>
     <string name="downloading_pause_apk">Duraklatıldı. İndirmeye bildirim çubuğunda devam edebilirsiniz</string>
@@ -474,6 +475,7 @@
     <string name="empty_page_no_artist">Sanatçı yok</string>
     <string name="enabled">Etkin</string>
     <string name="enjoy_hungama_pro">"Hungama Pro'nun keyfini çıkarın"</string>
+    <string name="enroll_in">Kaydol</string>
     <string name="enter_garbage_clean">Dahili depolama alanını temizleyin</string>
     <string name="eq_auto">Özel</string>
     <string name="eq_blues">Blues</string>
@@ -664,6 +666,8 @@
     <string name="google_storage_bucket">mi-music-global.appspot.com</string>
     <string name="goto_local_search">Cihazda ara</string>
     <string name="goto_online_search">Çevrimiçi ara</string>
+    <string name="gps_prompt_context">Mobil ağ ile mi indiriyorsunuz?</string>
+    <string name="gps_prompt_title">İpuçları</string>
     <string name="handle_later">Şimdi değil</string>
     <string name="hd_quality_audio">HD kaliteli ses</string>
     <string name="headset_and_audio_effect_category">Kulaklıklar &amp; ses efektleri</string>
@@ -959,6 +963,7 @@
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
     <string name="monday_shortest">P</string>
+    <string name="monitor_app_name">zeus-monitor-crash</string>
     <string name="month_april">Nisan</string>
     <string name="month_april_short">Nisan</string>
     <string name="month_april_shortest">N</string>
@@ -1155,6 +1160,7 @@
     <string name="operation_done_close">Kapat</string>
     <string name="other_song_in_album">Aynı albümdeki diğer şarkılar</string>
     <string name="partner_id">3041</string>
+    <string name="party">Parti</string>
     <string name="password_toggle_content_description">Şifreyi göster</string>
     <string name="path_password_eye">M12,4.5C7,4.5 2.73,7.61 1,12c1.73,4.39 6,7.5 11,7.5s9.27,-3.11 11,-7.5c-1.73,-4.39 -6,-7.5 -11,-7.5zM12,17c-2.76,0 -5,-2.24 -5,-5s2.24,-5 5,-5 5,2.24 5,5 -2.24,5 -5,5zM12,9c-1.66,0 -3,1.34 -3,3s1.34,3 3,3 3,-1.34 3,-3 -1.34,-3 -3,-3z</string>
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>

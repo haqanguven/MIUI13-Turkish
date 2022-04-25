@@ -4736,7 +4736,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="special_perm_follow_msg">Uygulamaların cihaz kullanımını izlemesine izin verin</string>
     <string name="special_perm_follow_title">Cihaz kullanımını takip edin</string>
     <string name="special_perm_install_msg">Uygulamaların bilinmeyen kaynaklardan uygulama yüklemesine izin verin</string>
-    <string name="special_perm_install_title">Bilinmeyen kaynaklardan gelen uygulamaları yükleyin</string>
+    <string name="special_perm_install_title">Bilinmeyen kaynaklardan gelen uygulamaları yüklemek</string>
     <string name="special_perm_intercept_action_msg">Cihazınızı nasıl kullandığınızı ve eylemlerinizi otomatik olanlarla nasıl değiştireceğinizi öğrenin</string>
     <string name="special_perm_intercept_action_title">Davranışınızı öğrenin ve eylemleri otomatikleştirin</string>
     <string name="special_perm_intercept_allow">Tamam (%d)</string>

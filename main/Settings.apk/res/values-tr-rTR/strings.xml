@@ -1151,7 +1151,7 @@ Daha önce %2$s ile bağlantı kurmadınız"</string>
     <string name="bluetooth_devices">Bluetooth cihazlar</string>
     <string name="bluetooth_devices_card_off_summary">Açmak için dokunun</string>
     <string name="bluetooth_devices_card_off_title">Bluetooth kapalı</string>
-    <string name="bluetooth_disable_a2dp_hw_offload">Bluetooth A2DP donanım yükünü devre dışı bırak</string>
+    <string name="bluetooth_disable_a2dp_hw_offload">A2DP donanımını devre dışı bırak</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_cancel">İptal et</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_confirm">Yeniden başlat</string>
     <string name="bluetooth_disable_a2dp_hw_offload_dialog_message">Bu ayarı değiştirmek için cihazınızı yeniden başlatın</string>
@@ -1186,7 +1186,7 @@ Daha önce %2$s ile bağlantı kurmadınız"</string>
     <string name="bluetooth_enable_alphanumeric_pin">Pin, harfler veya simgeler içerir</string>
     <string name="bluetooth_enable_gabeldorsche">"Gabeldorsche'yi etkileştir"</string>
     <string name="bluetooth_enable_gabeldorsche_summary">Bluetooth Gabeldorsche özellik yığınını etkinleştirir</string>
-    <string name="bluetooth_enable_page_scan">Bluetooth sayfa taramasını etkinleştir</string>
+    <string name="bluetooth_enable_page_scan">Bluetooth sayfa taraması</string>
     <string name="bluetooth_enable_page_scan_summary">Bluetooth testi için sayfa taramayı devre dışı bırak veya etkinleştir</string>
     <string name="bluetooth_enter_passkey_msg">Eşleme kodunu yazın ve sonra Return veya Enter tuşuna basın</string>
     <string name="bluetooth_enter_passkey_other_device">Bu şifreyi diğer cihazda da girmeniz gerekebilir</string>
@@ -2142,7 +2142,7 @@ Telefonunuz kullanmaya devam edebilmek için fabrika ayarlarına sıfırlama iş
     <string name="current_password">Geçerli ekran kilidi</string>
     <string name="current_screen_lock">Geçerli ekran kilidi</string>
     <string name="current_use_default_wallet">Otomatik olarak seçildi</string>
-    <string name="current_use_ese">Gömülü güvenli elemanı kullan</string>
+    <string name="current_use_ese">Gömülü güvenli öğeyi kullanın</string>
     <string name="current_use_ese_wallet">Mi cüzdan kullanıyorsunuz. Mi cüzdan, Mi Pay ve Nfc toplu taşıma kartı özelliklerini kullanmanıza olanak sağlar</string>
     <string name="current_use_hce_wallet">HCE cüzdan kullanıyorsunuz</string>
     <string name="current_use_uicc_se">Sim karttan güvenli bir öğe kullan</string>
@@ -2762,14 +2762,14 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="dual_clock_open_message">Çift saat, kilit ekranı ve ana ekranda gösterilir</string>
     <string name="dual_setting_simcard1">Sim 1</string>
     <string name="dual_setting_simcard2">Sim 2</string>
-    <string name="dual_wifi">Çift bant wifi hız artırma</string>
+    <string name="dual_wifi">Çift bant ile wifi hızını arttır</string>
     <string name="dual_wifi_acceleration">Hız artırma</string>
     <string name="dual_wifi_auto_disable">Otomatik hız artırmayı durdur</string>
-    <string name="dual_wifi_auto_disable_summary">Güç tasarrufu için ekran kapalıyken, yardımcı wifi ağlarının bağlantısını kesin</string>
+    <string name="dual_wifi_auto_disable_summary">Güç tasarrufu için ekran kapalıyken yardımcı wifi ağlarının bağlantısını kesin</string>
     <string name="dual_wifi_avaliable_slave_wifi">Mevcut yardımcı ağlar</string>
     <string name="dual_wifi_avaliable_slave_wifi_24G">Mevcut yardımcı ağlar (2.4G bant)</string>
     <string name="dual_wifi_avaliable_slave_wifi_5G">Mevcut yardımcı ağlar (5G bant)</string>
-    <string name="dual_wifi_enabler_summary">Ağları birleştirerek wifi hızını artırın</string>
+    <string name="dual_wifi_enabler_summary">Ağları birleştirerek wifi hızını arttırın</string>
     <string name="dual_wifi_off">Kapalı</string>
     <string name="dual_wifi_on">Açık</string>
     <string name="dual_wifi_primary_wifi_connected">Ana wifi ağı</string>
@@ -2777,7 +2777,7 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="dual_wifi_summary">Yardımcı ağlara bağlanarak wifi hızını artırın</string>
     <string name="dual_wifi_switching_not_remind">Tekrar gösterme</string>
     <string name="dual_wifi_switching_prompt">Ağlar arasında geçiş yapılıyor</string>
-    <string name="dual_wifi_switching_summary">Çift bant wifi hız artışı için iki farklı wifi bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız, yardımcı bağlantı kaybolur</string>
+    <string name="dual_wifi_switching_summary">Çift bant ile wifi hız artışı için iki farklı wifi bantı kullanmak gerekir. Farklı bir ana ağa bağlanırsanız yardımcı bağlantı kaybolur</string>
     <string name="dump_log">Sorunla alakalı kayıtları al</string>
     <string name="dump_log_summary">"Bu özellik MIUI'nin Alfa ve Beta sürümlerinde 284 kayıt oluşturmak üzere tasarlandı. Kullanırken dikkatli olunuz
 Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
@@ -3465,14 +3465,14 @@ Otomatik yedeklemeyi açtığınızda cihaz ve uygulama verileri periyodik olara
     <string name="got_it">Anladım</string>
     <string name="gps_description">Birden fazla uydu navigasyon sistemi desteklenir (GPS, BeiDou, GLONASS, Galileo)</string>
     <string name="gps_description_global">Xiaomi cihazları GPS, NavIC, BeiDou, GLONASS ve Galileo gibi çoklu navigasyon sistemleriyle uyumludur</string>
-    <string name="graphics_driver_all_apps_preference_title">Tüm uygulamalar için etkinleştir</string>
+    <string name="graphics_driver_all_apps_preference_title">Tüm uygulamalar</string>
     <string name="graphics_driver_app_preference_default">Varsayılan</string>
     <string name="graphics_driver_app_preference_game_driver">Oyun sürücüsü</string>
     <string name="graphics_driver_app_preference_prerelease_driver">Geliştirici sürücüsü</string>
     <string name="graphics_driver_app_preference_system">Sistem grafik sürücüsü</string>
     <string name="graphics_driver_app_preference_title">Grafik sürücüsünü seçin</string>
-    <string name="graphics_driver_dashboard_summary">Grafik sürücüsü ayarlarını değiştirin</string>
-    <string name="graphics_driver_dashboard_title">Grafik sürücüsü tercihleri</string>
+    <string name="graphics_driver_dashboard_summary">Grafik sürücü ayarlarını değiştirin</string>
+    <string name="graphics_driver_dashboard_title">Grafik sürücü tercihleri</string>
     <string name="graphics_driver_footer_text">Birden çok grafik sürücüsü olduğunda cihazda yüklü Uygulamalar için güncellenmiş grafik sürücüsünü kullanmayı seçebilirsiniz</string>
     <string name="gsm_to_wifi_connect_type_title">"GSM'den wifi'ye"</string>
     <string name="gsm_umts_network_preferences_dialogtitle">Ağ modu</string>
@@ -5221,7 +5221,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="nfc_payment_settings_title">Dokundur ve öde</string>
     <string name="nfc_payment_update_default_label">Varsayılan ödeme uygulamasını güncelle</string>
     <string name="nfc_payment_use_default">Varsayılanı kullan</string>
-    <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin ver</string>
+    <string name="nfc_quick_toggle_summary">Telefon başka cihaza dokunduğunda veri alışverişine izin verir</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_repair_action_btn">Geri yükle</string>
     <string name="nfc_repair_action_desc">NFC özelliklerini kullanmanızı engelleyen sorunları düzeltmek için geri yükle öğesine dokunun. NFC işlevi geri yüklenirken geçerli sayfadan ayrılmayın. Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
@@ -5552,7 +5552,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="overlay_display_devices_title">İkincil ekranları simule et</string>
     <string name="overlay_option_device_default">Cihaz varsayılanı</string>
     <string name="overlay_settings">Diğer uygulama üzerinde göster</string>
-    <string name="overlay_settings_summary">Diğer uygulamalar üzerinden görüntülenebilen uygulamaların ayarlarda ekran kaplamasına izin ver</string>
+    <string name="overlay_settings_summary">Diğer uygulamalar üzerinden görüntülenebilen uygulamaların ayarlarda ekran kaplamasına izin verir</string>
     <string name="overlay_settings_title">Ayarlarda ekran kaplamaları</string>
     <string name="overlay_toast_failed_to_apply">Yer paylaşımı uygulanamadı</string>
     <string name="owner_info_settings_edit_text_hint">"Örneğin: Hakan'ın telefonu"</string>
@@ -8316,7 +8316,7 @@ Bu özelliği kapatmak cihazınızın sistem güncellemeleri ve güvenlik gibi t
     <string name="usagestats_device_timeout_title">Ekran süresi uyarısı</string>
     <string name="usb_adb_input">USB hata ayıklama (Güvenlik ayarları)</string>
     <string name="usb_adb_input_desc">İzin sağlama ve USB hata ayıklama modunda simüle etme izni verin</string>
-    <string name="usb_audio_disable_routing">USB ses yönlendirmeyi devre dışı bırak</string>
+    <string name="usb_audio_disable_routing">USB ses yönlendirmesi</string>
     <string name="usb_audio_disable_routing_summary">USB ses çevre birimlerine otomatik yönlendirmeyi devre dışı bırakır</string>
     <string name="usb_charging_summary">Şarj işlemini hızlandırmak için diğer USB bağlantı özelliklerinin tamamını kapatın</string>
     <string name="usb_charging_title">Şarj işlemini hızlandır</string>
@@ -9461,7 +9461,7 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="xiaomi_cloud_service_unknown">Bilinmeyen</string>
     <string name="xiaomi_custom_input_method">Xiaomi için özelleştirildi</string>
     <string name="xiaomi_hp_location">Kesin konum erişimi</string>
-    <string name="xiaomi_hp_location_description">Kesin konum bilgileri doğru navigasyona izin verir</string>
+    <string name="xiaomi_hp_location_description">Kesin konum bilgileri navigasyona doğru olarak izin verir</string>
     <string name="xiaomi_lanting_title">Mi Lanting Pro</string>
     <string name="xiaomi_money_service">Mi kredi</string>
     <string name="xiaomi_router_available_notif_summary">Daha fazla bilgi için dokunun</string>

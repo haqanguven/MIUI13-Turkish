@@ -58,7 +58,7 @@
     <string name="ac_set_apps_title">Kilitlenecek uygulamaları seçin</string>
     <string name="accelerometer_summary_off">Telefonu döndürürken yönü otomatik değiştir</string>
     <string name="accelerometer_summary_on">Telefonu döndürürken yönü otomatik değiştir</string>
-    <string name="accelerometer_title">Ekranı otomatik döndür</string>
+    <string name="accelerometer_title">Otomatik ekranı döndürme</string>
     <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
     <string name="access_control_app_entry_single">Uygulama aç</string>
     <string name="access_control_need_password">"%s korunuyor
@@ -6618,7 +6618,7 @@ Uygulama sabitlemeyi kullanmak için:
     <string name="se_wallet_uicc">Sim %1$s cüzdanı</string>
     <string name="se_wallet_uicc_jp">Sim %1$s cüzdanı (Otomatik olarak seçilemez)</string>
     <string name="search_about_settings">Telefon hakkında;Model numarası;Android sürümü;MIUI sürümü;CPU;Ram;Dahili depolama;Ana bant sürümü;Çekirdek sürümü;Derleme numarası;Cihazım;Telefon;Cihaz</string>
-    <string name="search_accelerometer_title">Ekranı otomatik döndür;Ekranı döndür;Oryantasyon;Portre;Manzara</string>
+    <string name="search_accelerometer_title">Otomatik ekranı döndürme ;Otomatik ekran;Oryantasyon;Portre;Manzara</string>
     <string name="search_access_control">Gizlilik ayarları;Güvenlik Gizlilik;Ziyaretçi;Ziyaretçi modu</string>
     <string name="search_accessibility_captioning_title">Altyazılar</string>
     <string name="search_accessibility_display_daltonizer_preference_title">Renk düzeltme;Renk;Renkler</string>

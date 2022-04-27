@@ -2613,7 +2613,7 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="display_advanced_mode_title">Gelişmiş ayarlar</string>
     <string name="display_animate_category">Animasyon efektleri</string>
     <string name="display_animate_content">Cihaz kilidi açılırken görüntülenen animasyon efektini azaltabilirsiniz</string>
-    <string name="display_animate_title">Kilit açma animasyonu</string>
+    <string name="display_animate_title">Kilit açma animasyonunu kapat</string>
     <string name="display_auto_rotate_rotate">Açık</string>
     <string name="display_auto_rotate_stay_in_current">Kapalı</string>
     <string name="display_auto_rotate_stay_in_landscape">Manzara modunda kilitle</string>
@@ -2632,9 +2632,9 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="display_settings_title">Ekran</string>
     <string name="display_summary">%1$s süreyle işlem yapılmadığında uyku moduna geç</string>
     <string name="display_summary_example">10 dakika işlem yapılmadığında uyku moduna geç</string>
-    <string name="display_vr_pref_low_persistence">Bulanıklığı azalt (Önerilir)</string>
+    <string name="display_vr_pref_low_persistence">Bulanıklığı azalt (Önerilen)</string>
     <string name="display_vr_pref_off">Titremeyi azalt</string>
-    <string name="display_vr_pref_title">Cihaz VR modundayken</string>
+    <string name="display_vr_pref_title">Sanal gerçekçilik modu</string>
     <string name="display_white_balance_title">Beyaz dengeyi göster</string>
     <string name="diy_suppression_summary">Yanlışlıkla dokunmanın yok sayılacağı kenarlara yakın alanın boyutunu ayarlayın</string>
     <string name="diy_suppression_title">Özel</string>
@@ -5301,7 +5301,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="no_updates_found">"MIUI'nin en güncel sürümünü kullanıyorsunuz"</string>
     <string name="no_updates_warning">Sisteminiz güncel durumda</string>
     <string name="no_updates_warning2">Kullanılabilir bir güncelleme olduğunda sizi bilgilendireceğiz</string>
-    <string name="no_vr_listeners">Yüklü hiçbir uygulamanın VR yardımcı hizmetleri olarak çalışması istenmedi</string>
+    <string name="no_vr_listeners">Yüklü hiçbir uygulamanın sanal gerçekçilik yardımcı hizmetleri olarak çalışması istenmedi</string>
     <string name="noise_suppression">Çevre gürültü engelleme</string>
     <string name="none">Hiçbiri</string>
     <string name="noon">Öğlen</string>
@@ -8697,8 +8697,8 @@ Sesli arama sırasında interneti kullanamazsınız ve bazı uygulamalar çalı�
     <string name="vpn_username">Kullanıcı adı</string>
     <string name="vpn_version">Sürüm %s</string>
     <string name="vr_listener_security_warning_summary">Uygulamaları sanal gerçeklik modunda kullandığınızda %1$s çalışabilir</string>
-    <string name="vr_listener_security_warning_title">%1$s için VR hizmetine erişim izni verilsin mi?</string>
-    <string name="vr_listeners_title">VR yardımcı hizmetleri</string>
+    <string name="vr_listener_security_warning_title">%1$s için sanal gerçekçilik hizmetine erişim izni verilsin mi?</string>
+    <string name="vr_listeners_title">Sanal gerçekçilik yardımcı hizmetleri</string>
     <string name="wait_for_debugger">Hata ayıklayıcıyı bekle</string>
     <string name="wait_for_debugger_summary">Hata ayıklanan uygulama çalıştırmadan önce ekleme için hata ayıklayıcıyı bekler</string>
     <string name="wake_suppression_summary">Cihazınız yanlışlıkla dokunmaya daha duyarlı olacak, fakat kenarlardaki çoğu hareket kontrolüne de tepki verir</string>

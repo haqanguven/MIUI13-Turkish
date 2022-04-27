@@ -626,7 +626,7 @@
     <string name="menu_default_screen_preview">Varsayılan ekranı ayarla</string>
     <string name="menu_edit">Ana ekranı düzenle</string>
     <string name="menu_exit_scene">Mi alandan çık</string>
-    <string name="menu_finish">Tamamlandı</string>
+    <string name="menu_finish">Tamam</string>
     <string name="menu_item_add_item">Ana ekrana ekle</string>
     <string name="menu_launcher_setting">Başlatıcı ayarları</string>
     <string name="menu_lock">Ana ekran düzenini kilitle</string>

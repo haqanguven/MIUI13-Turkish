@@ -94,6 +94,7 @@
     <string name="all_apps_slide_up_tips">Yukarı doğru kaydırmak uygulama çekmecesi için ayrılmıştır. Normal ana ekran moduna geçin ve tekrar deneyin</string>
     <string name="all_apps_suggestions">Uygulama tavsiyeleri</string>
     <string name="am">ÖÖ</string>
+    <string name="animation_rate_title">Animasyon hızı</string>
     <string name="announce_for_app_move_in_folder">Klasör içinde %1$d konumuna taşındı</string>
     <string name="announce_for_checked">%1$s, kontrol edildi</string>
     <string name="announce_for_choose_default_screen">%1$d numaralı ekranı varsayılan ana ekran olarak ayarla</string>
@@ -569,6 +570,7 @@
     <string name="home_switch_personal_assistant">Uygulama kasası</string>
     <string name="icon_customize_summary">Simge boyutunu ve stillerini ayarlayın</string>
     <string name="icon_form">Simge boyutu ve stilleri</string>
+    <string name="icon_message_max_digit">999+</string>
     <string name="icon_reorganize_channel">Simgeleri düzenle</string>
     <string name="icon_size">Simge boyutu</string>
     <string name="icon_style">Stiller</string>

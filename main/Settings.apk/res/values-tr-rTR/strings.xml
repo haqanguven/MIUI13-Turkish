@@ -785,7 +785,7 @@ En son %2$s tarihinde çalıştırıldı"</string>
     <string name="automatic_storage_manager_preference_title">Depolama yöneticisi</string>
     <string name="automatic_storage_manager_settings">Depolama alanını yönet</string>
     <string name="automatic_storage_manager_text">Depolama alanında yer açmaya yardımcı olmak için depolama yöneticisi, yedeklenen fotoğrafları ve videoları cihazınızdan kaldırır</string>
-    <string name="automatic_system_heap_dump_summary">Android Sistemi çok fazla bellek kullandığında otomatik olarak bir bellek yığını dökümü yakalayın</string>
+    <string name="automatic_system_heap_dump_summary">Android sistemi çok fazla bellek kullandığında otomatik olarak bir bellek yığını dökümü yakalayın</string>
     <string name="automatic_system_heap_dump_title">Sistem bellek yığını dökümlerini otomatik olarak yakala</string>
     <string name="available_size">Kullanılabilir: %s</string>
     <string name="available_via_app">%1$s ile kullanılabilir</string>
@@ -1534,8 +1534,8 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_lhdc_property">Özellikler</string>
     <string name="bt_pre_summary">Yüksek kaliteli ses deneyimi sağlar</string>
     <string name="bt_rarely_used_device_title">Nadir kullanılan cihazlar (%d)</string>
-    <string name="bt_show_notification_summary">Bildirim alanında kalıcı bir bildirim gösterir</string>
-    <string name="bt_show_notification_title">Bluetooth bağlantıları hakkında bilgilendir</string>
+    <string name="bt_show_notification_summary">Bildirim alanında kalıcı bildirim gösterir</string>
+    <string name="bt_show_notification_title">Bluetooth bildirimleri</string>
     <string name="bt_trace_log">Bluetooth izleme günlüğü</string>
     <string name="bt_trace_log_summary">Bluetooth izleme günlüğü</string>
     <string name="btn_back">Geri</string>
@@ -4641,7 +4641,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="mi_shopping_mall">Mi mağaza</string>
     <string name="mi_transfer">Aktarma</string>
     <string name="mi_upi_settings">Mi cüzdan hesabı</string>
-    <string name="micloud_service_summary">Uygulama listesini, sistem ayarlarını yedekle ve ana ekran düzenini senkronize et</string>
+    <string name="micloud_service_summary">Uygulama listesini, sistem ayarlarını yedekle ve ana ekran düzenini senkronize edin</string>
     <string name="micloud_service_summary_temp">Fotoğrafları, videoları, kişileri ve daha fazlasını senkronize edin</string>
     <string name="micloud_service_title">Xiaomi bulut</string>
     <string name="middle_function_key">Orta alan</string>

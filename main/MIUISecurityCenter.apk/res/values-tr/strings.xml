@@ -1241,7 +1241,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="copy">Kopyala</string>
     <string name="cpu_usage_android_system">Android sistemi</string>
     <string name="cpu_usage_process_run_time_little_time">1 dakikadan az</string>
-    <string name="cpu_usage_process_run_time_little_time_new">Less than %d minute</string>
+    <string name="cpu_usage_process_run_time_little_time_new">%d dakikadan az</string>
     <string name="cpu_usage_view_action_btn_text">Görüntüle</string>
     <string name="create_gamebooster_destop">Ana ekran kısayolu başarıyla oluşturuldu</string>
     <string name="create_shortcut">Oyun hız arttırıcı için Ana ekran kısayolu oluştur</string>

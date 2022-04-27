@@ -2634,7 +2634,7 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="display_summary_example">10 dakika işlem yapılmadığında uyku moduna geç</string>
     <string name="display_vr_pref_low_persistence">Bulanıklığı azalt (Önerilen)</string>
     <string name="display_vr_pref_off">Titremeyi azalt</string>
-    <string name="display_vr_pref_title">Sanal gerçekçilik modu</string>
+    <string name="display_vr_pref_title">Sanal gerçekçilik hizmeti</string>
     <string name="display_white_balance_title">Beyaz dengeyi göster</string>
     <string name="diy_suppression_summary">Yanlışlıkla dokunmanın yok sayılacağı kenarlara yakın alanın boyutunu ayarlayın</string>
     <string name="diy_suppression_title">Özel</string>

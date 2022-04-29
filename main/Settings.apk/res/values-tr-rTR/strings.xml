@@ -58,7 +58,7 @@
     <string name="ac_set_apps_title">Kilitlenecek uygulamaları seçin</string>
     <string name="accelerometer_summary_off">Telefonu döndürürken yönü otomatik değiştir</string>
     <string name="accelerometer_summary_on">Telefonu döndürürken yönü otomatik değiştir</string>
-    <string name="accelerometer_title">Otomatik ekranı döndürme</string>
+    <string name="accelerometer_title">Ekranı otomatik döndür</string>
     <string name="access_control_app_entry_multiple">%s uygulamasını aç</string>
     <string name="access_control_app_entry_single">Uygulama aç</string>
     <string name="access_control_need_password">"%s korunuyor
@@ -2480,6 +2480,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="device_info_default">Bilinmiyor</string>
     <string name="device_info_not_available">Uygun değil</string>
     <string name="device_internal_memory">Dahili depolama</string>
+    <string name="device_mall_card_title">Teklifler ve bildirimler</string>
     <string name="device_memory">Ram</string>
     <string name="device_miui_more">Daha fazla görüntüle</string>
     <string name="device_miui_version">MIUI sürümü</string>

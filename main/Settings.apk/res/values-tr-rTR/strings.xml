@@ -3301,7 +3301,7 @@ Yüzle kilit açma, Pin, şifre veya desenden daha az güvenlidir. Cihazınızı
     <string name="font_setting_weight_toast">Mevcut yazı tipi desteklemiyor</string>
     <string name="font_settings_jump">Erişilebilirlik > Ekran boyutu</string>
     <string name="font_settings_recommend_title">Metin boyutu yeterince büyük değil mi?</string>
-    <string name="font_settings_summary_cn">Yazı tipleri ve metin boyutu</string>
+    <string name="font_settings_summary_cn">Yazı tipini ve metin boyutunu ayarlayın</string>
     <string name="font_size_exhuge">Ekstra büyük</string>
     <string name="font_size_huge">Çok büyük</string>
     <string name="font_size_kddi">Orta</string>
@@ -4985,7 +4985,7 @@ Cihazınızı yeniden başlatın ve tekrar deneyin"</string>
     <string name="more">Daha fazla</string>
     <string name="more_account_settings_title">Diğer hesaplar</string>
     <string name="more_dangerous_option_hint">%1$s dahil yüksek riskli özellikler etkinleştirildi. Ayarları değiştirmek için dokunun</string>
-    <string name="more_dark_mode_settings">Daha fazla seçenek</string>
+    <string name="more_dark_mode_settings">Diğer seçenekler</string>
     <string name="more_installed_services_title">Daha fazla indirme hizmeti</string>
     <string name="morning">Sabah</string>
     <string name="move_app">Taşı</string>
@@ -7971,7 +7971,7 @@ Google'nin kişilerinize, randevularınıza ve diğer bilgilerinize istediğiniz
     <string name="title_font2">Yazı tipi</string>
     <string name="title_font_current">Sistem yazı tipi</string>
     <string name="title_font_current2">Sistem yazı tipi</string>
-    <string name="title_font_settings">Yazı tipi ayarları</string>
+    <string name="title_font_settings">Yazı tipi ve metin boyutu</string>
     <string name="title_font_size">Yazı tipi boyutu</string>
     <string name="title_hdmi_color_calibration">Renk düzeltme ön ayarları</string>
     <string name="title_layout_current">Metin boyutu</string>

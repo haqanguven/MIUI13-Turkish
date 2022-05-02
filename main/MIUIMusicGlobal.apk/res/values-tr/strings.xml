@@ -127,7 +127,7 @@
     <string name="audio_picker_title">Bir şarkı seçin</string>
     <string name="auto_recommend">Otomatik (Önerilir)</string>
     <string name="auto_sound_quality">Otomatik</string>
-    <string name="auto_update">Otomatik olarak güncelle</string>
+    <string name="auto_update">Otomatik güncelle</string>
     <string name="auto_update_tip">Mobil uygulamaları kullanarak sistem uygulamalarını güncelleyebilirsiniz. Bu ek veri ücretleri oluşturabilir</string>
     <string name="autoplay_is_off">Otomatik oynatma kapalı</string>
     <string name="autoplay_is_on">Otomatik oynatma açık</string>
@@ -289,7 +289,7 @@
     <string name="current_album">Mevcut albüm kapağı</string>
     <string name="current_lyric">Mevcut şarkı sözleri</string>
     <string name="current_service_key">service</string>
-    <string name="current_version">Geçerli Sürüm</string>
+    <string name="current_version">Mevcut sürüm:</string>
     <string name="daily_recommendation">Günlük miks</string>
     <string name="dark_mode">Karanlık mod</string>
     <string name="data_usage_warning">Veri kullanımı</string>
@@ -832,7 +832,7 @@
     <string name="local_music_is_not_available">Yerel müzik mevcut değil</string>
     <string name="local_page_album_more">Tümünü görüntüle</string>
     <string name="local_page_artist_more">Daha fazla %s şarkısı</string>
-    <string name="local_page_playlist">Listem</string>
+    <string name="local_page_playlist">Listeler</string>
     <string name="local_page_song_download_history">İndirilenler</string>
     <string name="login_instantly">Oturum aç</string>
     <string name="login_mi_account_and_gain_more_rights">Daha fazla özelliğe erişmek için Mi hesabınızla oturum açın</string>
@@ -1003,8 +1003,8 @@
     <string name="more">Daha fazla</string>
     <string name="more_add_song_list">Çalma listesine ekle</string>
     <string name="more_milink_and_bluetooth">Mi bağlantı &amp; bluetooth</string>
-    <string name="more_settings">Gelişmiş ayarlar</string>
-    <string name="more_settings_summary">İndirme ayarları, Uyku modu, Mobil veri, Dosya filtreleri</string>
+    <string name="more_settings">Gelişmiş</string>
+    <string name="more_settings_summary">Uyku modu, dosya filtreleri, öneriler ve çevirimiçi özellikleri içerir</string>
     <string name="more_share">Paylaş</string>
     <string name="more_splendid_contents">Daha fazla</string>
     <string name="morning">ÖÖ</string>
@@ -1243,8 +1243,8 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın baz
     <string name="queue_is_empty">Kuyruk oynatma boş</string>
     <string name="ready_to_play">Bir sonraki</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
-    <string name="recently_played">Önceden oynatılan</string>
-    <string name="recently_played_songs">Önceden oynatılan</string>
+    <string name="recently_played">Oynatma geçmişi</string>
+    <string name="recently_played_songs">Oynatma geçmişi</string>
     <string name="recommend_artist_title">Önerilen sanatçı</string>
     <string name="recommend_songs_when_playing_audio_files">Müzik dinlerken şarkı önerileri alın</string>
     <string name="recommended_file_size_download_in_mobile">"Bu dosyayı indirirken mobil veri %s  kullanılsın mı?"</string>
@@ -1324,8 +1324,8 @@ mutlu ol"</string>
     <string name="service_and_settings">Servis ve hizmetler</string>
     <string name="set_as_alarm_clock_ringtone">Alarm</string>
     <string name="set_as_ring">Zil sesi yap</string>
-    <string name="set_online_home_subtitle">Uygulama başlatılırken çevrimiçi önerileri aç</string>
-    <string name="set_online_home_title">Başlarken çevrimiçi önerileri göster</string>
+    <string name="set_online_home_subtitle">Uygulama başlatılırken çevrimiçi önerileri gösterir</string>
+    <string name="set_online_home_title">Çevrimiçi öneriler</string>
     <string name="set_ringtones_failed">Zil Sesi yapılamadı</string>
     <string name="set_ringtones_successful">%s zil sesi olarak ayarla</string>
     <string name="setting_feature_setting">Özellik ayarı</string>
@@ -1355,10 +1355,10 @@ mutlu ol"</string>
     <string name="similar_songs">Benzer şarkılar</string>
     <string name="similar_videos">Benzer videolar</string>
     <string name="skip">Atla</string>
-    <string name="sleep_mode">Uyku zamanlayıcısı</string>
+    <string name="sleep_mode">Uyku modu</string>
     <string name="sleep_mode_canceled">Uyku modu kapatıldı</string>
-    <string name="sleep_mode_summary">Süre bitince oynatıcıyı durdur</string>
-    <string name="sleep_mode_title">Uyku zamanlayıcısı</string>
+    <string name="sleep_mode_summary">Ayarlanan süre bitince oynatıcı durdurulur</string>
+    <string name="sleep_mode_title">Uyku modu</string>
     <string name="sliding_pro_center">Pro merkez</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>

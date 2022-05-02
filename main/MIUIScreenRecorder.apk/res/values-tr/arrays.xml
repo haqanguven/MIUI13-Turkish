@@ -244,10 +244,10 @@
         <item>1</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames">
-        <item>24fps</item>
-        <item>30fps</item>
-        <item>48fps</item>
-        <item>60fps</item>
+        <item>24 FPS</item>
+        <item>30 FPS</item>
+        <item>48 FPS</item>
+        <item>60 FPS</item>
     </string-array>
     <string-array name="screenrecorder_settings_frames_values">
         <item>24</item>

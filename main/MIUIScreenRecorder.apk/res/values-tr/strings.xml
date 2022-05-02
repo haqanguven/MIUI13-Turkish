@@ -33,7 +33,7 @@
     <string name="app_name">Ekran kaydedici</string>
     <string name="app_notification_channel_record_complete">Tamamlanmış kayıtlar hakkındaki bildirimler</string>
     <string name="app_notification_info">Ekran kaydedici arkaplanda çalışıyor</string>
-    <string name="app_notification_record_complete">"Ekran kaydı galeriye kaydedildi
+    <string name="app_notification_record_complete">"Galeriye kaydedildi.
 Görüntülemek için dokunun"</string>
     <string name="app_notification_title">Ekran kaydedici</string>
     <string name="auto_stop_title">Video başarıyla kaydedildi</string>
@@ -388,8 +388,8 @@ Görüntülemek için dokunun"</string>
     <string name="start_recording">Kaydı başlat</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_by_second_space">Alan değiştirme kaydı durduracaktır</string>
-    <string name="stop_record_while_locking">Ekran kilitleme ile kayıtı bitir</string>
-    <string name="stop_record_while_locking_summary">Ekran kilitlendiğinde kayıtı bitirir ve videoyu kaydeder</string>
+    <string name="stop_record_while_locking">Ekran kilitleme ile kaydı bitir</string>
+    <string name="stop_record_while_locking_summary">Ekran kilitlendiğinde kayıt bitir ve video kaydedilir</string>
     <string name="stop_recording">Kaydı durdur</string>
     <string name="storage_location">Depolama</string>
     <string name="storage_location_summary">Tercih ettiğiniz depolama seçeneğini seçin</string>

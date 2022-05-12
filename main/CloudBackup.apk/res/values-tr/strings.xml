@@ -45,6 +45,8 @@
     <string name="backup_action_buy_cloud_space">Daha fazla depolama alanı edinin</string>
     <string name="backup_action_check_network">Ağ ayarlarını kontrol edin</string>
     <string name="backup_action_clean_disk_space">Yer açın</string>
+    <string name="backup_action_long_time_not_backup_action">Yedekle</string>
+    <string name="backup_action_long_time_not_backup_title">Yakın zamanda yedekleme yok</string>
     <string name="backup_action_no_space_with_wechat_off_content">Bu cihazdaki öğeleri yedeklemek için yeterli bulut depolama alanı yok. Kullanabileceğiniz bulut depolama seçeneklerini görüntülemek için dokunun</string>
     <string name="backup_action_no_space_with_wechat_off_title">Öğeler yedeklenemedi</string>
     <string name="backup_action_no_space_with_wechat_on_content">WeChat verilerini yedeklemek için yeterli bulut depolama alanı yok. Öğeleri yedeklemek için depolama planınızı yükseltin</string>
@@ -193,7 +195,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
 * MIUI ve sistem ayarları 
 Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedeklenmez"</string>
     <string name="cloud_back_up_frequence_choice_title">Zamanlı yedekleme</string>
-    <string name="cloud_back_up_frequence_long">Her 7 gün</string>
+    <string name="cloud_back_up_frequence_long">Her %d günde bir</string>
     <string name="cloud_back_up_frequence_short">Her gün</string>
     <string name="cloud_back_up_ok_btn">Tamam</string>
     <string name="cloud_back_up_opening">Yükleniyor</string>
@@ -272,15 +274,23 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="dialog_cancel_backup_msg">Anahtarı değiştirmeniz devam eden yedekleme işlemlerini sona erdirecektir</string>
     <string name="dialog_cancel_backup_title">Devam eden yedekleme işlemi iptal edilsin mi?</string>
     <string name="dialog_cloud_space_not_enough">Bu yedekleme %1$s ücretsiz bulut depolama alanı gerektiriyor. Öğeleri yedeklemek için depolama planınızı yükseltin</string>
+    <string name="dialog_content_cancel_backup">Yedeklemeyi iptal ederseniz önceden yüklenmiş olan veriler kaybolacaktır. Yine de iptal edilsin mi?</string>
+    <string name="dialog_content_cancel_restore">Geri yüklemeyi durdurursanız zaten geri yüklenen veriler korunur. Geri yükleme durdurulsun mu?</string>
     <string name="dialog_msg_overwrite_backup">Yerel yedekleme Xiaomi buluttakinden farklı. Devam ederseniz geçerli yedekleme öncekinin üzerine yazacaktır</string>
     <string name="dialog_msg_restore_require_wlan">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
     <string name="dialog_msg_restore_require_wlan_china">Yedekleri geri yüklemek için wifi ağına bağlanmayı gerektirir</string>
     <string name="dialog_need_permission">Gerekli izinler</string>
+    <string name="dialog_negative_btn_cancel_backup">Yedeklemeyi iptal et</string>
+    <string name="dialog_negative_btn_cancel_restore">Geri yüklemeyi durdur</string>
+    <string name="dialog_positive_btn_cancel_backup">İptal etme</string>
+    <string name="dialog_positive_btn_cancel_restore">Durdurma</string>
+    <string name="dialog_title_cancel_backup">Yedeklemeyi iptal et</string>
+    <string name="dialog_title_cancel_restore">Geri yüklemeyi durdur</string>
     <string name="dialog_title_require_wlan">Wifi ağına bağlan</string>
     <string name="dialog_title_require_wlan_china">Wifi ağına bağlan</string>
     <string name="dialog_wechat_data_close_agree">Devam et</string>
     <string name="dialog_wechat_data_close_disagree">Kapat</string>
-    <string name="dialog_wechat_data_close_message">"Bu özelliği kapatırsanız, bulut yedeklemeyi bir sonraki kullanışınızda WeChat verileri yedeklenmeyecektir. Bu veri kaybına neden olabilir. WeChat yedeklemeleri şimdi kapatılsın mı?"</string>
+    <string name="dialog_wechat_data_close_message">"Bu özelliği kapatırsanız bulut yedeklemeyi bir sonraki kullanışınızda WeChat verileri yedeklenmeyecektir. Bu veri kaybına neden olabilir. WeChat yedeklemeleri şimdi kapatılsın mı?"</string>
     <string name="dialog_wechat_data_close_title">WeChat yedekler</string>
     <string name="dir_date_format">HHmmss_MMddyyyy</string>
     <string name="doing_calc_backup_data_size">Boyut hesaplanıyor</string>
@@ -401,7 +411,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
     <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="load_backup_failed">Yedeklemeler yüklenemedi</string>
-    <string name="loading_progress_num">(%%%s)</string>
+    <string name="loading_progress_num">Yüklendi: %%%s</string>
     <string name="loading_user_backup">Kullanıcı yedeklemeleri yükleniyor</string>
     <string name="managespace_delete_backup">Yedeği sil</string>
     <string name="menu_item_managespace">Alan yönetimi</string>
@@ -479,9 +489,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="morning">Sabah</string>
     <string name="msg_alert_cancel_restore">Bulut yedekleme geri yükleniyor. Durdurulsun mu?</string>
     <string name="msg_alert_restore_error">Bulut yedeklemesinden geri yüklenemedi. Lütfen tekrar deneyin</string>
-    <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilir. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecek&lt;/font>&lt;/b>"</string>
+    <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecek. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecektir&lt;/font>&lt;/b>"</string>
     <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz mobil veri indirmek için kullanılacaktır</string>
-    <string name="msg_restore_with_metered_network_pattern"><b><font color="'red'">%s dosya </font></b>indirilecek</string>
+    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecektir"</string>
     <string name="network_error">Ağa bağlan</string>
     <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
@@ -515,13 +525,13 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="query_restore_description">Bu yedek dosyasını kullanarak ana ekranınızı ve uygulamaları geri yükleyin. Bu işlem uygulama verilerini cihazınızda yüklenmiş olan yinelenen uygulamaların üzerine yazacaktır. Yedek dosyasında yer almayan uygulamalar kullanılan en son ana ekrana taşınır</string>
     <string name="query_restore_summary">Bu cihaz için bir Xiaomi bulut yedeği bulundu. Ana ekran uygulamalarını ve ayarlarını geri yükle veya eski Xiaomi bulut yedeklerini silerek cihazı yeni bir cihaz olarak kullanılsın mı?</string>
     <string name="recover_home_settings">Ana ekran ayarlarını geri yükle</string>
-    <string name="recover_miui_settings">Sistem ayarlarını geri yükle</string>
     <string name="recover_settings_description">Cihazınızı açık durumda tutun</string>
     <string name="recovering">Geri yükleniyor: %s</string>
     <string name="remove_again">Yeniden dene</string>
     <string name="remove_task_in_process">Kaldırılıyor</string>
     <string name="remove_task_unfinished">Silme işlemi tamamlanmadı</string>
     <string name="remove_unfinished">Kaldırılıyor. Daha sonra tekrar deneyin</string>
+    <string name="required_permissions">android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE</string>
     <string name="restore_app_order_finish">Bitti</string>
     <string name="restore_app_order_loading">Yükleniyor</string>
     <string name="restore_app_order_retry">Tekrar dene</string>
@@ -565,7 +575,7 @@ Ağ ayarlarınızı kontrol edin ve tekrar deneyin"</string>
     <string name="restoring_data">Veriler geri yükleniyor</string>
     <string name="restoring_file_title_no_progress">Uygulamalar geri yükleniyor</string>
     <string name="restoring_home_screen_apps">Xiaomi buluttan geri yükleniyor</string>
-    <string name="restoring_settings">Ayarlar geri yükleniyor…</string>
+    <string name="restoring_settings">Ayarlar geri yükleniyor</string>
     <string name="retry">Tekrar dene</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cts</string>

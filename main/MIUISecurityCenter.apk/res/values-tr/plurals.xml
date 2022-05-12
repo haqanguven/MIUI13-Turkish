@@ -303,10 +303,6 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%d günlük ücretsiz deneme edinin</item>
         <item quantity="one">%d günlük ücretsiz deneme edinin</item>
     </plurals>
-    <plurals name="gd_app_edit_desc">
-        <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin</item>
-        <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için eklenen öğeleri sürükleyin</item>
-    </plurals>
     <plurals name="gd_app_edit_desc_new">
         <item quantity="other">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
         <item quantity="one">En fazla %d uygulama ekleyin. Yeniden düzenlemek için basılı tutun</item>
@@ -869,6 +865,9 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="st_show_num_number">
         <item quantity="other">%d numara</item>
         <item quantity="one">%d numara</item>
+    </plurals>
+    <plurals name="storage_fbo_number_unit">
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> kez</item>
     </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Odak modunu %d dakika boyunca aç</item>

@@ -1126,6 +1126,8 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="widget_size_item_big">Büyük</string>
     <string name="widget_size_item_medium">Orta</string>
     <string name="widget_size_item_small">Küçük</string>
+    <string name="widget_size_item_super_big">Ekstra büyük</string>
+    <string name="widget_size_not_support">Bu cihazda ekstra büyük araçları desteklenmiyor</string>
     <string name="widget_take_notes_title">Notlar</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Dün</string>

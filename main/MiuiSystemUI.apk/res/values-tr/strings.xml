@@ -1102,9 +1102,9 @@ Göstermeye devam edilsin mi?"</string>
     <string name="inline_stop_button">Bildirimleri durdur</string>
     <string name="inline_turn_off_notifications">Bildirimleri kapat</string>
     <string name="inline_undo">Geri al</string>
-    <string name="input_lockscreen_password_hint_text">Şifre gir</string>
-    <string name="input_lockscreen_pattern_hint_text">Desen çiz</string>
-    <string name="input_lockscreen_pin_hint_text">Pin gir</string>
+    <string name="input_lockscreen_password_hint_text">Şifrenizi girin</string>
+    <string name="input_lockscreen_pattern_hint_text">Deseninizi çizin</string>
+    <string name="input_lockscreen_pin_hint_text">Pin kodunuzu girin</string>
     <string name="input_password_after_boot_msg">Cihaz kilidini açmak için şifrenizi girin</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Arama sırasında alan değiştirilemiyor</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">Aile bekçisi açıkken boşluklar arasında geçiş yapamıyorum</string>

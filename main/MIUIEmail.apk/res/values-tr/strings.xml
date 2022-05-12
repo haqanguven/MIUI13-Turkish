@@ -1188,11 +1188,6 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
-    <string name="miuix_search_action_mode_cancel">İptal et</string>
-    <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
-    <string name="miuix_search_history_default_title">Arama geçmişi</string>
-    <string name="miuix_search_recommendation_default_title">Bunlar ilginizi çekebilir</string>
-    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="modify_contact_address">İletişim e-posta adresini değiştir</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>

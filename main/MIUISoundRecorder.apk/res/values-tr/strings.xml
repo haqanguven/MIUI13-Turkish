@@ -311,6 +311,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="low_battery_error_for_pad">"%s'den az pil kaldı. Kaydın kaybolmaması için kaydı durdurun ve kaydedin"</string>
     <string name="low_battery_error_title">Düşük pil</string>
     <string name="lyric_item_point_count">%1$d - %2$d</string>
+    <string name="manage_external_storage">Tüm dosyalara erişin</string>
     <string name="mark_point_list_title">İşaretler</string>
     <string name="marketSdkVersion">3.2.9</string>
     <string name="material_clock_display_divider">:</string>
@@ -740,6 +741,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="sunday">Pazar</string>
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
+    <string name="sync_desc_state_complete">Bulutla senkronize edildi: %1$s</string>
     <string name="tab_all">Tümü</string>
     <string name="tab_apps">Uygulamalar</string>
     <string name="tab_call">Aramalar</string>

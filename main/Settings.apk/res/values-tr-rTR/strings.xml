@@ -9462,7 +9462,7 @@ Görünüşe göre kimlik depolama etkinleştirilmemiş"</string>
     <string name="xiaomi_cloud_service_unknown">Bilinmeyen</string>
     <string name="xiaomi_custom_input_method">Xiaomi için özelleştirildi</string>
     <string name="xiaomi_hp_location">Kesin konum erişimi</string>
-    <string name="xiaomi_hp_location_description">Kesin konum bilgileri navigasyona doğru olarak izin verir</string>
+    <string name="xiaomi_hp_location_description">Kesin konum bilgileri navigasyona doğru konum bilgisini verir</string>
     <string name="xiaomi_lanting_title">Mi Lanting Pro</string>
     <string name="xiaomi_money_service">Mi kredi</string>
     <string name="xiaomi_router_available_notif_summary">Daha fazla bilgi için dokunun</string>

@@ -431,6 +431,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
 Ayrıntılar için ayarları kontrol edin"</string>
     <string name="fast_connect_b508_name">ZMI B508</string>
     <string name="fast_connect_bt_speaker2_name">Mi taşınabilir BT hoparlör 2</string>
+    <string name="fast_connect_connection_fail">Bağlanamadı</string>
     <string name="fast_connect_device_battery">Pil</string>
     <string name="fast_connect_device_box">Kutu</string>
     <string name="fast_connect_device_box_name">%1$s kutu</string>
@@ -556,6 +557,10 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="headset_fw_error_failed">Başarısız oldu</string>
     <string name="headset_fw_file_position_failed">Başarısız oldu</string>
     <string name="headset_fw_file_readfailed">Başarısız oldu</string>
+    <string name="headset_incall_answer">Cevapla</string>
+    <string name="headset_incall_reject">İptal et</string>
+    <string name="headset_incall_summary">Kulaklıklarınızla %1$s üzerinde bir arama cevaplansın mı? Arama bittikten sonra kulaklığınız o cihaza bağlı kalacaktır</string>
+    <string name="headset_incall_title">Aramayı kulaklıkla cevapla</string>
     <string name="headset_loss_notify_summary">Görünüşe göre kulaklığınızdan en az biri şarj çantasında değil. Etrafına bir göz at</string>
     <string name="headset_loss_notify_summary1">Görünüşe göre kulaklık kutuda değil. Şarj etmelerine izin vermek için onları geri koyun</string>
     <string name="headset_loss_notify_title">Eksik kulaklık uyarısı</string>
@@ -659,6 +664,10 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="miheadset_notification_Disconnect">Bağlantıyı kes</string>
     <string name="miheadset_notification_LeftEar">Sol</string>
     <string name="miheadset_notification_RightEar">Sağ</string>
+    <string name="miheadset_spatial_audio_change_to_phone">Bu cihazda boyutlu sese geçildi</string>
+    <string name="miheadset_spatial_audio_headset">Kulaklık</string>
+    <string name="miheadset_spatial_audio_not_support_headset">Kulaklıklardaki boyutlu ses çok kanallı kaynaklarla uyumlu değil</string>
+    <string name="miheadset_spatial_audio_phone">Bu cihaz</string>
     <string name="mihome_app_download">Şimdi kur</string>
     <string name="mihome_app_update">Şimdi güncelle</string>
     <string name="mihome_download_tips">Mi ev uygulamasını yükleyin, oturum açın ve telefonunuzu cihaza yakın tutun</string>

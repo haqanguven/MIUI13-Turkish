@@ -92,7 +92,7 @@ Hesap kimliğiniz: %s"</string>
     <string name="activate_email_notice">Hesabınızı 24 saat içerisinde etkinleştirdiğinizden emin olun</string>
     <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
     <string name="add_account">Hesaba bağlanın</string>
-    <string name="afternoon">ÖS</string>
+    <string name="afternoon">Öğleden sonra</string>
     <string name="agreement_and_privacy">Gizlilik politikası ve kullanıcı sözleşmesi</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Mi hesabı</string>
@@ -442,6 +442,9 @@ Bu kodu amirinize gönderin"</string>
     <string name="login_check_find_device">Cihaz güvenlik bilgileri alınıyor</string>
     <string name="login_check_find_device_failed_title">Cihazı bul durumu kontrol edilemedi</string>
     <string name="login_find_device_bind">Bu cihaz mevcut Mi hesabı (%s) ile ilişkilendirilmiş durumdadır</string>
+    <string name="login_notification_button_text">Oturum aç</string>
+    <string name="login_notification_desc">Bulut hizmetlerinin, aile depolama alanının ve daha fazlasının keyfini çıkarın</string>
+    <string name="login_notification_title">Mi hesabınızda oturum açın</string>
     <string name="login_with_other">Daha fazla seçenek</string>
     <string name="logout_account">Oturumu kapat</string>
     <string name="logout_failed">Oturum kapatılamıyor</string>

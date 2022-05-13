@@ -35,6 +35,11 @@
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chip_text">Çip metni</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
+    <string name="dialog_saf_btn">Yetkilendirme</string>
+    <string name="dialog_saf_desc">Bu uygulama kayıtlı içeriği kaydedebilmek için dosyaların izinlerine ihtiyaç duyar</string>
+    <string name="dialog_saf_step_one">Yetkilendire dokunun</string>
+    <string name="dialog_saf_step_two">Sonraki sayfada izin vermek için sayfanın altındaki düğmeye dokunun</string>
+    <string name="dialog_saf_title">Gerekli izinler</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="frequency_mhz_fomart">%sMHZ</string>
@@ -61,4 +66,5 @@
     <string name="search_menu_title">Ara</string>
     <string name="station_freq_format">%sMHz</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="toast_saf_permission_denied">Kayıtları kaydedebilmek için izinler verin</string>
 </resources>

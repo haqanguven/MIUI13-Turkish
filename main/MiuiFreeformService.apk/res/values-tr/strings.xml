@@ -190,6 +190,9 @@
     <string name="freeform_demo_title_skip">Atla</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
     <string name="freeform_guide_slide_to_small_freeform_summary_pad_global">Bir uygulamayı simge durumuna küçültmek için köşeyi sürükleyin</string>
+    <string name="freeform_guide_to_sidehide_summary">Eylem çubuğundan pencereyi hızla ekranın kenarına sürükleyin</string>
+    <string name="freeform_guide_to_sidehide_summary_pad">Uygulamayı gizlemek için hızlıca ekranın kenarına sürükleyin</string>
+    <string name="freeform_guide_to_sidehide_title">Yüzen pencereleri gizle</string>
     <string name="freeform_slide_to_small_freeform">Serbest biçimli slayttan küçük serbest biçime</string>
     <string name="freeform_slide_to_small_freeform_summary">Sağ üst köşeye kayan bir pencerenin işlem çubuğuna basın ve kaydırın</string>
     <string name="friday">Cuma</string>

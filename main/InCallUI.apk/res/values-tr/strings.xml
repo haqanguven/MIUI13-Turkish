@@ -431,6 +431,7 @@
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
+    <string name="msim_select_default_last">Yakın zamanda kullanıldı</string>
     <string name="msim_select_default_time_left">(%d saniye)</string>
     <string name="night">ÖS</string>
     <string name="noon">Öğlen</string>

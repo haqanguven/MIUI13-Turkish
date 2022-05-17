@@ -62,13 +62,18 @@
         <item>iPhone</item>
         <item>iPad</item>
     </string-array>
+    <string-array name="protection_name">
+        <item>Otomatik</item>
+        <item>Hiçbiri</item>
+        <item>Yeni kullanıcı</item>
+    </string-array>
     <string-array name="setting_swipe_up_target">
         <item>Ara</item>
         <item>Haber</item>
     </string-array>
     <string-array name="shortcut_dialog_delete">
         <item>Sil</item>
-        <item>Hayır, teşekkürler</item>
+        <item>Hayır. Teşekkürler</item>
     </string-array>
     <string-array name="shortcut_dialog_keep">
         <item>Tamam</item>
@@ -79,11 +84,11 @@
         <item>Olimpiyatları Mi ile takip edin</item>
     </string-array>
     <string-array name="speed_result_tips">
-        <item>Mevcut ağ bağlantısı çok yavaş. Zayıf ağ kapsama alanında gibi görünüyorsunuz.</item>
-        <item>Mevcut ağ bağlantısı yavaş.</item>
-        <item>Ağ bağlantısı ile ilgili bir sorun bulunamadı.</item>
-        <item>Mevcut ağ bağlantısı hızlı. Film izlemek için yeterli.</item>
-        <item>Mevcut ağ bağlantısı çok hızlı. Oyununuzun zirvesindesiniz.</item>
+        <item>Mevcut ağ bağlantısı çok yavaş. Zayıf ağ kapsama alanında gibi görünüyorsunuz</item>
+        <item>Mevcut ağ bağlantısı yavaş</item>
+        <item>Ağ bağlantısı ile ilgili bir sorun bulunamadı</item>
+        <item>Mevcut ağ bağlantısı hızlı. Film izlemek için yeterli</item>
+        <item>Mevcut ağ bağlantısı çok hızlı. Oyununuzun zirvesindesiniz</item>
     </string-array>
     <string-array name="user_guide_info_array">
         <item>Sosyal medyadan videoları ve fotoğrafları indirin</item>

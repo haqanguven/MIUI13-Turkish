@@ -782,6 +782,7 @@
     <string name="private_entry_default">Özel klasörü açmak için aşağı çekin</string>
     <string name="quick_note_link_default_text">Bağlantı</string>
     <string name="quick_note_new_user_guide">Hızlı notlar, not ve alıntı oluşturmanızı sağlar</string>
+    <string name="recognition_failure">Tanıma başarısız oldu</string>
     <string name="recover_notes_hint">Bir hata oluştu. Notları geri yüklemek için i.mi.com adresine gidin</string>
     <string name="redo">İleri al</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin</string>

@@ -305,7 +305,7 @@
     <string name="close_multi_finger_slide_summary">Bu hareketler bazı senaryolarda göz ardı edilecektir (Örneğin: Oyunlar ve videoların oynatılması)</string>
     <string name="close_multi_finger_slide_title">Üç ve dört parmak hareketlerine yanıt vermeyin</string>
     <string name="cloud_app_restore_title">Beklemede</string>
-    <string name="com.crashlytics.android.build_id">2f7a3e6e66204a0f8c6f6f969ad26e4a</string>
+    <string name="com.crashlytics.android.build_id">07e23b1d13c3424f98d4390c986dccfc</string>
     <string name="common_google_play_services_unknown_issue">%1$s Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin</string>
     <string name="common_home_search_delete">Arama çubuğu kaldırılıyor</string>
     <string name="common_home_search_delete_cancle">İptal et</string>
@@ -343,15 +343,20 @@
     <string name="default_folder_title_claro">Elbette</string>
     <string name="default_folder_title_game">Oyunlar</string>
     <string name="default_folder_title_hot">Popüler uygulamalar</string>
+    <string name="default_folder_title_hot_path">com.miui.home:string/default_folder_title_hot</string>
     <string name="default_folder_title_meitu">Meitu uygulamaları</string>
+    <string name="default_folder_title_meitu_path">com.miui.home:string/default_folder_title_meitu</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
     <string name="default_folder_title_other_apps">Diğer uygulamalar</string>
+    <string name="default_folder_title_other_apps_path">com.miui.home:string/default_folder_title_other_apps</string>
     <string name="default_folder_title_recommend">Daha fazla</string>
+    <string name="default_folder_title_recommend_path">com.miui.home:string/default_folder_title_recommend</string>
     <string name="default_folder_title_security">Sistem</string>
     <string name="default_folder_title_services">Hizmetler</string>
     <string name="default_folder_title_telcel">Telcel</string>
     <string name="default_folder_title_tools">Araçlar</string>
-    <string name="default_folder_title_turkcell_uygulamalar">Turkcell uygulamalar</string>
+    <string name="default_folder_title_tools_path">com.miui.home:string/default_folder_title_tools</string>
+    <string name="default_folder_title_turkcell_uygulamalar">Türkcell uygulamalar</string>
     <string name="default_layout_path">layout</string>
     <string name="default_screen_preview_title">Varsayılan ekranı ayarla</string>
     <string name="default_shortcut_title_10086">10086.cn</string>
@@ -369,6 +374,7 @@
     <string name="dialog_work_profile_content_2">İş uygulamaları &amp; verileri BT yöneticiniz tarafından görülebilir</string>
     <string name="dialog_work_profile_title">İş profili</string>
     <string name="disable_wallpaper_scroll">Yatay kaydırmayı kapat</string>
+    <string name="discovery_data_constant_part_end">&amp;ref=com.miui.home&amp;senderPackageName=com.miui.home&amp;ext_xxx=com.miui.home &amp;show_cta=true&amp;overlayPosition=1&amp;startDownload=true&amp;showToast=true&amp;extInstallUIType=1</string>
     <string name="download_action">İndir</string>
     <string name="drag_icon_to_homescreen_guide">Bir uygulama simgesine basılı tutun ve ana ekrana kısayolunu eklemek için onu sürükleyin</string>
     <string name="drag_multiple_item_name" />
@@ -425,7 +431,7 @@
     <string name="expand_button_title">Gelişmiş</string>
     <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
     <string name="failed_to_drop">Taşınamıyor</string>
-    <string name="failed_to_drop_widget_invalid">Araç geçersiz</string>
+    <string name="failed_to_drop_widget_invalid">Bu araç geçersiz</string>
     <string name="failed_to_load_image">Fotoğraf yüklenemiyor</string>
     <string name="firebase_database_url">https://miui-home-8d9f8.firebaseio.com</string>
     <string name="fmt_chinese_date">N/e</string>
@@ -480,6 +486,8 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_long_click">Ana ekrana eklemek için basılı tutun</string>
+    <string name="fold_pair_installed_shortcut_launcher">Bu kısayol zaten var</string>
     <string name="folder_name">Klasör</string>
     <string name="frame_load_failed">Çerçeve yüklenemiyor</string>
     <string name="free_style_apps_title">Uygulama seçin</string>
@@ -789,6 +797,7 @@
     <string name="night">Akşam</string>
     <string name="no_detail_page">Ayrıntı sayfası yok</string>
     <string name="no_space_toast">Yeterli boş alan yok</string>
+    <string name="no_space_toast_fold">Burada yeterli alan yok</string>
     <string name="no_space_toast_when_click_widget">Bu sayfada yeterli alan yok. Bu öğeyi farklı bir sayfaya sürüklemeyi deneyin</string>
     <string name="noon">Gün ortası</string>
     <string name="normal_wallpaper">Duvar kağıdı</string>
@@ -799,6 +808,7 @@
     <string name="notification_reset_title">Simgeler başarıyla düzenlendi</string>
     <string name="one_key_call_title">Aramak için dokunun</string>
     <string name="online_wallpaper">Çevrimiçi</string>
+    <string name="open_pad_personal_assistant_settings">Ana ekran araçları</string>
     <string name="open_personal_assistant_dialog_btn_cancel">İptal et</string>
     <string name="open_personal_assistant_dialog_btn_confirm">Kapat</string>
     <string name="open_personal_assistant_dialog_desc">Kapatmak istiyor musunuz?</string>
@@ -811,6 +821,7 @@
     <string name="ota_layout_adjustment_content">Yeni sürümde iç ve dış ana ekran düzenleri senkronize edildi</string>
     <string name="ota_layout_adjustment_title">Ana ekran düzenleri</string>
     <string name="out_of_space">Ana ekranda yeterli boş alan yok</string>
+    <string name="pair_icon_name">%1$s | %2$s</string>
     <string name="perfect_icons_switch_summary">Animasyonları üçüncü taraf uygulama simgelerinden oluşturur</string>
     <string name="perfect_icons_switch_title">Simge animasyonları</string>
     <string name="permdesc_install_shortcut">Bir uygulamanın kullanıcı izni olmadan kısayol eklemesine izin verir</string>

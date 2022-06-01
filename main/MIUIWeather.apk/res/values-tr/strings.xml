@@ -306,6 +306,9 @@ Devam etmeden önce %2$s'nin yeni sürümünü okuyun ve kabul edin"</string>
     <string name="exo_track_unknown">Bilinmiyor</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="feedback">Yanlış hava durumu bilgisini bildir</string>
+    <string name="feedback_climate_accurate">Doğru</string>
+    <string name="feedback_climate_colder">Gerçek hava daha soğuk</string>
+    <string name="feedback_climate_warmer">Gerçek hava daha sıcak</string>
     <string name="feedback_cloudy">Bulutlu</string>
     <string name="feedback_confirm_permission_agree">Yukarıdaki hüküm ve koşulları okudum ve kabul ediyorum</string>
     <string name="feedback_foggy">Sisli</string>
@@ -313,6 +316,11 @@ Devam etmeden önce %2$s'nin yeni sürümünü okuyun ve kabul edin"</string>
     <string name="feedback_moderate_rain">Yağmurlu</string>
     <string name="feedback_moderate_snow">Karlı</string>
     <string name="feedback_overcast">Bulutlu</string>
+    <string name="feedback_rain_accurate">Doğru</string>
+    <string name="feedback_rain_forecast_subtitle">Şu anda gösteriliyor: %1$s</string>
+    <string name="feedback_rain_forecast_title">Yağış tahmini</string>
+    <string name="feedback_rain_inaccurate">Yanlış</string>
+    <string name="feedback_realtime_button_text">Geri bildirim</string>
     <string name="feedback_report_moji_privacy">Moji hava durumu gizlilik politikası</string>
     <string name="feedback_report_privacy_msg">Bildirim konum bilgilerinizi içerir</string>
     <string name="feedback_result_fail_no_choice">Mevcut hava durumunu seçin</string>
@@ -321,6 +329,9 @@ Devam etmeden önce %2$s'nin yeni sürümünü okuyun ve kabul edin"</string>
     <string name="feedback_result_success">Başarıyla gönderildi. Geri bildiriminiz için teşekkürler</string>
     <string name="feedback_sandy">Kumlu</string>
     <string name="feedback_sunny">Güneşli</string>
+    <string name="feedback_temperature_subtitle">Şu anda gösteriliyor: %1$s°</string>
+    <string name="feedback_temperature_title">Hava sıcaklığı</string>
+    <string name="feedback_weather">Hava durumu geri bildirimi</string>
     <string name="first_start_network_title">İnternet bağlantısı ve konum erişimi</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>

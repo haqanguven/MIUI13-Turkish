@@ -45,9 +45,11 @@
     <string name="agree_app_use">QR kodlarını ve diğer görüntüleri tarama (Bazı özellikler konumunuza erişmenizi gerektirebilir)</string>
     <string name="agree_audio_permission">Ses kaydı</string>
     <string name="agree_btn">Kabul et</string>
-    <string name="agree_camera_permission">Fotoğraf ve video çekmek için</string>
+    <string name="agree_camera_permission">Fotoğraf ve video çekmek içindir</string>
+    <string name="agree_camera_permission_message">Öğeleri taramak amacıyla kamerayı kullanmak içindir</string>
     <string name="agree_monitor_use">Çevrimiçi dersler sırasında dikkatle dinleme, dikkat dağıtma ve ayrılma zamanını ve oranını kontrol edin. Tüm kişisel verileriniz yerel olarak kaydedilecektir</string>
-    <string name="agree_storage_permission">Fotoğraflara ve cihazınızda saklanan dosyalara erişmek için</string>
+    <string name="agree_storage_permission">Fotoğraflara ve cihazınızda saklanan dosyalara erişmek içindir</string>
+    <string name="agree_storage_permission_message">Galeri görüntülerine erişmek ve bunları içe aktarmak ve dosyaları kaydetmek içindir</string>
     <string name="all_text">Tam metin</string>
     <string name="already_ocr_result">Otomatik olarak seçilen öğeler</string>
     <string name="always">Her zaman</string>
@@ -185,6 +187,7 @@
     <string name="code_always">Bu seçenek bir dahaki sefere varsayılan olarak ayarlanmıştır ve sorulmayacaktır</string>
     <string name="code_determine">Geri al</string>
     <string name="code_result">Tanıma sonucu</string>
+    <string name="come_back_picture">Geri</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmediğiniz sürece %1$s çalışmayacaktır</string>
     <string name="common_google_play_services_enable_title">Google Play hizmetlerini etkinleştir</string>
@@ -240,6 +243,7 @@
     <string name="date_picker_label_year" />
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
+    <string name="default_language">@string/language_value_chinese_cn</string>
     <string name="delete">Sil</string>
     <string name="dis_select_all">Tüm seçimi kaldır</string>
     <string name="document_color_picture">Renk</string>
@@ -414,9 +418,10 @@
     <string name="general_no">Öğe bilgisi bulunamadı</string>
     <string name="general_no_found">Sizin için benzer ürünleri önerin</string>
     <string name="general_plant">Aradığınız şey olabilir:</string>
-    <string name="general_recognized">Sizin için tanımlandı:</string>
+    <string name="general_recognized">"Sonuç: "</string>
     <string name="general_title">Lütfen tanınacak nesneyi fotoğraflayın</string>
     <string name="general_wifi_data_wrong_data">"Hem SSID'yi hem de şifreyi girin"</string>
+    <string name="global_default_language">@string/language_value_english</string>
     <string name="go_shut_down">Kapat</string>
     <string name="goods_query">Emtia sorgulama</string>
     <string name="got_it">Anladım</string>
@@ -489,6 +494,8 @@
     <string name="link_to_network">Bağlan</string>
     <string name="local_ocr_recognition">Yerel ocr tanıma</string>
     <string name="local_ocr_recognition_str">Çevrimdışı çeviriye geçildi</string>
+    <string name="location_permission_message">Wifi kodunu bağlamak için</string>
+    <string name="location_permissions_text">Taramayı normal şekilde kullanmak için konum izninin etkinleştirilmesi gerekmektedir. Etkinleştirmek için ayarlar düğmesini tıklayın</string>
     <string name="logistics">Hızlı teslimat</string>
     <string name="logout_service">İzni geri al</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için MIUI'yi en yeni sürümüne güncelleyin"</string>
@@ -968,6 +975,8 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="to_date">Bugün</string>
     <string name="to_install_title">Bu QR kodu sizi yüklü olmayan bir uygulamaya yönlendirmektedir. Bu uygulama şimdi indirilsin mi?</string>
     <string name="to_pay">Ödemeyi tamamla</string>
+    <string name="toast_net_2g">Ağ zayıf. Lütfen ağı değiştirip tekrar deneyin</string>
+    <string name="toast_net_timeout">İstek zaman aşımına uğradı. Lütfen daha sonra tekrar deneyiniz</string>
     <string name="today">Bugün</string>
     <string name="toinstall">İndir</string>
     <string name="tomorrow">Yarın</string>

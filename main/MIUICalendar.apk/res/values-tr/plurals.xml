@@ -172,6 +172,10 @@
         <item quantity="other">%d etkinlik daha</item>
         <item quantity="one">%d etkinlik daha</item>
     </plurals>
+    <plurals name="other_num_todo_events">
+        <item quantity="other">%d daha fazla görev</item>
+        <item quantity="one">%d daha fazla görev</item>
+    </plurals>
     <plurals name="reminder_custom_unit_day">
         <item quantity="other">" gün"</item>
         <item quantity="one">" gün"</item>

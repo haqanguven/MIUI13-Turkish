@@ -36,6 +36,7 @@
     <string name="add_alarm">Alarm ekle</string>
     <string name="add_clock">Saat ekle</string>
     <string name="add_common_timer">Zamanlayıcı ekle</string>
+    <string name="add_new_sound">Zil sesi ekle</string>
     <string name="add_timer">Sık zamanlayıcı</string>
     <string name="add_timer_dialog_title">Zamanlayıcı ekle</string>
     <string name="add_timezone_title">Zaman dilimi ekle</string>
@@ -64,6 +65,7 @@
     <string name="alarmclock_empty_text">Alarm yok</string>
     <string name="alarmclock_silent_hint">Alarm sessize alındı</string>
     <string name="alert">Zil sesi</string>
+    <string name="alert_page_desc">Basılı tutun ardından alarmı kapatmak için yukarı kaydırın</string>
     <string name="alert_ringtone">Alarm zil sesi</string>
     <string name="alert_vibrate_enable_summary">Alarm çaldığında titret</string>
     <string name="alert_volume">Zil sesi seviyesi</string>
@@ -197,6 +199,7 @@
     <string name="common_timer_selector">Zamanlayıcı seçin</string>
     <string name="confirm">Onayla</string>
     <string name="confirm_abort">Vazgeç</string>
+    <string name="confirm_remove_custom_ringtone">Bu zil sesini silerseniz onu kullanan alarmlar ve zamanlayıcılar bunun yerine varsayılan zil sesini çalar. Şimdi silinsin mi?</string>
     <string name="content_desc_keep_screen">Ekranı açık tut düğmesi</string>
     <string name="continue_operation">Devam et</string>
     <string name="continue_step">Sonraki</string>
@@ -204,6 +207,7 @@
     <string name="control_set_alarm_with_existing">Alarm ayarlandı: %s</string>
     <string name="copy">Kopyala</string>
     <string name="current_stopwatch_time">Şimdiki zamanlama</string>
+    <string name="custom_ringtone_lost_permissions">Bu sese erişilemiyor</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -219,6 +223,7 @@
     <string name="delete_timer_item_title">Zamanlayıcı görevini sil</string>
     <string name="delete_timezone_title">Zaman dilimini sil</string>
     <string name="deskclock_sleep_no_disturbance">Saat - Yatmadan önce yönetimi - Rahatsız etme modu</string>
+    <string name="device_sounds">Cihaz sesleri</string>
     <string name="dialog_confirm_abort">Değişiklikler yoksayılsın mı?</string>
     <string name="dialog_legal_off_day">Görünüşe göre tatil alarmını kullanıyorsunuz. Bu özellik düzgün çalışabilmek için internete bağlanmalıdır. Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı kabul etmelisiniz. Kabul ediyor musunuz?</string>
     <string name="dialog_legal_off_day_desc">Saat tatiller hakkındaki bilgileri güncellemek üzere internete bağlanmaya yetkili değil. Tatil alarmları Cumartesi ve Pazar günleri çalar</string>
@@ -808,6 +813,7 @@
     <string name="tv_blank_list_show_text">Burada henüz bir şey yok. Dünya saatinizi eklemek için bir konum arayın</string>
     <string name="tv_world_clock_edit_title1">Ana ekranda görüntülenen konumlar</string>
     <string name="tv_world_clock_edit_title2">Diğer kaydedilen konumlar</string>
+    <string name="unknown_ringtone_title">Bilinmiyor</string>
     <string name="unselect_all">Tüm seçimi kaldır</string>
     <string name="upcoming_alarm">Yaklaşan alarm: %s</string>
     <string name="upcoming_alarm_hint">Alarmı zamanından önce kapatabilirsiniz</string>
@@ -840,9 +846,11 @@
     <string name="week_ringtone_recommend_desc">Doğa alarmı tarihe bağlı olarak farklı sesler çalar. Varsayılan alarmınız olarak ayarlansın mı?</string>
     <string name="white_noise">Ortam gürültüsü</string>
     <string name="white_noise_guide_desc">Odaklanmanızı sağlamak için bir arka plan sesi ekleyin</string>
-    <string name="white_noise_selector">Ses dosyası seç</string>
+    <string name="white_noise_not_selected">Seçilmedi</string>
+    <string name="white_noise_selected">Seçildi</string>
+    <string name="white_noise_selector">Ses seç</string>
     <string name="workday_alarm_clock">Çalışma günleri alarmı</string>
-    <string name="worldclock_edit_label">Dünya Saati</string>
+    <string name="worldclock_edit_label">Dünya saati</string>
     <string name="worldclock_empty_text">Saat yok</string>
     <string name="worldclock_input_hint_text">Ülke veya şehir arayın</string>
     <string name="worldclock_local_time">Yerel saat</string>
@@ -863,4 +871,5 @@
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
     <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
     <string name="yesterday">Dün</string>
+    <string name="your_sounds">Seslerim</string>
 </resources>

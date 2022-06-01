@@ -277,6 +277,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%2$1.2f saat kaldı</item>
         <item quantity="one">%2$1.2f saat kaldı</item>
     </plurals>
+    <plurals name="gb_smart_battery_min">
+        <item quantity="other">%d mins</item>
+        <item quantity="one">%d min</item>
+    </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Anladım (%d saniye)</item>
         <item quantity="one">Anladım (%d saniye)</item>
@@ -743,8 +747,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%s uygulamasının kalıcı erişimi var</item>
     </plurals>
     <plurals name="privacy_permission_summary_allow">
-        <item quantity="other">Allowed for %s apps</item>
-        <item quantity="one">Allowed for %s app</item>
+        <item quantity="other">%s uygulama için izin verildi</item>
+        <item quantity="one">%s uygulama için izin verildi</item>
     </plurals>
     <plurals name="privacy_pop_times">
         <item quantity="other">%s kez</item>

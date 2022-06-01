@@ -334,6 +334,7 @@
     <string name="calllog_menu_edit_before_call">Düzenle</string>
     <string name="calllog_menu_send_sms">Mesaj gönder</string>
     <string name="calllog_record_none_toast">Gösterilecek arama kaydı yok</string>
+    <string name="calllog_record_searching_toast">Arama kayıtları aranıyor</string>
     <string name="callrecordview_item_op_time_minutes_seconds">%1$d dakika %2$d saniye</string>
     <string name="callrecordview_item_op_time_missed">| Bağlanılamadı</string>
     <string name="callrecordview_item_op_time_only_minutes">%d dakika</string>
@@ -896,6 +897,9 @@ Neden: %s"</string>
     <string name="lunar_calendar">Ay takvimi</string>
     <string name="lunar_leap">Ay atlaması</string>
     <string name="make_primary">Bu seçimi hatırla</string>
+    <string name="manage_external_storage_dialog_message">Arama kayıtlarını yönetmek için bu uygulamanın tüm dosyalara erişmesine izin verin</string>
+    <string name="manage_external_storage_dialog_positive">Ayarlar</string>
+    <string name="manage_external_storage_dialog_title">Gerekli izinler</string>
     <string name="map_custom">%s adresini görüntüle</string>
     <string name="map_home">Ev adresini görüntüle</string>
     <string name="map_other">Adresi görüntüle</string>

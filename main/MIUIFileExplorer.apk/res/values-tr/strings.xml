@@ -51,7 +51,6 @@
     <string name="app_name_downloadedrom">Paketler</string>
     <string name="app_name_downloads">İndirilenler</string>
     <string name="app_name_market">Uygulama mağazası</string>
-    <string name="app_name_midrop">Mi drop</string>
     <string name="app_name_miui">MIUI</string>
     <string name="app_name_miuimusic">Müzikler</string>
     <string name="app_name_miuiringtone">Zil sesi</string>
@@ -188,6 +187,7 @@
     <string name="click_to_switch_volume_pad">Dahili depolama alanı ve SD kart arasında geçiş yapmak için dokunun</string>
     <string name="clock_in">Giriş yapılıyor</string>
     <string name="close">Kapalı</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="compress_fail">Sıkıştırılamadı. Aynı ada sahip bir dosya zaten mevcut</string>
     <string name="compress_fail_unknown">Sıkıştırılamadı. Depolama alanı dolu veya bilinmeyen bir hata meydana geldi</string>
     <string name="compress_message">Sıkıştır</string>
@@ -229,13 +229,12 @@
     <string name="decrypt_error">Çözümlenemedi</string>
     <string name="decrypt_to">Şifreyi çöz ve şu konuma kaydet…</string>
     <string name="decrypting">Şifre çözümleniyor</string>
+    <string name="default_web_client_id">599532519894-qvdg613vlo22tol6uljd7upk0pg7j0s2.apps.googleusercontent.com</string>
     <string name="delete_dialog_button">Sil</string>
     <string name="delete_error">Dosyalar silinemedi. Tekrar deneyin</string>
     <string name="delete_file">Bu dosya silinsin mi?</string>
     <string name="delete_file_error">Dosya silinemedi</string>
-    <string name="delete_files">%1$d dosya silinsin mi?</string>
     <string name="delete_folder">Şimdi silinsin mi?</string>
-    <string name="delete_folders">%1$d klasör silinsin mi?</string>
     <string name="des_hide_pwd">Şifreyi gizle</string>
     <string name="des_show_pwd">Şifreyi göster</string>
     <string name="dialog_select_type">Tür seçin</string>
@@ -326,6 +325,7 @@
     <string name="file_name_existed">Dosya adı alındı</string>
     <string name="file_name_invalid">Dosya adları belirtilen karakterleri içermemelidir: /\\:*?&lt;></string>
     <string name="file_not_exist">Dosya mevcut değil</string>
+    <string name="firebase_database_url">https://originfileexplorer.firebaseio.com</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -401,12 +401,15 @@
     <string name="function_use_imei">"IMEI'ye erişmek ve dosyaları şifrelemek için; "</string>
     <string name="gbk_summary">Basitleştirilmiş Çince Windows varsayılan kodlaması</string>
     <string name="gbk_title">GBK</string>
+    <string name="gcm_defaultSenderId">599532519894</string>
     <string name="gigabyteShort">GB</string>
     <string name="go_ahead">Aç</string>
+    <string name="google_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
+    <string name="google_app_id">1:599532519894:android:c760d23ee4fee168</string>
+    <string name="google_crash_reporting_api_key">AIzaSyBOhWk2NDbCBnkgtZ7mT4wgmwJvsAFo13Y</string>
+    <string name="google_storage_bucket">originfileexplorer.appspot.com</string>
     <string name="grid_mode">Tablo görünümü</string>
     <string name="group_title">%1$s kaynağından %2$s</string>
-    <string name="group_title_extra_backup">Yedekler</string>
-    <string name="group_title_extra_expire">Süresi dolmak üzere</string>
     <string name="group_title_extra_new">Yeni</string>
     <string name="guide_newfunc_content">Artık dosya biçimini filtreleyebilir, öğeleri yeniden düzenleyebilir ve kısayola dokunarak görünümler arasında geçiş yapabilirsiniz</string>
     <string name="guide_newfunc_title">Yeni özellik</string>
@@ -439,6 +442,7 @@
     <string name="if_cancel">Bu işlem iptal edilsin mi?</string>
     <string name="image_loading_error">İmaj yüklenemedi</string>
     <string name="imm_str_storage">Depolama</string>
+    <string name="import_files_from_old_phones">Import from old device</string>
     <string name="instruction">Belirtilen adresi FTP istemcisine girin: </string>
     <string name="instruction_pre_pad">FTP sunucusu başlatmak için dokunun</string>
     <string name="instruction_pre_phone">FTP sunucusu başlatmak için dokunun</string>
@@ -452,7 +456,6 @@
     <string name="least_quick_category_hint">En az %d kısayol ekle</string>
     <string name="list_mode">Liste görünümü</string>
     <string name="load_more">Daha fazla görüntüle</string>
-    <string name="load_more_fail">Yüklenemedi</string>
     <string name="loading">Yükleniyor</string>
     <string name="local_image">Fotoğraflar</string>
     <string name="local_music">Ses dosyaları</string>
@@ -466,7 +469,6 @@
     <string name="megabyteShort">MB</string>
     <string name="menu_item_cleanup">Temizle</string>
     <string name="menu_item_ftp">FTP</string>
-    <string name="menu_item_midrop">Mi drop</string>
     <string name="menu_item_router">Yönlendirici</string>
     <string name="menu_item_search">Arama</string>
     <string name="menu_item_sort">Sırala</string>
@@ -484,9 +486,6 @@
     <string name="midnight">Gece</string>
     <string name="midriver_install_button_text">Yükle</string>
     <string name="midriver_not_install_title">Mi sürücü kaldırıldı</string>
-    <string name="midrop_msg_1">"Mi drop'u diğer cihazda açın"</string>
-    <string name="midrop_msg_2">Mi drop açık olduğunda, çevrenizdeki cihazları arayabilir ve dosya gönderebilirsiniz</string>
-    <string name="midrop_send_files">Paylaşılacak dosyaları seçin</string>
     <string name="mirror_can_not_drag_mask">Mi paylaşmayı kullanmak için sürükleyin</string>
     <string name="mirror_can_not_drag_mask_new">Öğeleri %s içine sürükleyin</string>
     <string name="mirror_new_name">Klasör oluştur (%s)</string>
@@ -610,7 +609,7 @@
     <string name="mtrl_picker_range_header_only_start_selected">Bitiş tarihi - %1$s</string>
     <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Bir tarih aralığı seçin</string>
-    <string name="mtrl_picker_range_header_unselected">Baslangic tarihi -  Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_unselected">"Baslangic tarihi -  Bitiş tarihi"</string>
     <string name="mtrl_picker_save">Kaydet</string>
     <string name="mtrl_picker_text_input_date_hint">Tarih</string>
     <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
@@ -659,7 +658,8 @@
     <string name="operation_del_fav">Favorilerden kaldırılıyor</string>
     <string name="operation_delete">Sil</string>
     <string name="operation_delete_confirm_message">Silinsin mi?</string>
-    <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecektir. "</string>
+    <string name="operation_delete_confirm_message_folder">"Tüm klasör içeriği silinecektir
+"</string>
     <string name="operation_deleting">Siliniyor</string>
     <string name="operation_encrypt_summary">Özel klasördeki dosyaları şifreleyin. Büyük dosyaların şifresinin çözülmesi beklenenden daha uzun sürebilir</string>
     <string name="operation_encrypt_title">Özel dosyaları şifrele</string>
@@ -683,14 +683,10 @@
     <string name="operation_show_privacy_policy">Gizlilik politikasını göster</string>
     <string name="operation_show_sys">Gizli dosyaları göster</string>
     <string name="operation_unfavorite">Favorilerden kaldır</string>
-    <string name="optional_change_wifi">Wifi ile dosyaları uzaktan yönetmek için</string>
     <string name="otg_data_transfer_success">Başarılı bir şekilde aktarıldı</string>
     <string name="otg_data_transferring">Dosyalar aktarılıyor. Harici depolama biriminin bağlantısını kesmeyin</string>
-    <string name="otg_file_security_confirm">Telefona kopyala</string>
-    <string name="otg_file_security_details">Lütfen telefona kopyalayın</string>
     <string name="otg_file_security_note">OTG Güvenliği</string>
     <string name="overwrite_msg">%s zaten mevcut. Yeni dosya ile değiştirmek için dokunun</string>
-    <string name="pad">Dahili depolama</string>
     <string name="partial_cancel_successful">Bazı dosyalar kaldırılamadı. Kalan dosyalar %s konumuna taşındı</string>
     <string name="partial_delete_failure">Bazı dosyalar silinemedi. Tekrar deneyin</string>
     <string name="partial_encrypt_success">Bazı dosyalar gizlenemedi. Tekrar deneyin</string>
@@ -729,7 +725,7 @@
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_renew">Güncellenmiş gizlilik politikası</string>
-    <string name="privacy_policy_renew_content"><Data>"Dosya yöneticisinin &lt;a href=\"%1$s\">Gizlilik politikası&lt;/a> güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için devam etmeden önce gizlilik politikasının yeni sürümünü okuyun ve kabul edin"</Data></string>
+    <string name="privacy_policy_renew_content">"Dosya yöneticisinin <a href="%1$s">Gizlilik politikası</a> güncellendi. Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için devam etmeden önce gizlilik politikasının yeni sürümünü okuyun ve kabul edin"</string>
     <string name="private_files">Gizli</string>
     <string name="private_folder">Gizli klasörler</string>
     <string name="private_folder_no_file_hints">Gizli dosya yok</string>
@@ -737,19 +733,15 @@
     <string name="private_folder_update_msg">Dosyalar uygulaması ek bir güvenlik önlemi getiriyor: Özel dosyaları şimdi şifreleyebilirsiniz</string>
     <string name="private_folder_update_msg_summary">Şifre çözme dosyaların özel klasörden kaldırılmasını yavaşlatır. Ayarlardan şifrelemeyi açıp kapatabilirsiniz</string>
     <string name="private_folder_update_tips">Yeni özellik</string>
-    <string name="private_toast_hint2">Bir dosyayı gizlemek için dosyaya basın ve basılı tutun. Ardından gizli klasöre ekleyin</string>
+    <string name="project_id">originfileexplorer</string>
     <string name="promot_enctypt_password">Cihaz kilidini açmak için kullandığınız şifreyi girin</string>
     <string name="pull_to_enter_private">Özel klasörü açmak için aşağı çekin</string>
-    <string name="pull_to_refresh">Yenilemek için aşağıya çek</string>
     <string name="qq_msg">Android 11 kısıtlamaları nedeniyle dosyalar QQ belgelerine erişemez ve bunları görüntüleyemez</string>
     <string name="qq_title">WeChat belgelerine erişilemiyor</string>
     <string name="recent_hide_camera_and_screenshots">Galeri öğelerini gösterme</string>
-    <string name="refresh_fail">Yenileme başarısız oldu</string>
     <string name="refresh_success">Yenileme tamamlandı</string>
-    <string name="refreshing">Yenileniyor</string>
     <string name="reinstall_midriver_message">Şimdi tekrar yüklensin mi?</string>
     <string name="release_enter_private">Özel klasörü açmak için serbest bırakın</string>
-    <string name="release_refresh">Yenilemek için bırakın</string>
     <string name="remainder_size">Kalan: %s</string>
     <string name="rename_alert">Bu dosyanın uzantısını değiştirmeniz durumunda, dosyayı açamayabilirsiniz</string>
     <string name="rename_alert2">Dosya uzantısını değiştirmenizden sonra dosya gizlenecektir</string>
@@ -868,7 +860,6 @@
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
     <string name="switch_doc_type">Format seç</string>
-    <string name="sys_size_enable">kullanılabilir</string>
     <string name="tab_app">Daha fazla</string>
     <string name="tab_category">Kategoriler</string>
     <string name="tab_common_app">Uygulamalar &amp; klasörler</string>

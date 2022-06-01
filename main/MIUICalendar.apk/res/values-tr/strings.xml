@@ -1324,6 +1324,8 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="talk_back_description_hide_menstruation">Adet bilgilerini gizle</string>
     <string name="talk_back_description_show_menstruation">Adet bilgilerini göster</string>
     <string name="talk_back_month">Ay</string>
+    <string name="talk_back_month_panel_collapsed">Ay görünümünü daralt</string>
+    <string name="talk_back_month_panel_expand">Ay görünümünü genişlet</string>
     <string name="talk_back_read_date">%1$s (%2$s ay takvimine göre)</string>
     <string name="talk_back_setting">Ayarlar</string>
     <string name="talk_back_tab_switch">Görünümler arasında geçiş yap</string>
@@ -1427,6 +1429,7 @@ Ağ ayarlarını kontrol edin ve tekrar deneyin"</string>
     <string name="today_icon_voice_contentdescription">Bugüne dön</string>
     <string name="today_no_event">Bugün için etkinlik yok</string>
     <string name="today_no_events">Etkinlik yok</string>
+    <string name="today_top_text">·Bugün TOP</string>
     <string name="todo_audio_event">"[Ses görevi] "</string>
     <string name="todo_event">Yaklaşan görevler</string>
     <string name="toggle_month_view">Ay görünümü</string>

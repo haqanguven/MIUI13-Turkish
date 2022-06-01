@@ -89,6 +89,10 @@
         <item quantity="other">%1$d öğe</item>
         <item quantity="one">%1$d öğe</item>
     </plurals>
+    <plurals name="all_story_count_desc">
+        <item quantity="other">%d hatıra</item>
+        <item quantity="one">%d hatıra</item>
+    </plurals>
     <plurals name="baby_album_sharer_recommand_new_pictures">
         <item quantity="other">%2$s isimli bebeğin %1$d fotoğrafı eklenecektir</item>
         <item quantity="one">%2$s isimli bebeğin %1$d fotoğrafı eklenecektir</item>
@@ -555,6 +559,14 @@
     <plurals name="talkback_album_item_content">
         <item quantity="other">%1$s, %2$s öğe</item>
         <item quantity="one">%1$s, %2$s öğe</item>
+    </plurals>
+    <plurals name="today_of_year_location_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
+    </plurals>
+    <plurals name="today_of_year_photo_num_unit">
+        <item quantity="other"></item>
+        <item quantity="one"></item>
     </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d seçili öğe buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>

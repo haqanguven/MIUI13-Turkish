@@ -277,6 +277,7 @@
     <string name="connect_now">Bağlan</string>
     <string name="connecting_apk">Bağlanılıyor</string>
     <string name="content_country_key">content_country</string>
+    <string name="content_failed_to_load">İçerik yüklenemedi</string>
     <string name="content_language_key">content_language</string>
     <string name="copy">Kopyala</string>
     <string name="count_format">%2$1.0fK</string>

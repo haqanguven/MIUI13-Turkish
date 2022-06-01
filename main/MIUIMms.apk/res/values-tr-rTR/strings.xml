@@ -1365,6 +1365,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="status_unread">Okunmadı</string>
     <string name="stick">Sabitle</string>
     <string name="stick_conversation">Geçerli konuşmayı sabitle</string>
+    <string name="sticked">Başarıyla sabitlendi</string>
     <string name="sticked_conversation">Konuşma zaten sabitlenmiş</string>
     <string name="storage_dialog_attachments">"Multimedya eklentileri: "</string>
     <string name="storage_dialog_available_space">"Kullanılabilir alan: "</string>
@@ -1558,8 +1559,9 @@ Son deneme: %s"</string>
     <string name="unknown_num">Bilinmeyen numara</string>
     <string name="unknown_sender">Bilinmeyen gönderen</string>
     <string name="unstick">Sabitmelemeyi kaldır</string>
-    <string name="unstick_conversation">Geçerli konuşmanın sabitmelemesini kaldır</string>
-    <string name="unsticked_conversation">Sabitmeleme zaten kaldırılmış</string>
+    <string name="unstick_conversation">Sabitmelemeyi kaldır</string>
+    <string name="unsticked">Sabitlenme kaldırıldı</string>
+    <string name="unsticked_conversation">Sabitleme zaten kaldırılmış</string>
     <string name="unsubscribe">Abonelikten çık</string>
     <string name="unsupported_media_format">Desteklenmeyen %1$s formatı</string>
     <string name="updating">Güncelleniyor</string>

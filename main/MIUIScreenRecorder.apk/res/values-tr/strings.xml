@@ -231,6 +231,7 @@ Görüntülemek için dokunun"</string>
     <string name="hint_volume_down">Sesi azalt</string>
     <string name="hint_volume_up">Sesi yükselt</string>
     <string name="home_title_none">Seçili öğeler</string>
+    <string name="invisible_mode_error_tip">Gizlisin. Ses kaydı yapılamıyor</string>
     <string name="is_checked">Seçildi</string>
     <string name="is_go_home">Ekran kaydediciye geri dön</string>
     <string name="is_go_home_summary">Kaydı durdurduktan sonra ekran kaydedicinin başlangıç sayfasını aç</string>

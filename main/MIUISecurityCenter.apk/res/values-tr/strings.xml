@@ -195,12 +195,21 @@
     <string name="antispam_notificaiton_type_show_none">Asla</string>
     <string name="antispam_notification_setting_title">Bildirimler</string>
     <string name="antispam_xpace_text">Engelli listesini ayarlamak için ilk alana geçin</string>
+    <string name="antivirus_antidefraud_risk_desc">Bu uygulama ulusal dolandırıcılıkla mücadele merkezi tarafından bir finansal dolandırıcılık uygulaması olarak sınıflandırılmıştır. Olası riskleri önlemek için kaldırın</string>
+    <string name="antivirus_antidefraud_risk_type">Finansal dolandırıcılık</string>
+    <string name="antivirus_antidefraud_risk_type_label">Finansal dolandırıcılık ve güvenlik riskleri</string>
     <string name="antivirus_browser_check">Mi tarayıcıda internet sitelerini kontrol edin</string>
     <string name="antivirus_browser_check_summary">İnternet sitelerini Mi tarayıcıda otomatik olarak kontrol edin ve olası riskler hakkında uyarılar alın</string>
     <string name="antivirus_choose_engine">%s</string>
     <string name="antivirus_choose_engine_dialog_title">Veri tabanını seçin</string>
     <string name="antivirus_choose_engine_settings">Virüs veri tabanı ayarları</string>
     <string name="antivirus_choose_engine_title">Veri tabanları</string>
+    <string name="antivirus_detect_apps_dialog_cancel">Yoksay</string>
+    <string name="antivirus_detect_apps_dialog_content">%s ulusal dolandırıcılıkla mücadele merkezi tarafından bir mali dolandırıcılık uygulaması olarak sınıflandırılıyor. Bu uygulama önemli güvenlik riskleri oluşturmaktadır</string>
+    <string name="antivirus_detect_apps_dialog_uninstall">Kaldır</string>
+    <string name="antivirus_detect_apps_noti_message">Bu uygulama güvenlik riskleri oluşturuyor</string>
+    <string name="antivirus_detect_apps_noti_title">%s dahil birden çok uygulama güvenlik riski oluşturabilir</string>
+    <string name="antivirus_detect_single_app_noti_title">%s güvenlik riskleri oluşturabilir</string>
     <string name="antivirus_longtime_no_update">Virüs tanımlamalarınız eski gibi görünüyor. Düzenli güncellemeler daha iyi tarama sonucu almanızı sağlar. Tanımlamaları güncelleyin ve yeniden deneyin. Güvenlik uygulamasının internete bağlanmasına izin verilip virüs tanımlamaları güncellensin mi?</string>
     <string name="antivirus_longtime_no_update1">Virüs tanımlamalarınız eski gibi görünüyor. Düzenli güncellemeler daha iyi tarama sonucu almanızı sağlar. Tanımlamaları güncelleyin ve yeniden deneyin</string>
     <string name="antivirus_main_activity_back">Güvenlik taramasına geri dön</string>
@@ -212,6 +221,7 @@
     <string name="antivirus_monitored_app_empty">Uyumlu ödeme uygulamaları bulunamadı</string>
     <string name="antivirus_monitored_tips">Olası riskler için ödeme ortamını otomatik olarak kontrol edin</string>
     <string name="antivirus_none_engine_dialog_ok">Tamam</string>
+    <string name="antivirus_not_remind_for_app">Bu uygulama hakkında bir daha uyarma</string>
     <string name="antivirus_not_wlan">Wifi ağına bağlı değilsiniz. Mobil veri kullanmanız ek veri kullanım ücretlerine neden olabilir. Yine de devam edilsin mi?</string>
     <string name="antivirus_privacy_dialog_cloudscan">Uygulama adlarını ve detaylarını karşıya yükle</string>
     <string name="antivirus_privacy_dialog_cloudscan_description">Uygulama isimlerini ve ayrıntıları yükle ve çevrimiçi virüs veritabanını kullanarak tara</string>
@@ -2237,12 +2247,21 @@ Dizileri kaydedin ve istediğiniz zaman kullanı"</string>
     <string name="gb_not_support_on_device">Bu uygulama dış ekranda kullanılamaz</string>
     <string name="gb_operat_frequently">Çok hızlı değil</string>
     <string name="gb_performance_balance">Dengeli mod</string>
-    <string name="gb_performance_balance_tips">"Dengeli mod yenileme hızı ve sıcaklık sınırlarını\u000d
+    <string name="gb_performance_balance_tips">"Dengeli mod yenileme hızı ve sıcaklık sınırlarını
 düşürürken güç tasarrufu sağlar"</string>
     <string name="gb_performance_high">Performans modu</string>
     <string name="gb_performance_mode">Oyun modu</string>
     <string name="gb_performance_tips">"Performans modu telefon performansını artırabilir
 Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kullanım önerilmemektedir"</string>
+    <string name="gb_predownload_dialog_cancel">Hayıt</string>
+    <string name="gb_predownload_dialog_checked">Tekrar gösterme</string>
+    <string name="gb_predownload_dialog_confirm">Aç</string>
+    <string name="gb_predownload_dialog_message_china">Bu oyun için güncellenmiş içerik wifi ağına bağlandıktan ve ekranı kapattıktan sonra bu cihaza otomatik olarak indirilebilir. Böylece yeni sürümü çıkar çıkmaz kullanabileceksiniz. Bu özelliği kullanmadan önce arka plan güncellemeleriyle ilgili %1$s bildirimini okuyun ve kabul edin</string>
+    <string name="gb_predownload_dialog_title">Arka plan güncellemeleri artık kullanılabilir</string>
+    <string name="gb_predownload_message">Bu cihazı kullanmadığınızda arka planda King of Glory, Game for Peace ve diğer uyumlu oyunları güncelleyin</string>
+    <string name="gb_predownload_noti_message">%2$1.2f GB güncellenmiş içerik bu cihazda zaten var. Yeni sürüm yayınlanır yayınlanmaz onu kullanabileceksiniz</string>
+    <string name="gb_predownload_noti_title">%s arka planda başarıyla güncellendi</string>
+    <string name="gb_predownload_title">Arka plan güncellemeleri</string>
     <string name="gb_shortcut_pref_title">Ana ekran kısayolu</string>
     <string name="gb_shoulder_guide_message1">Açılır tetikleyici aracılığıyla kullanmak için [L] öğesini herhangi bir işlevsel konuma getirin</string>
     <string name="gb_shoulder_guide_message2">Eylem [1] düğmeye basılarak etkinleştirilir. Eylem [2] düğme bırakılarak etkinleştirilir</string>
@@ -2290,6 +2309,7 @@ Ayrıca güç tüketimini ve ısı üretimini artıracağından uzun süreli kul
     <string name="gb_signed_gift_loading_fail">Yüklenemedi</string>
     <string name="gb_signed_gift_loading_summary">Yükleniyor</string>
     <string name="gb_signed_title">Bu ay kontrol edildi</string>
+    <string name="gb_smart_battery_surplus_new">%1$s %2$s kaldı</string>
     <string name="gb_sound_audition">Dene</string>
     <string name="gb_storage_game_dialog_button_timer">%d saniye</string>
     <string name="gb_storage_game_dialog_message">İndirdiğiniz oyun otomatik olarak oyun hızlandırmaya dahil edilecek ve oyun simgesi artık masaüstünde görüntülenmeyecektir. Depolama işlevini açtığınızdan emin misiniz?</string>
@@ -4725,7 +4745,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sms_service">Servis mesajlarını engelle</string>
     <string name="sms_smart_engine_update">Mesaj filtresini otomatik olarak güncelle</string>
     <string name="sms_smart_engine_update_now">Güncelleştir</string>
-    <string name="sms_stranger_block">Yabancılardan gelen mesajları engelle</string>
+    <string name="sms_stranger_block">Engellendi</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
     <string name="solar_term_autumn_equinox">Sonbahar ekinoksu</string>
     <string name="solar_term_clear_and_bright">Açık ve parlak</string>
@@ -4822,6 +4842,10 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sp_sos_title">Acil yardım</string>
     <string name="sp_system_security_title">Sistem güvenliği</string>
     <string name="sp_toast_removed_from_sign_white_list">İstisnalardan kaldırıldı. Öğe bir sonraki tarama işleminde taranacaktır</string>
+    <string name="sp_unshelf_dialog_cancel_pay">İptal et</string>
+    <string name="sp_unshelf_dialog_content">%s GetApps güvenlik testlerini geçemedi. Uygulama içi ödemelerin kullanılması finansal kayıplara neden olabilir. Yine de ödensin mi?</string>
+    <string name="sp_unshelf_dialog_continue_pay">Öde</string>
+    <string name="sp_unshelf_dialog_title">Tespit edilen riskler</string>
     <string name="sp_website_scan_summary">İnternette güvenli gezinme</string>
     <string name="sp_website_scan_title">İnternet sitelerini kontrol et</string>
     <string name="special_number_group">Bildirilen numaraları engelle</string>
@@ -5554,7 +5578,7 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_result_flashlight">El feneri</string>
     <string name="title_result_hotspot">Bağlantı noktası</string>
     <string name="title_result_location">Konum</string>
-    <string name="title_result_lock_screen">Lock screen</string>
+    <string name="title_result_lock_screen">Kilit ekranı</string>
     <string name="title_result_music">Müzik çal</string>
     <string name="title_result_mute">Sessiz mod</string>
     <string name="title_result_network">Mobil veri</string>
@@ -5562,14 +5586,14 @@ kırmızı zarf alarmını açın"</string>
     <string name="title_result_rotate_off">Ekran yönü</string>
     <string name="title_result_save_battery">Pil tasarrufu</string>
     <string name="title_result_screen_brightness">Ekran parlaklığı</string>
-    <string name="title_result_screen_display">Always-on display</string>
+    <string name="title_result_screen_display">Her zaman açık ekran</string>
     <string name="title_result_start_activity">Uygulamayı aç</string>
     <string name="title_result_switch">Kapat</string>
     <string name="title_result_touch">Dokunsal geri bildirim</string>
     <string name="title_result_twinkle">Titreme önleme modu</string>
     <string name="title_result_typeface">Yazı boyutu &amp; yazı tipi ağırlığı</string>
-    <string name="title_result_wlan">WLAN</string>
-    <string name="title_result_zen_mode">DND mode</string>
+    <string name="title_result_wlan">Wifi</string>
+    <string name="title_result_zen_mode">Rahatsız etme modu</string>
     <string name="title_safe_mode">Güvenli modu aç</string>
     <string name="title_show_notification">Bildirim çubuğu aracı</string>
     <string name="title_system_auto_download">Güncellemeler otomatik olarak indirilecektir</string>

@@ -33,7 +33,7 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
     <string name="app_is_running">Uygulama çalışıyor</string>
-    <string name="app_name">Bulut yedekleme</string>
+    <string name="app_name">Buedekleme</string>
     <string name="arrange_restore_order">Uygulamalar yeniden ayarlanıyor</string>
     <string name="as_new_device">Eski ana ekran ve ayarlarını geri yükle</string>
     <string name="as_new_device_summary">Eski Xiaomi bulut yedeklemelerini sil</string>
@@ -210,11 +210,11 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup_detail_frequence">Zamanlı yedekleme</string>
     <string name="cloud_backup_detail_frequence_every_7_day">Her %d günde bir yedekleyin</string>
     <string name="cloud_backup_detail_frequence_every_day">Her gün yedekleyin</string>
-    <string name="cloud_backup_detail_header_msg">"Artık cihazınızın ana ekran düzenini, uygulamalarını, sistem ayarlarını ve WeChat verilerini yedekleyebilirsiniz.. &lt;font color=#0D84FF>&lt;a href=>Daha fazla bilgi edinmek için dokunun&lt;/a>&lt;/font>"</string>
+    <string name="cloud_backup_detail_header_msg">Artık cihazınızın ana ekran düzenini, uygulamalarını, sistem ayarlarını ve WeChat verilerini yedekleyebilirsiniz</string>
     <string name="cloud_backup_detail_local_backup_size">Yedekleme boyutu: %s</string>
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_no_time">Yedek kayıt yok</string>
-    <string name="cloud_backup_detail_state">Xiaomi bulut yedekleme</string>
+    <string name="cloud_backup_detail_state">Otomatik yedekle</string>
     <string name="cloud_backup_detail_state_summary">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
     <string name="cloud_backup_detail_state_summary_china">Wifi ağına bağlandığında Xiaomi bulut yedeklerini otomatik olarak oluşturun</string>
     <string name="cloud_backup_detail_time">Son yedekleme: %1$s</string>
@@ -231,7 +231,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup_select_recover">Xiaomi bulut alanından yedek seç</string>
     <string name="cloud_restore_from_other_device">%s cihazından geri yüklemeyi durdup ve bu yedek silinsin mi? Bu işlemi geri alamazsınız</string>
     <string name="cloud_restore_task">Geri yükleniyor</string>
-    <string name="cloud_task_in_process">%s işlem durdurulsun ve bu yedek silinsin mi? Bu işlemi geri alamazsınız!</string>
+    <string name="cloud_task_in_process">%s işlem durdurulsun ve bu yedek silinsin mi? Bu işlemi geri alamazsınız</string>
     <string name="collect_diagnosis_log">Tanı günlüğünü topla</string>
     <string name="confirm_restore">Geri yükle</string>
     <string name="confirm_restore_app_data">Uygulama verilerinin üzerine yaz</string>
@@ -489,9 +489,9 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="morning">Sabah</string>
     <string name="msg_alert_cancel_restore">Bulut yedekleme geri yükleniyor. Durdurulsun mu?</string>
     <string name="msg_alert_restore_error">Bulut yedeklemesinden geri yüklenemedi. Lütfen tekrar deneyin</string>
-    <string name="msg_restore_start_with_metered_network">"Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecek. &lt;br />&lt;b>&lt;font color='red'>%s dosya indirilecektir&lt;/font>&lt;/b>"</string>
+    <string name="msg_restore_start_with_metered_network">Ana ekranınız yeniden başlatılacak. Yedeklenen uygulamalar otomatik olarak indirilecek. %s dosya indirilecektir</string>
     <string name="msg_restore_with_metered_network_hint">Bu öğeleri geri yüklemeye devam ederseniz mobil veri indirmek için kullanılacaktır</string>
-    <string name="msg_restore_with_metered_network_pattern">"&lt;font color='red'>&lt;b>%s&lt;/b>&lt;/font> dosya indirilecektir"</string>
+    <string name="msg_restore_with_metered_network_pattern">%s dosya indirilecektir</string>
     <string name="network_error">Ağa bağlan</string>
     <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>

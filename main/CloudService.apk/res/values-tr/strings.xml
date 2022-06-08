@@ -39,7 +39,7 @@
     <string name="activating">Etkinleştiriliyor</string>
     <string name="afternoon">ÖS</string>
     <string name="agree_and_continue">Kabul et</string>
-    <string name="agreement_and_privacy_description">Devam etmeden önce Xiaomi bulutun <u><a href="%1$s">Gizlilik poliyikası ve <u><a href="%2$s">Kullanıcı sözleşmesi okuyun</a></u></a></u> ve kabul edin</string>
+    <string name="agreement_and_privacy_description">Devam etmeden önce Xiaomi bulutun %1$s Gizlilik politikası ve %2$s Kullanıcı sözleşmesini okuyun ve kabul edin</string>
     <string name="alert_sync_data_merge_dialog_title">Öğeler birleştirilecek</string>
     <string name="alert_sync_merge_dialog_cancel">İptal et</string>
     <string name="alert_sync_merge_dialog_confirm">Aç</string>
@@ -521,7 +521,7 @@
     <string name="micloud_privacy_cloud_off">Senkronizasyon kapalı</string>
     <string name="micloud_privacy_cloud_sync">Xiaomi bulut hizmetlerini aç</string>
     <string name="micloud_privacy_explanation">Xiaomi bulut hizmetlerini açmak için yetkilendirme</string>
-    <string name="micloud_privacy_licence_agreed">Xiaomi bulut <u><a href="app://com.miui.cloudservice.gdpr.license">Gizlilik politikasını kabul </a></u>edin</string>
+    <string name="micloud_privacy_licence_agreed">"Xiaomi bulut gizlilik politikasını okuyun ve kabul edin: app://com.miui.cloudservice.gdpr.license"</string>
     <string name="micloud_privacy_progress_content">Yetkilendirme veriliyor</string>
     <string name="micloud_privacy_warning_button">Geri</string>
     <string name="micloud_privacy_warning_content">Xiaomi bulut hizmetleri açılamıyor. Bir ya da iki dakika bekleyin ve tekrar deneyin</string>
@@ -578,7 +578,7 @@
     <string name="micloud_sync_result_sim_activated_error">Sim kart etkinleştirilemedi</string>
     <string name="micloud_sync_result_wifi_only">Bu öğe çok büyük. Wifi ağına bağlandığınızda senkronize edin</string>
     <string name="micloud_sync_result_wifi_only_china">Bu öğe çok büyük. Wifi ağına bağlandığınızda senkronize edin</string>
-    <string name="micloud_upgrade_storage">Depolama planını yükseltin</string>
+    <string name="micloud_upgrade_storage">Depolama alanını yükseltin</string>
     <string name="micloud_wipe_data_confirm_label">Xiaomi buluttan verileri kaldır</string>
     <string name="micloud_wipe_data_confirm_title">Aşağıdaki uygulamalardan bazı öğeler Xiaomi bulut ile senkronize edilir. Bunları bulutta tutarak bu cihazdan silebilirsiniz</string>
     <string name="micloud_wipe_data_remove">Kaldır</string>
@@ -908,7 +908,7 @@ Ağ bağlantısı zayıf olduğunda konum bilgisi bildirilmeyebilir"</string>
     <string name="soundrecorder_sync_records">Xiaomi bulut ile senkronize et</string>
     <string name="starred_contact">Favoriler</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="storage_manage_cloud_data_title">Buluttaki öğeleri görüntüleyin</string>
+    <string name="storage_manage_cloud_data_title">Buluttaki öğeleri görüntüle</string>
     <string name="storage_manage_list_title">Bulut verisi</string>
     <string name="storage_manage_list_title_action">Daha fazla göster</string>
     <string name="storage_upgrade_card_title">Yükselt</string>

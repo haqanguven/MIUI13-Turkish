@@ -408,10 +408,14 @@
     <string name="engine_cm">Clean Master</string>
     <string name="engine_init">Başlatılıyor</string>
     <string name="engine_mi">Xiaomi</string>
-    <string name="engine_tm">Tencent</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="evening">Öğleden sonra</string>
+    <string name="exit_guide_track_component_value_clean_master">Temizleyici 2*2</string>
+    <string name="exit_guide_track_function_value_clean_master">Temizleyici</string>
+    <string name="exit_guide_track_quite_value_activity_finish">Sayfayı kapat</string>
+    <string name="exit_guide_track_quite_value_click_add">Widget eklemek için tıklayın</string>
+    <string name="exit_guide_track_quite_value_click_exit">Kapatmak için tıklayın</string>
     <string name="exo_download_completed">İndirme tamamlandı</string>
     <string name="exo_download_description">İndir</string>
     <string name="exo_download_downloading">İndiriliyor</string>
@@ -907,7 +911,6 @@
     <string name="open_browser">Tarayıcıda aç</string>
     <string name="open_file_error">Bu dosyayı açabilecek uygulama bulunamadı</string>
     <string name="optimizecenter_data_support_cm">" "</string>
-    <string name="optimizecenter_data_support_tc">" "</string>
     <string name="output_videos">Videoları dışa aktar</string>
     <string name="permission_dialog_storage_btn1">Ayarlar</string>
     <string name="permission_dialog_storage_btn2">İptal et</string>
@@ -970,6 +973,7 @@
     <string name="preference_key_cleanup_white_list">key_cleanup_white_list</string>
     <string name="preference_key_create_onekeyclean_shortcut">key_create_onekeyclean_shortcut</string>
     <string name="preference_key_default_expand_cache_group">key_default_expand_cache_group</string>
+    <string name="preference_key_engine_category">key_engine_category</string>
     <string name="preference_key_garbage_clean_alert">key_garbage_clean_alert</string>
     <string name="preference_key_garbage_cleanup_auto_check_size">key_garbage_cleanup_auto_check_size</string>
     <string name="preference_key_garbage_cleanup_auto_check_time">key_garbage_cleanup_auto_check_time</string>
@@ -1100,6 +1104,7 @@
     <string name="start_downloading_app">İndirme işlemine başlanıyor: %1$s</string>
     <string name="start_install">Şimdi yükle</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_system_log">Sistem kayıtları</string>
     <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="summary_delete_apk">"Seçili Apk'lar kalıcı olarak silinsin mi?"</string>
     <string name="summary_delete_cache">Seçili uygulamaların önbellek verileri temizlensin mi?</string>

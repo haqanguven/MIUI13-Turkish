@@ -869,6 +869,11 @@ Neden: %s"</string>
     <string name="importing_vcard_finished_title">%s vKart dosyasının içe aktarımı tamamlandı</string>
     <string name="insertContactDescription">Kişi oluştur</string>
     <string name="invalidContactMessage">Kişi mevcut değil</string>
+    <string name="invisible_mode_dialog_cancel">İptal et</string>
+    <string name="invisible_mode_dialog_to_close">Kapat</string>
+    <string name="invisible_mode_title">Gizlisin</string>
+    <string name="invisible_mode_unable_connect_camera">Kamerayı kullanabilmek için gizli modu kapatın. Şimdi kapatılsın mı?</string>
+    <string name="invisible_mode_unable_get_location">Konum servislerini kullanabilmek ve Bluetooth aracılığıyla diğer cihazlardan kişileri içe aktarabilmek için Gizli modu kapatın. Şimdi kapatılsın mı?</string>
     <string name="item_offical">Resmi</string>
     <string name="keep_local">Senkronize etme</string>
     <string name="keep_local_btn">Telefonun dahili depolama alanını kullan</string>

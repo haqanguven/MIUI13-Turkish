@@ -33,13 +33,13 @@
         <item quantity="other">%d yanıtı görüntüle</item>
         <item quantity="one">%d yanıtı görüntüle</item>
     </plurals>
+    <plurals name="dialog_app_rating_choose_star">
+        <item quantity="other">%s yıldız seçildi</item>
+        <item quantity="one">%s yıldız seçildi</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
         <item quantity="one">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
-    </plurals>
-    <plurals name="follower">
-        <item quantity="other">%d takipçi</item>
-        <item quantity="one">%d takipçi</item>
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
@@ -57,8 +57,70 @@
         <item quantity="other">%d dakika içerisinde</item>
         <item quantity="one">1 dakika içerisinde</item>
     </plurals>
+    <plurals name="incentive_dialog_congratulation_get_credits_title">
+        <item quantity="other">%d puan kazandınız</item>
+        <item quantity="one">%d puan kazandınız</item>
+    </plurals>
+    <plurals name="incentive_dialog_credits">
+        <item quantity="other">%d puan</item>
+        <item quantity="one">%d puan</item>
+    </plurals>
+    <plurals name="incentive_dialog_login_and_get_credits_message">
+        <item quantity="other">Talep etmek için oturum açın ve %d ekstra puan kazanın</item>
+        <item quantity="one">Talep etmek için oturum açın ve %d ekstra puan kazanın</item>
+    </plurals>
+    <plurals name="incentive_dialog_seconds">
+        <item quantity="other">%d saniye</item>
+        <item quantity="one">%d saniye</item>
+    </plurals>
+    <plurals name="incentive_guide_all_time_tip">
+        <item quantity="other">Puan kazanmak için toplam %d dakika izleyin. Görevi şimdi tamamlansın mı?</item>
+        <item quantity="one">Puan kazanmak için toplam %d dakika izleyin. Görevi şimdi tamamlamlansın mı?</item>
+    </plurals>
+    <plurals name="incentive_guide_coins_tip">
+        <item quantity="other">"Alınacak %d puanınız var
+Yalnızca bugün mevcuttur"</item>
+        <item quantity="one">"Alınacak %d puanınız var
+Yalnızca bugün mevcuttur"</item>
+    </plurals>
+    <plurals name="incentive_guide_current_time_tip">
+        <item quantity="other">Bugün %d dakika izlediniz</item>
+        <item quantity="one">Bugün %d dakika izlediniz</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_begin">
+        <item quantity="other">%d puan kazan</item>
+        <item quantity="one">%d puan kazan</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_finish">
+        <item quantity="other">Bugünün görevleri tamamlandı. %d puan kazandınız</item>
+        <item quantity="one">Bugünün görevleri tamamlandı. %d puan kazandınız</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_of_one">
+        <item quantity="other">%1$1d saniye. izlediniz ve %2$2d puan kazandınız</item>
+        <item quantity="one">%1$1d saniye. izlediniz ve %2$2d puan kazandınız</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip1">
+        <item quantity="other">%d puan kazanmak için rastgele bir video izleyin</item>
+        <item quantity="one">%d puan kazanmak için rastgele bir video izleyin</item>
+    </plurals>
+    <plurals name="incentive_task_watchvideo_tip2">
+        <item quantity="other">%1$2d puan kazanmak için %2$1d saniyelik bir video izleyin</item>
+        <item quantity="one">%1$2d puan kazanmak için %2$1d saniyelik bir video izleyin</item>
+    </plurals>
+    <plurals name="incentive_toast_share_success">
+        <item quantity="other">%d puan kazandınız. Daha fazlasını kazanmak için paylaşmaya devam edin</item>
+        <item quantity="one">%d puan kazandınız. Daha fazlasını kazanmak için paylaşmaya devam edin</item>
+    </plurals>
+    <plurals name="incentive_toast_subscribe_success">
+        <item quantity="other">%d puan kazandınız. Daha fazlasını kazanmak için abone olmaya devam edin</item>
+        <item quantity="one">%d puan kazandınız. Daha fazlasını kazanmak için abone olmaya devam edin</item>
+    </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="local_diversion_video_number">
+        <item quantity="other">%d video</item>
+        <item quantity="one">%d video</item>
     </plurals>
     <plurals name="local_video_floder">
         <item quantity="other">%d klasör</item>
@@ -112,6 +174,14 @@
         <item quantity="other">%d yeni bildirim</item>
         <item quantity="one">%d yeni bildirim</item>
     </plurals>
+    <plurals name="new_incentive_toast_share_success">
+        <item quantity="other">Başarıyla paylaşıldı. %d puan kazandınız. Puan merkezinde talep edin</item>
+        <item quantity="one">Başarıyla paylaşıldı. %d puan kazandınız. Puan merkezinde talep edin</item>
+    </plurals>
+    <plurals name="new_incentive_toast_subscribe_success">
+        <item quantity="other">Başarıyla abone olundu. %d puan kazandınız. Puan merkezinde talep edin</item>
+        <item quantity="one">Başarıyla abone olundu. %d puan kazandınız. Puan merkezinde talep edin</item>
+    </plurals>
     <plurals name="notice_user_banned">
         <item quantity="other">"İçeriğiniz topluluk standartlarımızı ihlal eden öğeler içeriyor (%1$s). Hesabınız %2$s'e kadar %3$d gün askıya alındı"</item>
         <item quantity="one">"İçeriğiniz topluluk standartlarımızı ihlal eden öğeler içeriyor (%1$s). Hesabınız %2$s'e kadar %3$d gün askıya alındı"</item>
@@ -139,6 +209,10 @@
     <plurals name="plus_edit_top_titletext">
         <item quantity="other">%s öğe seçildi</item>
         <item quantity="one">%s öğe seçildi</item>
+    </plurals>
+    <plurals name="plus_local_edit_delete_confirm_text">
+        <item quantity="other">%s dosya kalıcı olarak silinsin mi?</item>
+        <item quantity="one">%s dosya kalıcı olarak silinsin mi?</item>
     </plurals>
     <plurals name="plus_player_subtitle_online_size">
         <item quantity="other">Dosya boyutu: %.2fKB</item>

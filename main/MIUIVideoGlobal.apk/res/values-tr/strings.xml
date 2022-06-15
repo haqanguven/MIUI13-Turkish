@@ -72,15 +72,10 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activate_email_notice">Hesabınızı 24 saat içerisinde etkinleştirdiğinizden emin olun</string>
     <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
-    <string name="ad">Reklam</string>
     <string name="ad_bar_notification_setting_sub_title">Bildirim çubuğunda etkinlikleri göster</string>
     <string name="ad_bar_notification_setting_title">Etkinlikler</string>
-    <string name="ad_buy">Satın al</string>
-    <string name="ad_download">İndir</string>
-    <string name="ad_join">Topluluğa katılın</string>
-    <string name="ad_more">Daha fazla</string>
     <string name="add_local_shortcut_add">+Ekle</string>
-    <string name="add_local_shortcut_des">"Yerel videolarınızı kolayca izlemek için videom"u masaüstüne ekleyin"</string>
+    <string name="add_local_shortcut_des">Yerel videolarınızı kolayca izlemek için videomu masaüstüne ekleyin</string>
     <string name="add_search_channel_link">Bağlantı</string>
     <string name="add_search_channel_name">Ad</string>
     <string name="add_search_channel_tip">Hedef internet sitesinde %s araması yapın ve ardından bağlantıyı kopyalayıp buraya yapıştırın</string>
@@ -110,10 +105,9 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_code">MOVIE-ANDROID-MIVIDEO</string>
     <string name="app_description_content">Videolar yerel bir video oynatıcı içeren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra da video dosyalarını oynatabileceksiniz</string>
-    <string name="app_description_title">Videolar ana ekrandan kaldırılsın mı?"</string>
+    <string name="app_description_title">Videolar ana ekrandan kaldırılsın mı?</string>
     <string name="app_name">Videolar</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
-    <string name="auth_again">Kabul et</string>
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="auto_play_next_off">Otomatik oynatma kapalı</string>
     <string name="auto_play_next_on">Otomatik oynatma açık</string>
@@ -153,7 +147,7 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">10 saniye ileri sar</string>
     <string name="cast_forward_30">30 saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
+    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
     <string name="cast_invalid_stream_duration_text">--:--</string>
     <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_live_label">Canlı</string>
@@ -284,29 +278,6 @@
     <string name="columbus_player_unit_sec">saniye</string>
     <string name="columbus_skip_ad">Atla</string>
     <string name="com.crashlytics.android.build_id">3089c4cf397c4bacbfa03b1ab3086471</string>
-    <string name="com_facebook_device_auth_instructions"><b>facebook.com/device</b> ziyaret edin ve yukarıda gösterilen kodu girin</string>
-    <string name="com_facebook_image_download_unknown_error">Görüntü indirilirken beklenmedik bir hata oluştu</string>
-    <string name="com_facebook_internet_permission_error_message">İnternet görünümü girişi için internet izni gerekiyor</string>
-    <string name="com_facebook_internet_permission_error_title">AndroidManifest hatası</string>
-    <string name="com_facebook_like_button_liked">Beğendin</string>
-    <string name="com_facebook_like_button_not_liked">Beğen</string>
-    <string name="com_facebook_loading">Yükleniyor</string>
-    <string name="com_facebook_loginview_cancel_action">İptal et</string>
-    <string name="com_facebook_loginview_log_in_button">Giriş yap</string>
-    <string name="com_facebook_loginview_log_in_button_continue">Facebook ile devam et</string>
-    <string name="com_facebook_loginview_log_in_button_long">Facebook ile giriş yap</string>
-    <string name="com_facebook_loginview_log_out_action">Çıkış yap</string>
-    <string name="com_facebook_loginview_log_out_button">Çıkış yap</string>
-    <string name="com_facebook_loginview_logged_in_as">%1$s olarak giriş yapıldı</string>
-    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook ile giriş yapıldı</string>
-    <string name="com_facebook_send_button_text">Gönder</string>
-    <string name="com_facebook_share_button_text">Paylaş</string>
-    <string name="com_facebook_smart_device_instructions">Hesabını bağlamak için mobil cihazında Facebook uygulamasını aç ve bildirimleri kontrol et</string>
-    <string name="com_facebook_smart_device_instructions_or">- veya -</string>
-    <string name="com_facebook_smart_login_confirmation_cancel">Siz değil misiniz?</string>
-    <string name="com_facebook_smart_login_confirmation_continue_as">%1$s olarak devam et</string>
-    <string name="com_facebook_smart_login_confirmation_title">Girişi onayla</string>
-    <string name="com_facebook_tooltip_default">Kontrol sende - uygulamalarla paylaşmak istediğin bilgileri seç</string>
     <string name="com_permission_desc">Videolar cihazınızdaki videolara erişemiyor. Ayarlar menüsünde erişime izin verin</string>
     <string name="com_permission_title">İzin gerekli</string>
     <string name="comment_model_add_comment">Yorum ekle</string>
@@ -327,8 +298,8 @@
     <string name="comment_model_report_fail">Bildirilemedi</string>
     <string name="comment_model_report_success">Başarıyla bildirildi</string>
     <string name="comment_model_send_fail">Gönderilemedi</string>
-    <string name="comment_model_send_fail_frequently">Çok hızlı! Bir veya iki dakika bekleyin ve tekrar deneyin.</string>
-    <string name="comment_model_send_forbid_desc">Topluluk standartlarımızı ihlal eden ögeler içeren çok sayıda yorum yayınladınız. Hesabınız şimdi kalıcı olarak askıya alındı. Uygulama içi geri bildirimleri kullanarak kararımıza itiraz edebilirsiniz.</string>
+    <string name="comment_model_send_fail_frequently">Çok hızlı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="comment_model_send_forbid_desc">Topluluk standartlarımızı ihlal eden ögeler içeren çok sayıda yorum yayınladınız. Hesabınız şimdi kalıcı olarak askıya alındı. Uygulama içi geri bildirimleri kullanarak kararımıza itiraz edebilirsiniz</string>
     <string name="comment_model_send_forbid_tips">Hesap askıya alındı</string>
     <string name="comment_model_send_success">Başarıyla gönderildi</string>
     <string name="common_cancel">İptal et</string>
@@ -350,6 +321,7 @@
     <string name="common_google_play_services_updating_text">%1$s, şu anda güncellenmekte olan Google Play hizmetleri olmadan çalışmaz</string>
     <string name="common_google_play_services_wear_update_text">Google Play hizmetlerinin yeni sürümü gerekiyor. Kendisini kısa süre içinde güncelleyecektir</string>
     <string name="common_open_on_phone">Telefonda aç</string>
+    <string name="common_retry_late_hint">Bir veya iki dakika bekleyin ve yeniden deneyin</string>
     <string name="common_signin_button_text">Oturum aç</string>
     <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
     <string name="confirm_activate_email">Doğrulandı</string>
@@ -368,11 +340,11 @@
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    <string name="date_picker_lunar">Çin Geleneksel Takvimi</string>
+    <string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="day">gün</string>
     <string name="default_localization_key">system</string>
-    <string name="default_upgrade_hint">"Selam!
+    <string name="default_upgrade_hint">"Selam
 Videolar güncelleme için hazır
 Yeni havalı özelliklerimizi kontrol etmek için uygulamayı şimdi güncelleyin
 Videolar ekibi"</string>
@@ -415,8 +387,8 @@ Bu kodu gönderin"</string>
     <string name="dialog_privacy_change_title">Gizlilik politikası güncellemesi</string>
     <string name="dialog_privacy_experience_plan">Ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için kullanıcı verilerini bizimle paylaşmak için kullanıcı deneyimi programımıza katılın</string>
     <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
-    <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin \""<a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Kullanıcı sözleşmesini</a> onaylıyorsunuz</string>
-    <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sunmaktadır:<br></br>&lt;br>&lt;/br> - Çevrim içi yayın h<br></br>izmetleri&lt;br>&lt;/br>- Yerel <br></br>"bir video oynatıcı&lt;br>&lt;/br>Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler &amp;amp; Güvenlik menüsünden değiştirebilirsiniz.&lt;br>&lt;/br>Videolar uygulamasını kullanmadan önce &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası'nı&lt;/a> okuyun ve kabul edin"</string>
+    <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin \"\""<a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Kullanıcı sözleşmesini</a> onaylıyorsunuz</string>
+    <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sunmaktadır:<br></br><br></br>&lt;br>&lt;/br>&lt;br>&lt;/br> - <br></br>Çevrim iç<br></br>i yayın <br></br>h&lt;br>&lt;/br>izmetleri<br></br>"&lt;br>&lt;/br>- Yerel &lt;br>&lt;/br>\"bir video oynatıcı&lt;br>&lt;/br>Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler &amp;amp; Güvenlik menüsünden değiştirebilirsiniz.&lt;br>&lt;/br>Videolar uygulamasını kullanmadan önce &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası'nı&lt;/a> okuyun ve kabul edin\""</string>
     <string name="dialog_privacy_revoke_cancel">İptal et</string>
     <string name="dialog_privacy_revoke_count_down">Geri al (%1$d saniye)</string>
     <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
@@ -479,7 +451,6 @@ Bu kodu gönderin"</string>
     <string name="empty_subscribe">Henüz hiç aboneliğiniz yok</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
-    <string name="error_details">Beklenmeyen hata</string>
     <string name="error_dup_binded_email">E-posta adresi başka bir Mi hesabı tarafından kullanılmaktadır. Lütfen başka bir e-posta adresi girin</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="error_invalid_bind_address">Girmiş olduğunuz e-posta adresi geçersiz</string>
@@ -522,7 +493,6 @@ Bu kodu gönderin"</string>
     <string name="exo_track_surround_7_point_1">7.1 surround ses</string>
     <string name="exo_track_unknown">Bilinmiyor</string>
     <string name="expand_button_title">Gelişmiş</string>
-    <string name="explore">Keşfet</string>
     <string name="explore_on_mi_video">Videolarda daha fazlasına erişin</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
@@ -564,7 +534,6 @@ Bu kodu gönderin"</string>
     <string name="find_psw">Şifremi unuttum</string>
     <string name="finish">Bitti</string>
     <string name="firebase_database_url">https://global-video-5cd70.firebaseio.com</string>
-    <string name="firework_privacy">Havai fişek gizlilik politikası</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -672,6 +641,9 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_gallery_video_save_video">Video oluşturuluyor</string>
     <string name="galleryplus_gallery_video_slow_edit">Ağır çekim</string>
     <string name="galleryplus_gallery_view_tags">İşaretleri göster</string>
+    <string name="galleryplus_globalvideo_controller_go">Git</string>
+    <string name="galleryplus_globalvideo_controller_hint">Videoların yükseltilmiş oynatma deneyimine göz atın</string>
+    <string name="galleryplus_globalvideo_controller_tip">Ek özellikleri görüntüle</string>
     <string name="galleryplus_is_higher_definition">HD önizleme açıldı</string>
     <string name="galleryplus_network_connect_check">Ağa bağlanılamadı</string>
     <string name="galleryplus_network_connect_confirm">Ağ ayarlarında wifi ağına bağlanın veya mobil veriyi açın</string>
@@ -679,11 +651,20 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_network_not_wifi">Videoları akışı için mobil veri kullanmanız ek veri ücretlerine neden olabilir</string>
     <string name="galleryplus_next_step">Sonraki</string>
     <string name="galleryplus_notification_linkvideo_subtitle1" formatted="false">Dosyaları yönet %$s Altyazı ekle %$s Videoları yansıt %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle1_new">Resim içinde resim, arka plan oynatma, yakınlaştırma, yansıtma ve daha fazlasını kullanın %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle2">%$s Şifre ile özel videoları koru</string>
+    <string name="galleryplus_notification_linkvideo_subtitle2_new">Özel videoları şifreyle koruyun ve dosyalarınızı yönetin %$s</string>
     <string name="galleryplus_notification_linkvideo_subtitle3">"%$s TikTok, Instagram ve Twitter'dan videolar indir"</string>
-    <string name="galleryplus_notification_linkvideo_title1">"%$s Videolar'ın tüm harika özelliklerine göz atın"</string>
-    <string name="galleryplus_notification_linkvideo_title2">%$s Videolarınızı yönetmek için dokunun</string>
+    <string name="galleryplus_notification_linkvideo_subtitle3_new">Favori platformlarınızdan filmler, müzik videoları ve kısa videolar %$s</string>
+    <string name="galleryplus_notification_linkvideo_subtitle4">Popüler dizileri, komedileri ve daha fazlasını izleyin</string>
+    <string name="galleryplus_notification_linkvideo_subtitle5">Spor, animasyon, film ve daha fazlasını izleyin ve abone olun</string>
+    <string name="galleryplus_notification_linkvideo_title1">"%$s videoların tüm harika özelliklerine göz atın"</string>
+    <string name="galleryplus_notification_linkvideo_title2">%$s videolarınızı yönetmek için dokunun</string>
     <string name="galleryplus_notification_linkvideo_title3">%1$s Videoları ücretsiz indir %2$s Dosyaları yönet</string>
+    <string name="galleryplus_notification_linkvideo_title3_new">%$s hızlı ve ücretsiz indirme</string>
+    <string name="galleryplus_notification_linkvideo_title4">Sınırlı bir süre için ücretsiz yüzlerce video</string>
+    <string name="galleryplus_notification_linkvideo_title5">En sevdiğiniz programları ücretsiz izleyin</string>
+    <string name="galleryplus_notification_try_now_btn">Şimdi dene</string>
     <string name="galleryplus_online_cta">Videonun düzgün çalışabilmesi için internet bağlantısına ihtiyaç duyar. Kabul ediyor musunuz?</string>
     <string name="galleryplus_online_cta_agree">Kabul et</string>
     <string name="galleryplus_online_cta_disagree">Reddet</string>
@@ -692,15 +673,15 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_orientation_lock">Yön başarıyla kilitlendi</string>
     <string name="galleryplus_orientation_unlock">Ekran yönünün kilidi açık</string>
     <string name="galleryplus_permission_content">Bu özelliği kullanabilmek için videoya gerekli izinleri verin</string>
-    <string name="galleryplus_permission_content_opt">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'da tüm uygulama verilerini temizleyin ve uygulamayı tekrar açın"</string>
+    <string name="galleryplus_permission_content_opt">Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlarda tüm uygulama verilerini temizleyin ve uygulamayı tekrar açın</string>
     <string name="galleryplus_permission_content_opt2">"Videoların normal çalışabilmesi için izinler gerekir. Ayarlarda tüm uygulama verilerini temizleyin ve uygulamayı tekrar açın
 Bu işlem galeri resimlerinizi etkilemez"</string>
-    <string name="galleryplus_permission_content_xms">"Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlar'a gidin ve videolar'a gerekli izinleri verin"</string>
+    <string name="galleryplus_permission_content_xms">Videoların normal çalışabilmesi için izinlere ihtiyaç duyar. Ayarlara gidin ve videolara gerekli izinleri verin</string>
     <string name="galleryplus_permission_open_settings">Ayarlar</string>
     <string name="galleryplus_permission_refuse">Hayır</string>
     <string name="galleryplus_permission_retry">İzinler</string>
-    <string name="galleryplus_permission_storage_content_reshowable">"%s'nin cep telefonu depolama alanını okumak ve yazmak için izin istemesi gerekiyor. Bu işlevi kullanmanız gerekiyorsa lütfen yetkilendirin"</string>
-    <string name="galleryplus_permission_storage_content_unreshowable">"%s, telefon depolaması için okuma ve yazma izinleri istemeli. Bu işlevi kullanmanız gerekiyorsa, uygulama ayrıntıları sayfasına girmek için lütfen "Ayarlar"ı tıklayın ve "İzinler"de cihaz izinlerini etkinleştirin"</string>
+    <string name="galleryplus_permission_storage_content_reshowable_video_player">Yerel video oynatıcıyı kullanabilmek için önce bu uygulamaya depolama alanına erişim izni verin</string>
+    <string name="galleryplus_permission_storage_content_unreshowable_video_player">"Yerel video oynatıcıyı kullanabilmek için bu uygulamaya ayarların izinler bölümünde depolama alanına erişim izni verin"</string>
     <string name="galleryplus_permission_storage_title">Cihazdaki fotoğrafları ve dosyaları okuyun ve yazın</string>
     <string name="galleryplus_permission_title">Dikkat</string>
     <string name="galleryplus_play_speed">%1$.1fX</string>
@@ -742,7 +723,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="galleryplus_theme_id">com.miui.video.theme.01</string>
     <string name="galleryplus_v_agree">Onayla</string>
     <string name="galleryplus_v_cancel">İptal et</string>
-    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikleri yoksay ve altyazıları düzenlemeyi şimdi durdur?</string>
+    <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg">Tüm değişiklikler yoksay ve altyazıları düzenleme durdurulsun mu?</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_msg2">Eğer şimdi çıkış yaparsanız bu videoyu kaydedemeyeceksiniz. Yine de çıkış yap?</string>
     <string name="galleryplus_v_confirm_cancel_edit_subtitle_title">Editörden çıkılıyor</string>
     <string name="galleryplus_v_dialog_hint_contain_invalid_char">Dosya adı yasal olmayan karakterler içeriyor</string>
@@ -770,7 +751,6 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="google_application_id" />
     <string name="google_crash_reporting_api_key">AIzaSyBmWA13ZtMoPDvgTFVtmG4anqKADZ_XnNg</string>
     <string name="google_storage_bucket">global-video-5cd70.appspot.com</string>
-    <string name="got_it">Anladım</string>
     <string name="goto_sign_up">Hesap oluştur</string>
     <string name="gps_prompt_context">Mobil ağ ile mi indiriyorsunuz?</string>
     <string name="gps_prompt_title">İpuçları</string>
@@ -793,11 +773,49 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="history">Geçmiş</string>
     <string name="history_local_video">Yerel</string>
     <string name="history_online_video">Çevrimiçi</string>
-    <string name="hot">Popüler</string>
     <string name="i_know">Tamam</string>
     <string name="icon_content_description">İletişim simgesi</string>
     <string name="id_namespace">hungama</string>
     <string name="identity">Kimlik doğrulama</string>
+    <string name="incentive_details">Ayrıntılar</string>
+    <string name="incentive_dialog_cancel_not_interested">Hayır</string>
+    <string name="incentive_dialog_continue_to_watch">Devam et</string>
+    <string name="incentive_dialog_default_message">%2$s kazanmak için %1$s daha izleyin!</string>
+    <string name="incentive_dialog_default_title">İzlemeye devam et?</string>
+    <string name="incentive_dialog_exit">Çıkış</string>
+    <string name="incentive_dialog_negative_give_up">Hayır</string>
+    <string name="incentive_dialog_negative_play_next_video">Sonraki videoyu oynat</string>
+    <string name="incentive_dialog_ok_receive_task">Tamamla</string>
+    <string name="incentive_dialog_positive_get_credits">Puanları talep et</string>
+    <string name="incentive_dialog_positive_login_and_get_credits">Oturum aç</string>
+    <string name="incentive_exchange">Kullan</string>
+    <string name="incentive_exchange_code">Kod</string>
+    <string name="incentive_exchange_code_copy">Kopyala</string>
+    <string name="incentive_exchange_details">Ayrıntılar</string>
+    <string name="incentive_exchange_details_current">Sipariş toplamı</string>
+    <string name="incentive_exchange_details_total">Bakiye</string>
+    <string name="incentive_exchange_expire_tip">Talep edilmeyen puanlar gece yarısı kaybolacaktır</string>
+    <string name="incentive_exchange_lack">Kullanılamıyor</string>
+    <string name="incentive_exchange_successful">Başarıyla kullanıldı</string>
+    <string name="incentive_exchange_tip">Bu puanlar sadece bugün mevcuttur</string>
+    <string name="incentive_login_for_claim">Puanları talep etmek için Google Hesabınızda oturum açın</string>
+    <string name="incentive_login_tip">Puan kazanmak ve ödüller almak için oturum açın</string>
+    <string name="incentive_my_points">Puanlarım</string>
+    <string name="incentive_popup_window_share">Puan kazanmak için paylaşın</string>
+    <string name="incentive_popup_window_subscribe">Puan kazanmak için abone olun</string>
+    <string name="incentive_rules_title_bar">Kurallar</string>
+    <string name="incentive_tab_exchange_recore">Ödüller</string>
+    <string name="incentive_tab_integral_task">Görevler</string>
+    <string name="incentive_tab_points_details">Geçmiş</string>
+    <string name="incentive_tab_prize_redemption">Ödüller</string>
+    <string name="incentive_task_login_receive">Oturum aç</string>
+    <string name="incentive_task_receive">Al</string>
+    <string name="incentive_task_title_daily">Günlük görevler</string>
+    <string name="incentive_task_title_novice">Yeni gelenler için</string>
+    <string name="incentive_task_to_get">Başlat</string>
+    <string name="incentive_task_to_login">Oturum aç</string>
+    <string name="incentive_view_all_prizes">Tüm ödülleri görüntüle</string>
+    <string name="incentive_view_details">Ayrıntılar</string>
     <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
     <string name="init_channels">Varsayılan ayarlara sıfırla</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
@@ -810,7 +828,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="item_card_more_trailers">Daha fazla fragman</string>
     <string name="item_card_open_in">"Aç "</string>
     <string name="item_card_related">Benzer</string>
-    <string name="item_download_only_wify">Yalnızca Wi-Fi üzerinden indir</string>
+    <string name="item_download_only_wify">Yalnızca wifi üzerinden indir</string>
     <string name="item_download_path">Konum indir</string>
     <string name="item_download_path_setting">Konum ayarlarını indir</string>
     <string name="item_setting_go_back">İzni geri al</string>
@@ -837,11 +855,13 @@ tercih ettiğiniz dili seçin"</string>
     <string name="live_tv_detail_player_skeleton">live_tv_detail_palyer_skeleton.json</string>
     <string name="live_tv_title">Canlı TV</string>
     <string name="loading">Yükleniyor</string>
+    <string name="local_diversion_all_local_videos">Cihazdaki tüm videolar</string>
     <string name="local_diversion_close_recommend">Kapat</string>
     <string name="local_diversion_download_more_video">Daha fazla video</string>
     <string name="local_diversion_manage_local_video">Dosyaları yönet</string>
     <string name="local_diversion_open_mivideo">*Güçlü ve çok işlevli bir video oynatıcı olan videolar uygulamasına geçin</string>
     <string name="local_diversion_recommend_title">Popüler</string>
+    <string name="local_diversion_view_more">Görüntüle</string>
     <string name="local_empty_guide">Çektiğiniz videolar burada görünecek</string>
     <string name="local_folder_select_count">%s seçildi</string>
     <string name="local_hide_folder_dialog_content">Gizli videolar çalma listelerinizde gösterilmeyecek</string>
@@ -982,7 +1002,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lv_subtitle_no_subtitle">Altyazı kullanılamıyor</string>
     <string name="lv_subtitle_non_subtitle_file">Altyazı dosyası yok</string>
     <string name="lv_subtitle_offset_add_1s_new">+%d saniye</string>
-    <string name="lv_subtitle_offset_add_dot5s">+0.5 saniye</string>
+    <string name="lv_subtitle_offset_add_dot5s_new">+%f saniye</string>
     <string name="lv_subtitle_offset_normal">Altyazıları hareket ettirme</string>
     <string name="lv_subtitle_offset_sub_1s_new">-%ds</string>
     <string name="lv_subtitle_offset_sub_dot5s_new">-%fs</string>
@@ -998,7 +1018,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lv_subtitle_onlinesub_size_string_b">Boyut: %sB</string>
     <string name="lv_subtitle_onlinesub_title">Çevrimiçi altyazı</string>
     <string name="lv_subtitle_open_subtitle_file_title">Altyazı dosyası bul</string>
-    <string name="lv_subtitle_preoffset_max_new">"%d saniyeden fazla ileri gidilemiyor"</string>
+    <string name="lv_subtitle_preoffset_max_new">%d saniyeden fazla ileri gidilemiyor</string>
     <string name="lv_subtitle_subonline_non_network">Ağa bağlanılamadı. Ağa bağlanın ve tekrar deneyin</string>
     <string name="lv_subtitle_synchronization_title">Senkronizasyon</string>
     <string name="lv_subtitle_title">Altyazı</string>
@@ -1064,6 +1084,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mediation_ad">Reklam</string>
     <string name="mediation_ad_can_not_share">Bu video paylaşılamıyor</string>
     <string name="mi_video">Videolar</string>
+    <string name="mi_video_pip_mode">Resim içinde resim</string>
     <string name="midnight">Gece</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
@@ -1085,12 +1106,12 @@ tercih ettiğiniz dili seçin"</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için aşağı çekin</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Başarıyla yenilendi</string>
-    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor…</string>
+    <string name="miuix_sbl_tracking_progress_labe_refreshing">Yenileniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_release_to_refresh">Yenilemek için bırakın</string>
     <string name="miuix_sbl_tracking_progress_labe_up_nodata">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yalnızca bir sn…</string>
-    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Ögeler yüklenemedi</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
+    <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
     <string name="mnc_live_subscribe_toast">Başarıyla abone olundu</string>
     <string name="mnc_live_tv">Canlı TV</string>
     <string name="mnc_live_unsubscribe_toast">Abonelikten başarıyla çıkıldı</string>
@@ -1181,7 +1202,6 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
@@ -1218,11 +1238,9 @@ tercih ettiğiniz dili seçin"</string>
     <string name="network_connect_info">Ağa bağlanılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_failed">Ağa bağlanılamadı</string>
     <string name="neverthink_player_loading">Neverthink videosu yükleniyor</string>
-    <string name="new_channel_tip">Yeni kanallara bir göz atın</string>
     <string name="newyearfestival_go_to_draw_prizes">Şanslı çekilişe git</string>
     <string name="newyearfestival_watch_the_video_to_draw_prizes">Şanslı çekilişe katılmak için videoları izleyin</string>
     <string name="next">Sonraki</string>
-    <string name="next_step">Sonraki</string>
     <string name="nick_name">İsim</string>
     <string name="night">Akşam</string>
     <string name="no_account">Oturum açılmadı</string>
@@ -1255,7 +1273,6 @@ tercih ettiğiniz dili seçin"</string>
     <string name="notification_recall_title">Bildirimleri aç</string>
     <string name="notification_tool">Araç kutusu</string>
     <string name="notify_apk_installed">Başarıyla indirildi</string>
-    <string name="off_tip_firework_recommend">"Firework'ten kişiselleştirilmiş içerik önerilerini almayacaksınız"</string>
     <string name="offline_notification_text">Reklamı açmak için dokunun</string>
     <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>
     <string name="offline_opt_in_confirm">Tamam</string>
@@ -1264,7 +1281,6 @@ tercih ettiğiniz dili seçin"</string>
     <string name="offline_opt_in_message">Size reklamverenin sitesine bir bağlantının olduğu bildirim göndereceğiz</string>
     <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın</string>
     <string name="ok">Tamam</string>
-    <string name="on_tip_firework_recommend">"Firework'ten kişiselleştirilmiş içerik önerilerini alacaksınız"</string>
     <string name="online_play_hint">Örnek: http://www.example.com/video.mp4</string>
     <string name="online_play_title">Bağlantı girin</string>
     <string name="open_settings">Ayarlar</string>
@@ -1488,7 +1504,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pip">Resim içinde resim</string>
     <string name="pip_not_supported_toast">Resim içinde resim kullanabilmek için MIUI sürümünü güncelleyin</string>
-	<string name="play_list_delete_title">Bu çalma listesi silinsin mi?</string>
+    <string name="play_list_delete_title">Bu çalma listesi silinsin mi?</string>
     <string name="play_list_detial_add">Video ekle</string>
     <string name="play_list_detial_delete">Sil</string>
     <string name="play_list_detial_play">Oynat</string>
@@ -1647,11 +1663,13 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="privacy_revoke_setting">Anahtarı kapatarak videolar uygulamasının gizlilik politikasına verdiğiniz izni geri çekersiniz</string>
     <string name="privacy_revoke_subtitle">Videoların gizlilik politikasına ilişkin onayınızı geri çekin</string>
     <string name="privacy_revoke_title">İznin geri çekilmesi</string>
+    <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">%s karşılığında reklamları kaldırın</string>
     <string name="pro_prize_popup_style_two">%s karşılığında daha fazla özelliğin kilidini açın</string>
     <string name="project_id">global-video-5cd70</string>
     <string name="psw_hint">Şifre</string>
     <string name="psw_sign_in">Şifre kullanarak oturum aç</string>
+    <string name="publicstr">MIIBtz</string>
     <string name="pull_to_refresh_from_bottom_pull_label">Yenilemek için yukarı doğru çekin</string>
     <string name="pull_to_refresh_from_bottom_refreshing_label">Yükleniyor</string>
     <string name="pull_to_refresh_from_bottom_release_label">Yenilemek için bırakın</string>
@@ -1708,8 +1726,6 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="restart_phone_bind_title">Kurtarma telefon numarasını değiştir</string>
     <string name="restore_channel_list">Varsayılan ayarlara sıfırlansın mı?</string>
     <string name="retry">Tekrar dene</string>
-    <string name="reveal">Döndür</string>
-    <string name="reveal_tip">Daha iyi görüntüleme deneyimi için cihazınızı döndürün</string>
     <string name="revoke">Geri al</string>
     <string name="s1">Resmi kaydet</string>
     <string name="s2">Reklamın resim galerisine resim kaydetmesine izin verilsin mi?</string>
@@ -1767,6 +1783,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="small_video_load_more_hint">Daha fazla video oynatmak için yukarı kaydırın</string>
     <string name="small_video_snack_download_description">"En sevdiğiniz içerik oluşturucuların en son videolarını görmek için SnackVideo'yu indirin"</string>
     <string name="small_video_snack_download_title">SnackVideo</string>
+    <string name="small_video_tab_expose_hint">Seveceğiniz kısa videoları keşfedin</string>
     <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="sns_access_token_expired_warning">Oturum sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
     <string name="sns_bind_limit">Çok fazla sayıda denemede bulundunuz. Diğer oturum açma yöntemlerini deneyin</string>
@@ -1817,7 +1834,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="srl_header_release">Yenilemek için serbest bırakın</string>
     <string name="srl_header_secondary">İkinci kata bırakın</string>
     <string name="srl_header_update">"'Son güncelleme' d-M HH:mm"</string>
-    <string name="start_download_tip">Sıraya eklendi. Profil > İndirilenler menüsünde ilerlemeyi kontrol edin.</string>
+    <string name="start_download_tip">Sıraya eklendi. Profil > İndirilenler menüsünde ilerlemeyi kontrol edin</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="storage_external_sdcard">Sd kart</string>
     <string name="storage_internal_sdcard">Dahili depolama</string>
@@ -1827,7 +1844,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="subscribe_author_recommend_title">Bu içerik oluşturucuların en yeni videolarını görmek için abone olun</string>
     <string name="subscribe_dialog_import_agree">İçe aktar</string>
     <string name="subscribe_dialog_import_cancel">İptal et</string>
-    <string name="subscribe_dialog_import_content">"Tüm aboneliklerinizi tek bir yerde toplamak için video aboneliklerinizi Google hesabınıza aktarın. Hepsini videolardan izleyebilirsiniz. Şimdi içe aktarılsın mı?"</string>
+    <string name="subscribe_dialog_import_content">Tüm aboneliklerinizi tek bir yerde toplamak için video aboneliklerinizi Google hesabınıza aktarın. Hepsini videolardan izleyebilirsiniz. Şimdi içe aktarılsın mı?</string>
     <string name="subscribe_dialog_import_title">Google hesabına aktar</string>
     <string name="subscribe_error_toast">Abone olunamadı</string>
     <string name="subscribe_import_hint_btn">İçe aktar</string>
@@ -1941,8 +1958,6 @@ Hiçbir şey göstermiyor"</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
-    <string name="tip_auth_again">Daha önce üçüncü taraf içerik sağlayacısının ilgili gizlilik politikasının koşullarını kabul etmediğiniz için anlarda video içeriğini gösteremiyoruz. Gizlilik politikasını kabul etmek için aşağıdaki tuşa dokunun ve bu özelliğe erişin</string>
-    <string name="tip_author_click">Bu hesaptan daha fazla video görüntülemek için dokunun</string>
     <string name="tip_content_or">veya</string>
     <string name="tip_download_video_to_save_here">%d. video indirilenlerinize kaydedilecektir</string>
     <string name="tip_enter_the_website">%d. Bir internet sitesini veya uygulamayı açın</string>
@@ -1951,14 +1966,15 @@ Hiçbir şey göstermiyor"</string>
     <string name="tip_local_manager_here">Dosyalarınızı burada yönetin</string>
     <string name="tip_login_for_your_online_playlist">Oynatma listelerinizi görüntülemek için oturum açın</string>
     <string name="tip_play_a_video">%d. Bir video oynatın</string>
-    <string name="tip_pop">"&lt;com.miui.video.biz.livetv.data.mnc.information.Data>Anlar'dan içerik Firework tarafından sağlanmaktadır. Görüntüleme deneyiminizi geliştirmek ve daha alakalı içerik önerileri almak için Firework'un, Gizlilik Politikası'na göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin verin. Hizmetleri kullanmadan önce &lt;a href=\"%1$s\">Firework Gizlilik Politikasını&lt;/a> okuyun ve kabul edin.&lt;/com.miui.video.biz.livetv.data.mnc.information.Data>"</string>
+    <string name="tip_playlist_guide_hint_a">Google çalma listelerinizdeki videoları görüntüleyin</string>
+    <string name="tip_playlist_guide_hint_b">YouTube çalma listelerinizdeki videoları reklamsız oynatın</string>
     <string name="tip_storage_used_space" formatted="false">Kullanılan: %.2f GB/%.2f GB</string>
-    <string name="tip_tap_download_button">"%d. ''İndir'' seçeneğine dokunun"</string>
-    <string name="tip_topic_click">Bu konuda daha fazla video bulmak için dokunun</string>
+    <string name="tip_subscribe_guide_hint_a">Google aboneliklerinizdeki yaratıcıları görüntüleyin</string>
+    <string name="tip_subscribe_guide_hint_b">Abone olduğunuz YouTube kanallarındaki güncellemeleri reklamsız izleyin</string>
+    <string name="tip_tap_download_button">"%d. İndir seçeneğine dokunun"</string>
     <string name="title_bookmarks">Yer imleri</string>
     <string name="title_continue_to_borwser">Tarayıcıda aç</string>
     <string name="title_download_setting">İndirme ayarları</string>
-    <string name="title_firework_recommend">Firework önerileri</string>
     <string name="title_history">Geçmiş</string>
     <string name="title_mangotv_history_sub" formatted="false">%s (Bölüm %d)</string>
     <string name="title_mangotv_subtitle_language">Altyazı dili</string>
@@ -1976,8 +1992,14 @@ Hiçbir şey göstermiyor"</string>
     <string name="toast_bookmark_url_error">Geçerli bir bağlantı girin</string>
     <string name="toast_fail_to_delete">Silinemedi. Tekrar deneyin</string>
     <string name="toast_fail_to_rename">Yeniden adlandırılamadı. Tekrar deneyin</string>
+    <string name="toast_incentive_claim_fail_11">Puan talep edilemedi. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="toast_incentive_claim_out_of_limit_2004">Bugün daha fazla puan kazanılamıyor. Sorularınız varsa bizimle iletişime geçin</string>
+    <string name="toast_incentive_redeem_fail_not_enough_points_2003">Yeterli puanınız yok</string>
+    <string name="toast_incentive_redeem_fail_out_of_limit_2004">Bu ödül bugün tekrar kullanılamaz</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_2005">Bu ödül kullanılamıyor</string>
+    <string name="toast_incentive_redeem_fail_prize_expired_error">Kullanılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="toast_incentive_redeem_fail_short_of_storage_2002">Bu ödül şu anda mevcut değil. Daha sonra tekrar deneyin</string>
     <string name="toast_m3u8_download_path_tip">m3u8 formatındaki içerik için indirme yolu değiştirilemiyor</string>
-    <string name="toast_no_data">Bu ürün şu anda mevcut değil. Daha sonra gel</string>
     <string name="toast_play_error_tip">Bu dosya oynatılamıyor</string>
     <string name="toast_request_too_frequently">Çok hızlı değil</string>
     <string name="toast_share_failed">Paylaşılamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
@@ -1987,6 +2009,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="tool_bar_notification_setting_title">Bildirim gölgesi araç çubuğu</string>
     <string name="top_bar_game_desc">Burada birçok yeni oyun keşfedin</string>
     <string name="top_bar_game_title">Oyun kanalı</string>
+    <string name="trending_history_continue_watching">İzlemeye devam et</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
@@ -2093,46 +2116,37 @@ Hiçbir şey göstermiyor"</string>
     <string name="welcome_tip_into_mivideo">Kullanmaya başla</string>
     <string name="welcome_tip_skip">Atla</string>
     <string name="welcome_tip_title">Videolara hoş geldiniz</string>
-    <string name="xiaomi_update_sdk_bytes_unit">%1$sB</string>
-    <string name="xiaomi_update_sdk_connect_download_manager_fail">İndirme yöneticisi bağlanma başarısız oldu. Lütfen uygulama yönetimindeki indirme yöneticisi durumunu kontrol edin</string>
-    <string name="xiaomi_update_sdk_dialog_message">"Tanıtımı sürümü: %1$s
-Boyut: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_message_diff">"Tanıtımı sürümü: %1$s
-Delta güncelleme boyutu: %2$s"</string>
-    <string name="xiaomi_update_sdk_dialog_title">%1$s güncelleştirme</string>
-    <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor. Lütfen SD kartı kontrol edin</string>
-    <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
-    <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
     <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
     <string name="yandex_ads_internal_after_timer_value">сек</string>
-    <string name="yandex_ads_internal_before_timer_value">До начисления награды осталось</string>
-    <string name="yandex_ads_internal_go">Перейти</string>
-    <string name="yandex_ads_internal_install">Установить</string>
-    <string name="yandex_ads_internal_install_from_google_play">Установить из Google Play</string>
-    <string name="yandex_ads_internal_instream_advertiser_social">Социальная реклама</string>
-    <string name="yandex_ads_internal_instream_advertiser_yandex">Реклама</string>
-    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Закрыть</string>
-    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Досмотреть</string>
-    <string name="yandex_ads_internal_rewarded_close_verification_text">Если закрыть рекламу до окончания таймера, награда за просмотр не будет начислена</string>
-    <string name="yandex_ads_internal_rewarded_close_verification_title">Закрыть рекламу?</string>
+    <string name="yandex_ads_internal_before_timer_value">Ödülden önce kalan</string>
+    <string name="yandex_ads_internal_go">Git</string>
+    <string name="yandex_ads_internal_install">Düzenle</string>
+    <string name="yandex_ads_internal_install_from_google_play">"Google Play'den yükle"</string>
+    <string name="yandex_ads_internal_instream_advertiser_social">Sosyal reklam</string>
+    <string name="yandex_ads_internal_instream_advertiser_yandex">Reklam</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Kapat</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Aç</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_text">Reklamı zamanlayıcı sona ermeden kapatırsanız görüntüleme ödülü kredilendirilmeyecektir</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Reklamlar kapatılsın mı?</string>
     <string name="yandex_ads_internal_text_divider">·</string>
     <string name="yandex_ads_internal_tools_age_text">3+</string>
-    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Установить</string>
-    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">Установить из Google Play</string>
-    <string name="yandex_ads_internal_tools_body_text">Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто. Огромный выбор авто. Удобный поиск. Авто новые и с пробегом. Ежедневные обновления. Огромный выбор авто</string>
-    <string name="yandex_ads_internal_tools_call_to_action_text">Перейти на сайт</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Düzenle</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">"Google Play'den yükle"</string>
+    <string name="yandex_ads_internal_tools_body_text">Büyük araba seçimi. Uygun arama. Arabalar yeni ve kullanılmış. Günlük güncellemeler. Büyük araba seçimi. Büyük araba seçimi. Uygun arama. Arabalar yeni ve kullanılmış. Günlük güncellemeler. Büyük araba seçimi</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Siteye git</string>
     <string name="yandex_ads_internal_tools_domain_text">domain</string>
     <string name="yandex_ads_internal_tools_price_text">price</string>
     <string name="yandex_ads_internal_tools_rating_text">rating</string>
-    <string name="yandex_ads_internal_tools_review_count_text">review count</string>
-    <string name="yandex_ads_internal_tools_sponsored_text">sponsored</string>
-    <string name="yandex_ads_internal_tools_title_text">Покупка и продажа элитных и дешёвых машин на Авто.ру</string>
-    <string name="yandex_ads_internal_tools_warning_text">Есть противопоказания. Обратитесь к специалисту Есть противопоказания. Обратитесь к специалисту</string>
+    <string name="yandex_ads_internal_tools_review_count_text">İnceleme sayısı</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">sponsorlu</string>
+    <string name="yandex_ads_internal_tools_title_text">"Avto.ru'da lüks ve ucuz araba alıp satmak"</string>
+    <string name="yandex_ads_internal_tools_warning_text">Kontrendikasyonlar var. Bir uzmana danışın Kontrendikasyonlar var. Bir uzmana başvurun</string>
     <string name="year">yıl</string>
     <string name="yesterday">Dün</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>
+    <string name="yt_subscription_notification_setting_title">Abonelik bildirimleri</string>
     <string name="ytb_account">Hesaplar</string>
     <string name="ytb_author_video">Videolar</string>
     <string name="ytb_login">Oturum aç</string>

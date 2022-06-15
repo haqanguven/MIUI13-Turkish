@@ -478,6 +478,7 @@
     <string name="enjoy_hungama_pro">"Hungama Pro'nun keyfini çıkarın"</string>
     <string name="enroll_in">Kaydol</string>
     <string name="enter_garbage_clean">Dahili depolama alanını temizleyin</string>
+    <string name="entertainment">Eğlence</string>
     <string name="eq_auto">Özel</string>
     <string name="eq_blues">Blues</string>
     <string name="eq_classical">Klasik</string>
@@ -841,6 +842,7 @@
     <string name="low_sound_quality">Düşük</string>
     <string name="lrc_search_failed">Şarkı sözleri bulunamıyor</string>
     <string name="lrc_searching">Aranıyor</string>
+    <string name="ludo_tab_guide">Yeni müzik odalarımıza göz atın</string>
     <string name="lyric_is_empty">Şarkı sözü yok</string>
     <string name="lyric_label">Şarkı sözleri</string>
     <string name="lyric_open_other_connect">Mobil ağ ile şarkı sözlerini indir</string>
@@ -1017,7 +1019,7 @@
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
     <string name="mtrl_picker_cancel">@android:string/cancel</string>
-    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
@@ -1588,6 +1590,7 @@ mutlu ol"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
+    <string name="welcome_to_entertainment">Müzik oyunları ve daha fazlası için yeni Eğlence özelliğine göz atın</string>
     <string name="widget_small_text_separator">-</string>
     <string name="wifi_required_body" formatted="false">"Wifi kullanarak %s dosyayı indirin
 
@@ -1604,6 +1607,33 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama kullanılamıyor. Lütfen SD kartı kontrol edin</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
+    <string name="yandex_ads_context">yandex:ads:context</string>
+    <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
+    <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
+    <string name="yandex_ads_internal_after_timer_value">сек</string>
+    <string name="yandex_ads_internal_before_timer_value">Ödülden önce kalan</string>
+    <string name="yandex_ads_internal_go">Git</string>
+    <string name="yandex_ads_internal_install">Düzenle</string>
+    <string name="yandex_ads_internal_install_from_google_play">"Google Play'den yükle"</string>
+    <string name="yandex_ads_internal_instream_advertiser_social">Sosyal reklam</string>
+    <string name="yandex_ads_internal_instream_advertiser_yandex">Reklam</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_close">Kapat</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_button_dismiss">Aç</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_text">Reklamı zamanlayıcı sona ermeden kapatırsanız görüntüleme ödülü kredilendirilmeyecektir</string>
+    <string name="yandex_ads_internal_rewarded_close_verification_title">Reklamlar kapatılsın mı?</string>
+    <string name="yandex_ads_internal_text_divider">·</string>
+    <string name="yandex_ads_internal_tools_age_text">3+</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text">Düzenle</string>
+    <string name="yandex_ads_internal_tools_app_install_call_to_action_text_large">"Google Play'den yükle"</string>
+    <string name="yandex_ads_internal_tools_body_text">Büyük araba seçimi. Uygun arama. Arabalar yeni ve kullanılmış. Günlük güncellemeler. Büyük araba seçimi. Büyük araba seçimi. Uygun arama. Arabalar yeni ve kullanılmış. Günlük güncellemeler. Büyük araba seçimi</string>
+    <string name="yandex_ads_internal_tools_call_to_action_text">Siteye git</string>
+    <string name="yandex_ads_internal_tools_domain_text">domain</string>
+    <string name="yandex_ads_internal_tools_price_text">price</string>
+    <string name="yandex_ads_internal_tools_rating_text">rating</string>
+    <string name="yandex_ads_internal_tools_review_count_text">İnceleme sayısı</string>
+    <string name="yandex_ads_internal_tools_sponsored_text">sponsorlu</string>
+    <string name="yandex_ads_internal_tools_title_text">"Avto.ru'da lüks ve ucuz araba alıp satmak"</string>
+    <string name="yandex_ads_internal_tools_warning_text">Kontrendikasyonlar var. Bir uzmana danışın Kontrendikasyonlar var. Bir uzmana başvurun</string>
     <string name="yesterday">Dün</string>
     <string name="you_can_switch_mode_in_settings">Ayarlar menüsünde modlar arasında geçiş yapabilirsiniz</string>
     <string name="you_may_like">Bunları da beğenebilirsiniz</string>

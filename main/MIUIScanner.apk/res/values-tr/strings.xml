@@ -499,6 +499,7 @@
     <string name="logistics">Hızlı teslimat</string>
     <string name="logout_service">İzni geri al</string>
     <string name="low_version_tip">"Barkod okuyucuyu kullanabilmek için MIUI'yi en yeni sürümüne güncelleyin"</string>
+    <string name="marketSdkVersion">3.2.13</string>
     <string name="midnight">Gece</string>
     <string name="mihome_goto_install">Şimdi kur</string>
     <string name="mihome_goto_update">Güncelle</string>
@@ -545,9 +546,9 @@
     <string name="module_title_business_card">İş kartı</string>
     <string name="module_title_code">QR kodu</string>
     <string name="module_title_document">Belge</string>
-    <string name="module_title_form">Table</string>
+    <string name="module_title_form">Masa</string>
     <string name="module_title_general">Bilgi</string>
-    <string name="module_title_new_document">Scan doc</string>
+    <string name="module_title_new_document">Belgeyi tara</string>
     <string name="module_title_plant">Bitki</string>
     <string name="module_title_shopping">Alışveriş</string>
     <string name="module_title_study">Ödev</string>
@@ -644,6 +645,8 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="not_identification_form">Tablo tanınamadı. Tekrar seçin ve baştan başlayın</string>
     <string name="not_insert_contact">Kişi eklenemiyor</string>
     <string name="not_network">Ağa bağlanılamadı. Bir iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="not_permissions_hint">Kamera izni açıldıktan sonra normal şekilde kullanılabilir</string>
+    <string name="not_permissions_title">İpucu</string>
     <string name="not_recommend_access_web_url">Yine de devam et</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="note">Açıklama:</string>
@@ -1063,6 +1066,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Başvurunuz yakında incelenmek üzere gönderilecek)"</string>
     <string name="word_is_being_saved">Word belgesi kaydediliyor</string>
+    <string name="word_limit_prompt">%d karakter aşıldı</string>
     <string name="word_save_sucess">Word belgesi başarıyla kaydedildi</string>
     <string name="word_to_be_recognized_is_aligned_with_cross">Tanınacak kelime çarpı işareti ile hizalı</string>
     <string name="word_translation">Kelime çevirisi</string>
@@ -1071,6 +1075,9 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="xiaoai_dialog">"Mi AI'ye taramak
 istediğinizi söylemeyi deneyin"</string>
     <string name="xiaoai_text">Küçük aşk düğmesi</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="yesterday">Dün</string>
     <string name="you_have_permission_to_download">Beta sürümü indirmek için dokunun</string>
     <string name="you_id">"Kimliğiniz: "</string>

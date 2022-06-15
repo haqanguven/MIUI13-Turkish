@@ -478,6 +478,10 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">En az %d karakter girin</item>
         <item quantity="one">En az %d karakter girin</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">Ağ hız artırımı süresinin bitmesine %d gün kaldı. Ağ hız problemlerinden kaçınmak için süreyi yenileyin</item>
         <item quantity="one">Ağ hız artırımı süresinin bitmesine %d gün kaldı. Ağ hız problemlerinden kaçınmak için süreyi yenileyin</item>

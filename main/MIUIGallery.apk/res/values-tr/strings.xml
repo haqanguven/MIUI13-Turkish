@@ -1046,7 +1046,6 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="context_menu_add_contact">Kişilere ekle</string>
     <string name="context_menu_copy">Kopyala</string>
     <string name="context_menu_copy_notice">Panoya kopyalandı</string>
-    <string name="continue_feedback">Ek geri bildirim</string>
     <string name="copy">Kopyala</string>
     <string name="correct_photo_time">Fotoğraflar için doğru tarih ve saat</string>
     <string name="correct_time_success">Başarıyla düzeltildi</string>
@@ -1334,6 +1333,9 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="feature_guidance_photo_effects">"Yeni efektler mevcut
 "</string>
     <string name="feature_guidance_video_editor_smart_effects">Yeni efektler mevcut</string>
+    <string name="feedback_my_reports">Geri bildirim</string>
+    <string name="feedback_problem">Sorun bildir</string>
+    <string name="feedback_suggest">Bir öneri gönderin</string>
     <string name="fileSizeSuffix">%1$s%2$s</string>
     <string name="file_cannot_print">Bu öğe yazdırılamıyor</string>
     <string name="file_cannot_screen_throw">Bu öğeyi yayınlayamıyorum</string>

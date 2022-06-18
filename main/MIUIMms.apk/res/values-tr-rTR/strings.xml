@@ -1398,7 +1398,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="switch_to_menu">Menü modu</string>
     <string name="system_permission_declare_agree">Kabul et</string>
     <string name="system_permission_declare_disagree">Reddet</string>
-    <string name="system_permission_declare_double_link" formatted="false">"Bu özelliği kullanmadan önce %1s ve %2s'lerimizi okuyun ve kabul edin"</string>
+    <string name="system_permission_declare_double_link" formatted="false">"Bu özelliği kullanmadan önce %1s ve %2s ilkelerimizi okuyun ve kabul edin"</string>
     <string name="system_permission_declare_main_purpose" formatted="false">%1s hoşgeldiniz! %2s</string>
     <string name="system_permission_declare_mi_message">Mi mesaja hoş geldiniz</string>
     <string name="system_permission_declare_no_say_no">"Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız

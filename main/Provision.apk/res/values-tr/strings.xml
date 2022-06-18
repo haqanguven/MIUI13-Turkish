@@ -41,6 +41,7 @@
     <string name="agree_terms_input_method_facemoji">Facemoji klavye gizlilik politikasını okudum ve kabul ettim</string>
     <string name="agree_terms_input_method_kika">Kika klavye gizlilik politikasını okudum ve kabul ettim</string>
     <string name="agreement_declare_use_network_and_location_china">"Ek olarak aşağıdaki hizmetler ağa bağlanacak ve konumunuza erişecektir: "</string>
+    <string name="agreement_declare_use_network_china">ağa bağlanacaktır</string>
     <string name="ai_button_desc">Mi AI özelliğini tetiklemenizi ve Mi AI kısayollarını kullanmanızı sağlar</string>
     <string name="ai_button_double_press">Çift baskı</string>
     <string name="ai_button_double_press_desc">Mi AI özelliklerini ayarlayın</string>
@@ -141,6 +142,10 @@
     <string name="cm_terms_content">Seçmiş olduğunuz operatör size sağlanan hizmetleri geliştirmek amacıyla, kişisel verilerinizi ve cihaz bilgilerini wifi ağları veya mobil ağ bağlantısını kullanarak kendi sunucularına yükleyebilir. Bu bilgiler size sağlanan hizmetlerin kalitesini yükseltebilmek ve daha kişiselleştirilmiş içerik sağlayabilmek için istatistiksel amaçlarla kullanılacaktır. Bu bilgiler kimliğinizi tanımlamak için kullanılmayacak ve üçüncü taraflarla paylaşılmayacaktır</string>
     <string name="cm_terms_title">Mobil ağ operatör dözleşmesi</string>
     <string name="compass_introduction">Navigasyon için bu uygulamayı, ayrıca koordinatları, atmosferik basıncı ve rakımı görüntülemek için kullanabilirsiniz</string>
+    <string name="config_set_location_permissions_package" />
+    <string name="config_show_default_country_code" />
+    <string name="config_show_default_language" />
+    <string name="config_show_home_cell_size" />
     <string name="congratulation_label">Artık hazırsınız</string>
     <string name="congratulation_swipe">Sisteme girmek için yukarı doğru kaydırın</string>
     <string name="congratulation_title">Kurulum tamamlandı</string>
@@ -290,6 +295,7 @@
     <string name="input_method_category">Mesaj yazma, not yazma ve diğer alanlarda kullanmak üzere varsayılan klavyenizi seçin. Dilediğiniz zaman üçüncü parti klavye uygulamalarını yükleyebileceğinizi unutmayın</string>
     <string name="input_method_setting">Klavye seçin</string>
     <string name="install_preinstall_app">Uygulamalar yükleniyor</string>
+    <string name="intent_filter_verification_service">Amaç filtresi doğrulama hizmeti</string>
     <string name="interconnection_communication_introduction">Xiaomi internet iletişim hizmetleri diğer Xiaomi cihazlarını keşfetmenize, bağlamanıza ve iletişim kurmanıza olanak tanır</string>
     <string name="item_contents_wwarning">Cihazınız kaybolursa ekran kilidi ayarlamadığınız sürece başkalarının onu kullanmasını ve verilerinize erişmesini engelleyemezsiniz</string>
     <string name="item_facerecognition">Yüz kilidi</string>
@@ -418,11 +424,15 @@
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">MIUI güncellemeleri yüklemek için en iyi zamanı seçer</string>
+    <string name="other_settings_auto_update_summary_v1">"MIUI'nin güncellemeleri indirmek ve yüklemek için en iyi zamanı seçmesine izin verin. Değişiklikleri uygulamak için cihazınız otomatik olarak yeniden başlatılacaktır"</string>
     <string name="other_settings_enhanced_lockscreen">Duvar kağıdı döngüsü</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Mi için bakış</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik politikası</string>
     <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın. %1$s ve %2$s</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
+    <string name="other_settings_get_apps">Uygulamaları otomatik olarak güncelle</string>
+    <string name="other_settings_get_apps_summary">"En son özelliklerini kullanabilmek için sistemi ve üçüncü taraf ortak uygulamalarını GetApps aracılığıyla güncelleyin
+Otomatik güncellemeleri GetApps > Ayarlar > Otomatik güncellemeler bölümünden kapatabilirsiniz"</string>
     <string name="other_settings_location">Konum</string>
     <string name="other_settings_location_summary">Uygulamaların konumunuza erişimine izin verin</string>
     <string name="other_settings_quality_service">MIUIdaemon izinleri</string>
@@ -550,7 +560,6 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
     <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="preinstall_tips">Hazırlanıyor</string>
     <string name="privacy_content_one">"Wallpaper Carousel önerileri, güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın "<a href;="%1$s">Gizlilik politikası</a> ve <a href;="%2$s">Kullanıcı sözleşmesinden</a>" öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır"</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_provision_more">Gizlilik koruması hakkında daha fazla bilgi edinin</string>
@@ -793,12 +802,7 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
-    <string name="user_agreement">Hizmet şartları</string>
-    <string name="user_agreement_declare">"MIUI'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumanız ve kabul etmeniz gerekir. Cihazınız aktif durumdayken Mi Sim etkinleştirme servisi, ana ekran, sık kullanılan ifadeler, çeviri servisi, MIUI şeytan ve güncelleyici şebekeye bağlanacaktır. Ayrıca MSA ağa bağlanır ve konumunuza erişir"</string>
-    <string name="user_agreement_declare_gmscore">"MIUI'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır. Mi Sim etkinleştirme hizmetleri Xiaomi bulut, bulut yedekleme, Cihaz bul, ana ekran, sık kullanılan ifadeler, Xiaomi internet iletişim hizmetleri, çeviri hizmeti, MIUI arka plan programı, HTML görüntüleyici , MIUI SDK, güvenli öğe uygulaması, AI yardımcısı, pil ve performans, pil dedektörü, neşeli, OS AI ayarı ve güncelleyici. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, izin yöneticisi, güncelleme yapılandırıcı ve akıllı hizmetler"</string>
-    <string name="user_agreement_declare_v1">"MIUI'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır: Mi Sim etkinleştirme hizmetleri, Xiaomi bulut, Bulut yedekleme, Cihaz bul, ana ekran, sık kullanılan ifadeler, Xiaomi internet iletişim hizmetleri, çeviri hizmeti, MIUI arka plan programı, HTML görüntüleyici , MIUI SDK, güvenli öğe uygulaması, AI yardımcısı, pil ve performans, güç dedektörü, Joyose, OS AI ayarı, güncelleyici ve amaç filtresi doğrulama hizmeti. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, izinler yöneticisi ve akıllı hizmetler"</string>
-    <string name="user_agreement_declare_wifi_device">"MIUI'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır: Xiaomi bulut, bulut yedekleme, cihaz bul, ana ekran, sık kullanılan ifadeler, Xiaomi internet iletişim hizmetleri, çeviri hizmeti, MIUI arka plan programı, HTML görüntüleyici, MIUI SDK, güvenli öğe uygulaması, AI yardımcısı, pil ve performans, pil dedektörü, neşeli, OS AI ayarı ve güncelleyici. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, izin yöneticisi ve akıllı hizmetler"</string>
-    <string name="user_agreement_declare_wifi_device_gmscore">"MIUI'yi kullanmadan önce kullanıcı sözleşmemizi ve gizlilik politikamızı okumalı ve kabul etmelisiniz. Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Cihazınız etkinleştirildiğinde aşağıdaki uygulamalar ve hizmetler ağa bağlanacaktır: Xiaomi bulut, bulut yedekleme, cihaz bul, ana ekran, sık kullanılan ifadeler, Xiaomi internet iletişim hizmetleri, çeviri hizmeti, MIUI arka plan programı, HTML görüntüleyici, MIUI SDK, güvenli öğe uygulaması, AI yardımcısı, pil ve performans, pil dedektörü, neşeli, OS AI ayarı ve güncelleyici. Aşağıdaki uygulamalar ve hizmetler ağa bağlanacak ve konumunuza erişecektir: Akıllı kartlar, izin yöneticisi, güncelleme yapılandırıcı ve akıllı hizmetler"</string>
+    <string name="user_agreement">Kullanıcı sözleşmesi</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="voice_assist_advice">Mi AI ses kontrollerini kullanmanıza izin verir ancak daha fazla güç tüketir (Her saat +1%)</string>

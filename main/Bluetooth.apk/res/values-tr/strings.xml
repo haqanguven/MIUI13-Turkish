@@ -48,6 +48,7 @@
     <string name="avrcp_notification_name">Bluetooth AVRCP ileri özelliği</string>
     <string name="bluetooth_a2dp_sink_queue_name">Şimdi oynatılıyor</string>
     <string name="bluetooth_advanced_feat_description">Bluetooth gelişmiş tarama özelliği</string>
+    <string name="bluetooth_broadcast_status">Yayında</string>
     <string name="bluetooth_connected">Bluetooth ses bağlandı</string>
     <string name="bluetooth_disconnected">Bluetooth ses bağlantısı kesildi</string>
     <string name="bluetooth_map_remote_advance_feature_support">Gelişmiş mesaj erişim özellikleri desteklenir</string>
@@ -72,6 +73,7 @@
     <string name="bluetooth_sap_notif_ticker">Bluetooth Sim erişimi</string>
     <string name="bluetooth_sap_notif_title">Bluetooth Sim erişimi</string>
     <string name="bluetooth_share_file_name">bluetooth_content_share</string>
+    <string name="broadcast_notification_name">Yayın durumu</string>
     <string name="bt_audio_share_notification_content">Seçenekleri görmek için dokunun</string>
     <string name="bt_audio_share_notification_title">Ses paylaşılıyor</string>
     <string name="bt_enable_cancel">İptal et</string>
@@ -357,10 +359,10 @@
     <string name="month_september_short">Eylül</string>
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
-    <string name="morning">ÖÖ</string>
-    <string name="night">ÖS</string>
+    <string name="morning">Sabah</string>
+    <string name="night">Akşam</string>
     <string name="no_transfers">Aktarım geçmişi boş</string>
-    <string name="noon">ÖS</string>
+    <string name="noon">Öğlen</string>
     <string name="not_exist_file">Dosya yok</string>
     <string name="not_exist_file_desc">"Dosya mevcut değil
 "</string>

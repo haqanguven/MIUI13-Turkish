@@ -43,6 +43,7 @@ ikinci alana otomatik olarak eklenir"</string>
     <string name="air_space_exit">Alandan çık</string>
     <string name="air_space_setting">Alan ayarları</string>
     <string name="airspace_users_full">Daha fazla iş alanı oluşturulamıyor</string>
+    <string name="alwaysUsePrompt">Seçimimi hatırla</string>
     <string name="am">ÖÖ</string>
     <string name="appData">Yüklü uygulamalar</string>
     <string name="app_name">Güvenlik çekirdek bileşeni</string>
@@ -423,6 +424,7 @@ Uygulamaları ayrıca ayrı ayrı da indirebilirsiniz"</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
     <string name="miuix_appcompat_select_item">Öğeleri seç</string>
+    <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
     <string name="miuix_sbl_tracking_progress_labe_refreshed">Yenileme tamamlandı</string>
@@ -807,6 +809,7 @@ Bazı çift uygulamalar Google hizmet çerçevesine ihtiyaç duyar. Bu gibi duru
     <string name="xspace_guide_description">"Her hesap
 kendi uygulamasını hak ediyor"</string>
     <string name="xspace_guide_title">Çift uygulamaları deneyin</string>
+    <string name="xspace_head">Çift uygulama</string>
     <string name="xspace_header">Çift uygulamalar</string>
     <string name="xspace_instagram_title">İnstagram</string>
     <string name="xspace_install_complete">&lt;font>Çift uygulama başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font></string>
@@ -822,6 +825,7 @@ kendi uygulamasını hak ediyor"</string>
     <string name="xspace_notification_error">Çift WeChat uygulamasında oturum açın ve tekrar deneyin</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="xspace_remove">Çift uygulamaların hesabını sil</string>
+    <string name="xspace_resolver_activity_title">Uygulama seç</string>
     <string name="xspace_setting_label">Çift uygulama ayarları</string>
     <string name="xspace_settins">Ayarla</string>
     <string name="xspace_start">Oluştur</string>

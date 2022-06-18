@@ -289,11 +289,6 @@
         <item>Mi hesabınızla ilişkili cihazları yönetin</item>
         <item>Cihazlar;Yönet;Giriş yap;Giriş yap;Cihaz listesi;Xiaomi;Mi hesabı;Hesap</item>
     </string-array>
-    <string-array name="settings_search_payment_information">
-        <item>Ödeme bilgileri</item>
-        <item>Ödeme bilgilerini görüntüleyin ve yönetin</item>
-        <item>Ödeme;Bilgi;Xiaomi;Mi hesabı;Hesap</item>
-    </string-array>
     <string-array name="settings_search_privacy_policy">
         <item>Gizlilik politikası</item>
         <item>Mi hesabı gizlilik politikasını görüntüle</item>

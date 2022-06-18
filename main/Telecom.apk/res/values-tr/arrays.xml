@@ -77,8 +77,6 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ adaptif ses</item>
-        <item>Qualcomm® aptX™ TWS+ ses</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -87,14 +85,12 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ adaptif ses</item>
-        <item>Qualcomm® aptX™ TWS+ ses</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
-        <item>, active</item>
-        <item>, active (Medya)</item>
-        <item>, active (Telefon)</item>
+        <item>" | Aktif"</item>
+        <item>" | Aktif (Medya)"</item>
+        <item>" | Aktif (Telefon)"</item>
     </string-array>
     <string-array name="bluetooth_avrcp_versions">
         <item>AVRCP 1.4 (Varsayılan)</item>
@@ -111,8 +107,6 @@
         <item>Devre dışı</item>
         <item>Etkin filtre uygulandı</item>
         <item>Etkin</item>
-        <item>Etkin başlıklar filtrelendi</item>
-        <item>Etkin medya puanları filtrelendi</item>
     </string-array>
     <string-array name="color_mode_descriptions">
         <item>Geliştirilmiş renkler</item>
@@ -264,6 +258,20 @@
         <item>%1$s bağlantısı kesiliyor</item>
         <item>Bağlantı kesildi</item>
         <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Doğrulanıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
         <item>Engellendi</item>
         <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
     </string-array>

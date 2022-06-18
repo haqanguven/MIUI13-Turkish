@@ -90,6 +90,10 @@
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
     </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">%d yeni bildirim</item>
+        <item quantity="one">%d yeni bildirim</item>
+    </plurals>
     <plurals name="num_minutes_ago">
         <item quantity="other">%d dakika önce</item>
         <item quantity="one">1 dakika önce</item>
@@ -99,5 +103,9 @@
 %d deneme kaldı"</item>
         <item quantity="one">"
 %d deneme kaldı"</item>
+    </plurals>
+    <plurals name="wifi_tether_connected_summary">
+        <item quantity="other">%1$d cihaz bağlandı</item>
+        <item quantity="one">%1$d cihaz bağlandı</item>
     </plurals>
 </resources>

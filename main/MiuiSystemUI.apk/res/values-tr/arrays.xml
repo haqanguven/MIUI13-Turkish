@@ -82,11 +82,6 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -95,13 +90,6 @@
         <item>Qualcomm® aptX™ ses</item>
         <item>Qualcomm® aptX™ HD ses</item>
         <item>LDAC</item>
-        <item>Qualcomm® aptX™ uyarlanabilir ses</item>
-        <item>Qualcomm® aptX™ TWS+ ses</item>
-        <item>LHDC V3/V4</item>
-        <item>LHDC V2</item>
-        <item>LHDC V1</item>
-        <item>İsteğe bağlı kodekleri etkinleştir</item>
-        <item>İsteğe bağlı kodekleri devre dışı bırak</item>
     </string-array>
     <string-array name="bluetooth_audio_active_device_summaries">
         <item></item>
@@ -124,8 +112,6 @@
         <item>Devre dışı</item>
         <item>Etkin filtre uygulandı</item>
         <item>Etkin</item>
-        <item>Etkin başlıklar filtrelendi</item>
-        <item>Etkin medya puanları filtrelendi</item>
     </string-array>
     <string-array name="clock_options">
         <item>Saati, dakikaları ve saniyeleri göster</item>
@@ -179,20 +165,6 @@
         <item>Sol eğilimli</item>
         <item>Sağ eğilimli</item>
     </string-array>
-    <string-array name="origin_carrier_names">
-        <item>None</item>
-        <item>480p</item>
-        <item>480p (Güvenli)</item>
-        <item>720p</item>
-        <item>720p (Güvenli)</item>
-        <item>1080p</item>
-        <item>1080p (Güvenli)</item>
-        <item>4K</item>
-        <item>4K (Güvenli)</item>
-        <item>4K (Büyütülmüş)</item>
-        <item>4K (Büyütülmüş. Güvenli)</item>
-        <item>720p, 1080p (Çift ekran)</item>
-    </string-array>
     <string-array name="overlay_display_devices_entries">
         <item>Yok</item>
         <item>480p</item>
@@ -245,6 +217,131 @@
         <item>Kapalı</item>
         <item>Dikdörtgen olmayan kırpma bölgesini mavi çiz</item>
         <item>Test edilmiş çizim komutlarını yeşille vurgula</item>
+    </string-array>
+    <string-array name="tile_states_airplane">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_alarm">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_battery">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_bt">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_cameratoggle">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_cast">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_cell">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_controls">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_dark">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_dnd">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_flashlight">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_hotspot">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_internet">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_inversion">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_location">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_mictoggle">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_night">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_reduce_brightness">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_reverse">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_rotation">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_saver">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_screenrecord">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_wallet">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_wifi">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
+    </string-array>
+    <string-array name="tile_states_work">
+        <item>Kullanım dışı</item>
+        <item>Kapalı</item>
+        <item>Açık</item>
     </string-array>
     <string-array name="track_frame_time_entries">
         <item>Kapalı</item>
@@ -312,6 +409,20 @@
         <item>%1$s bağlantısı kesiliyor</item>
         <item>Bağlantı kesildi</item>
         <item>Başarısız</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Doğrulanıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
         <item>Engellendi</item>
         <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
     </string-array>

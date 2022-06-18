@@ -35,5 +35,6 @@
         <item>Varsayılan</item>
         <item>SSR</item>
         <item>Full_Dump</item>
+        <item>Geçersiz</item>
     </string-array>
 </resources>

@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="accessibility_button_gesture_selector_titles">
+        <item>Düğme</item>
+        <item>Hareket</item>
+    </string-array>
+    <string-array name="accessibility_button_location_selector_titles">
+        <item>Diğer uygulamalar üzerinde yüzer</item>
+        <item>Gezinti çubuğu</item>
+    </string-array>
+    <string-array name="accessibility_button_size_selector_titles">
+        <item>Küçük</item>
+        <item>Büyük</item>
+    </string-array>
     <string-array name="agps_network_entries">
         <item>Ev ağı</item>
         <item>Tüm ağlar</item>
@@ -305,14 +317,14 @@
         <item>Dengeli ses ve bağlantı kalitesi</item>
         <item>Ses kalitesi için optimize edildi</item>
         <item>En iyi çaba (Otomatik bit hızı)</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>En iyi çaba (Otomatik bit hızı</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_lhdc_playback_quality_titles">
         <item>Bağlantı kalitesi için optimize edildi (400kbps)</item>
         <item>Dengeli ses ve bağlantı kalitesi (500/560kbps)</item>
         <item>Ses kalitesi için optimize edildi (900kbps)</item>
         <item>En iyi çaba (Otomatik bit hızı)</item>
-        <item>Best effort (Auto bit rate)</item>
+        <item>En iyi çaba (Otomatik bit hızı)</item>
     </string-array>
     <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
         <item>Sistem seçimini kullan (Varsayılan)</item>
@@ -591,6 +603,14 @@
         <item>Sadece DRM içeriğini kontrol et</item>
         <item>Her zaman kontrol et</item>
     </string-array>
+    <string-array name="inputdebuglog_select_level_entries">
+        <item>Seviye 0</item>
+        <item>Seviye 1</item>
+        <item>Seviye 2</item>
+        <item>Seviye 3</item>
+        <item>Seviye 4</item>
+        <item>Seviye 5</item>
+    </string-array>
     <string-array name="keyguard_notification_status_entries">
         <item>Ekranı uyandır</item>
         <item>Animasyon göster</item>
@@ -633,6 +653,11 @@
         <item>2 dakika</item>
         <item>5 dakika</item>
         <item>Asla</item>
+    </string-array>
+    <string-array name="long_press_timeout_selector_list_titles">
+        <item>Kısa</item>
+        <item>Normal</item>
+        <item>Uzun</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
         <item>Kısa</item>
@@ -774,6 +799,47 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>E-posta</item>
         <item>Video</item>
     </string-array>
+    <string-array name="preferred_network_mode_choices">
+        <item>Tercihen GSM/WCDMA</item>
+        <item>Sadece GSM</item>
+        <item>Sadece WCDMA</item>
+        <item>Otomatik GSM/WCDMA</item>
+        <item>Otomatik CDMA/EvDo</item>
+        <item>CDMA w/o EvDo</item>
+        <item>Sadece EvDo</item>
+        <item>CDMA/EvDo/GSM/WCDMA</item>
+        <item>CDMA + LTE/EvDo</item>
+        <item>GSM/WCDMA/LTE</item>
+        <item>LTE/CDMA/EvDo/GSM/WCDMA</item>
+        <item>LTE</item>
+        <item>LTE / WCDMA</item>
+        <item>Sadece TDSCDMA</item>
+        <item>TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA</item>
+        <item>TDSCDMA/GSM</item>
+        <item>LTE/TDSCDMA/GSM</item>
+        <item>TDSCDMA/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/WCDMA</item>
+        <item>LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>LTE/TDSCDMA/CDMA/EVDO/GSM/WCDMA</item>
+        <item>Sadece NR</item>
+        <item>NR/LTE</item>
+        <item>NR/LTE/CDMA/EvDo</item>
+        <item>NR/LTE/GSM/WCDMA</item>
+        <item>Global</item>
+        <item>NR/LTE/WCDMA</item>
+        <item>NR/LTE/TDSCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM</item>
+        <item>NR/LTE/TDSCDMA/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/GSM/WCDMA</item>
+        <item>NR/LTE/TDSCDMA/CDMA/EvDo/GSM/WCDMA</item>
+    </string-array>
+    <string-array name="preferred_network_mode_choices_world_mode">
+        <item>Global</item>
+        <item>LTE / CDMA</item>
+        <item>LTE / GSM / UMTS</item>
+    </string-array>
     <string-array name="preferred_network_mode_gsm_wcdma_choices">
         <item>Sadece GSM</item>
         <item>Sadece WCDMA</item>
@@ -816,7 +882,7 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Orta</item>
         <item>Düşük</item>
         <item>Kritik</item>
-        <item>\?</item>
+        <item>\\</item>
     </string-array>
     <string-array name="screen_button_style">
         <item>Sol el tarzı</item>
@@ -1211,6 +1277,20 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
     <string-array name="wifi_wapi_key_type">
         <item>WAPI ASCII</item>
         <item>WAPI onaltılık</item>
+    </string-array>
+    <string-array name="wifitrackerlib_wifi_status">
+        <item></item>
+        <item>Taranıyor</item>
+        <item>Bağlanıyor</item>
+        <item>Doğrulanıyor</item>
+        <item>IP adresi alınıyor</item>
+        <item>Bağlandı</item>
+        <item>Askıya alındı</item>
+        <item>Bağlantı kesiliyor</item>
+        <item>Bağlantı kesildi</item>
+        <item>Başarısız oldu</item>
+        <item>Engellendi</item>
+        <item>Kötü bağlantıdan geçici olarak kaçınılıyor</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Kapalı</item>

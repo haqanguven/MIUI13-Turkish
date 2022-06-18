@@ -255,6 +255,9 @@
     <string name="dialpad_wxyz">WXYZ</string>
     <string name="dialpad_zero">0</string>
     <string name="do_not_support_video_calls_by_remote">Görüntülü arama özelliği diğer cihazda desteklenmiyor</string>
+    <string name="dsda_answer_call_prompt">Bu aramayı kabul etmek devam eden aramanızı sonlandıracaktır</string>
+    <string name="dsda_not_incall_sim_mo_fail_desc">Şu anda aramalar için Sim %1$d kullanılamıyor. Mevcut ağ ortamı çift Sim işlevini desteklemiyor</string>
+    <string name="dsda_swap_call_prompt">Devam ederseniz sesli aramaya geçeceksiniz</string>
     <string name="early_morning">Sabah</string>
     <string name="earthly_branches_chen">15</string>
     <string name="earthly_branches_chou">12</string>
@@ -433,6 +436,7 @@
     <string name="morning">Sabah</string>
     <string name="msim_select_default_last">Yakın zamanda kullanıldı</string>
     <string name="msim_select_default_time_left">(%d saniye)</string>
+    <string name="multi_call_manager_other_calls">Diğer aramalar (%1$d)</string>
     <string name="night">ÖS</string>
     <string name="noon">Öğlen</string>
     <string name="notification_action_accept">Kabul et</string>
@@ -485,7 +489,6 @@
     <string name="relay_network_error">Ağ hatası</string>
     <string name="relay_network_error_msg">Bir ağ hatası nedeniyle bu cihazda arama alınamıyor. Bunun yerine telefonunuza geri dönün</string>
     <string name="remind_unlock_message">Cihazınız şu an kilitli. %s cihaz kilidini açmanızdan sonra kullanılabilir durumda olacaktır. Kilit şimdi açılsın mı?</string>
-    <string name="remind_unlock_screen_message">%s özelliğini kullanabilmek için cihazınızın kilidini açın. Şimdi açılsın mı?</string>
     <string name="required_permissions">android.permission.READ_CONTACTS;android.permission.WRITE_EXTERNAL_STORAGE;android.permission.READ_EXTERNAL_STORAGE</string>
     <string name="respond_via_sms_custom_message">Özel mesaj</string>
     <string name="saf_permission_content">"Sistem izinleri güncellendi. Aramaları kaydedebilmek için önce izninizi verin
@@ -494,6 +497,7 @@
 %1$s öğesine dokunun ve ardından %2$s öğesini seçin"</string>
     <string name="saf_permission_grant_permission_immediately">Sonraki</string>
     <string name="saf_permission_later">Şimdi değil</string>
+    <string name="saf_permission_recorder_unlock_screen_message">Kayıtları kaydedebilmek için önce cihazınızın kilidini açın. Şimdi açılsın mı?</string>
     <string name="saf_permission_refused">Eksik izinler nedeniyle aramalar kaydedilemiyor</string>
     <string name="saf_permission_title">Gerekli izinler</string>
     <string name="saf_permission_use_this_folder">Bu klasörü kullan</string>
@@ -504,6 +508,7 @@
     <string name="select_audio_dialog_title">Cevaplama modunu seçin</string>
     <string name="select_one_sim_title">Yalnızca %1$d Sim kartı kullanılabiliyor</string>
     <string name="select_one_sim_title_for_heduohao">Sadece Sim %1$d Sub %2$d kullanabilir</string>
+    <string name="select_other_sim_card_dial">"Sim'i %1$d kullan"</string>
     <string name="select_sim_hint">Sim %1$d kullanımdayken. Sim %2$d kullanılamıyor</string>
     <string name="select_sim_hint_for_heduohao">Sim %1$d Sub %2$d kullanımdayken diğerlerini kullanamazsınız</string>
     <string name="select_voice_call_sim">Sim kart seçin</string>

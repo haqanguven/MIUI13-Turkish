@@ -82,6 +82,7 @@
     <string name="backup_hint_pad">Cihazınızı açık tutun</string>
     <string name="backup_is_running">Cihaz yedekleniyor</string>
     <string name="backup_new">Yeni:</string>
+    <string name="backup_notification_title">Yedekleme çalışıyor</string>
     <string name="backup_progress">Yedekleniyor</string>
     <string name="backup_report">Detayları görüntüle</string>
     <string name="backup_security_tips_message">Bazı uygulamalar yedeklenemeyebilir veya geri yüklenemeyebilir</string>
@@ -424,12 +425,8 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="icloud_need_wifi_title">"Wifi'ye bağlan"</string>
     <string name="import_again">Yeniden içeri aktar</string>
     <string name="import_data_from_icloud">iCloud alanından veri aktar</string>
-    <string name="import_from_xiaomi_account_hint1">"1.Mi Talk uygulamasını indirin ve oturum açın
-http://www.miliao.com
-
-2.Mi Talk ayarlarına gidin ve kişileri Mi hesaba yedekle seçeneğini seçin"</string>
-    <string name="import_from_xiaomi_account_hint2">Halihazırda bir yedeğiniz varsa ileri tuşuna dokunun</string>
-    <string name="import_from_xiaomi_account_hint_title">Cihazlar arasında kişilerinizi yedeklemek için Mi Talk kullanın</string>
+    <string name="import_from_xiaomi_account_hint2">Zaten bir yedeğiniz varsa ileriye dokunun</string>
+    <string name="import_from_xiaomi_account_hint_title">"Kişilerinizi cihazlar arasında yedeklemek için Mi Talk'u kullanın"</string>
     <string name="import_tip_message">@string/icloud_how_to_backup_tip_steps</string>
     <string name="import_tip_summary">Uyumluluk sorunlarından dolayı iOS cihazlarından yalnızca kısmi veri aktarabilirsiniz. Aktarım işlemine başlamadan önce bir iCloud yedeği almış olduğunuzdan emin olun</string>
     <string name="lack_perm_msg">Mi taşıyıcı aşağıdaki izinlere ihtiyaç duyuyor: <b>%s</b></string>

@@ -488,10 +488,10 @@
     <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
     <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
     <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"HH 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
+    <string name="fmt_time_24hour">"H 'o''clock'"</string>
+    <string name="fmt_time_24hour_minute">H:mm</string>
+    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
+    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
     <string name="fmt_time_millis">"S'ms'"</string>
     <string name="fmt_time_minute">"m'min'"</string>
     <string name="fmt_time_minute_second">"m'min' s's'"</string>
@@ -1052,7 +1052,7 @@ Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarl
     <string name="privacy_phone_revoke_agree_introduce">Devam ederseniz temaların gizlilik politikasına verdiğiniz onayı geri çekersiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Temalar hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sunduğundan, izninizi geri çekmeniz, Temalar hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir</string>
     <string name="privacy_phone_update_content">Temalar gizlilik politikası güncellendi:</string>
     <string name="privacy_read_statement">Önce şartlar ve koşulları kabul edin</string>
-    <string name="privacy_read_the_updated_privacy_policy_content">Devam etmeden önce <font color;="'#37A5FF'"><a href="'%1$s'">Gizlilik politikası yeni sürümünü okuyun ve kabul edin</string>
+    <string name="privacy_read_the_updated_privacy_policy_content">Devam etmeden önce %1$s gizlilik politikası yeni sürümünü okuyun ve kabul edin</string>
     <string name="privacy_reading_the_application_list">Bu cihazda yüklü uygulamaların listesine erişim</string>
     <string name="privacy_remind_user_mode_agree">Kabul et</string>
     <string name="privacy_remind_user_mode_content">&lt;Data>Bu özelliği kullanmak için gizlilik politikamızı kabul edin. Temaları kullandığınızda bize sağladığınız kişisel bilgileri nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi, işlediğimizi ve sakladığımızı öğ<font color="#37A5FF">renmek<font color="#37A5FF">&lt;font color=\"#37A5FF\"> için &lt;font color=\"#37A5FF</font></font>\">&lt;/color>&lt;a href=\"%1$&lt;/font>s\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyun&lt;/Data></string>
@@ -1731,7 +1731,9 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_24h">24S</string>
     <string name="wallpaper_apply">Uygula</string>
     <string name="wallpaper_apply_full">Tümü</string>
+    <string name="wallpaper_apply_inner">İç ekrana uygula</string>
     <string name="wallpaper_apply_large">İç ekran</string>
+    <string name="wallpaper_apply_outer">Dış ekrana uygula</string>
     <string name="wallpaper_apply_pcmode">PC modu duvar kağıdını ayarla</string>
     <string name="wallpaper_apply_small">Dış ekran</string>
     <string name="wallpaper_crop">Kırp</string>

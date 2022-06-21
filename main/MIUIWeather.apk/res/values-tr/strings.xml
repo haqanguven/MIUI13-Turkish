@@ -217,6 +217,7 @@
     <string name="content_desc_city_manage_del">Sil</string>
     <string name="content_desc_city_manage_edit">Düzenle</string>
     <string name="content_desc_close_button">Kapat</string>
+    <string name="content_desc_feedback_weather_type_choose">%1$s seçildi</string>
     <string name="copy">Kopyala</string>
     <string name="daily_ad_go_to_video">Görüntülemeye git</string>
     <string name="daily_ad_index_item_experience_now">Şimdi dene</string>

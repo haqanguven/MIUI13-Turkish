@@ -488,11 +488,13 @@
         <item>Negatif ekran seçici</item>
         <item>Negatif ekran öneri kartı konumu</item>
         <item>Negatif ekran öneri kartı haritası</item>
+        <item>Yapay itme</item>
     </string-array>
     <string-array name="widget_component_add_way">
         <item>Seçici ayrıntıları sayfasından sürükleyip bırakın</item>
         <item>Seçici ayrıntıları sayfası ekle düğmesi</item>
         <item>Seçici ana sayfasından sürükleyip bırakın</item>
+        <item>Şelale sayfasından sürükleyin</item>
     </string-array>
     <string-array name="widget_component_default_source">
         <item>Varsayılan olmayan</item>

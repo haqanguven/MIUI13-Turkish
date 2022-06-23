@@ -690,14 +690,14 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_shortcut_desc_delete_button">"%1$s'yi ana sayfadan kaldırmak için tıklayın"</string>
     <string name="pa_shortcut_desc_more_button">Tam işlev sayfasına girmek için tıklayın</string>
     <string name="pa_shortcut_download_tip">%2$s kullanabilmek için önce %1$s yükleyin</string>
-    <string name="pa_shortcut_empty">Eklenmez</string>
+    <string name="pa_shortcut_empty">Boş</string>
     <string name="pa_shortcut_group_title_start_page">Başlangıç sayfası</string>
     <string name="pa_shortcut_memory_clean_nothing">Önbellekte temizlenecek bir şey yok</string>
     <string name="pa_shortcut_memory_clean_result">%1$sB temizlendi</string>
     <string name="pa_shortcut_paycode">Alipay</string>
     <string name="pa_shortcut_setting_activity_subtitle">Öğeleri yeniden düzenlemek için sürükleyin</string>
     <string name="pa_shortcut_setting_activity_title">Eklenen kısayollar</string>
-    <string name="pa_shortcut_setting_select_other_applications">Diğer uygulamaları seçin</string>
+    <string name="pa_shortcut_setting_select_other_applications">Diğer uygulamalar</string>
     <string name="pa_shortcut_widget_label">Hızlı erişim</string>
     <string name="pa_shortcut_widget_label_4x2">Kısayollar</string>
     <string name="pa_ski_foreground_service_noitification_name">Konum erişimi</string>
@@ -743,7 +743,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_stock_add_stock_button">Ekle</string>
     <string name="pa_stock_change_cp_code_alert">Bu işlem verilerin düzgün görüntülenememesine neden olabilir</string>
     <string name="pa_stock_change_cp_code_error">Veri kaynağı değiştirilemedi</string>
-    <string name="pa_stock_change_cp_code_progress_msg">Veri kaynağı değiştirilemedi</string>
+    <string name="pa_stock_change_cp_code_progress_msg">Değiştiriliyor</string>
     <string name="pa_stock_color_scheme_label">Renk uyumu</string>
     <string name="pa_stock_data_source_label">Veri kaynağı seçin</string>
     <string name="pa_stock_delisted">(Liste dışı)</string>

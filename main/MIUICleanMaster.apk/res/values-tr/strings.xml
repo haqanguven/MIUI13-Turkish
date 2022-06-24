@@ -78,7 +78,7 @@
     <string name="app_cleaned">Başarıyla temizlendi</string>
     <string name="app_description_content">Temizleyici cihazınızdaki çöpleri bulur ve depolama alanı boşaltır. Uygulamayı kaldırmadan önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Temizleyici hakkında</string>
-    <string name="app_name">Önemsiz motor</string>
+    <string name="app_name">Temizleyici</string>
     <string name="app_reset">Sıfırla</string>
     <string name="app_specific_clean">Uygulama temizleyici</string>
     <string name="app_unload">Kaldır</string>

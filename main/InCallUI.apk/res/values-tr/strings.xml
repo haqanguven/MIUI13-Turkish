@@ -41,7 +41,7 @@
     <string name="antispam_local_marked">Yerel işaretli</string>
     <string name="antispam_notification_title">Bilinmeyen numara</string>
     <string name="antispam_provider">%s olarak tanımlandı</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">Arama ekranı</string>
     <string name="bluetooth_permission_content">Sistem izinleri güncellendi. Bu uygulamanın Bluetooth cihazlarınızı görüntüleyebilmesi için adlarına erişmesine izin verin</string>
     <string name="bluetooth_permission_grant_immediately">İzin ver</string>
     <string name="bluetooth_permission_later">Şimdi değil</string>

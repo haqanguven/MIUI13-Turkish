@@ -555,7 +555,7 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_managere_not_have_app">Boş</string>
     <string name="app_manger_des_separator">", "</string>
     <string name="app_mobile">Mobil</string>
-    <string name="app_name">Uygulama kilidi</string>
+    <string name="app_name">Güvenlik</string>
     <string name="app_name_na">Veri kullanımı</string>
     <string name="app_name_securitycenter">Güvenlik</string>
     <string name="app_not_installed_toast">Uygulama cihazınıza yüklü değil</string>
@@ -1477,7 +1477,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="dlg_summary_close_app">Uygulamalar arka planda çalışmayacak. Bildirimler kısıtlanacak</string>
     <string name="dlg_summary_close_theme">Dinamik temalar işe yaramaz</string>
     <string name="dlg_summary_close_wifi">Wifi, bluetooth ve bağlantı noktası kapatılacak</string>
-    <string name="dlg_summary_nfc">Nfc kapatılacak</string>
+    <string name="dlg_summary_nfc">NFC kapatılacak</string>
     <string name="dlg_summary_title">Bir uygulamadan ayrılırken veya ana ekrana geri döndüğünüzde arka plan etkinliği kısıtlanır. Uygulamaları arka planda çalışmasına izin vermek için pil tasarrufu istisnalarına ekleyin</string>
     <string name="dlg_title_not_open_stranger_identify">Arayan kimliği</string>
     <string name="dlg_update_btn_contiue">Devam et</string>

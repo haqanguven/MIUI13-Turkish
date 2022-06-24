@@ -54,7 +54,7 @@
     <string name="apk_filter">Apk</string>
     <string name="app_downloads">%s indirme</string>
     <string name="app_label">İndirilenler</string>
-    <string name="app_name">Tercihler</string>
+    <string name="app_name">İndirmeler</string>
     <string name="app_size">%1$s</string>
     <string name="auth_activity_title">Xunlei hesabı</string>
     <string name="auth_fail">Yetki alınamadı</string>

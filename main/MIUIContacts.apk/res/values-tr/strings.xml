@@ -1044,7 +1044,7 @@ Neden: %s"</string>
     <string name="new_saf_permission_dialog_title"><b>Gerekli izinler</b></string>
     <string name="next">Sonraki</string>
     <string name="next_birthday">Sonraki doğum günü: %s</string>
-    <string name="nfc_vcard_file_name">Kişi Nfc üzerinden alındı</string>
+    <string name="nfc_vcard_file_name">Kişi NFC üzerinden alındı</string>
     <string name="nicknameLabelsGroup">Takma ad</string>
     <string name="nickname_editor_title">Takma adı düzenle</string>
     <string name="nickname_picker_name_column">Kişi adı</string>

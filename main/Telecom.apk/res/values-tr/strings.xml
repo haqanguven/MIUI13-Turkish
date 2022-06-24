@@ -123,7 +123,7 @@ Bu izin kapalıysa bu uygulama tarafından planlanan mevcut alarmlar ve zamana d
     <string name="anti_fraud_notification_msg">Telekom dolandırıcılığını önlemek için bu aramaya geri dönün</string>
     <string name="anti_fraud_notification_title">Dolandırıcılığa karşı uyarı</string>
     <string name="apn_settings_not_available">Erişim noktası adı ayarları bu kullanıcı için kullanılamıyor</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">Telekom</string>
     <string name="app_process_limit_title">Arka plan işlem sınırı</string>
     <string name="available_via_carrier">%1$s aracılığıyla kullanılabilir</string>
     <string name="available_via_passpoint">%1$s aracılığıyla kullanılabilir</string>

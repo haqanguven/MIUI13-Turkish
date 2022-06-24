@@ -300,7 +300,7 @@
     <string name="status_bar_toggle_lock">Kilitle</string>
     <string name="status_bar_toggle_midrop">Mi damla</string>
     <string name="status_bar_toggle_mute">Sessiz</string>
-    <string name="status_bar_toggle_nfc">Nfc</string>
+    <string name="status_bar_toggle_nfc">NFC</string>
     <string name="status_bar_toggle_paper_mode">Okuma modu</string>
     <string name="status_bar_toggle_power_mode">Performans</string>
     <string name="status_bar_toggle_quiet_mode">Rahatsız etme</string>

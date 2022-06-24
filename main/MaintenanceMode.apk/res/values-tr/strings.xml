@@ -31,7 +31,7 @@
     <string name="afternoon">Öğleden sonra</string>
     <string name="agree">Kabul et</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">blur</string>
+    <string name="app_name">Bakım</string>
     <string name="cancel">İptal et</string>
     <string name="check_protocol_msg">Bakım modunu kullanmak için lütfen buraya tıklayın kabul edin </string>
     <string name="check_protocol_msg_detail">Onarım moduna başlamadan önce lütfen verilerin yedeklendiğinden ve tamir edilen üründen kaynaklanan olası veri kayıplarından satış sonrası servisin sorumlu olmadığından emin olun</string>

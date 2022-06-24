@@ -31,9 +31,9 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="ad_service">Reklam hizmeti</string>
     <string name="afternoon">Öğleden sonra</string>
-    <string name="am">AM</string>
+    <string name="am">ÖÖ</string>
     <string name="app_label">HTML görüntüleyici</string>
-    <string name="app_name">Bulanıklık</string>
+    <string name="app_name">HTML görüntüleyici</string>
     <string name="app_name_which_call">Uygulama: %s</string>
     <string name="app_version_which_call">Uygulama sürümü: %s</string>
     <string name="autoconnect">Otomatik bağlan</string>

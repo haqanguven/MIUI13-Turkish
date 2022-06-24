@@ -387,7 +387,7 @@ Bu izin kapalıysa bu uygulama tarafından planlanan mevcut alarmlar ve zamana d
     <string name="app_accessed_mic">%1$s mikrofonunuza erişti</string>
     <string name="app_info">Uygulama bilgisi</string>
     <string name="app_label">Sistem arayüzü</string>
-    <string name="app_name">Tuş kilidi</string>
+    <string name="app_name">Sistem arayüzü</string>
     <string name="app_process_limit_title">Arka plan işlem sınırı</string>
     <string name="appops_camera">Bu uygulama kamerayı kullanıyor</string>
     <string name="appops_camera_mic">Bu uygulama mikrofon ve kamerayı kullanıyor</string>

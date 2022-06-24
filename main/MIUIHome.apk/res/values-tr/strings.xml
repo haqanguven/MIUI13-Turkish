@@ -156,7 +156,7 @@
     <string name="app_drawer_guide_title">Uygulama çekmecesi</string>
     <string name="app_drawer_tip_title">İçerik akışını uygulama çekmecesi ile değiştirdik</string>
     <string name="app_install_state">Yüklendi</string>
-    <string name="app_name">Küçük pencere</string>
+    <string name="app_name">Sistem başlatıcı</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_name">Sistem başlatıcı</string>
     <string name="apply">Ayarla</string>

@@ -150,7 +150,7 @@ Bu izin kapalıysa bu uygulama tarafından planlanan mevcut alarmlar ve zamana d
     <string name="antispam_setting">Engelli listesi</string>
     <string name="apn_settings">Erişim noktaları</string>
     <string name="apn_settings_not_available">Erişim noktası adı ayarları bu kullanıcı için kullanılamıyor</string>
-    <string name="app_name">Tercihler</string>
+    <string name="app_name">Telefon hizmetleri</string>
     <string name="app_process_limit_title">Arka plan işlem sınırı</string>
     <string name="arrears_sim_summary">Bağlantıda kalmak için telefon bakiyenizi doldurun</string>
     <string name="arrears_sim_title">Yetersiz bakiye</string>

@@ -721,7 +721,7 @@ Bu izin verilmezse bu uygulama tarafından programlanmış mevcut alarmlar ve za
     <string name="app_list_preference_none">Yok</string>
     <string name="app_memory_use">Bellek kullanımı</string>
     <string name="app_mobile">Mobil veri</string>
-    <string name="app_name">Tercih</string>
+    <string name="app_name">Ayarlar</string>
     <string name="app_name_label">Uygulama</string>
     <string name="app_name_na">Veri kullanımı</string>
     <string name="app_not_found_dlg_text">Uygulama yüklü uygulamalar listesinde bulunamadı</string>

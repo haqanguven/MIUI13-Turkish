@@ -44,7 +44,7 @@
     <string name="app_description_content">Pusula uygulaması navigasyon ve oryantasyon amacıyla kullanılır ve size yönünüzü gösterir. Uygulamayı kaldırmadan önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Hakkında</string>
     <string name="app_label">Pusula</string>
-    <string name="app_name">Tercih</string>
+    <string name="app_name">Pusula</string>
     <string name="calibrate_failed">Rakım kalibrasyonu başarısız</string>
     <string name="calibrate_failed_no_location">Kalibre edilemiyor</string>
     <string name="calibrate_failed_timeout">Sunucuya bağlanılamıyor</string>

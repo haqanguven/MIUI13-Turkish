@@ -27,14 +27,14 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
-    <string name="accessibility_nfc_enabled">Nfc etkinleştirildi</string>
+    <string name="accessibility_nfc_enabled">NFC etkinleştirildi</string>
     <string name="action_confirm_url_open">Bağlantıyı aç</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
     <string name="android_beam">Android ışın</string>
     <string name="antenna_blocked_alert_link" />
-    <string name="app_name">Nfc hizmeti</string>
+    <string name="app_name">NFC hizmeti</string>
     <string name="ask_nfc_tap">Tamamlamak için diğer cihaza hafifçe dokunun</string>
     <string name="beam_busy">Android ışın şu anda meşgul. Önceki aktarım işlemi tamamlandığında tekrar deneyin</string>
     <string name="beam_canceled">Işınlama iptal edildi</string>
@@ -44,7 +44,7 @@
     <string name="beam_outgoing">Işınlanıyor</string>
     <string name="beam_progress">Gelen ışın</string>
     <string name="beam_requires_external_storage_permission">Uygulamanın harici depolama izni yok. Bu dosyayı ışınlamak için bu gereklidir</string>
-    <string name="beam_requires_nfc_enabled">"Android ışın Nfc'nin etkin olmasını gerektirir. Etkinleştirmek ister misiniz?"</string>
+    <string name="beam_requires_nfc_enabled">"Android ışın NFC'nin etkin olmasını gerektirir. Etkinleştirmek ister misiniz?"</string>
     <string name="beam_tap_to_view">Görüntülemek için hafifçe dokunun</string>
     <string name="beam_try_again">Cihazları tekrar bir araya getirin</string>
     <string name="bluetooth_package">com.android.bluetooth</string>
@@ -281,7 +281,7 @@
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
-    <string name="nfcUserLabel">Nfc</string>
+    <string name="nfcUserLabel">NFC</string>
     <string name="nfc_blocking_alert_message">Nasıl düzelteceğinizi öğrenmek için dokunun</string>
     <string name="nfc_blocking_alert_title">NFC engellenmiş olabilir</string>
     <string name="night">Akşam</string>

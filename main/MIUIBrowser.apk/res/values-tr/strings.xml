@@ -144,7 +144,7 @@
     <string name="app_downloading_ratio_text">İndiriliyor: %s</string>
     <string name="app_downloading_text">İndiriliyor</string>
     <string name="app_installing_text">Yükleniyor</string>
-    <string name="app_name">ad-sdk-native</string>
+    <string name="app_name">Tarayıcı</string>
     <string name="app_new_version">Uygulamanın en güncel sürümü zaten yüklü durumda</string>
     <string name="app_open_text">Aç</string>
     <string name="app_task_download_exists_text">İndirme var</string>

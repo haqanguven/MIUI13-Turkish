@@ -96,8 +96,8 @@
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_description_content">Müzik bir ses oynatıcı içeren ve ses dosyalarını yönetmenize izin veren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra ses dosyalarını çalmaya devam edebileceksiniz</string>
     <string name="app_description_title">Müzikler ana ekrandan kaldırılsın mı?</string>
-    <string name="app_label">İndirmeler</string>
-    <string name="app_name">sdk</string>
+    <string name="app_label">Müzikler</string>
+    <string name="app_name">Müzikler</string>
     <string name="app_permission_confirm">Anladım</string>
     <string name="app_permission_optional">İsteğe bağlı izinler</string>
     <string name="app_permission_require">Zorunlu izinler</string>

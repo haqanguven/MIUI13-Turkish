@@ -44,7 +44,7 @@
     <string name="appcirculate_fragment_circulate_app_content_description">Uygulama anlık görüntüsü: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Şimdi aç</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Yardım</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Açtıktan sonra yakındaki cihazları arayabilir
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Açtıktan sonra yakındaki cihazları arayabilir\u000d
 ve video akışı işlevini deneyimlemeye başlayabilirsiniz"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">"Wifi ve Bluetooth'u aç"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">"Wifi ve Bluetooth'u aç"</string>
@@ -64,7 +64,7 @@ bulamıyor musunuz?"</string>
     <string name="appcirculate_toast_fail">Hata</string>
     <string name="appcirculate_toast_loading">Yükleniyor</string>
     <string name="appcirculate_toast_not_support_device_pad">Bu uygulama tabletlerde açılamıyor</string>
-    <string name="appcirculate_toast_not_support_device_pc">"Bu uygulama bilgisayarlarda açılamıyor"</string>
+    <string name="appcirculate_toast_not_support_device_pc">Bu uygulama bilgisayarlarda açılamıyor</string>
     <string name="appcirculate_toast_not_support_device_tv">"Bu uygulama TV'lerde açılamıyor"</string>
     <string name="appcirculate_toast_not_support_device_tv_connected">"Bu TV'ye zaten bağlı"</string>
     <string name="appcirculate_toast_success_1">Başarılı oldu</string>
@@ -75,15 +75,17 @@ bulamıyor musunuz?"</string>
 MIUI sistem sürümü için görüntülenir"</string>
     <string name="auth_check_loading">Yükleniyor</string>
     <string name="auth_no_user">"Bu sayfa yalnızca dahili beta kullanıcıları için görüntülenir
-Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - >Xiaomi hesabınıza giriş yapın"</string>
+Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - > Xiaomi hesabınıza giriş yapın"</string>
     <string name="auth_phone_model">Bu sayfa bu modeli desteklemiyor</string>
     <string name="auth_show_to_test_user">Bu sayfa yalnızca dahili beta kullanıcıları için görüntülenir</string>
     <string name="ball_hint_connect_fail">Aktarım başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="ball_hint_text_loading">Yükleniyor</string>
     <string name="ball_hint_text_success">Bağlantı başarılı oldu</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
+    <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="casting_tips">Yansıtılıyor</string>
-    <string name="character_counter_content_description">Character limit exceeded %1$d of %2$d</string>
+    <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
+    <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -153,6 +155,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - >Xiaomi hesabınız
     <string name="chinese_symbol_animals_sheep">Koyun</string>
     <string name="chinese_symbol_animals_snake">Yılan</string>
     <string name="chinese_symbol_animals_tiger">Kaplan</string>
+    <string name="chip_text">Chip text</string>
     <string name="circulate_audio_group_title">Oynatılıyor</string>
     <string name="circulate_back_button_content_description">Geri dön</string>
     <string name="circulate_card_mirror_device_button">Yansıtmayı sonlandır</string>
@@ -162,7 +165,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - >Xiaomi hesabınız
     <string name="circulate_card_mirror_device_title_pad">Tablet</string>
     <string name="circulate_card_mirror_device_title_television">Televizyon</string>
     <string name="circulate_card_mirror_help"><u>Cihaz desteği hakkında bilgi edinin</u></string>
-    <string name="circulate_card_mirror_pad_subtitle">"Büyük ekran projeksiyonunu kolayca kullanabilmek için
+    <string name="circulate_card_mirror_pad_subtitle">"Büyük ekran projeksiyonunu kolayca kullanabilmek için\u000d
 Tablet ekranı kartını TV'ye sürükleyip bırakın"</string>
     <string name="circulate_card_mirror_pad_title">Tablet ekranı</string>
     <string name="circulate_card_mirror_phone_subtitle">"Telefon ekranını yansıtmak için
@@ -236,6 +239,7 @@ bulamıyor musunuz?"</string>
     <string name="circulate_video_capture_fail">Ekran görüntüsü başarısız oldu</string>
     <string name="circulate_video_capture_success">Ekran görüntüsü başarılı oldu</string>
     <string name="circulate_video_retry_later">"TV'yi kontrol edin"</string>
+    <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="close_hotspot_hint">Yansıtma için taşınabilir bağlantı noktasını kapatın</string>
@@ -343,8 +347,10 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="err_toast_msg_mirror_support_support_only">Cihaz yalnızca ekranlar arası işbirliğini destekler ve ekran kartlarını sürükleyip bırakabilirsiniz</string>
     <string name="err_toast_msg_not_support">Bu işlem desteklenmiyor</string>
     <string name="err_toast_msg_retry_later">Aktarım başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
+    <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
     <string name="expand_button_title">Gelişmiş</string>
+    <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="file_read_des">Fotoğrafları ve diğer dosyaları harici monitörlerde görüntülemek için</string>
@@ -405,7 +411,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="friday_shortest">Cum</string>
     <string name="gcm_defaultSenderId">687519570831</string>
     <string name="global_privacy">Şartlar ve koşullar</string>
-    <string name="global_privacy_detail">&lt;Data>Bu uygulamayı kulla<a href="%1$s">nmadan<a href="%1$s">&lt;a href<a href="%2$s">=\"%1$s\"> önce &lt;a </a>hr<a href="%2$s">ef=%1$s>Kul&lt;/a>lanı&lt;a</a></a></a> href=\"%2$s\">cı sözleşmemizi&lt;/a> v&lt;/a>e &lt;a href=%2$s>Gizlilik politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır&lt;/Data></string>
+    <string name="global_privacy_detail">&lt;Data>Bu uygulamayı<a href="%1$s"> kulla<a href<a;href="%2$s"><a href="%1$s">&lt;a href=\"%1$s\">nmadan&lt;a href=\"%1$s\">&lt;a href&lt;a href=\"%2$s\">=\"%1$s\"> </a></a></a>önce &lt;a &lt;/a>hr&lt;a href=\"%2$s\">ef=%1$s>Kul&lt;/a>lanı&lt;a&lt;/a>&lt;/a>&lt;/a> href=\"%2$s\">cı sözleşmemizi&lt;/a> v&lt;/a>e &lt;a href=%2$s>Gizlilik politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır&lt;/Data></string>
     <string name="global_privacy_explain">"Yansıtma'ya hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlamaktadır:"</string>
     <string name="global_privacy_feature">Küçültülmüş pencereler kullanma, ekran kapalıyken yansıtma ve gizli ögeleri saklama</string>
     <string name="global_privacy_main">Öğeleri telefonunuzun ekranından daha büyük bir harici monitöre yansıtma</string>
@@ -421,7 +427,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="guide_next_button_text">Devam et</string>
     <string name="guide_page_subtitle_0">Mi Miaoxiang merkezi cihazlar arasında video, ses ve uygulama aktarımının özel işlevlerini deneyimleyebileceğiniz küresel cihazların ara bağlantısını ve birlikte çalışabilirliğini gerçekleştirir</string>
     <string name="guide_page_subtitle_0_pad">"Xiaomi sihir zevk merkezi cihazlar arasında ses ve video aktarımını ve küresel cihazların birbirine bağlanmasını gerçekleştirmiştir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi altında görebilirsiniz"</string>
-    <string name="guide_page_subtitle_0_pad_global">Xiaomi Miaoxiang merkezi cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi ağı altında görebilirsiniz"</string>
+    <string name="guide_page_subtitle_0_pad_global">"Xiaomi Miaoxiang merkezi cihazlar arasında ses ve video aktarımını ve küresel cihaz ara bağlantı ve birlikte çalışabilirliğini gerçekleştirir.Burada tableti, TV'yi, hoparlörleri ve yerel ses ve videoyu aynı wifi ağı altında görebilirsiniz\""</string>
     <string name="guide_page_subtitle_1">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir; Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_1_pad">"Müzik kartını hoparlöre veya TV'ye sürüklemeniz yeterlidir. Yerel müzik çalmaya devam etmek için ilgili cihaza aktarılabilir"</string>
     <string name="guide_page_subtitle_2">"Büyük ekran projeksiyonu ve ekranlar arası işbirliğini kolayca gerçekleştirmek için telefon ekran kartını tablete, bilgisayara ve TV'ye sürükleyip bırakın"</string>
@@ -528,12 +534,34 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
 4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası listede yoksa, yansıtma işlevi hakkında daha fazla bilgi almak için üretici ile iletişime geçin</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
+    <string name="icon_content_description">Dialog Icon</string>
     <string name="invisible_mode_dialog_content">Gizli moddayken yayınlamayı kullanamazsınız. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_content_audio_relay">Gizli moddayken oynatma aktarılamaz. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_pos">Kapat</string>
     <string name="invisible_mode_dialog_title">Gizlisin</string>
+    <string name="item_view_role_description">Tab</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
+    <string name="material_clock_display_divider">:</string>
+    <string name="material_clock_toggle_content_description">Select AM or PM</string>
+    <string name="material_hour_selection">Select hour</string>
+    <string name="material_hour_suffix">"%1$s o'clock"</string>
+    <string name="material_minute_selection">Select minutes</string>
+    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="material_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="material_motion_easing_standard">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="material_slider_range_end">Aralık sonu,</string>
+    <string name="material_slider_range_start">Aralık başı,</string>
+    <string name="material_timepicker_am">ÖÖ</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin</string>
+    <string name="material_timepicker_hour">Saat</string>
+    <string name="material_timepicker_minute">Dakika</string>
+    <string name="material_timepicker_pm">ÖS</string>
+    <string name="material_timepicker_select_time">Zamanı seçin</string>
+    <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin girişi moduna geçin</string>
     <string name="menu_new_display_open">Yeni pencerede aç</string>
     <string name="menu_pc_open">Bilgisayar programı ile açın</string>
     <string name="midnight">Gece</string>
@@ -561,18 +589,18 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
-    <string name="miuix_appcompat_cancel_description">İptal</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_deselect_all_description">Tüm seçimleri kaldır</string>
-    <string name="miuix_appcompat_search_action_mode_cancel">İptal</string>
+    <string name="miuix_appcompat_search_action_mode_cancel">İptal et</string>
     <string name="miuix_appcompat_search_input_description">Ara</string>
     <string name="miuix_appcompat_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_select_all_description">Tümünü seç</string>
-    <string name="miuix_appcompat_select_item">Ögeleri seç</string>
+    <string name="miuix_appcompat_select_item">Öğeleri seç</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_sbl_tracking_progress_labe_pull_to_refresh">Yenilemek için çek</string>
@@ -625,7 +653,41 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
     <string name="msg_send_fail">Veri aktarılamadı</string>
-    <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
+    <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">%1$d adetten fazla yeni bildirim</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
+    <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
+    <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
+    <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Tarih seçin</string>
+    <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Geçersiz biçim.</string>
+    <string name="mtrl_picker_invalid_format_example">Örnek: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Tarih biçimi: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Geçersiz aralık.</string>
+    <string name="mtrl_picker_navigate_to_year_description">%1$s yılına git</string>
+    <string name="mtrl_picker_out_of_range">İzin verilen aralığın dışında: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Bitiş tarihi</string>
+    <string name="mtrl_picker_range_header_selected">%1$s-%2$s</string>
+    <string name="mtrl_picker_range_header_title">Aralık Seçin</string>
+    <string name="mtrl_picker_range_header_unselected">Başlangıç tarihi - Bitiş tarihi</string>
+    <string name="mtrl_picker_save">Kaydet</string>
+    <string name="mtrl_picker_text_input_date_hint">Tarih</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Bitiş tarihi</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Başlangıç tarihi</string>
+    <string name="mtrl_picker_text_input_day_abbr">g</string>
+    <string name="mtrl_picker_text_input_month_abbr">a</string>
+    <string name="mtrl_picker_text_input_year_abbr">y</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Takvim giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
     <string name="nfc_connect_failed_toast">Yansıtılamadı. Tekrar deneyin</string>
     <string name="night">Akşam</string>
     <string name="no_permission">Kapalı beta kalifikasyonu yok</string>
@@ -716,10 +778,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_setting_show_policy">Gizlilik politikasını görüntüle</string>
     <string name="privacy_setting_show_user_agreement">Kullanıcı sözleşmesini görüntüle</string>
     <string name="privacy_text_1">"Yansıtma'ya hoşgeldiniz! Yansıtma özelliği telefonunuzun ekranındaki öğeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar
-Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, \"\""<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"\"\"HappyCast Gizlilik Politikası'nı\"\""</a>"\"\" okuyun ve kabul edin
+Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, \"\"\""<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"\"\"\"HappyCast Gizlilik Politikası'nı\"\"\""</a>"\"\"\" okuyun ve kabul edin
 Bu uygulama düzgün çalışabilmek için internete bağlanmalı ve kişisel bilgilerinizi toplamak üzere şu izinlere sahip olmalıdır:"</string>
     <string name="privacy_text_2">"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz, bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz
-Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin"</string>
+Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin</string>
     <string name="privacy_text_pemission">"　　•Cihazınızdaki resimleri harici ekranlara yansıtmak için erişir ve kaydeder
 　　•Harici cihazlara ses yansıtmak için aramaları ve sesleri kaydeder
 　　•Cihazınızı tanımak için telefon numarasına, IMEI ve IMSI numaralarına erişir
@@ -858,7 +920,7 @@ Bu özelliği kullanmadan önce <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="trust_device_desc">Bu cihazlar yakınlarda olduklarında önce burada görünecek</string>
-    <string name="trust_device_dialog_desc">"&lt;Data>%s güvenilir olarak işaretlerseniz yakınlarda mevcut cihazlar arasında ilk olarak görünecek.&lt;br>&lt;br> Güvenli cihazları &lt;a href=milink://com.milink.service/trust>ayarlarından&lt;/a> yönetebilirsiniz&lt;/Data>"</string>
+    <string name="trust_device_dialog_desc">&lt;Data>%s güvenilir olarak işaretlerseniz yakınlarda mevcut cihazlar arasında ilk olarak görünecek.&lt;br>&lt;br> Güvenli cihazları &lt;a href=milink://com.milink.service/trust>ayarlarından&lt;/a> yönetebilirsiniz&lt;/Data></string>
     <string name="trust_device_dialog_pos">Güven</string>
     <string name="trust_device_dialog_title">Bu cihaza güvenilsin mi?</string>
     <string name="trust_device_manager">Güvenilen cihazları yönetin</string>

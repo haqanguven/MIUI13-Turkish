@@ -440,6 +440,7 @@
     <string name="exit_overview_because_task_stack_changed">Arka planda oluşan değişikliklerden dolayı son kullanılanlar kapatıldı</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="exposed_dropdown_menu_content_description">Açılır menüyü göster</string>
+    <string name="external_not_support_split_screen_j18">Bölünmüş ekran dış ekranda desteklenmiyor</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="failed_to_delete_temporary">Kaldırılamıyor</string>
@@ -657,6 +658,7 @@
     <string name="maml_download_tip_wait_wifi">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
     <string name="maml_download_tip_wait_wifi_china">Bu öğe wifi ağına bağlandığınızda indirilecek</string>
     <string name="manager_group_settings">Uygulama kategorilerini yönet</string>
+    <string name="marketSdkVersion">3.2.13</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yi seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -1217,6 +1219,8 @@
     <string name="uninstall_xspace_dialog_title_format">Çift %s uygulaması kaldırılsın mı?</string>
     <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
     <string name="unnamed_folder_name">Klasör</string>
+    <string name="unstable_dialog_message">"Bu cihaz Android 13 geliştiriciöÖnizleme programına kayıtlıdır. Program Android geliştiricilerinin ve meraklılarının Android 13'ün yayın öncesi sürümlerini denemelerine olanak tanır. Bu yayın öncesi sürüm cihazınızın normal çalışmasını etkileyebilecek hatalar ve kusurlar içerebilir"</string>
+    <string name="unstable_dialog_title">Android geliştirici önizleme programı</string>
     <string name="upgrade_remove_small_window_in_recents">Uygulamaları kayan pencerelerde açmak için kenar çubuğunu kullanabilirsiniz</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
@@ -1245,5 +1249,8 @@
     <string name="work_profile_second_content">İş uygulamaları &amp; verileri BT yöneticiniz tarafından görülebilir</string>
     <string name="work_profile_title">İş profili</string>
     <string name="work_profile_toggle_label">İş profili</string>
+    <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
+    <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
+    <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>
     <string name="yesterday">Dün</string>
 </resources>

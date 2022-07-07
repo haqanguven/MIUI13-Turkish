@@ -256,6 +256,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="auto_upload_disable_tip">Xiaomi bulut ile senkronizasyon kapalı</string>
     <string name="auto_upload_disable_toast_long_press_menu">Xiaomi bulut ile senkronizasyon kapalı</string>
     <string name="auto_upload_enable_toast_long_press_menu">Xiaomi bulut ile senkronizasyon açık</string>
+    <string name="autocrop_enter">Xiaomi ProKesim</string>
     <string name="baby_album">Bebek albümü</string>
     <string name="baby_album_change_background">Arka plan fotoğrafını değiştir</string>
     <string name="baby_album_needs_auto_backup_tip">Bebek albümü otomatik yedeklemesi kapatılamıyor</string>
@@ -1130,11 +1131,13 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="document_provider_guide_step_3">%d. Yan menü düğmesine dokunun</string>
     <string name="document_provider_guide_step_4">%d. SD kart seçeneğini seçin</string>
     <string name="document_provider_guide_step_5">%d. Seç seçeneğine dokunun</string>
+    <string name="dolby_vision_icon">Dolby Vision simgesi</string>
     <string name="doodle_paint_select_heavy_talkback">Kalın</string>
     <string name="doodle_paint_select_light_talkback">İnce</string>
     <string name="doodle_paint_select_medium_talkback">Normal</string>
     <string name="doodle_paint_select_talkback">Darbe genişliği</string>
     <string name="double_tap_for_hr_preview_108m">108MP önizlemeye geçmek için tekrar iki kez hafifçe vurun</string>
+    <string name="double_tap_for_hr_preview_200m">200MP önizlemeye geçmek için tekrar iki kez hafifçe vurun</string>
     <string name="double_tap_to_higher_definition">HD önizleme için tekrar çift dokunun</string>
     <string name="download_canceled">İndirme işlemi iptal edildi</string>
     <string name="download_delete_error_desc">Bu cihazdan ve buluttan sildiğiniz için bu öğe geri yüklenemiyor. Boş dosya şimdi kaldırılsın mı?</string>
@@ -1664,6 +1667,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="homepage_allphotos_tip_dialog_title">Fotoğraflarda hangi resimleri görmek istersiniz?</string>
     <string name="how_to_set_relation">Grup oluşturmak için bir albüme basın &amp; basılı tutun</string>
     <string name="hr_preview_108m">108MP önizlemeye geçildi</string>
+    <string name="hr_preview_200m">200MP önizlemeye geçildi</string>
     <string name="hybrid_check_network">Ağ ayarları</string>
     <string name="hybrid_data_error">Bir hata oluştu</string>
     <string name="hybrid_locating_fail">Konumunuz bulunamadı</string>
@@ -1707,6 +1711,8 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="input_or_select_a_name">İsim girin veya bir isim seçin</string>
     <string name="input_relation_name">Grup adı girin</string>
     <string name="install_fail">Eklenti bir hata nedeniyle yüklenemedi</string>
+    <string name="install_media_editor_download_description">İndiriliyor</string>
+    <string name="install_media_editor_download_title">Galeri düzenleyici eklentisi indiriliyor</string>
     <string name="install_media_editor_function_message">%1$s kullanabilmek için galeri düzenleyicinin en son sürümünü indirin</string>
     <string name="install_media_editor_latest_message">Öğeleri düzenleyebilmek için önce en son eklentiyi indirin</string>
     <string name="install_media_editor_message">Öğeleri düzenleyebilmek için önce eklentiyi indirin. Şimdi indirilsin mi?</string>
@@ -2513,6 +2519,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="play_gif_desc">GIF oynat</string>
     <string name="play_video_desc">Video oynat</string>
     <string name="pm">ÖS</string>
+    <string name="pref_today_of_year_summary">Yıllar boyunca bu günde yakaladığınız anları hatırlayın. Bu özelliği kapatırsanız önceden oluşturulmuş anılar kaybolmaz</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="prepare_to_drop">%s kartına kaydediliyor</string>
     <string name="preparing_data">Yükleniyor</string>
@@ -2843,6 +2850,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="select_item_face">Bu %s adlı kişi mi?</string>
     <string name="select_origin_tip">Orijinal dosya (%s)</string>
     <string name="send">Gönder</string>
+    <string name="send_dolby_vision_duration_more_than_40s">4 dakikadan uzun Dolby Vision videoları yalnızca alıcı cihaz tarafından desteklenmeyebilecek orijinal video biçiminde paylaşılabilir. Devam edilsin mi?</string>
+    <string name="send_dolby_vision_video_continue">Devam et</string>
     <string name="send_file_beautify_failed">Paylaşılamadı</string>
     <string name="send_files_by">Dosyaları paylaş</string>
     <string name="send_files_to">Öğeleri paylaş</string>
@@ -3318,6 +3327,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="today">Bugün</string>
     <string name="today_of_year">Bugün</string>
     <string name="today_of_year_empty_tip">Burada henüz hatıra yok</string>
+    <string name="today_of_year_function_closed_btn_tip">Aç</string>
+    <string name="today_of_year_function_closed_tip">Henüz özelliği açmadınız</string>
     <string name="today_of_year_location_num">Konumlar</string>
     <string name="today_of_year_photo_num">Fotoğraflar</string>
     <string name="tomorrow">Yarın</string>

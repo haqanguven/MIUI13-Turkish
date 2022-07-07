@@ -624,6 +624,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="kuyin_user_agreement_content">Özel zil sesi abonelikleri iFlytek tarafından sağlanır. Özel zil sesi abonelikleri kullanmadan önce %s şartını kabul etmelisiniz. Kabul edilsin mi?</string>
     <string name="kuyin_user_agreement_content_href">iFlytek gizlilik politikası</string>
     <string name="lab">Diğer</string>
+    <string name="label">Etiket</string>
     <string name="like_list">Beğendiklerim</string>
     <string name="live_wallpaper">Canlı duvar kağıtları</string>
     <string name="load_from_local_photos">Galeri</string>
@@ -655,32 +656,22 @@ Kapatmak için dokunun"</string>
     <string name="lockstyle_personal_settings">Kişiselleştir</string>
     <string name="login_theme">Temalarda oturum açın</string>
     <string name="long_click_can_hide_resource">Öğeleri gizlemek için basılı tutun</string>
-    <string name="m3_ref_typeface_brand_display_regular">sans-serif</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
     <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_plain_regular">sans-serif</string>
-    <string name="m3_sys_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
-    <string name="m3_sys_motion_easing_standard">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
-    <string name="m3_sys_typescale_body_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_body_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_display_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_medium_font">sans-serif</string>
-    <string name="m3_sys_typescale_headline_small_font">sans-serif</string>
-    <string name="m3_sys_typescale_label_large_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_label_small_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_large_font">sans-serif</string>
-    <string name="m3_sys_typescale_title_medium_font">sans-serif-medium</string>
-    <string name="m3_sys_typescale_title_small_font">sans-serif-medium</string>
-    <string name="marketSdkVersion">3.2.4</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
+    <string name="marketSdkVersion">3.2.13</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'yı seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -945,13 +936,15 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="personalize_title">Duvar kağıdı ve kişiselleştirme</string>
     <string name="personalize_wallpaper_sub_title">Süper duvar kağıtları ve öne çıkan görüntüler</string>
     <string name="personalize_wallpaper_title">Duvar kağıtları</string>
+    <string name="personalized_bottom_card_image_bias">w,124:115</string>
     <string name="personalized_cta_content_text">Temalara hoş geldiniz. Duvar kağıtlarınızı, zil seslerinizi, yazı tiplerinizi ve daha fazlasını yönetmek için bu uygulamayı kullanabilirsiniz</string>
+    <string name="personalized_wp_entrance_image_bias">w,108:367</string>
     <string name="phone_exit_theme_warning_content">"Oturumu kapattıktan sonra aşağıdaki işlemleri gerçekleştiremezsiniz:
 1. Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve kullanın
 2. Yorum ve beğeni ekleyin, diğer insanları takip edin ve onlarla etkileşime geçin"</string>
     <string name="phone_exit_theme_warning_title">Temalardan çıkış yapılsın mı?</string>
     <string name="phone_log_in_theme">Temalarda oturum açın</string>
-    <string name="phone_log_in_theme_detail" formatted="false">&lt;Data>\"Tema<font color="#37A5FF">ların &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1</font>$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">gizlilik politikası&lt;/a>&lt;/font> yanı sıra Mi hesabının &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> ave &lt;a href=\"%4$s\">gizlilik politikasını&lt;/a>&lt;/font> okudum ve kabul ediyorum\"&lt;/Data></string>
+    <string name="phone_log_in_theme_detail">Temalar %1$s Kullanıcı sözleşmesi %2$s Gizlilik politikası ile Mi hesabının %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikasını okudum ve kabul ettim (Sistem hesabını kullanarak oturum açmak içindir)</string>
     <string name="playing_ringtone">Oynatılıyor</string>
     <string name="pm">ÖS</string>
     <string name="pref_lockscreen_magazine_summary">Duvar kağıdını çeşitli kategorilerdeki slayt gösterileriyle değiştirin</string>
@@ -1734,6 +1727,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="wallpaper_apply_inner">İç ekrana uygula</string>
     <string name="wallpaper_apply_large">İç ekran</string>
     <string name="wallpaper_apply_outer">Dış ekrana uygula</string>
+    <string name="wallpaper_apply_outer_and_inner">İç ve dış ekranlara uygulayın</string>
     <string name="wallpaper_apply_pcmode">PC modu duvar kağıdını ayarla</string>
     <string name="wallpaper_apply_small">Dış ekran</string>
     <string name="wallpaper_crop">Kırp</string>

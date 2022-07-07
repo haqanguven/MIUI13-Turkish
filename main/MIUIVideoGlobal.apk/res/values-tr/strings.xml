@@ -147,7 +147,7 @@
     <string name="cast_forward">İleri sar</string>
     <string name="cast_forward_10">10 saniye ileri sar</string>
     <string name="cast_forward_30">30 saniye ileri sar</string>
-    <string name="cast_intro_overlay_button_text">\@android:string/ok</string>
+    <string name="cast_intro_overlay_button_text">@android:string/ok</string>
     <string name="cast_invalid_stream_duration_text">--:--</string>
     <string name="cast_invalid_stream_position_text">--:--</string>
     <string name="cast_live_label">Canlı</string>
@@ -277,7 +277,8 @@
     <string name="columbus_player_speed_video">Videoyu atla</string>
     <string name="columbus_player_unit_sec">saniye</string>
     <string name="columbus_skip_ad">Atla</string>
-    <string name="com.crashlytics.android.build_id">3089c4cf397c4bacbfa03b1ab3086471</string>
+    <string name="com.crashlytics.android.build_id">026175d77db24925833cc93f43736876</string>
+    <string name="com.miapm.build_id">5cb5b53b22b0419b81dfdaf74e5bc280</string>
     <string name="com_permission_desc">Videolar cihazınızdaki videolara erişemiyor. Ayarlar menüsünde erişime izin verin</string>
     <string name="com_permission_title">İzin gerekli</string>
     <string name="comment_model_add_comment">Yorum ekle</string>
@@ -380,9 +381,12 @@ Bu kodu gönderin"</string>
     <string name="dialog_jumpto_choose">Tekrar gösterme</string>
     <string name="dialog_jumpto_content">Ek oynatma özelliklerine erişmek için videolar uygulamasına geçilsin mi?</string>
     <string name="dialog_jumpto_title">Videolar</string>
-    <string name="dialog_no_video_confirm">Anladım</string>
+    <string name="dialog_look_offline_btn">Çevrimdışı içeriği görüntüle</string>
+    <string name="dialog_no_internet_des">Ağa bağlı değilsiniz. Bunun yerine çevrimdışı içerik görüntülensin mi?</string>
+    <string name="dialog_no_video_confirm">Tamam</string>
     <string name="dialog_no_video_tip">Önce video ayrıntılarını açmayı deneyin. Video bulunduğunda indir tuşu kullanabilir olacaktır</string>
     <string name="dialog_no_video_title">Video bulunamadı</string>
+    <string name="dialog_open_internet_btn">Ağa bağlan</string>
     <string name="dialog_privacy_change_info">Sunduğumuz hizmetlerdeki düzenlemelerden dolayı videolar gizlilik politikasını güncelledik. Bir kullanıcı olarak tüm haklarınızı ayrıca verilerinizi kullanma yöntemlerimizi anlamak için uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="dialog_privacy_change_title">Gizlilik politikası güncellemesi</string>
     <string name="dialog_privacy_experience_plan">Ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için kullanıcı verilerini bizimle paylaşmak için kullanıcı deneyimi programımıza katılın</string>
@@ -794,11 +798,13 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="incentive_exchange_details">Ayrıntılar</string>
     <string name="incentive_exchange_details_current">Sipariş toplamı</string>
     <string name="incentive_exchange_details_total">Bakiye</string>
+    <string name="incentive_exchange_empty_tip">Burada henüz bir şey yok. Başlamak için puanları kullanın</string>
     <string name="incentive_exchange_expire_tip">Talep edilmeyen puanlar gece yarısı kaybolacaktır</string>
     <string name="incentive_exchange_lack">Kullanılamıyor</string>
     <string name="incentive_exchange_successful">Başarıyla kullanıldı</string>
     <string name="incentive_exchange_tip">Bu puanlar sadece bugün mevcuttur</string>
     <string name="incentive_login_for_claim">Puanları talep etmek için Google Hesabınızda oturum açın</string>
+    <string name="incentive_login_success_for_already_claimd">Başarıyla oturum açıldı. Puan talep edildi</string>
     <string name="incentive_login_tip">Puan kazanmak ve ödüller almak için oturum açın</string>
     <string name="incentive_my_points">Puanlarım</string>
     <string name="incentive_popup_window_share">Puan kazanmak için paylaşın</string>
@@ -832,6 +838,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="item_download_path">Konum indir</string>
     <string name="item_download_path_setting">Konum ayarlarını indir</string>
     <string name="item_setting_go_back">İzni geri al</string>
+    <string name="item_title_for_search_page_hot">Popüler</string>
     <string name="item_title_unknown">Bilinmeyen başlık</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="just_a_second">Yükleniyor</string>
@@ -1090,7 +1097,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
-    <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
+    <string name="miuix_appcompat_action_mode_title_empty">Öğeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
     <string name="miuix_appcompat_cancel_description">İptal</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
@@ -1202,6 +1209,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih Seçin</string>
@@ -1244,6 +1252,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="nick_name">İsim</string>
     <string name="night">Akşam</string>
     <string name="no_account">Oturum açılmadı</string>
+    <string name="no_app_found_error">Uygulama bulunamadı</string>
     <string name="no_history">Burada öğe yok</string>
     <string name="no_longer_prompt">Tekrar gösterme</string>
     <string name="no_more_content">Şimdilik bu kadar</string>
@@ -1282,6 +1291,10 @@ tercih ettiğiniz dili seçin"</string>
     <string name="offline_opt_in_title">İnternete tekrar bağlandığınızda reklamı açın</string>
     <string name="ok">Tamam</string>
     <string name="online_play_hint">Örnek: http://www.example.com/video.mp4</string>
+    <string name="online_play_start_loading_tip">Yükleniyor</string>
+    <string name="online_play_start_ready_loading_tip_b">Yükleniyor: %.2f B/s</string>
+    <string name="online_play_start_ready_loading_tip_kb">Yükleniyor: %.2f KB/s</string>
+    <string name="online_play_start_ready_loading_tip_mb">Yükleniyor: %.2f MB/s</string>
     <string name="online_play_title">Bağlantı girin</string>
     <string name="open_settings">Ayarlar</string>
     <string name="order_alphabet">A-Z</string>
@@ -1451,7 +1464,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="passport_set_password">Şifre oluştur</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı korumak için telefon numaranızı ekleyin</string>
     <string name="passport_sign_in">Oturum aç</string>
-    <string name="passport_sign_in_or_sign_up">Oturum aç/Hesap oluştur</string>
+    <string name="passport_sign_in_or_sign_up">Oturum aç veya hesap oluştur</string>
     <string name="passport_sms_phone_intro">Kod %1$s hedefine gönderildi</string>
     <string name="passport_talkback_image_captcha">Resimli doğrulama kodu</string>
     <string name="passport_talkback_switch_image_captcha">Resimli doğrulama koduna geç</string>
@@ -2116,6 +2129,12 @@ Hiçbir şey göstermiyor"</string>
     <string name="welcome_tip_into_mivideo">Kullanmaya başla</string>
     <string name="welcome_tip_skip">Atla</string>
     <string name="welcome_tip_title">Videolara hoş geldiniz</string>
+    <string name="widget_local_video">Yerel videolar</string>
+    <string name="widget_local_video_click">Cihazınızda depolanan videoları izlemek için dokunun</string>
+    <string name="widget_more_channel">Daha fazla kanal</string>
+    <string name="widget_more_channel_click">TV kanallarını görmek için dokunun</string>
+    <string name="widget_trending_click">Günümüzün en popüler videolarını görmek için dokunun</string>
+    <string name="widget_trending_today">Bugün popüler</string>
     <string name="yandex_ads_context">yandex:ads:context</string>
     <string name="yandex_ads_context_allow_parsing">allow-parsing</string>
     <string name="yandex_ads_context_do_not_parse">do-not-parse</string>
@@ -2143,6 +2162,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="yandex_ads_internal_tools_sponsored_text">sponsorlu</string>
     <string name="yandex_ads_internal_tools_title_text">"Avto.ru'da lüks ve ucuz araba alıp satmak"</string>
     <string name="yandex_ads_internal_tools_warning_text">Kontrendikasyonlar var. Bir uzmana danışın Kontrendikasyonlar var. Bir uzmana başvurun</string>
+    <string name="yandex_mobileads_automatic_sdk_initialization">com.yandex.mobile.ads.AUTOMATIC_SDK_INITIALIZATION</string>
     <string name="year">yıl</string>
     <string name="yesterday">Dün</string>
     <string name="youtube_restricted_mode_enabled">youtube_restricted_mode_enabled</string>

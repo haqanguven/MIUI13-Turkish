@@ -233,6 +233,7 @@
     <string name="crop_and_create">Excel dosyası kırpılıyor ve oluşturuluyor</string>
     <string name="crop_cancel_description">İptal et</string>
     <string name="crop_done_description">Tamamlandı</string>
+    <string name="crop_frame_you_box_selection_cannot_crop_this_picture">Seçim alanı dört kenarlı olmalıdır</string>
     <string name="crop_frame_you_selected_cannot_crop_this_picture">Kesme dörtgeni içbükey dörtgen olamaz ve maksimum açı 140 dereceyi geçemez</string>
     <string name="crop_title_study">Fotoğrafı kes</string>
     <string name="crop_title_translation">Tercüme edilecek metni seçin</string>
@@ -402,8 +403,9 @@
     <string name="food_module_thumbs_up">Beğen</string>
     <string name="food_module_tip">Yiyeceği çerçevenin içerisine hizalayın</string>
     <string name="food_module_title_food">Kalori</string>
-    <string name="form_demo_dialog_negative">Tabloyu taramak için dokunun, ardından bir Excel dosyası olarak dışa aktarın</string>
+    <string name="form_demo_dialog_negative">Tabloyu taramak için dokunun ve ardından bir Excel dosyası olarak dışa aktarın</string>
     <string name="form_excel_save_sucess">Excel dosyası başarıyla kaydedildi</string>
+    <string name="form_preview_title">Excel tablosu önizlemesi</string>
     <string name="form_recognition_crop_hint">Tablonun köşelerinin seçilen alanın içinde olduğundan emin olun</string>
     <string name="format_error">Geçersiz şifre</string>
     <string name="friday">Cuma</string>
@@ -1066,7 +1068,6 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="wifi_ssid">SSID:</string>
     <string name="will_be_sent_tothe_background_review">" (Başvurunuz yakında incelenmek üzere gönderilecek)"</string>
     <string name="word_is_being_saved">Word belgesi kaydediliyor</string>
-    <string name="word_limit_prompt">%d karakter aşıldı</string>
     <string name="word_save_sucess">Word belgesi başarıyla kaydedildi</string>
     <string name="word_to_be_recognized_is_aligned_with_cross">Tanınacak kelime çarpı işareti ile hizalı</string>
     <string name="word_translation">Kelime çevirisi</string>

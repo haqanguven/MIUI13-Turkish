@@ -345,6 +345,8 @@
     <string name="miui_install_fail">Yüklenemedi (%d)</string>
     <string name="miui_install_fail_notify">Yüklenemedi</string>
     <string name="miui_install_fail_reason">Neden</string>
+    <string name="miui_install_failed_reason">Bu uygulama sürümü mevcut cihazla uyumlu değil</string>
+    <string name="miui_install_failed_suggestion">Uygulamanın uyumlu bir sürümünü kullanın</string>
     <string name="miui_install_source_unkown">Bilinmiyor</string>
     <string name="miui_install_success">Başarıyla yüklendi</string>
     <string name="miui_no_perms">İzin gerekli değil</string>

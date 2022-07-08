@@ -751,9 +751,11 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="error_message_respond_revert_21">"POP3'ü açın ve tekrar deneyin"</string>
     <string name="error_message_respond_revert_22">@string/error_message_account_or_password</string>
     <string name="error_message_respond_revert_23">@string/error_message_account_or_password</string>
-    <string name="error_message_respond_revert_24">@string/error_message_blacklist</string>
+    <string name="error_message_respond_revert_24">Your IP address has been blocked. Contact Sohu Mail customer service to fix this issue.</string>
     <string name="error_message_respond_revert_25">Ağ bağlantınızı kontrol edin ve tekrar deneyin</string>
-    <string name="evening">Öğleden sonra</string>
+    <string name="error_message_respond_revert_26">"Hesabınız donduruldu. Etkinleştirmek için tarayıcınızda Sohu Mail'de oturum açın"</string>
+    <string name="error_message_respond_revert_27">"Parolanızın süresi doldu. Sunucu tarafından oluşturulan bir şifre almak için tarayıcınızda Sohu Mail'de oturum açın"</string>
+    <string name="evening">Afternoon</string>
     <string name="exception_cancel">"
         Bu etkinlik için
         iptal edildi:
@@ -981,12 +983,17 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="hierarchical_folder_parent_top">%1$s∕%2$s∕</string>
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
+    <string name="how_to_login_icloud">iCloud hesabında nasıl oturum açılır</string>
     <string name="http_auth_dialog_cancel">İptal et</string>
     <string name="http_auth_dialog_login">Oturum aç</string>
     <string name="http_auth_dialog_password">Şifre</string>
     <string name="http_auth_dialog_title">Kimlik bilgilerinizi girin</string>
     <string name="http_auth_dialog_username">Kullanıcı adı</string>
-    <string name="icon_content_description">Diyalog simgesi</string>
+    <string name="icloud_login_tips">iCloud postanızla kullanmak için burada bir parola oluşturabilirsiniz: iCloud.com</string>
+    <string name="icloud_login_tips_url_part">iCloud.com</string>
+    <string name="icloud_official_url">https://appleid.apple.com/</string>
+    <string name="icon_content_description">İletişim simgesi</string>
+    <string name="icoud_login_pw_hint">Şifre girin</string>
     <string name="imap_name">IMAP</string>
     <string name="imap_or_pop3_name">IMAP/POP3</string>
     <string name="imap_password_error">Gelen posta sunucusu şifresi yanlış</string>
@@ -1039,6 +1046,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="login_des_exchange">"Exchange'te oturum açın"</string>
     <string name="login_des_gmail">"Gmail'de oturum açın"</string>
     <string name="login_des_hotmail">"Hotmail'de oturum açın"</string>
+    <string name="login_des_icloud">"iCloud'da oturum açın"</string>
     <string name="login_des_mail_ru">"Mail.ru'da oturum açın"</string>
     <string name="login_des_office365">"Office 365'te oturum açın"</string>
     <string name="login_des_others">Diğer büyük e-posta hizmeti istemcilerinde oturum açın</string>
@@ -1221,6 +1229,11 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="miuix_sbl_tracking_progress_labe_up_none">Şimdilik bu kadar</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh">Yükleniyor</string>
     <string name="miuix_sbl_tracking_progress_labe_up_refresh_fail">Öğeler yüklenemedi</string>
+    <string name="miuix_search_action_mode_cancel">İptal et</string>
+    <string name="miuix_search_history_clear">Arama geçmişini temizle</string>
+    <string name="miuix_search_history_default_title">Arama geçmişi</string>
+    <string name="miuix_search_recommendation_default_title">Bunlar ilginizi çekebilir</string>
+    <string name="miuix_search_recommendation_item_del_des">Sil</string>
     <string name="modify_contact_address">İletişim e-posta adresini değiştir</string>
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pazartesi</string>
@@ -1568,6 +1581,7 @@ e-postanızdaki fatura ve seyahat bilgilerini analiz edin"</string>
     <string name="quick_reply_dialog_title">Bir yanıt seçin</string>
     <string name="quick_reply_expend">Genişlet</string>
     <string name="quick_responses_empty_view">Hızlı yanıt yok</string>
+    <string name="quick_translation">Çevir</string>
     <string name="quote_begin">&lt;div class=\"wps_quotion\"></string>
     <string name="quote_divider_1">-------- Orijinal posta --------</string>
     <string name="quote_divider_11">----- Orijinal -----</string>

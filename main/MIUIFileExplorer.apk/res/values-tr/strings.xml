@@ -442,7 +442,7 @@
     <string name="if_cancel">Bu işlem iptal edilsin mi?</string>
     <string name="image_loading_error">İmaj yüklenemedi</string>
     <string name="imm_str_storage">Depolama</string>
-    <string name="import_files_from_old_phones">Import from old device</string>
+    <string name="import_files_from_old_phones">Eski cihazdan içe aktar</string>
     <string name="instruction">Belirtilen adresi FTP istemcisine girin: </string>
     <string name="instruction_pre_pad">FTP sunucusu başlatmak için dokunun</string>
     <string name="instruction_pre_phone">FTP sunucusu başlatmak için dokunun</string>
@@ -450,6 +450,8 @@
     <string name="item_view_role_description">Tab</string>
     <string name="just_now">Şimdi</string>
     <string name="kilobyteShort">KB</string>
+    <string name="lack_perm_msg">Dosyalar normal şekilde çalışmak için aşağıdaki izinleri gerektirir: %s</string>
+    <string name="lack_perm_title">Gerekli izinler</string>
     <string name="launcher_icon_add_description">Ana ekran kısayolu ekleyin</string>
     <string name="launcher_icon_remove_description_content">Dosyalar bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra cihazınızdaki dosyaları yönetemezsiniz</string>
     <string name="launcher_icon_remove_description_title">Dosyalar ana ekrandan kaldırılsın mı?</string>
@@ -460,6 +462,9 @@
     <string name="local_image">Fotoğraflar</string>
     <string name="local_music">Ses dosyaları</string>
     <string name="local_video">Video dosyaları</string>
+    <string name="main_button_continue">Ayarlar</string>
+    <string name="main_button_ok">Tamam</string>
+    <string name="main_button_quit">İptal et</string>
     <string name="make_private">Gizle</string>
     <string name="make_private_msg_1">Bu dosya gizlensin mi?</string>
     <string name="make_private_msg_2">Bu dosyalar gizlensin mi?</string>
@@ -481,6 +486,7 @@
     <string name="menu_new_display_open">Yeni pencerede aç</string>
     <string name="menu_pc_open">Bilgisayar programı ile aç</string>
     <string name="menu_set_wallpaper">Duvar kağıdı olarak ayarla</string>
+    <string name="message_request_manage_external_storage_perm">Dosyalar cihazınızdaki dosyaları yönetebilmesi için dosyalara erişme iznine ihtiyacı var. Bu izni ayarlarda verebilirsiniz</string>
     <string name="mi_router_label">Yönlendirici</string>
     <string name="mi_share">Mi paylaşım</string>
     <string name="midnight">Gece</string>
@@ -696,6 +702,7 @@
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="perm_manage_external_storage">Tüm dosyalara erişin</string>
     <string name="permission_denial">Dosyalara erişilemedi. Dosyalar uygulamasına ayarlar menüsünde dosya erişim izni verin</string>
     <string name="permission_description">İzin ayrıntıları</string>
     <string name="permission_required">Dosyalara erişilemedi. Dosyalar uygulamasına ayarlar menüsünde dosya erişim izni verin</string>
@@ -920,6 +927,7 @@
     <string name="title_app_tags">Uygulamalar</string>
     <string name="title_expire_video">Süresi dolmak üzere</string>
     <string name="title_recent">Son kullanılanlar</string>
+    <string name="title_request_manage_external_storage_perm">Gerekli izinler</string>
     <string name="title_select_volume">Klasör seçin</string>
     <string name="to_open">Ayarlar</string>
     <string name="to_setting">Ayarlar</string>

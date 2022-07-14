@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="aab">f4bb9b1cdc1a0f4b</string>
-    <string name="abc_action_bar_home_description">Eve gidiş yolunu göster</string>
+    <string name="abc_action_bar_home_description">Ana ekrana git</string>
     <string name="abc_action_bar_up_description">Yukarı git</string>
     <string name="abc_action_menu_overflow_description">Diğer seçenekler</string>
     <string name="abc_action_mode_done">Bitti</string>
     <string name="abc_activity_chooser_view_see_all">Tümünü göster</string>
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
-    <string name="abc_capital_off">KAPAT</string>
-    <string name="abc_capital_on">AÇ</string>
+    <string name="abc_capital_off">Kapat</string>
+    <string name="abc_capital_on">Aç</string>
     <string name="abc_menu_alt_shortcut_label">Alt+</string>
     <string name="abc_menu_ctrl_shortcut_label">Kontrol+</string>
-    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_delete_shortcut_label">Sil</string>
     <string name="abc_menu_enter_shortcut_label">Enter</string>
     <string name="abc_menu_function_shortcut_label">İşlev+</string>
     <string name="abc_menu_meta_shortcut_label">Meta+</string>
-    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
-    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_shift_shortcut_label">Üst karakter+</string>
+    <string name="abc_menu_space_shortcut_label">Boşluk</string>
     <string name="abc_menu_sym_shortcut_label">Sembol+</string>
     <string name="abc_prepend_shortcut_label">Menü+</string>
-    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_query">Arama sorgusu</string>
     <string name="abc_searchview_description_search">Ara</string>
@@ -146,7 +146,7 @@
     <string name="already_add">%s Ana ekranınıza eklendi</string>
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
-    <string name="app_id">Firebase uygulama kimliği( Dışa aktarmak için tıklayın)</string>
+    <string name="app_id">Firebase uygulama kimliği(Dışa aktarmak için tıklayın)</string>
     <string name="app_library_category_entertainment">Eğlence</string>
     <string name="app_library_category_games">Oyunlar</string>
     <string name="app_library_category_information">Medya</string>
@@ -156,7 +156,7 @@
     <string name="app_library_category_social">Sosyal</string>
     <string name="app_library_category_utility">Araçlar</string>
     <string name="app_library_title">Uygulamalar</string>
-    <string name="app_name">Mi ayarlar</string>
+    <string name="app_name">Tarayıcı</string>
     <string name="app_name_bluetooth">Bluetooth</string>
     <string name="app_name_camera">Kamera</string>
     <string name="app_name_downloadedrom">Paketler</string>
@@ -198,10 +198,10 @@
     <string name="batch_download_tip">Aynı zamanda çoklu ögeler indiriliyor gibi görünüyor. Bu indirmeler engellensin?</string>
     <string name="bba">e6135d289c1ff651b514fd4559850c19</string>
     <string name="bbaa">4fd450ec3389b623d119a62b5c574ee7</string>
-    <string name="billing_unavailable_message">"- Make sure you're signed in to Play Store.\u000d
-- Update Google Services Framework to the latest version.\u000d
-- Check whether Google Pay works in your region."</string>
-    <string name="billing_unavailable_title">"Couldn't complete payment. Try the following:"</string>
+    <string name="billing_unavailable_message">"- Play Store'da oturum açtığınızdan emin olun
+- Google Services Framework'ü en son sürüme güncelleyin
+- Google Pay'in bölgenizde çalışıp çalışmadığını kontrol edin"</string>
+    <string name="billing_unavailable_title">Ödeme tamamlanamadı. Takip etmeyi dene:</string>
     <string name="bind_sign_in_title">Mi hesabı ekle</string>
     <string name="block">Engelle</string>
     <string name="block_ads_choice_block">Engelle</string>
@@ -1255,7 +1255,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="general__shared_ad_unlock_start_read">Read for free</string>
     <string name="general__shared_free_time_left">Free for a limited time</string>
     <string name="general__shortcut_guide_controller__ok">got it</string>
-    <string name="general__shortcut_permission__desc">"Grant authority management-desktop shortcut\u000d
+    <string name="general__shortcut_permission__desc">"Grant authority management-desktop shortcut
  to add books to the desktop"</string>
     <string name="general__storage_permission__button">Settings</string>
     <string name="general__storage_permission__desc">Allow Wonderfic to access your storage to be able to import items.</string>
@@ -2472,7 +2472,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="privacy_improve_performance">Kullanıcı deneyimi programı</string>
     <string name="privacy_improve_performance_desc">"Ürünlerimizi ve hizmetlerimizi geliştirmek için Xiaomi'ye kullanıcı verilerini toplama ve analiz etme izni verin"</string>
     <string name="privacy_local_app_discovery">Yerel uygulamaları keşfedin</string>
-    <string name="privacy_message">Tarayıcıyı kullanmadan önce <a href="%1$s" style="color:#4086f5"><font color="#4086f5">Kullanıcı Sözleşmesi ve <a href="%2$s" style="color:#4086f5"><font color="#4086f5">Gizlilik Politikasını kabul etmelisiniz.</string>
+    <string name="privacy_message">Tarayıcıyı kullanmadan önce %1$s Kullanıcı Sözleşmesi ve %2$s Gizlilik politikasını kabul etmelisiniz</string>
     <string name="privacy_message_main_tips_first">"Tarayıcı'nın temel hizmetleri sağlayabilmesi için kişisel bilgilerinizi toplaması gerekmektedir. "<a href="%1$s" style="color:#4086f5"><font color="#4086f5">&lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Gizl</font></a>"ilik Politikamızda&lt;/a>&lt;/font> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. Tarayıcı'nın Gizlilik Politikası'na verdiğiniz izni her zaman Ayarlar > Gizlilik &amp; Güvenlik menüsünden geri çekebilirsiniz. Tarayıcıyı kullanmadan önce &lt;font color=\"#4086f5\">&lt;a href=\"%2$s\" style=\"color:#4086f5;\">Kullanıcı Sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" style=\"color:#4086f5;\">Gizlilik Politikası'nı&lt;/a>&lt;/font> okuyun ve kabul edin."</string>
     <string name="privacy_message_main_tips_second">"Bu cihazdaki uygulamaları arayabilmek ve hangi uygulamaların yüklü olduğunu bilebilmek için Tarayıcı'nın herhangi bir formda yerel olarak kaydedilmeyen veya yüklenmeyen uygulama kurulum bilgisine erişmesi gerekir."</string>
     <string name="privacy_message_welcome">"Tarayıcı'ya hoş geldiniz! Uygulamamız aşağıdaki hizmetleri sağlamaktadır:"</string>
@@ -2591,7 +2591,7 @@ Bazı siteler sizin için reklamlarını kişiselleştirmek için önceki tarama
     <string name="reading__custom_screen_view__show_reading_status">display power and tips</string>
     <string name="reading__custom_screen_view__show_system_bar">display system status</string>
     <string name="reading__custom_text_color_tab_view__title">text</string>
-    <string name="reading__custom_theme_color_view__edit">"long press\u000d
+    <string name="reading__custom_theme_color_view__edit">"long press
 edit"</string>
     <string name="reading__custom_typesetting_view__indent">first line indentation</string>
     <string name="reading__custom_typesetting_view__lateral_margin">left and right margins</string>
@@ -2652,7 +2652,7 @@ edit"</string>
     <string name="reading__reading_menu_view__night">Night</string>
     <string name="reading__reading_menu_view__pirate_dialog_cancel">return to the original page</string>
     <string name="reading__reading_menu_view__pirate_dialog_ok">continue to use</string>
-    <string name="reading__reading_menu_view__pirate_dialog_title">"For your better reading experience\u000d
+    <string name="reading__reading_menu_view__pirate_dialog_title">"For your better reading experience
 recommend you to use the free reading mode"</string>
     <string name="reading__reading_menu_view__purchase">purchase</string>
     <string name="reading__reading_menu_view__search">search</string>
@@ -2715,7 +2715,7 @@ recommend you to use the free reading mode"</string>
     <string name="reading__remove_selected_items">Delete the selected items?</string>
     <string name="reading__repair_cert_view__default_reason">The book failed to open, please try to repair it after connecting to the Internet</string>
     <string name="reading__search_text_view__empty_hint">search full text</string>
-    <string name="reading__search_text_view__nosearch_result">"Sorry, there is no such keyword in the text\u000d
+    <string name="reading__search_text_view__nosearch_result">"Sorry, there is no such keyword in the text
 Try to modify your keyword?"</string>
     <string name="reading__seek_page_view__next_chapter">next chapter</string>
     <string name="reading__seek_page_view__prev_chapter">previous chapter</string>
@@ -3105,8 +3105,8 @@ Try to modify your keyword?"</string>
     <string name="speed_test_upload">Yükleme</string>
     <string name="splash__access_dialog_agree">Agree</string>
     <string name="splash__access_dialog_protect">Terms and conditions</string>
-    <string name="srl_component_falsify" formatted="false">"%s falsify area,\u000d
- Represents the height[%.1fdp] of drag at run time,\u000d
+    <string name="srl_component_falsify" formatted="false">"%s falsify area,
+ Represents the height[%.1fdp] of drag at run time,
  It does not show anything."</string>
     <string name="srl_content_empty">The content view in SmartRefreshLayout is empty. Do you forget to add it in xml layout file?</string>
     <string name="srl_footer_failed">Load Failed</string>
@@ -3222,7 +3222,7 @@ Try to modify your keyword?"</string>
     <string name="store__store_tabs_fallback_selection">Featured</string>
     <string name="store_comment__reply_to_prefix">reply</string>
     <string name="store_feed_book_list_exchange">change for a change</string>
-    <string name="store_fiction_detail_view_start_read">Read</string>
+    <string name="store_fiction_detail_view_start_read">Oku</string>
     <string name="subscribe_failed">Abone olunamadı. Tekrar deneyin</string>
     <string name="subscribe_now">Abone ol</string>
     <string name="subscribe_success">Başarıyla abone olundu</string>
@@ -3247,10 +3247,10 @@ Try to modify your keyword?"</string>
     <string name="sunday_short">Paz</string>
     <string name="sunday_shortest">Paz</string>
     <string name="support_pwa">PWA</string>
-    <string name="surfing__home_main_discovery">Discover</string>
-    <string name="surfing__shared__discovery">Home</string>
-    <string name="surfing__shared__library">Library</string>
-    <string name="surfing__shared__me">Profile</string>
+    <string name="surfing__home_main_discovery">Keşfet</string>
+    <string name="surfing__shared__discovery">Ev</string>
+    <string name="surfing__shared__library">Kütüphane</string>
+    <string name="surfing__shared__me">Profil</string>
     <string name="surfing__shared__vip_store">VIP</string>
     <string name="switchText">Evet</string>
     <string name="switch_proxy_dialog_msg">"Ağ saldırısı tespit edildi. MIUI'nin yerleşik Güvenlik uygulamasını kullanın veya bu durumu operatörünüze bildirin"</string>
@@ -3283,8 +3283,8 @@ Try to modify your keyword?"</string>
     <string name="tabs_description">Sekmeler</string>
     <string name="talk_back_voice_search">Sesli arama</string>
     <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
-    <string name="terms_policy">Terms and conditions</string>
-    <string name="terms_use">Terms of Service</string>
+    <string name="terms_policy">Şartlar ve koşullar</string>
+    <string name="terms_use">Kullanım şartları</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıldönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
@@ -3365,10 +3365,10 @@ Try to modify your keyword?"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
-    <string name="twitter_moments">Twitter Moments</string>
+    <string name="twitter_moments">Twitter anları</string>
     <string name="type_not_support">Bu dosya türü desteklenmiyor. Dosya paketini açın ve tekrar deneyin</string>
     <string name="unSwitchText">Hayır</string>
-    <string name="unauthorized_toast">Your session expired. Sign in again.</string>
+    <string name="unauthorized_toast">Oturumunuzun süresi doldu. Tekrar oturum açın</string>
     <string name="undo">Geri al</string>
     <string name="uni_search_setting_summary">Uygulama içi arama</string>
     <string name="uni_search_setting_title">Arama sonuçlarını iyileştirir</string>
@@ -3394,14 +3394,14 @@ Try to modify your keyword?"</string>
     <string name="url_suggest_indicator_mostvisited">En çok ziyaret edilenler</string>
     <string name="use_cellular_network_alert_message">Wifi kullanılabilir durumda değil. Bunun yerine mobil ağ bağlantınız kullanılsın mı?</string>
     <string name="use_cellular_network_alert_title">Veri kullanımı</string>
-    <string name="user_account_sign_in_toast">Signing in…</string>
+    <string name="user_account_sign_in_toast">Oturum açılıyor</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_defined_webpage">Başlangıç sayfasına ekle</string>
     <string name="user_defined_webpage_title">Başlangıç sayfasına ekle</string>
     <string name="user_experience_agree">Katıl</string>
     <string name="user_experience_content">Kullanıcı deneyimi programı hedeflenen tarzda ürünlerimizi ve hizmetlerimizi geliştirmemize ayrıca size yardımcı olacak yeni özellikleri ve hizmetleri sunmamıza yardımcı olur. Siz programa katıldıktan sonra ilgili verileri toplamaya ve analiz etmeye başlayacağız. Aşağıdaki katıl butonuna dokunarak <a href="%1$s" style="color:#4086f5"><font color="#4086f5"><font color="#4086f5"><a href="%1$s" style="color:#4086f5">&lt;a href=\"%1$s\" style=\"color:#4086f5\">&lt;font color=\"#4086f5\">&lt;font color=\"#4086f5\">&lt;a href=\"%1$s\" st</a></font></font></a>"yle=\"color:#4086f5;\">Kullanıcı&lt;/font>&lt;/a>\" deneyimi programı&lt;/a>&lt;/font> şartlar ve koşullarını kabul edersiniz.
-Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz\""</string>
+Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz"</string>
     <string name="user_experience_disagree">Katılma</string>
     <string name="user_experience_title">Kullanıcı Deneyimi Programı</string>
     <string name="user_guide_color_mode_info">Aydınlık mod ve Karanlık mod mevcut</string>
@@ -3415,8 +3415,8 @@ Ayarlar > Gizlilik &amp; güvenlik menüsünden her zaman vazgeçebilirsiniz\""<
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="v_code_title">Doğrulama kodunu girin</string>
-    <string name="verify_error_again_title">"Couldn't complete payment. If the amount was debited from your account by Google Pay, refresh payment status in your profile."</string>
-    <string name="verify_error_title">Looks like you have a pending order. Refresh the page to try again.</string>
+    <string name="verify_error_again_title">Ödeme tamamlanamadı. Tutar hesabınızdan Google Pay tarafından çekildiyse profilinizdeki ödeme durumunu yenileyin</string>
+    <string name="verify_error_title">Bekleyen bir siparişiniz var gibi görünüyor. Tekrar denemek için sayfayı yenileyin</string>
     <string name="verify_subscription">Abonelik güncelleniyor</string>
     <string name="version_check_button_checking">Kontrol ediliyor</string>
     <string name="version_check_button_default">Güncellemeleri kontrol et</string>
@@ -3480,7 +3480,7 @@ https://forum.miuitr.info/"</string>
     <string name="vpn_not_support_by_region">VPN hizmetleri bölgenizde mevcut değil</string>
     <string name="vpn_offline_tip">VPN hizmetleri şu an kullanılamıyor</string>
     <string name="vpn_privacy_dialog_agress">Kabul et</string>
-    <string name="vpn_privacy_dialog_content">Bu hizmet Tai Xin tarafından sağlanmaktadır. Bu hizmeti kullanmadan önce <a href="%1$s" style="color:#4086f5"><font color="#4086f5">Tai Xin gizlilik politikasını okuyun ve kabul edin</string>
+    <string name="vpn_privacy_dialog_content">Bu hizmet Tai Xin tarafından sağlanmaktadır. Bu hizmeti kullanmadan önce %1$s Tai Xin gizlilik politikasını okuyun ve kabul edin</string>
     <string name="vpn_privacy_dialog_disagree">Hayır. Teşekkürler</string>
     <string name="vpn_privacy_dialog_title">Gizlilik bildirisi</string>
     <string name="vpn_subscribe_tips_1">Tüm mevcut sunucuları kullanın</string>
@@ -3489,19 +3489,19 @@ https://forum.miuitr.info/"</string>
     <string name="vpn_used_all_free_data_toast">Trafik dışısınız. Devam etmek için abone olun</string>
     <string name="vpn_used_all_toast">Trafik dışısınız</string>
     <string name="weather_location_confirm_message">Bu özelliği kapatmak kullanılabilirliği etkileyebilir</string>
-    <string name="web_ad_clear_dialog_cancel">İptal</string>
+    <string name="web_ad_clear_dialog_cancel">İptal et</string>
     <string name="web_ad_clear_dialog_confirm">Sil</string>
-    <string name="web_ad_clear_dialog_msg">"''%s'' gelen reklam etiketleri şimdi silinsin mi?"</string>
+    <string name="web_ad_clear_dialog_msg">"%s gelen reklam etiketleri şimdi silinsin mi?"</string>
     <string name="web_ad_clear_dialog_title">Reklam etiketini sil</string>
-    <string name="web_enhance_dialog_cancel">İptal</string>
+    <string name="web_enhance_dialog_cancel">İptal et</string>
     <string name="web_enhance_dialog_confirm">Tamam</string>
     <string name="web_enhance_dialog_msg">%s sitesindeki reklamları engelleme şimdi başlatılsın mı?</string>
     <string name="web_enhance_dialog_title">Reklamları engelle</string>
-    <string name="web_intercept_ad_empty_record_hint">Hâlâ reklam görüyorsanız, bir reklam etiketi eklemek için onlara basılı tutun.</string>
+    <string name="web_intercept_ad_empty_record_hint">Hâlâ reklam görüyorsanız bir reklam etiketi eklemek için onlara basılı tutun</string>
     <string name="web_intercept_ad_filter_empty_record_hint">Burada henüz internet sitesi yok</string>
     <string name="web_intercept_ad_record_delete_hint">Reklamları engelle</string>
     <string name="web_intercept_download_empty_record_hint">Korumasız indirmelere sahip internet siteleri burada görünecek</string>
-    <string name="web_intercept_download_record_delete_hint">İptal</string>
+    <string name="web_intercept_download_record_delete_hint">İptal et</string>
     <string name="web_intercept_permission_clear">Temizle</string>
     <string name="web_intercept_permission_edit_site_default_settings">Varsayılan ayarlar</string>
     <string name="web_intercept_permission_edit_site_hint">İstisnalar</string>
@@ -3518,10 +3518,10 @@ https://forum.miuitr.info/"</string>
     <string name="web_intercept_track_record_delete_hint">İptal</string>
     <string name="web_intercept_track_record_empty_hint">Burada henüz internet sitesi yok</string>
     <string name="web_permission_domain_manage_page_title">İnternet siteleri</string>
-    <string name="web_permission_empty_item_desc">Henüz özel bir ayar eklemediniz.</string>
-    <string name="web_permission_intercept_guide_page_ad_desc">Çok fazla reklam? İnternet sayfalarının daha temiz görünmesi için reklamları engelleyin.</string>
-    <string name="web_permission_intercept_guide_page_download_desc">Otomatik indirmeleri kısıtla.</string>
-    <string name="web_permission_intercept_guide_page_permission_desc">İnternet sitelerinin gizlice ne yapmaya çalıştığını görün ve onların ne yapmasına izin verdiğinizi kontrol edin.</string>
+    <string name="web_permission_empty_item_desc">Henüz özel bir ayar eklemediniz</string>
+    <string name="web_permission_intercept_guide_page_ad_desc">Çok fazla reklammı var? İnternet sayfalarının daha temiz görünmesi için reklamları engelleyin</string>
+    <string name="web_permission_intercept_guide_page_download_desc">Otomatik indirmeleri kısıtla</string>
+    <string name="web_permission_intercept_guide_page_permission_desc">İnternet sitelerinin gizlice ne yapmaya çalıştığını görün ve onların ne yapmasına izin verdiğinizi kontrol edin</string>
     <string name="web_permission_intercept_guide_page_title">Gizliliğinizi koruyun</string>
     <string name="web_permission_intercept_manage_page_title">Koruma</string>
     <string name="web_permission_item_permission_title">Varsayılan izinler</string>
@@ -3551,10 +3551,10 @@ https://forum.miuitr.info/"</string>
     <string name="web_permission_protect_record_dialog_msg">Tüm koruma geçmişi kayıtları silinsin mi?</string>
     <string name="web_permission_protect_record_dialog_title">Koruma geçmişini temizle</string>
     <string name="web_permission_protect_title">Gizlilik koruması</string>
-    <string name="web_permission_protect_track_record">"''Takip etme'', bu internet sitelerinde çalışmıyor"</string>
+    <string name="web_permission_protect_track_record">Takip etme bu internet sitelerinde çalışmıyor</string>
     <string name="web_permission_protect_track_switch_summary">İnternet sitelerinin, etkinliklerinizi takip etmesini engellemek için açın</string>
     <string name="web_permission_protect_track_switch_title">Varsayılan eylemler</string>
-    <string name="web_permission_setting_page_ad_desc">Özelleştirilmiş reklam engelleyici ayarları bundan sonra silinecektir.</string>
+    <string name="web_permission_setting_page_ad_desc">Özelleştirilmiş reklam engelleyici ayarları bundan sonra silinecektir</string>
     <string name="web_permission_setting_page_ad_subtitle">Bu internet sitesi için reklam etiketlerini temizle</string>
     <string name="web_permission_setting_page_ad_title">Reklam etiketlerini yönet</string>
     <string name="web_permission_setting_page_domain_title">Yönetilen internet siteleri</string>
@@ -3570,7 +3570,7 @@ https://forum.miuitr.info/"</string>
     <string name="web_permission_setting_page_web_enhance_sub_title">Reklamları engelle</string>
     <string name="web_video_accelerate">Hız</string>
     <string name="web_video_download">İndir</string>
-    <string name="web_video_download_no_access">Ögeleri indirmek için izin gerekli</string>
+    <string name="web_video_download_no_access">Öğeleri indirmek için izin gerekli</string>
     <string name="web_video_enable_long_click_toast">%dX hızında oynatılıyor</string>
     <string name="web_video_list_more">Daha fazla</string>
     <string name="web_video_list_playing">Oynatılıyor</string>
@@ -3578,8 +3578,8 @@ https://forum.miuitr.info/"</string>
     <string name="web_video_list_title">Yerel</string>
     <string name="web_video_long_click_accelerate">%1$dX hız</string>
     <string name="web_video_long_click_tip">Oynatma hızını ayarlamak için basılı tutun</string>
-    <string name="web_video_more_copy_link">"URL'yi kopyala"</string>
-    <string name="web_video_more_copy_link_over">URL başarıyla kopyalandı</string>
+    <string name="web_video_more_copy_link">Bağlantıyı kopyala</string>
+    <string name="web_video_more_copy_link_over">Bağlantı başarıyla kopyalandı</string>
     <string name="web_video_playlist">Çalma listesi</string>
     <string name="web_video_size_adaptive">Otomatik</string>
     <string name="web_video_size_ratio">En boy oranı:</string>
@@ -3595,13 +3595,13 @@ https://forum.miuitr.info/"</string>
     <string name="wednesday_shortest">Çrş</string>
     <string name="weibo_application_id" />
     <string name="weibo_redirect_uri" />
-    <string name="welcome__privacy_policy">&lt;Data>Welcome to Wonderfic! This app provides the following services:&lt;br>- An online library with lots of titles to choose from.&lt;br>- A convenient local eBook reader.&lt;br>Wonderfic needs to collect necessary personal information to provide you with the basic services. You can learn how we handle the information we collect in our &lt;a href=\"%1$s\">Privacy Policy&lt;/a>. You can always withdraw your consent to the Privacy Policy of Wonderfic in Privacy &amp;amp; security.&lt;br>&lt;br>Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a> before using Wonderfic.&lt;/Data></string>
-    <string name="welcome__privacy_policy_description">&lt;Data>Wonderfic needs to collect necessary personal information to provide you with the basic services.You can learn how we handle the information we collect i<a href="%1$s">n our &lt;a href=</a>\"%1$s\">Privacy Policy&lt;/a>.You can always withdraw your consent to the Privacy Policy of Wonderfic in Privacy &amp;amp; security.&lt;br>&lt;br> Read and agree to our &lt;a href=\"%2$s\">User Agreement&lt;/a> and &lt;a href=\"%3$s\">Privacy Policy&lt;/a> before using Wonderfic.&lt;/Data></string>
-    <string name="welcome__privacy_policy_text1">Welcome to Wonderfic! This app provides the following services:</string>
-    <string name="welcome__privacy_policy_text2">\u0009 An online library with lots of titles to choose from.</string>
-    <string name="welcome__privacy_policy_text3">\u0009 A convenient local eBook reader</string>
-    <string name="welcome_skip">Skip</string>
-    <string name="welcome_to">Welcome to Wonderfic!</string>
+    <string name="welcome__privacy_policy">"Wonderfik'e hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sağlar: Aralarından seçim yapabileceğiniz birçok başlığa sahip çevrimiçi bir kitaplık. Kullanışlı bir yerel e-kitap okuyucu. Wonderfik'in size temel hizmetleri sunabilmesi için gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl ele aldığımızı %1$s Gizlilik Politikamızda öğrenebilirsiniz. Wonderfik'in Gizlilik politikasına ilişkin onayınızı her zaman Gizlilik ve güvenlik. Wonderfik'i kullanmadan önce %2$s Kullanıcı sözleşmemizi ve %3$s Gizlilik politikamızı okuyun ve kabul edin"</string>
+    <string name="welcome__privacy_policy_description">"Wonderfik'in size temel hizmetleri sağlamak için gerekli kişisel bilgileri toplaması gerekiyor. Topladığımız bilgileri nasıl ele aldığımızı %1$s Gizlilik politikamızda %1$s öğrenebilirsiniz. Wonderfik'in Gizlilik politikasına ilişkin onayınızı her zaman Gizlilik ve güvenlik. Wonderfik'i kullanmadan önce %2$s Kullanıcı sözleşmemizi ve %3$s Gizlilik politikamızı okuyun ve kabul edin"</string>
+    <string name="welcome__privacy_policy_text1">"Wonderfik'e hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sağlar:"</string>
+    <string name="welcome__privacy_policy_text2">Aralarından seçim yapabileceğiniz birçok başlığa sahip çevrimiçi bir kütüphane</string>
+    <string name="welcome__privacy_policy_text3">Kullanışlı bir yerel e-kitap okuyucu</string>
+    <string name="welcome_skip">Atla</string>
+    <string name="welcome_to">"Wonderfik'e hoş geldiniz"</string>
     <string name="what_is_new">Yeni özelliklere erişmek için uygulamayı güncelleyin</string>
     <string name="whatsapp_downloadpage_tips">WhatsApp durum kaydedici</string>
     <string name="whatsapp_file_saved_success">Başarıyla kaydedildi</string>

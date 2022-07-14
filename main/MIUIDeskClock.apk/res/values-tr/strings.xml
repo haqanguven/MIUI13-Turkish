@@ -870,6 +870,8 @@
     <string name="worldcolock_timezone_gap">%s saat</string>
     <string name="worldcolock_timezone_local">Yerel saatle aynı</string>
     <string name="xiaoai_ringtone_title">Mi AI zil sesleri</string>
+    <string name="xiaomi_deskclock_uninstall_description_content">Saat bir sistem uygulamasıdır. Uygulamayı kaldırdıktan sonra saati kontrol edemez, alarm kuramaz veya diğer Saat özelliklerini kullanamazsınız</string>
+    <string name="xiaomi_deskclock_uninstall_description_title">Saat kaldırılsın mı?</string>
     <string name="yesterday">Dün</string>
     <string name="your_sounds">Seslerim</string>
 </resources>

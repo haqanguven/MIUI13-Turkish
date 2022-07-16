@@ -2816,6 +2816,7 @@ Veri kullanımı telefonunuz tarafından ölçülür ve operatörünüz kullanı
     <string name="default_calendar_app_title">Takvim uygulaması</string>
     <string name="default_contacts_app_title">Kişiler uygulaması</string>
     <string name="default_digital_assistant_title">Varsayılan dijital asistan uygulaması</string>
+    <string name="default_document_title">Belgeler</string>
     <string name="default_emergency_app">Acil durum uygulaması</string>
     <string name="default_for_calls">Aramalar için varsayılan</string>
     <string name="default_for_calls_and_sms">Aramalar ve mesajlar için varsayılan</string>
@@ -9735,7 +9736,7 @@ Kelime eklemek için artı simgesine dokunun"</string>
     <string name="visibility_override_title">Kilit ekranında</string>
     <string name="vision_settings_description">Bu cihazı gereksinimlerinize uygun şekilde özelleştirebilirsiniz. Bu erişilebilirlik özellikleri daha sonra ayarlardan değiştirilebilir</string>
     <string name="vision_settings_suggestion_title">Yazı tipi boyutunu değiştir</string>
-    <string name="vision_settings_title">Görüş Ayarları</string>
+    <string name="vision_settings_title">Görüş ayarları</string>
     <string name="voice_access">Ses kontrolleri</string>
     <string name="voice_assist">Mi AI</string>
     <string name="voice_category">Konuşma</string>

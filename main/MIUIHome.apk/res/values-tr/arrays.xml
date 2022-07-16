@@ -489,12 +489,18 @@
         <item>Negatif ekran öneri kartı konumu</item>
         <item>Negatif ekran öneri kartı haritası</item>
         <item>Yapay itme</item>
+        <item>Masaüstü kısayolu değiştirme düğmesi</item>
     </string-array>
     <string-array name="widget_component_add_way">
         <item>Seçici ayrıntıları sayfasından sürükleyip bırakın</item>
         <item>Seçici ayrıntıları sayfası ekle düğmesi</item>
         <item>Seçici ana sayfasından sürükleyip bırakın</item>
         <item>Şelale sayfasından sürükleyin</item>
+        <item>Filtreler sayfasından uygulaya tıklayın</item>
+        <item>Sayfayı düzenle uygulama düğmesi</item>
+        <item>Ana sayfa kaydırma kartı ekleme düğmesi</item>
+        <item>Filtre sayfasından sürükleyip bırakın</item>
+        <item>Kartı kategori sayfasından sürükleyip kaydırın</item>
     </string-array>
     <string-array name="widget_component_default_source">
         <item>Varsayılan olmayan</item>
@@ -505,6 +511,7 @@
         <item>Kısayolu sil</item>
         <item>Sürükle</item>
         <item>Kaldır</item>
+        <item>Kısayolu değiştir</item>
     </string-array>
     <string-array name="widget_drag_type_name">
         <item>Masaüstü</item>

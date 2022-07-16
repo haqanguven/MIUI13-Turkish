@@ -649,7 +649,7 @@ Sorularınız varsa kuruluşunuzun yöneticisine başvurun"</string>
     <string name="global_action_logout">Oturumu sonlandır</string>
     <string name="global_action_power_off">Kapat</string>
     <string name="global_action_power_options">Güç</string>
-    <string name="global_action_restart">Restart</string>
+    <string name="global_action_restart">Yeniden başlat</string>
     <string name="global_action_screenshot">Ekran görüntüsü</string>
     <string name="global_action_settings">Ayarlar</string>
     <string name="global_action_silent_mode_off_status">Ses açık</string>

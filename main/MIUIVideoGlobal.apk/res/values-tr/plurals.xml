@@ -87,6 +87,14 @@ Yalnızca bugün mevcuttur"</item>
         <item quantity="other">Bugün %d dakika izlediniz</item>
         <item quantity="one">Bugün %d dakika izlediniz</item>
     </plurals>
+    <plurals name="incentive_popup_window_share_success">
+        <item quantity="other">Başarıyla paylaşıldı. %d puan kazandınız</item>
+        <item quantity="one">Başarıyla paylaşıldı. %d puan kazandınız</item>
+    </plurals>
+    <plurals name="incentive_popup_window_subscribe_success">
+        <item quantity="other">Başarıyla abone olundu. %d puan kazandınız</item>
+        <item quantity="one">Başarıyla abone olundu. %d puan kazandınız</item>
+    </plurals>
     <plurals name="incentive_task_watchvideo_begin">
         <item quantity="other">%d puan kazan</item>
         <item quantity="one">%d puan kazan</item>

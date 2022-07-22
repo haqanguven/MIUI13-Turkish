@@ -223,6 +223,7 @@
     <string name="classification_more_understand_you">Favori kategorinizi seçin</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
+    <string name="clock">Saati yükle</string>
     <string name="close">Kapat</string>
     <string name="close_custom_permission_warning_text">Depolama izinleri olmadan bu uygulama öğeleri indiremez ve cihazınızı kişiselleştiremez. Yine de kapatılsın mı?</string>
     <string name="close_custom_permission_warning_text_above_eleven">Depolama izinleri olmadan bu uygulama cihazınızı kişiselleştiremez. Yine de kapatılsın mı?</string>
@@ -613,6 +614,7 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="incompatible_dialog_message">"Bu tema cihazınızda kurulu olan MIUI sürümü ile uyumlu değil. Bu temayı uyguladığınız takdirde MIUI'nin bazı kısımları düzgün çalışmayabilir"</string>
     <string name="incompatible_dialog_ok">Anladım</string>
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
+    <string name="install_clock">"Saat'i henüz yüklemediniz. Şimdi indirilsin mi?"</string>
     <string name="install_failed">Yüklenemedi</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
     <string name="item_resource_audio_divider">│</string>

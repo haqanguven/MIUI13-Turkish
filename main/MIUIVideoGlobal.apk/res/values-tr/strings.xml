@@ -352,6 +352,8 @@ Videolar ekibi"</string>
     <string name="default_web_client_id">144285974528-0s4d24nm35j65v8dde47naur9f0p32ff.apps.googleusercontent.com</string>
     <string name="define_roundedimageview" />
     <string name="description">Tanım</string>
+    <string name="desktop_widget_local_media">Medya dosyaları</string>
+    <string name="desktop_widget_new">Yeni</string>
     <string name="detail_select_source">Oynatma kaynağını seçin</string>
     <string name="diagnosis_log_send_failed">Kayıtlar gönderilemedi. Tekrar deneyin</string>
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
@@ -669,6 +671,7 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_notification_linkvideo_title4">Sınırlı bir süre için ücretsiz yüzlerce video</string>
     <string name="galleryplus_notification_linkvideo_title5">En sevdiğiniz programları ücretsiz izleyin</string>
     <string name="galleryplus_notification_try_now_btn">Şimdi dene</string>
+    <string name="galleryplus_notification_type_link_video">Yerel videolara geçiş</string>
     <string name="galleryplus_online_cta">Videonun düzgün çalışabilmesi için internet bağlantısına ihtiyaç duyar. Kabul ediyor musunuz?</string>
     <string name="galleryplus_online_cta_agree">Kabul et</string>
     <string name="galleryplus_online_cta_disagree">Reddet</string>
@@ -795,6 +798,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="incentive_exchange">Kullan</string>
     <string name="incentive_exchange_code">Kod</string>
     <string name="incentive_exchange_code_copy">Kopyala</string>
+    <string name="incentive_exchange_code_copy_and_start">Kullan</string>
     <string name="incentive_exchange_details">Ayrıntılar</string>
     <string name="incentive_exchange_details_current">Sipariş toplamı</string>
     <string name="incentive_exchange_details_total">Bakiye</string>
@@ -820,6 +824,9 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="incentive_task_title_novice">Yeni gelenler için</string>
     <string name="incentive_task_to_get">Başlat</string>
     <string name="incentive_task_to_login">Oturum aç</string>
+    <string name="incentive_toast_share_success_new">Paylaşıldı</string>
+    <string name="incentive_toast_subscribe_success_new">Başarıyla abone olundu</string>
+    <string name="incentive_ui_tab_earn_credits">Puan</string>
     <string name="incentive_view_all_prizes">Tüm ödülleri görüntüle</string>
     <string name="incentive_view_details">Ayrıntılar</string>
     <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
@@ -1281,6 +1288,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="notification_recall_desc">Videolar uygulaması popüler videolar ve abonelikleriniz hakkında size bildirim gönderebilir</string>
     <string name="notification_recall_title">Bildirimleri aç</string>
     <string name="notification_tool">Araç kutusu</string>
+    <string name="notification_type_channel_music">Müzik oynatma</string>
     <string name="notify_apk_installed">Başarıyla indirildi</string>
     <string name="offline_notification_text">Reklamı açmak için dokunun</string>
     <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>

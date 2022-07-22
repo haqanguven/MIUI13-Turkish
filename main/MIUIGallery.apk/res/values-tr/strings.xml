@@ -3063,8 +3063,8 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="story_guide_tip_download_desc">Hatıralarınız için şablonlar indirin</string>
     <string name="story_guide_tip_download_title">Şablonları indir</string>
     <string name="story_guide_tip_generate_btn">Başlat</string>
-    <string name="story_guide_tip_generate_desc">Fotoğraf çek. Şarj cihazını bağlayın. Cihazı kilitleyin</string>
-    <string name="story_guide_tip_generate_title">Hatıraların görünmesini sağlayın</string>
+    <string name="story_guide_tip_generate_desc">Fotoğraflar çekin</string>
+    <string name="story_guide_tip_generate_title">Hatıralar</string>
     <string name="story_guide_tip_open_btn">Aç</string>
     <string name="story_guide_tip_open_desc">En parlak hatıralarınızı tekrar ziyaret edin</string>
     <string name="story_guide_tip_open_title">Hatıralar</string>

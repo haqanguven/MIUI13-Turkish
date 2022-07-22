@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="action_collapse">Gizle</string>
     <string name="action_expand">Göster</string>
     <string name="action_folder_description">Klasörleri görüntüle</string>
@@ -167,7 +168,6 @@
     <string name="cloud_trash_bin_title">Mi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
     <string name="confirm_ok">Kabul et</string>
-    <string name="content_preview_ratio">1:1</string>
     <string name="continuous_default_hint">Metni kopyalayın, resimleri ve ekran görüntülerini alıntı olarak kaydedin</string>
     <string name="continuous_new_excerpt_title">Yeni alıntı</string>
     <string name="copy">Kopyala</string>
@@ -415,6 +415,15 @@
     <string name="info_note_enter_desktop">Ana ekrana eklendi</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="last_excerpt_unfinish_hint">En son alıntı eksik</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">"SQLCipher tabanlı Android SQLite API'si"</string>
+    <string name="library_android_database_sqlcipher_libraryName">Android için SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_text">Yükleniyor</string>
     <string name="login_sync">Giriş &amp; Senkronizasyon</string>
     <string name="lunar_day">%1$s ay günü</string>
@@ -641,6 +650,8 @@
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
+    <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="new_app_name">Notlar</string>
     <string name="new_audio_create_cancel_talkback_des">İptal edildi</string>
     <string name="new_audio_create_done_talkback_des">Oluşturuldu</string>
@@ -780,9 +791,9 @@
     <string name="privacy_note_content_empty">Henüz bir ürün yok</string>
     <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
     <string name="private_entry_default">Özel klasörü açmak için aşağı çekin</string>
+    <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="quick_note_link_default_text">Bağlantı</string>
     <string name="quick_note_new_user_guide">Hızlı notlar, not ve alıntı oluşturmanızı sağlar</string>
-    <string name="recognition_failure">Tanıma başarısız oldu</string>
     <string name="recover_notes_hint">Bir hata oluştu. Notları geri yüklemek için i.mi.com adresine gidin</string>
     <string name="redo">İleri al</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin</string>
@@ -842,6 +853,7 @@
     <string name="search_setting_description">Notlarınız içerisinde metin araması yapın</string>
     <string name="search_title_notes">@string/app_name</string>
     <string name="select_account_prompt">Notları senkronize et</string>
+    <string name="select_up_limit_toast">En fazla %d öğe seçin</string>
     <string name="send">Gönder</string>
     <string name="set_alarm_description">Alarm kur</string>
     <string name="setting_big_screen_layout_columns">Kenar çubuğu</string>
@@ -919,6 +931,7 @@
     <string name="sync_note_folder">%1$s ve %2$s</string>
     <string name="sync_note_todo">%1$s ve %2$s</string>
     <string name="sync_tips">Notları Xiaomi bulut ile senkronize etmek için dokunun</string>
+    <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
@@ -1094,6 +1107,7 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="tuesday_shortest">S</string>
     <string name="unclassfied_folder_name">Kategorilenmemiş</string>
     <string name="undo">Geri al</string>
+    <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="unknown_source">Bilinmeyen kaynak</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>

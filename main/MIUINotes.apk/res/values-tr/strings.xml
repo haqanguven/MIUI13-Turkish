@@ -214,6 +214,7 @@
     <string name="dlg_hide_message">Gizleniyor</string>
     <string name="dlg_info_creating_message">Resim oluşturuluyor</string>
     <string name="dlg_info_save_to_gallery_message">Resim galeriye kaydediliyor</string>
+    <string name="dlg_info_save_to_local_message">Kaydediliyor</string>
     <string name="dlg_message_password_reset">Gizli notlarınızın şifreleri, uygulamalar, fotoğraflar ve gizli dosyalar için çalışan Gizlilik koruma şifresi ile değiştirilecektir</string>
     <string name="dlg_message_set_password">Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır</string>
     <string name="dlg_message_use_privacy_password">Gizlilik koruma şifresi kullanın. Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli klasörler için çalışır</string>
@@ -745,17 +746,19 @@
     <string name="permdesc_accessNote">Zararlı yazılımlar kişisel verilerinize ulaşmak için bunu kullanabilir</string>
     <string name="permission_data_shared_desc">Notes üçüncü taraf veri paylaşım bildirimi</string>
     <string name="permission_get_account_desc">Notları bulut ile senkronize et</string>
-    <string name="permission_intro_contact">Aramalar sırasında alınan notları işaretlemek için</string>
-    <string name="permission_intro_microphone">Sesli notları kaydetmek için</string>
-    <string name="permission_intro_phone">Aramalar sırasında alınan notları işaretlemek için</string>
-    <string name="permission_intro_storage">Notları ve eklentileri kaydetmek için</string>
+    <string name="permission_intro_contact">Aramalar sırasında alınan notları işaretlemek içindir</string>
+    <string name="permission_intro_microphone">Sesli notları kaydetmek içindir</string>
+    <string name="permission_intro_phone">Aramalar sırasında alınan notları işaretlemek içindir</string>
+    <string name="permission_intro_storage">Notları ve eklentileri kaydetmek içindir</string>
     <string name="permission_microphone_desc">Sesli notlar hazırlamak</string>
     <string name="permission_network_for_cloud_desc">Notları bulut ile senkronize etmek için internete bağlanmanız gerekmektedir. Mobil veri öğeleri senkronize etmek için kullanılabilir. Şimdi bağlanılsın mı?</string>
     <string name="permission_phone_state_desc">Arama sırasında sesli notları kaydetmeyi durdurmak için</string>
     <string name="permission_read_contact_desc">Kişiler ile yapılan aramalar sırasında oluşturulan notları ilişkilendirmek</string>
-    <string name="permission_storage_desc">Notları görüntü olarak kaydetmek için</string>
-    <string name="permission_storage_desc_pad_v12">Notlara resim eklemek ve notları resim olarak kaydetmek için</string>
-    <string name="permission_storage_desc_v12">Notlara görüntü eklemek ve notları görüntü olarak kaydetmek için</string>
+    <string name="permission_storage_desc">Notları görüntü olarak kaydetmek içindir</string>
+    <string name="permission_storage_desc_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
+    <string name="permission_storage_desc_pad_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
+    <string name="permission_storage_desc_pad_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
+    <string name="permission_storage_desc_v12">Notlara görüntü eklemek ve notları görüntü olarak kaydetmek içindir</string>
     <string name="permission_xiaoai_desc">Mi AI ses dosyalarını uyarlamak ve sesli not oluşturmak için ses kayıtlarınızı ve cihaz kimliğinizi toplar. Mi AI <a href="%1$s">Gizlilik politikasında</a> daha fazlasını öğrenin</string>
     <string name="permission_xiaoai_desc_new">"<Data>Konuşmadan metne transkripsiyon hizmetleri sağlamak için Mi AI'nin ses girişi ve rastgele oluşturulan cihaz kimliğinizi toplaması gerekir. Devam etmeden önce &lt;a href=\"%1$s\">notların üçüncü taraf veri paylaşım bildirimini&lt;/a> okuyun ve kabul edin. Ayrıca Mi AI &lt;a href=\"%2$s\">gizlilik politikasını&lt;/a> okuyarak daha fazla bilgi edinebilirsiniz</Data></string>
     <string name="permission_xiaoai_title">Konuşmadan yazıya</string>
@@ -843,7 +846,10 @@
     <string name="save_single_excerpt">Kaydet</string>
     <string name="save_to_gallery_failure_message">Kaydedilemedi</string>
     <string name="save_to_gallery_icon_name">Galeriye kaydet</string>
-    <string name="save_to_gallery_success_message">Başarıyla kaydedildi</string>
+    <string name="save_to_gallery_success_message">Kaydedildi</string>
+    <string name="save_to_local_failure_message">Kaydedilemedi</string>
+    <string name="save_to_local_icon_name">Kaydet</string>
+    <string name="save_to_local_success_message">kaydedildi</string>
     <string name="search">Notlar</string>
     <string name="search_hint">Notlarda ara</string>
     <string name="search_keyword_notes">Notlar;Hafıza</string>

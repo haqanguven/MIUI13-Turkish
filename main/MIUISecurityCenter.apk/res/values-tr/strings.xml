@@ -214,7 +214,7 @@
     <string name="antivirus_detect_apps_dialog_cancel">Yoksay</string>
     <string name="antivirus_detect_apps_dialog_content_text">Bu uygulama kişisel bilgilerinizin güvenliği için risk oluşturabilir</string>
     <string name="antivirus_detect_apps_dialog_message">Müşteri hizmetleri personeli, yetkililer veya tanıyabileceğiniz kişiler sizden bu uygulamayı kullanmanızı isterse devam etmeden önce kimliklerini doğrulayın</string>
-    <string name="antivirus_detect_apps_dialog_message_reject_permission">Permissions requested by this app were restricted. You can manage permissions here: %s.</string>
+    <string name="antivirus_detect_apps_dialog_message_reject_permission">Bu uygulama tarafından istenen izinler kısıtlandı. İzinleri buradan yönetebilirsiniz: %s</string>
     <string name="antivirus_detect_apps_dialog_uninstall">Kaldır</string>
     <string name="antivirus_detect_apps_noti_message">Bu uygulama güvenlik riskleri oluşturuyor</string>
     <string name="antivirus_detect_apps_noti_title">%s dahil birden çok uygulama güvenlik riski oluşturabilir</string>
@@ -1588,6 +1588,7 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="empty_title_root_apps">Root erişimi olan uygulama yok</string>
     <string name="enable_extreme_power_save_mode">Aşırı pil tasarrufu</string>
     <string name="enable_network">Öncelikle veri bağlantısını açın</string>
+    <string name="enable_notification_title">"%1$s'nin bildirimleri kullanmasına izin verilsin mi?"</string>
     <string name="enter">Devam et</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
@@ -3543,6 +3544,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="other_exception_summary">İnternet bağlantınız yok</string>
     <string name="other_exception_title">Diğer sorunlar denetleniyor</string>
     <string name="other_milink_connect">Yansıtılamadı. Şuan başka bir özellik yansıtılıyor</string>
+    <string name="over_package_reminder_type">Veri planı kullanıldığında</string>
     <string name="package_change_notification_summary">Daha fazla bilgi edinmek için dokunun</string>
     <string name="package_change_notification_title">Veri limitini otomatik olarak ayarla</string>
     <string name="package_setted_error_notification_summary">Veri kullanım istatistiklerini görüntülemek için dokunun</string>
@@ -4594,6 +4596,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="random_expression">Rastgele ifade</string>
     <string name="reach_daily_limit_value_body">Mobil veri kullanımını azalt</string>
     <string name="reach_daily_limit_value_title">Günlük veri sınırına ulaşıldı</string>
+    <string name="reach_warning_reminder_type">Veri sınırına ulaşıldığında</string>
     <string name="read_all_sms">Tümünü oku</string>
     <string name="read_and_write_clipboard">Öğelere panoya erişin ve bunları kaydedin</string>
     <string name="read_clipboard_ai_action_desc">Erişime izin verildiğinde veya kısıtlandığında bildirim alın</string>
@@ -4616,6 +4619,7 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="reject_usb_install">Belirtilen uygulamaların USB üzerinden yüklenmesi engellendi</string>
     <string name="release_meminfo">%d MB yer açıldı</string>
     <string name="release_memory">Önbelleği temizle</string>
+    <string name="reminder_click_to_close_tips">"Güvenlik > Veri kullanımı > Ayarlar'da veri kullanımı uyarılarını açıp kapatabilirsiniz"</string>
     <string name="reminder_once_month">Ayda bir</string>
     <string name="reminder_tips">Dikkat</string>
     <string name="reminder_type">Uyarı türü</string>
@@ -5487,6 +5491,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="system_anti_fraud_dialog_message">Dolandırıcılığa karşı koruma</string>
     <string name="system_anti_fraud_dialog_title">Dolandırıcılığa karşı uyarı</string>
     <string name="system_anti_fraud_dialog_title2">Dolandırıcılığa karşı uyarı</string>
+    <string name="system_anti_fraud_stayaway_from_risk">Dijital dolandırıcılıktan kaçının</string>
     <string name="system_app">Sistem uygulamaları</string>
     <string name="system_app_permission_instruction">Bu uygulama temel sistem hizmetlerini sağlamak için aşağıdaki izinlere ihtiyaç duyar. İzin durumlarının değiştirilmesi sistem çalışmasında anormalliklere yol açacağından bu uygulama için izinlerin yönetimi kısıtlanmıştır</string>
     <string name="system_application">Sistem uygulamaları</string>
@@ -5846,6 +5851,21 @@ kırmızı zarf alarmını açın"</string>
     <string name="top_game">En iyi oyunlar</string>
     <string name="top_load_fail_detail">Yüklenemedi. Yeniden denemek için dokunun</string>
     <string name="top_no_network_detial">Yüklenemedi. Ağ bağlantısını kontrol edin ve tekrar deneyin</string>
+    <string name="track_auto_collapsed">Otomatik olarak kaldır</string>
+    <string name="track_click_bubble_message">Baloncuğuna tıklayın</string>
+    <string name="track_inner_screen">Dahili ekran</string>
+    <string name="track_manual_collapsed">Manuel olarak kaldır</string>
+    <string name="track_no">Hayır</string>
+    <string name="track_outer_screen">Harici ekran</string>
+    <string name="track_phone">Mobil</string>
+    <string name="track_screen_horizontal">Yatay ekran</string>
+    <string name="track_screen_vertical">Dikey ekran</string>
+    <string name="track_sidebar_drag_center">Global kenar çubuğu uygulamaları ekranın orta tarafına sürükleyip bırakın</string>
+    <string name="track_sidebar_drag_left">Global kenar çubuğu uygulamaları ekranın sol tarafına sürükleyip bırakın</string>
+    <string name="track_sidebar_drag_right">Global kenar çubuğu uygulamaları ekranın sağ tarafına sürükleyip bırakın</string>
+    <string name="track_switch_off">Kapat</string>
+    <string name="track_switch_on">Aç</string>
+    <string name="track_yes">Evet</string>
     <string name="traffic_advanced_settings">Veri gelişmiş ayarları</string>
     <string name="traffic_alarm">Alarm ayarla</string>
     <string name="traffic_alert_auto_modify_notification_sumarry">Aylık plan %s olarak değiştirildi</string>
@@ -6054,6 +6074,8 @@ Bu özellik hareket yumuşatma ile çalışmaz
 Özelliklerden birini açmak diğerini kapatır"</string>
     <string name="vb_video_super_division_tips">"Yeterince net değil mi?
 Çözünürlüğü yükseltmeyi deneyin"</string>
+    <string name="verify_allow">@string/app_behavior_allowed</string>
+    <string name="verify_denied">@string/app_behavior_denied</string>
     <string name="verify_shut_down_password_content">Cihazınız kilitliyken kapalıysa ekran kilidinin onaylanmasını gerektirir</string>
     <string name="verify_shut_down_password_title">Kapatma onayı</string>
     <string name="verify_sms_cancel">@string/cancel_button</string>

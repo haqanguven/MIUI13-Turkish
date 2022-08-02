@@ -742,6 +742,8 @@
     <string name="monday">Pazartesi</string>
     <string name="monday_short">Pzt</string>
     <string name="monday_shortest">Pzt</string>
+    <string name="monochrome_summary">Uyumlu simgeler için arka plan rengini değiştirin</string>
+    <string name="monochrome_title">Arka plan rengi</string>
     <string name="month_april">Nisan</string>
     <string name="month_april_short">Nis</string>
     <string name="month_april_shortest">Nis</string>

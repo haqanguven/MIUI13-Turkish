@@ -154,8 +154,8 @@
         <item quantity="one">%d kez</item>
     </plurals>
     <plurals name="bg_network_allow_count">
-        <item quantity="other">%d uygulama arkaplanda ağa bağlanabilir</item>
-        <item quantity="one">%d uygulama arkaplanda ağa bağlanabilir</item>
+        <item quantity="other">%d uygulama arka planda ağa bağlanabilir</item>
+        <item quantity="one">%d uygulama arka planda ağa bağlanabilir</item>
     </plurals>
     <plurals name="bg_network_restrict_count">
         <item quantity="other">%d arkaplanda ağa bağlanamıyor</item>
@@ -278,8 +278,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%2$1.2f saat kaldı</item>
     </plurals>
     <plurals name="gb_smart_battery_min">
-        <item quantity="other">%d mins</item>
-        <item quantity="one">%d min</item>
+        <item quantity="other">%d dakika</item>
+        <item quantity="one">%d dakika</item>
     </plurals>
     <plurals name="gb_toolbox_guide_known">
         <item quantity="other">Anladım (%d saniye)</item>
@@ -638,6 +638,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">Cihazınız %d saniye içinde kapanacak</item>
         <item quantity="one">Cihazınız %d saniye içinde kapanacak</item>
     </plurals>
+    <plurals name="power_battery_hour">
+        <item quantity="other">%s saat</item>
+        <item quantity="one">%s saat</item>
+    </plurals>
+    <plurals name="power_battery_minute">
+        <item quantity="other">%s dakika</item>
+        <item quantity="one">%s dakika</item>
+    </plurals>
     <plurals name="power_center_battery_charge_number">
         <item quantity="other">kez</item>
         <item quantity="one">kez</item>
@@ -717,6 +725,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
     <plurals name="power_main_battery_last_minute">
         <item quantity="other">%s dakika kaldı</item>
         <item quantity="one">%s dakika kaldı</item>
+    </plurals>
+    <plurals name="power_main_battery_last_minute_screen_on">
+        <item quantity="other">%s dakika ekran kaldı</item>
+        <item quantity="one">%s dakika ekran kaldı</item>
+    </plurals>
+    <plurals name="power_main_open_last_minute_screen_on">
+        <item quantity="other">%s dakika ekran süresi eklemek için açın</item>
+        <item quantity="one">%s dakika ekran süresi eklemek için açın</item>
     </plurals>
     <plurals name="power_off_warning_button_ok_time">
         <item quantity="other">Anladım (%d saniye)</item>
@@ -879,7 +895,8 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="one">%d numara</item>
     </plurals>
     <plurals name="storage_fbo_number_unit">
-        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> kez</item>
+        <item quantity="other">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> parça</item>
+        <item quantity="one">&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>&lt;big>%s&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big>&lt;/big> parça</item>
     </plurals>
     <plurals name="summary_absorbed_time_foramt">
         <item quantity="other">Odak modunu %d dakika boyunca aç</item>

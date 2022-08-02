@@ -140,13 +140,53 @@
         <item quantity="other">%s öğe seçildi</item>
         <item quantity="one">%s öğe seçildi</item>
     </plurals>
+    <plurals name="pa_express_main_mul_choice_title">
+        <item quantity="other">%d öğe seçildi</item>
+        <item quantity="one">%d öğe seçildi</item>
+    </plurals>
     <plurals name="pa_express_settings_title_2">
         <item quantity="other">%d telefon numarası eklediniz</item>
         <item quantity="one">%d telefon numarası eklediniz</item>
     </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_abandoned">
+        <item quantity="other">%d paket terk edildi</item>
+        <item quantity="one">%d paket terk edildi</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_agent">
+        <item quantity="other">%d paket alınmayı bekliyor</item>
+        <item quantity="one">%d paket alınmayı bekliyor</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_canceled">
+        <item quantity="other">%d paket iptal edildi</item>
+        <item quantity="one">%d paket iptal edildi</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_delivering">
+        <item quantity="other">Teslimat için %d paket çıktı</item>
+        <item quantity="one">Teslimat için %d paket çıktı</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_failed">
+        <item quantity="other">%d pakette sorun yaşanıyor</item>
+        <item quantity="one">%d pakette sorun yaşanıyor</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_on_ground">
+        <item quantity="other">%d paket aktarım halinde</item>
+        <item quantity="one">%d paket aktarım halinde</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_reject">
+        <item quantity="other">%d paket teslim edilemedi</item>
+        <item quantity="one">%d paket teslim edilemedi</item>
+    </plurals>
+    <plurals name="pa_express_widget_list_left_panel_subtitle_sign">
+        <item quantity="other">%d paket teslim edildi</item>
+        <item quantity="one">%d paket teslim edildi</item>
+    </plurals>
     <plurals name="pa_picker_app_list_widget_count">
         <item quantity="other">%1$d</item>
         <item quantity="one">%1$d</item>
+    </plurals>
+    <plurals name="pa_shopping_page_product_delete_dialog_message">
+        <item quantity="other">%d seçili öğe şimdi silinsin mi?</item>
+        <item quantity="one">%d seçili öğe şimdi silinsin mi?</item>
     </plurals>
     <plurals name="pa_stock_display_list_label">
         <item quantity="other">Araçta %1$d şirket</item>

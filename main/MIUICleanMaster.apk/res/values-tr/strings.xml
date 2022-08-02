@@ -79,6 +79,7 @@
     <string name="app_description_content">Temizleyici cihazınızdaki çöpleri bulur ve depolama alanı boşaltır. Uygulamayı kaldırmadan önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Temizleyici hakkında</string>
     <string name="app_name">Temizleyici</string>
+    <string name="app_name_securitycenter">Güvenlik</string>
     <string name="app_reset">Sıfırla</string>
     <string name="app_specific_clean">Uygulama temizleyici</string>
     <string name="app_unload">Kaldır</string>
@@ -358,11 +359,18 @@
     <string name="delete_confirm_msg">Tüm dosyalar kalıcı olarak silinsin mi?</string>
     <string name="delete_slected_data">Sıfırla</string>
     <string name="desc_image">İmaj</string>
+    <string name="dialog_btn_delete_icon">Kaldır</string>
+    <string name="dialog_btn_no_create_icon">İptal et</string>
+    <string name="dialog_btn_yes_create_icon">Ekle</string>
     <string name="dialog_content_checkbox_delete_cloud_image">Fotoğrafları Xiaomi bulut üzerindende sil</string>
     <string name="dialog_content_select_all_confirm">Bu fotoğrafın bir kopyası saklansın mı?</string>
     <string name="dialog_msg_add_white_list_error">Bu dosya istisnalara eklenemiyor</string>
     <string name="dialog_msg_backup_and_uninstall_apps">Seçilen uygulamalar yedeklenip ve silinsin mi?</string>
     <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s uygulamasını seçmek için onaylayın</string>
+    <string name="dialog_msg_create_icon_content">Şimdi bir ana ekran kısayolu eklensin mi?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">Bir daha gösterme</string>
+    <string name="dialog_msg_delete_icon_content">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
+    <string name="dialog_msg_delete_icon_title">Ana ekran kısayolu kaldırılsın mı?</string>
     <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
     <string name="dialog_msg_load_cleanup_engine_error">Temizleme motoru zarar görmüş durumda</string>
     <string name="dialog_msg_stop_scan">Devam eden temizleme taraması durdurulsun mu?</string>
@@ -739,7 +747,8 @@
     <string name="mainbtn_text_no_trash">Atla</string>
     <string name="mainbtn_text_quick_cleanup">Temizle: %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
-    <string name="marketSdkVersion">3.2.9</string>
+    <string name="manual_item_create_icon_title">Ana ekran kısayolu</string>
+    <string name="marketSdkVersion">3.2.19</string>
     <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d uygulama | %2$s alan</string>
     <string name="memory_clean_icon_text">Hafızayı temizle</string>

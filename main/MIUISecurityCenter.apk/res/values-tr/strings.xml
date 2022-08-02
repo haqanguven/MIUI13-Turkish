@@ -161,6 +161,9 @@
     <string name="add_miservice_dialog_title">MIUI hizmet çerçevesi</string>
     <string name="add_to_whitelist_button">Veri dolaşım istisnaları</string>
     <string name="add_whitelist">İstisnalara ekle</string>
+    <string name="added_game_notification_summary">Şimdi oynamaya başla</string>
+    <string name="added_game_notification_title">%s artık oyun hızlandırıcıda</string>
+    <string name="added_game_start_game">Oynat</string>
     <string name="address">Adres</string>
     <string name="address_choose_hint">%1$s, %2$s ve %3$d diğer konum</string>
     <string name="adjust_sms_cmd"><u>Kalibrasyon mesaj şablonunu ayarla</u></string>
@@ -954,7 +957,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="battery_temperature_title">Sıcaklık</string>
     <string name="beauty_fc_assistant">Ön kamera asistanı</string>
     <string name="beauty_fc_assistant_summary">Işık doldurmayı kullanın ve ön kamerayla güzelleştirin</string>
-    <string name="beauty_fc_assistant_summary_new">Ön kamerayı kullanırken güzelleştirme ve dolgu ışığı seçeneklerini göster</string>
+    <string name="beauty_fc_auto_brightness">Işık doldurma parlaklığını otomatik olarak ayarlayın</string>
     <string name="beauty_fc_fill_lamp">Işık doldurma</string>
     <string name="beauty_fc_fill_lamp_new">Ön ışık doldurma</string>
     <string name="beauty_fc_light">Işık doldurma parlaklığı</string>
@@ -1042,6 +1045,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="btn_text_stop">Dur</string>
     <string name="bubble_app_empty_page">Bu cihazda konuşma balonlarını destekleyen uygulamalar bulunamadı</string>
     <string name="bubble_app_manage">Balon bildirimlerini yönet</string>
+    <string name="bubble_mode_barrage_switch_tips">Simge durumuna küçültülmüş uygulamalar için konuşma balonlarını ekranda yorumlar olarak göstermek için açın</string>
+    <string name="bubble_mode_barrage_tips">Küçültülmüş uygulamalar için konuşma baloncukları ekranda yorumlar olarak gösterilecek</string>
     <string name="bubble_notification">Balon bildirimleri</string>
     <string name="bubble_notification_switch">Balon bildirimlerine izin ver</string>
     <string name="bubble_notification_switch_desc">Ekranın kenarında kayan bir pencere gizlendiğinde bildirimlerini baloncuklar halinde gösterin</string>
@@ -1409,9 +1414,16 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="device_manager_apply_step_3">İlerlemeden önce tüm olası riskleri anladığınızdan emin olun. Bu uygulama için cihaz yöneticisi şimdi başlatılsın mı?</string>
     <string name="dialog_app_roaming_message">%1$s dolaşım sırasında mobil veri kullanamıyor. Uluslararası dolaşımdayken yalnızca istisnalar listesine eklemiş olduğunuz uygulamalar mobil veri kullanabilir</string>
     <string name="dialog_app_roaming_title">%1$s veri dolaşımını kullanamıyor</string>
+    <string name="dialog_btn_delete_icon">Kaldır</string>
+    <string name="dialog_btn_no_create_icon">İptal et</string>
+    <string name="dialog_btn_yes_create_icon">Ekle</string>
     <string name="dialog_change_package_type_summary">Veri planı türünü değiştirmek tüm veri kullanım ayarlarını varsayılan değerlerine sıfırlar. Veri planı türü şimdi değiştirilsin mi?</string>
     <string name="dialog_change_package_type_title">Veri planı türü değiştiriliyor</string>
     <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının MIUI tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri ayarlar > uygulamalar menüsünde kontrol edin</string>
+    <string name="dialog_msg_create_icon_content">Şimdi bir ana ekran kısayolu eklensin mi?</string>
+    <string name="dialog_msg_create_icon_not_remain_anymore">Bir daha gösterme</string>
+    <string name="dialog_msg_delete_icon_content">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
+    <string name="dialog_msg_delete_icon_title">Bu ana ekran kısayolu kaldırılsın mı?</string>
     <string name="dialog_msg_stop_virus_scan">Güvenlik taraması tamamlanmadan önce durdurulsun mu?</string>
     <string name="dialog_no_longer_alert">Tekrar gösterme</string>
     <string name="dialog_remobe_luckymoney_cancle">Tek atış kullan</string>
@@ -2235,6 +2247,11 @@ gönüllüsü"</string>
     <string name="gb_advance_settings_vibration_4d_summary2">Oyundaki öldürmeler sırasında titreşim</string>
     <string name="gb_audition_instruction">Kaydetmek için basılı tut (%1$s-%2$s saniye)</string>
     <string name="gb_audition_play_instruction">En iyi etki için kulaklık kullanın</string>
+    <string name="gb_beauty_cold_light">Soğuk</string>
+    <string name="gb_beauty_face">Güzelleştir</string>
+    <string name="gb_beauty_light">Işık doldur</string>
+    <string name="gb_beauty_nature_light">Doğal</string>
+    <string name="gb_beauty_warm_light">Ilık</string>
     <string name="gb_collimator_color">Renk</string>
     <string name="gb_collimator_size">Boyut</string>
     <string name="gb_collimator_style">Tür</string>
@@ -2938,6 +2955,7 @@ bekleniyor"</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
     <string name="manual_input_free_traffic">İndirimli veri kullanımını ayarla</string>
     <string name="manual_input_traffic">Kullanılan verileri giriniz</string>
+    <string name="manual_item_create_icon_title">Ana ekran kısayolu</string>
     <string name="manual_item_white_list_summary">Seçili uygulamaların optimize edilmesini önle</string>
     <string name="manual_item_white_list_title">İstisnalar</string>
     <string name="mark_agent">Aracı olarak bildirilenleri engelle</string>
@@ -3811,6 +3829,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_battery_detail">Ayrıntılar</string>
     <string name="power_center_battery_duration">Kalan süre</string>
     <string name="power_center_battery_duration_format">%1$s %2$s</string>
+    <string name="power_center_battery_duration_screen_on">Kalan ekran süresi</string>
     <string name="power_center_battery_hardware">Donanım: %s</string>
     <string name="power_center_battery_health_poor_tip">Görünüşe göre pil sağlığı düşük. Pilinizi yetkili bir servis merkezinde kontrol edin</string>
     <string name="power_center_battery_health_summary">Pil sağlığı istatistiklerinin doğruluğunu artırmak için cihazınızı %1$d-%2$d kez tamamen şarj edin ve boşaltın</string>
@@ -3831,6 +3850,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_consume_fast">Pilin boşaltılması</string>
     <string name="power_center_dialog_msg_bottom">Pil ömrünü %1$d saat %2$d dakikaya kadar artırabilirsiniz. Pil tasarrufu açılsın mı?</string>
     <string name="power_center_dialog_msg_title">%1$s fazladan zaman kazanmak için açın. Pil tasarrufu için aşağıdaki işlemler yapılacaktır:</string>
+    <string name="power_center_dialog_msg_title_screen_on">Bu özelliği açarsanız %1$s ekran süresi elde edersiniz. İşte pil tasarrufu sağlayacak önlemler:</string>
     <string name="power_center_dialog_msg_top">Pil tasarrufu açıkken MIUI aşağıdaki optimizasyonları gerçekleştirir:</string>
     <string name="power_center_hints_scan_danger_result">Pil sorunlarını şimdi çözebilirsiniz</string>
     <string name="power_center_list_item_auto_brightness">Ekran parlaklığını otomatik olarak ayarla</string>
@@ -3948,6 +3968,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_idle">Telefon beklemede</string>
     <string name="power_main_battery_last_day_hour">%1$s gün %2$s saat kaldı</string>
     <string name="power_main_battery_last_hour_minute">%1$s saat %2$s dakika kaldı</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ekran süresi kaldı</string>
+    <string name="power_main_open_last_hour_minute_screen_on">%1$s %2$s ekran süresi eklemek için açın</string>
     <string name="power_off_warning_button_ok">Anladım</string>
     <string name="power_off_warning_message">Pil zayıf. Cihazınız %d saniye içinde kapanacak. Şarj cihazını bağlayın</string>
     <string name="power_off_warning_notification_title">Kapanmak üzere</string>
@@ -4264,6 +4286,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="preference_key_database_auto_update_time">key_database_auto_update_time_%s</string>
     <string name="preference_key_information_setting_close">key_information_setting_close</string>
     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+    <string name="preference_key_manual_item_create_icon">key_manual_item_create_icon</string>
     <string name="preference_key_manual_update_virus_db">key_manual_update_virus_db</string>
     <string name="preference_key_module_antipam">module_antipam</string>
     <string name="preference_key_module_antivirus">key_module_antivirus</string>

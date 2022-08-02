@@ -616,6 +616,8 @@ Bu özelliği kapatmak için Ayarlar > ses &amp; titreşim > Profil videosu ayar
     <string name="incompatible_dialog_title">Uyumluluk sorunları</string>
     <string name="install_clock">"Saat'i henüz yüklemediniz. Şimdi indirilsin mi?"</string>
     <string name="install_failed">Yüklenemedi</string>
+    <string name="install_gallery_content">Galeriyi henüz yüklemediniz. Şimdi indirilsin mi?</string>
+    <string name="install_gallery_title">Galeriyi yükle</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
     <string name="item_resource_audio_divider">│</string>
     <string name="item_resource_audio_optional_alarm_ring">Alarmlar</string>

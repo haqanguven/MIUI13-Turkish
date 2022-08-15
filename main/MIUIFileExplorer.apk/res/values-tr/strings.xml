@@ -36,6 +36,7 @@
     <string name="add_one">(1)</string>
     <string name="add_private">Dosyaları şimdi gizleyin</string>
     <string name="add_private_files">Dosya ekle</string>
+    <string name="add_to_widget">Araç ekle</string>
     <string name="added_category">Eklendi</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="aggree_desc">Bu uygulamanın internete bağlanmasına ve yukarıda listelenen zorunlu izinleri vermesine izin verin</string>
@@ -237,6 +238,7 @@
     <string name="delete_folder">Şimdi silinsin mi?</string>
     <string name="des_hide_pwd">Şifreyi gizle</string>
     <string name="des_show_pwd">Şifreyi göster</string>
+    <string name="dialog_keep_choice">Seçimi hatırla</string>
     <string name="dialog_select_type">Tür seçin</string>
     <string name="dialog_type_audio">Ses</string>
     <string name="dialog_type_image">Fotoğraflar</string>
@@ -924,6 +926,7 @@
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="tip">Uyarı</string>
+    <string name="tips_add_to_widget">Bu araça en fazla %d dosya ekleyebilirsiniz. Daha fazla dosya eklerseniz önceden eklenenler değiştirilecektir</string>
     <string name="title_app_tags">Uygulamalar</string>
     <string name="title_expire_video">Süresi dolmak üzere</string>
     <string name="title_recent">Son kullanılanlar</string>
@@ -968,6 +971,14 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
+    <string name="widget_add_files">Dosya ekle</string>
+    <string name="widget_added_fail_content">%1$s zaten ana ekranda</string>
+    <string name="widget_added_fail_tips">Eklenemedi</string>
+    <string name="widget_added_success_content">Ana ekrana %1$s eklendi</string>
+    <string name="widget_added_success_tips">Eklendi</string>
+    <string name="widget_choose_file">Dosya eklemek için dokunun</string>
+    <string name="widget_choose_fragment_title">Dosya türünü seçin</string>
+    <string name="widget_finish">Bitti</string>
     <string name="wifi_state">Wifi ağı</string>
     <string name="withdraw">Geri al</string>
     <string name="withdraw_consent">İzinleri geri al</string>

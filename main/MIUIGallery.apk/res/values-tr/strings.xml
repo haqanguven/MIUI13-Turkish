@@ -239,6 +239,9 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="assistant_page_discovery">Keşfet</string>
     <string name="assistant_page_label">Hatıralar</string>
     <string name="assistant_page_server_error">Ağ ayarlarınızı kontrol edin</string>
+    <string name="assistant_today_of_year_function_closed_tip">Aç</string>
+    <string name="assistant_today_of_year_function_no_address_tip">Zamanda geriye git</string>
+    <string name="assistant_today_of_year_function_no_photo_tip">Başlat</string>
     <string name="associate_face_album">Bir albüm seçin</string>
     <string name="asus">Asus</string>
     <string name="asus_phone">Asus</string>
@@ -1065,6 +1068,7 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="crop_label">Kesilen fotoğraflar</string>
     <string name="cta_agreement_declare">Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl kullandığımızı tam olarak anlamak için bu uygulamayı kullanmadan önce <a href="%1$s">Kullanıcı sözleşmemizi</a> ve <a href="%2$s">Gizlilik politikamızı</a> okuyun ve kabul edin</string>
     <string name="cta_network_declare">Fotoğrafları ve videoları Xiaomi bulut ile senkronize etmek için bu uygulamanın internete bağlanması gerekiyor</string>
+    <string name="cta_screenthrow_declare">Bu cihazın ekranını harici monitörlere aktarabilmek için bu uygulamanın internete bağlanması gerekiyor</string>
     <string name="custom_select_title_deselect_all">Seçimi kaldır</string>
     <string name="custom_select_title_quickly_share">Paylaş</string>
     <string name="custom_select_title_select_all">Tümünü seç</string>
@@ -1327,6 +1331,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="face_recommend">Öneriler</string>
     <string name="face_recommend_group_number">%1$d/%2$d</string>
     <string name="fail_hint">İşlem tamamlanamadı</string>
+    <string name="fail_reason_migrate">Öğeler işleniyor. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="fail_to_pick_email">Geçersiz e-posta adresi</string>
     <string name="fail_to_sync_album">Albüm senkronize edilemedi. Ağ bağlantınızı kontrol edin ve ardından yeniden deneyin</string>
     <string name="family_member_invitation_text">Diğer aile üyesi</string>
@@ -1588,6 +1593,8 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="functions_are_being_developed">Bu özellik yakında hazır olacak. Bizi takip etmeye devam edin</string>
     <string name="gallery_setting">Ayarlar</string>
     <string name="gallery_sync_disable_toast">Galeri senkronizasyonu kapalı</string>
+    <string name="gallery_uninstall_description_content">Galeri tüm bağlı cihazlarda fotoğrafları ve videoları görüntülemenize, yönetmenize ve senkronize etmenize olanak tanıyan bir sistem uygulamasıdır. Galeriyi kaldırırsanız özel yaptığınız öğeleri kaybedersiniz ve galeri öğelerini görüntüleme veya seçmeyle ilgili diğer özellikler de artık sizin için kullanılamaz. Yine de kaldırılsın mı?</string>
+    <string name="gallery_uninstall_description_title">Galeri kaldırılsın mı?</string>
     <string name="gcm_defaultSenderId">184486664684</string>
     <string name="generate_story_summary">MIUI fotoğraflarınızı analiz eder ve hatıralar oluşturur. Hatıralar oluşturmayı durdurmak için bu özelliği kapatın</string>
     <string name="generate_story_title">Hatıralar</string>
@@ -1647,6 +1654,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="home_menu_camera">Yalnızca kamera öğelerini göster</string>
     <string name="home_menu_cleaner">Temizle</string>
     <string name="home_menu_collage">Kolaj</string>
+    <string name="home_menu_community">@string/assistant_page_community</string>
     <string name="home_menu_id_photo">Kimlik kartı</string>
     <string name="home_menu_macarons">Sihirli skeç</string>
     <string name="home_menu_magic_matting">Sihir</string>
@@ -1659,6 +1667,8 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="home_page_empty_action">Fotoğraf çek</string>
     <string name="home_page_empty_action_new">Eski cihazdan içe aktar</string>
     <string name="home_page_label">Fotoğraflar</string>
+    <string name="home_sdcard_op_tip_msg">Seçilen tüm resimler için bu işlem tamamlanamadı. SD kartınızı çıkarın ve tekrar takın</string>
+    <string name="home_sdcard_tip_msg">SD kartınız salt okunur görünüyor. Ayarlar > Telefon hakkında > Depolama bölümünden bağlantısını kesin ve tekrar takın</string>
     <string name="homepage_allphotos_tip_dialog_button_negative">Atla</string>
     <string name="homepage_allphotos_tip_dialog_button_positive">Tamam</string>
     <string name="homepage_allphotos_tip_dialog_description_all">Tümü</string>
@@ -2186,6 +2196,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="ocr_save_to_note">Kaydet</string>
     <string name="ocr_save_to_note_new">Notlara kaydet</string>
     <string name="ocr_send">Paylaş</string>
+    <string name="ocr_switch_hint">Seçebilmek veya harekete geçmek için resimlerde görüntülenen metni tanıyın</string>
+    <string name="ocr_switch_title">Resimlerdeki metni tanıma</string>
     <string name="ocr_text_copied">Kopyalandı</string>
     <string name="ocr_text_copied_selected">Kopyalandı</string>
     <string name="ocr_text_link">Bağlantı</string>

@@ -435,6 +435,11 @@ yükle"</string>
     <string name="indices_title_feel_new">Hissedilen</string>
     <string name="indices_title_pressure">Basınç</string>
     <string name="indices_title_pressure_new">Basınç</string>
+    <string name="indices_title_uv">UV</string>
+    <string name="indices_wind_direction_east">D</string>
+    <string name="indices_wind_direction_north">K</string>
+    <string name="indices_wind_direction_south">G</string>
+    <string name="indices_wind_direction_west">B</string>
     <string name="information_settings_title">Hava durumu bilgisi</string>
     <string name="install">Yükle</string>
     <string name="install_progress">%%%1$s</string>
@@ -643,6 +648,9 @@ aç"</string>
     <string name="save_to_gallery_failure_message">Galeriye kaydedilemedi</string>
     <string name="save_to_gallery_icon_name">Galeriye kaydet</string>
     <string name="save_to_gallery_success_message">Galeriye kaydedildi</string>
+    <string name="save_to_local_failure_message">Kaydedilemedi</string>
+    <string name="save_to_local_icon_name">Kaydet</string>
+    <string name="save_to_local_success_message">Kaydedildi</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_weather">Hava durumu</string>
     <string name="search_weather_keywords">Sıcaklık,Hava tahmini,Hava durumu,Hava kalitesi,Kirlilik derecesi,Nem</string>
@@ -658,6 +666,7 @@ aç"</string>
     <string name="setting_experience_plan_title">Kullanıcı deneyimi programı</string>
     <string name="setting_get_location">Konum erişimi</string>
     <string name="setting_not_allowed">Onaylama</string>
+    <string name="setting_notification_manager">Bildirimler</string>
     <string name="setting_permission_description">İzin ayrıntıları</string>
     <string name="setting_privacy">Gizlilik</string>
     <string name="setting_privacy_policy_withdrawal_of_Consent">İznin geri alınması</string>
@@ -666,6 +675,7 @@ aç"</string>
     <string name="setting_share_weather_need">Görüntüleri hava durumu bilgileriyle paylaşmak için</string>
     <string name="setting_today_news">Yeni gün</string>
     <string name="setting_used_to_display_weather">İlgili hava durumu bilgilerini görüntülemek için</string>
+    <string name="setting_used_to_push_reminder">Uyarılar ve hava durumu uyarıları alın</string>
     <string name="setting_weather_video">Hava durumu videosu</string>
     <string name="settings">Ayarlar</string>
     <string name="share">Paylaş</string>

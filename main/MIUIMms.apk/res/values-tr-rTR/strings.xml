@@ -1294,6 +1294,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="sim_full_body">Daha fazlasına yer açmak için bir kaç mesaj silin</string>
     <string name="sim_full_title">Sim kart dolu</string>
     <string name="sim_manage_messages_title">Sim karttaki metin mesajları</string>
+    <string name="sim_not_support_mms">Bu Sim kart multimedya mesajını desteklemiyor</string>
     <string name="sim_view">Görüntüle</string>
     <string name="slide_number">Slayt %d</string>
     <string name="slide_show_part">Bölüm %1$d/%2$d</string>

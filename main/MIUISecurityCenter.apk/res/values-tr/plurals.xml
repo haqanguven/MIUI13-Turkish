@@ -245,6 +245,14 @@ Mobil veriyi tekrar açmanız durumunda operatörünüz tarafından ek ücretlen
         <item quantity="other">%1$s</item>
         <item quantity="one">%1$s</item>
     </plurals>
+    <plurals name="gamebooster_push_expiring_soon_link_message">
+        <item quantity="other">Oyun hızlandırıcı üyeliğiniz %d gün içinde sona erecek</item>
+        <item quantity="one">Oyun hızlandırıcı üyeliğiniz %d gün içinde sona erecek</item>
+    </plurals>
+    <plurals name="gamebooster_push_expiring_soon_message">
+        <item quantity="other">Oyun hızlandırıcı üyeliğiniz %d gün içinde sona erecek. Sorunsuz oyun oynamanın keyfini çıkarmak için şimdi yenileyin</item>
+        <item quantity="one">Oyun hızlandırıcı üyeliğiniz %d gün içinde sona erecek. Sorunsuz oyun oynamanın keyfini çıkarmak için şimdi yenileyin</item>
+    </plurals>
     <plurals name="gb_ad_people_play">
         <item quantity="other">%1$d kişi oynuyor</item>
         <item quantity="one">%1$d kişi oynuyor</item>

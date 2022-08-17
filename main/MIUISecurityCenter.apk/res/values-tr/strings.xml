@@ -648,6 +648,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="appcleaner_wechat_notification_garbage_cleanup_title">Önbelleği temizlemeyi unutmayın</string>
     <string name="application_item_already_permission">İzin verildi</string>
     <string name="application_item_disable">Kısıtlandı</string>
+    <string name="application_mode_name">Uygulama düzenleri</string>
     <string name="applock_add_account">Ekle</string>
     <string name="applock_add_account_ignore">Şimdi değil</string>
     <string name="applock_add_account_ignore_with_seconds">Şimdi değil (%d saniye)</string>
@@ -836,7 +837,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="auto_task_notify_title_has_exclude">Görev yürütüldü</string>
     <string name="auto_task_offen_use_device">Cihazlarım</string>
     <string name="auto_task_offen_use_wlan">Ağlarım</string>
-    <string name="auto_task_open_app">% aç</string>
+    <string name="auto_task_open_app">%s aç</string>
     <string name="auto_task_open_bluetooth">"Bluetooth'u aç"</string>
     <string name="auto_task_open_wlan">Wifi ağını aç</string>
     <string name="auto_task_operation_airplane_mode">Uçak modu</string>
@@ -991,6 +992,60 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="best_warning_dialog_message1">Xiaomi kırmızı paket asistanını kullandıktan sonra kırmızı paket kapma hızınızı artırır. Ancak eliniz çok hızlıysa her seferinde kırmızı zarfı ilk alan siz olacaksınız.<font color="'#e56255'">"\"\"\"\"\"\"\"\"\"\"\"\"\"WeChat'in otomatik olarak kırmızı zarf toplama eklentisini daha sonra kırmızı zarf işlevini kullanımınızı etkilemek için kullanma şansı vardır.\"\"\"\"\"\"\"\"\"\"\"\"\""</font> Daha sonra kırmızı zarf işlevini kullanımınızı etkiler. Bu nedenle bazen ritmi kontrol etmek ve kırmızı zarfı kapmak için elinizi kaldırmak daha iyidir. Kırmızı zarf iyi olsa da çok açgözlü olmayın~~</string>
     <string name="best_warning_dialog_title">İpuçları</string>
     <string name="bg_network_exception_title">Sınırlı arka plan ağ bağlantısı</string>
+    <string name="bh_buy_order_fail_tips_text">Bir hata oluştu. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="bh_charge_for_more">Daha fazla</string>
+    <string name="bh_charge_record">Satın alma geçmişi</string>
+    <string name="bh_charge_traffic">Mobil veri satın al</string>
+    <string name="bh_copy_list_item_tips">Başarıyla kopyalandı</string>
+    <string name="bh_create_order_carrier_item_text">Taşıyıcı</string>
+    <string name="bh_create_order_fee_item_text">Tutar</string>
+    <string name="bh_create_order_id_item_text">Sipariş numarası</string>
+    <string name="bh_create_order_record_failed_text">Tamamlanamadı</string>
+    <string name="bh_create_order_record_service_text">Çevrimiçi destek</string>
+    <string name="bh_create_order_record_success_text">Tamamlandı</string>
+    <string name="bh_create_order_time_item_text">Zaman</string>
+    <string name="bh_home_to_set_phone_number">Telefon numarasını ayarla</string>
+    <string name="bh_more_functions">Daha fazla araç</string>
+    <string name="bh_no_resource_tab_view">Ürün yok</string>
+    <string name="bh_open_pay_loading_dialog_title">Ödeme hazırlanıyor</string>
+    <string name="bh_order_detail_carrier_text">Taşıyıcı</string>
+    <string name="bh_order_detail_create_time_text">Zaman</string>
+    <string name="bh_order_detail_fee_text">Sipariş toplamı</string>
+    <string name="bh_order_detail_id_text">Sipariş numarası</string>
+    <string name="bh_order_detail_number_text">Telefon numarası</string>
+    <string name="bh_order_detail_price_text">Tutar</string>
+    <string name="bh_order_details_title_content">Sipariş detayları</string>
+    <string name="bh_pay_status_confirm_text">Bilgi alınıyor</string>
+    <string name="bh_pay_status_failed_text">Ödeme tamamlanamadı</string>
+    <string name="bh_pay_status_success_text">Ödeme başarıyla tamamlandı</string>
+    <string name="bh_pay_status_success_tips_text">Satın alınan ürünler gecikmeli olarak teslim edilebilir</string>
+    <string name="bh_product_input_normal_phone">Geçerli bir telefon numarası girin</string>
+    <string name="bh_product_list_all">Tüm veri planları</string>
+    <string name="bh_product_status_abnormal_click_phone_text">Manuel olarak ayarlamak için dokunun</string>
+    <string name="bh_product_status_abnormal_phone_text">Telefon numarası tanınamadı</string>
+    <string name="bh_product_status_no_net_text">Ağa bağlanılamıyor</string>
+    <string name="bh_product_status_no_resources_text">Bu öğeler şu anda mevcut değil. Diğer veri planlarını deneyin</string>
+    <string name="bh_purchase_dialog_cilck_to_buy">Satın al</string>
+    <string name="bh_purchase_dialog_number_text">"Telefon numarası: "</string>
+    <string name="bh_purchase_dialog_tips">Satın alınan ürünler gecikmeli olarak teslim edilebilir</string>
+    <string name="bh_set_phone_dialog_title">"Buraya girdiğiniz telefon numarasının doğru olduğundan emin olun
+Telefon numaranızı Ayarlar'dan değiştirebilirsiniz"</string>
+    <string name="bh_settings_declare">Telif hakkı</string>
+    <string name="bh_settings_policy_text">Gizlilik politikası</string>
+    <string name="bh_settings_user_agreement">Kullanıcı sözleşmesi</string>
+    <string name="bh_settings_withdrawal_dialog_content_text">"Devam ederseniz Yulore sınırlı gizlilik politikasına verdiğiniz onayı geri çekeceksiniz
+Bundan sonra kişisel bilgilerinizi toplamayı ve kullanmayı durduracağız ve sipariş geçmişinizi kalıcı olarak sileceğiz. Onayınızı geri çekmeden önce tüm işlemlerinizin tamamlandığından emin olun"</string>
+    <string name="bh_settings_withdrawal_dialog_not_content_text">"Görünüşe göre Yulore sınırlı gizlilik politikasına verdiğiniz onayı geri çekmek istiyorsunuz
+Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek için siparişlerinizi kapatmak üzere müşteri desteği ile iletişime geçin"</string>
+    <string name="bh_settings_withdrawal_dialog_title">İzni geri al</string>
+    <string name="bh_settings_withdrawal_subtitle">Veri kullanımına ilişkin gizlilik politikası onayınızı geri çekin</string>
+    <string name="bh_settings_withdrawal_text">İzni geri al</string>
+    <string name="bh_settings_withdrawal_yulore">"Yulore sınırlı gizlilik politikasına ilişkin onayınızı geri çekin"</string>
+    <string name="bh_settings_yulore_limited_paivacy">Yulore sınırlı gizlilik politikasını görüntüle</string>
+    <string name="bh_settings_yulore_limited_user">Yulore sınırlı kullanıcı sözleşmesini görüntüle</string>
+    <string name="bh_traffic_product_out_of_stock">Hepsi satıldı</string>
+    <string name="bh_withdrawal_yulore_fail">İzin geri alınamadı</string>
+    <string name="bh_withdrawal_yulore_success">İzin başarıyla geri alındı</string>
     <string name="bill_arrears_character">Sim %d bakiyesi yetersiz görünüyor. Bağlantıda kalmak için şimdi doldurun</string>
     <string name="bill_arrears_title">"Sim %d ağa bağlanamıyor"</string>
     <string name="bill_limit_notification_text_format">Kart: %1$s | Denge: %2$s CNY</string>
@@ -2153,11 +2208,15 @@ gönüllüsü"</string>
     <string name="game_video_net_data">Mobil veri</string>
     <string name="game_video_network_eror">Ağa bağlanılamadı. Ağ ayarlarını kontrol edin ve tekrar deneyin</string>
     <string name="game_wid_viewpoint_buttom">Kısa bir mola verin</string>
+    <string name="gamebooster_dialog_recover">Yenile</string>
+    <string name="gamebooster_dialog_start_booster">Başlat</string>
     <string name="gamebooster_lowbattery_notification_summary">Cihazınız kapanmadan önce şarj edin</string>
     <string name="gamebooster_main_activity_back">Geri</string>
     <string name="gamebooster_network_dialog_cn_message">Güvenliğin internete bağlanmasına ve konumunuza erişmesine izin verilmediğinde oyun hızlandırıcıyı kullanamazsınız. Şimdi izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message">Güvenlik uygulamasına oyun hız arttırmanın tüm özelliklerini kullanmak için ağa bağlanma izni verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
+    <string name="gamebooster_push_expiring_soon_button">Yenile</string>
+    <string name="gamebooster_push_expiring_soon_title">Oyun hızlandırıcı</string>
     <string name="gamebox_ai_subtitle">AI subtitles</string>
     <string name="gamebox_app_not_find">İlk önce uygulamayı yükleyin</string>
     <string name="gamebox_brightness">Parlaklık</string>
@@ -2518,6 +2577,9 @@ ve ses değiştiricimizi keşfedin"</string>
     <string name="get_sys_info">Bilgi alınıyor</string>
     <string name="gigabyteShort">GB</string>
     <string name="give_lucky_money">Kırmızı zarf büyük teslimat</string>
+    <string name="global_satisfaction_notification_button">Oran</string>
+    <string name="global_satisfaction_notification_subhead">Bize deneyiminizden bahsedin</string>
+    <string name="global_satisfaction_notification_title">Bu cihazı değerlendirin</string>
     <string name="global_wa_setting_alert_dialog_content">%s alanını boşaltabilirsiniz</string>
     <string name="global_wa_setting_alert_dialog_title">WhatsApp temizleyici</string>
     <string name="gmscore_support_remind">Gmail, Google haritalar ve diğer Google uygulamalarında sorun yaşıyorsanız bu özelliği etkinleştirin. Bu özellik pil ömrünü bir miktar azaltacaktır</string>
@@ -2705,6 +2767,7 @@ manzara moduna geçin"</string>
     <string name="hot_today">Bugün popüler</string>
     <string name="i_know">Anladım</string>
     <string name="icon_content_description">İletişim simgesi</string>
+    <string name="icon_created_settings_preference">Eklendi</string>
     <string name="icon_text_size_giga_byte">%.1fG</string>
     <string name="icon_text_size_max">9.9G</string>
     <string name="icon_text_size_mega_byte">%dM</string>
@@ -2795,7 +2858,7 @@ manzara moduna geçin"</string>
     <string name="label_callwait">Arama bekletme bildirimi</string>
     <string name="label_mi_stats">Mi analitik</string>
     <string name="last_check_canceled">Önceki tarama işlemi iptal edildi</string>
-    <string name="left_precent">%60</string>
+    <string name="left_precent">60%</string>
     <string name="legal_workday">Tatil günleri</string>
     <string name="legal_workday_invalidate">Pazartesi-Cuma (Tatil bilgileri geçersiz)</string>
     <string name="legal_workday_invalidate_message">Resmi tatil günleri bilgilerini güncellemek için dokunun</string>
@@ -2945,8 +3008,10 @@ Mesaj gönder"</string>
     <string name="main_tc_wait_result">"Operatörün yanıt vermesi
 bekleniyor"</string>
     <string name="main_today_used">Bugün kullanılan</string>
+    <string name="main_toolbar_custom_service">Müşteri hizmetleri</string>
     <string name="main_toolbar_firewall">Veri kullanımını kısıtla</string>
     <string name="main_toolbar_purchase">Bakiye yükle</string>
+    <string name="main_toolbar_recharge_record">Şarj kaydı</string>
     <string name="main_toolbar_statistic">Veri kullanım istatistikleri</string>
     <string name="main_traffic_detail">Veri kullanımı</string>
     <string name="make_sure_package_type">Veri türünüzü onaylayın</string>
@@ -2987,7 +3052,7 @@ bekleniyor"</string>
     <string name="mark_time_setting_dialog_title">Numarayı bildir</string>
     <string name="mark_time_text">%d</string>
     <string name="marked_by_user">"Şu şekilde işaretlediniz "</string>
-    <string name="marketSdkVersion">3.2.10</string>
+    <string name="marketSdkVersion">3.2.12</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -3240,6 +3305,7 @@ Cihazınız artık %s daha hızlı"</string>
     <string name="na_main_card_ad_title">Mi fan kartı tanıtımı</string>
     <string name="na_main_card_title_sim">"Kart "</string>
     <string name="na_open_at_once">Aç</string>
+    <string name="na_operator_not_support_correction">Bu operatör ücret ve bakiye sorgulamalarını desteklemiyor</string>
     <string name="na_query_and_correction">Teraziyi kontrol edin ve kalibre edin</string>
     <string name="na_query_and_correction_msg">"Operatörünüze ücretsiz bir mesaj göndererek hesap bakiyenizi ve mobil veri istatistiklerinizi kontrol edebilir ve kalibre edebilirsiniz. Bu mesajlar şifrelenir
 Bakiye sorgulama mesajları mesajlaşmada saklanmaz ve görüntülenmez
@@ -3515,6 +3581,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="open_wlan_title">Bu uygulamanın wifi ağını açıp kapatmasına izin ver</string>
     <string name="operator_location_settings">Taşıyıcıyı ve konumu ayarla</string>
     <string name="operator_location_settings_message">Operatörünüz ve konumunuz tanınamadı. Telefon bakiyesi ve veri kullanımı uyarıları şu anda ayarlanamıyor</string>
+    <string name="operator_name_cbn">Çin Broadnet</string>
     <string name="operator_name_cmcc">Çin Mobil</string>
     <string name="operator_name_mi_mobile">Mi Mobil</string>
     <string name="operator_name_telcom">Çin Telekom</string>
@@ -3557,11 +3624,13 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="optmizingbar_title_clear">Önbelleği temizle</string>
     <string name="optmizingbar_title_security">Güvenlik</string>
     <string name="optmizingbar_title_system">Sistem güvenliği</string>
+    <string name="order_bh_net_error">Ağ yok</string>
     <string name="organization">Kuruluş</string>
     <string name="other">Diğer ayarlar</string>
     <string name="other_exception_summary">İnternet bağlantınız yok</string>
     <string name="other_exception_title">Diğer sorunlar denetleniyor</string>
     <string name="other_milink_connect">Yansıtılamadı. Şuan başka bir özellik yansıtılıyor</string>
+    <string name="other_operator_name_virtual_operator">Diğer sanal taşıyıcılar</string>
     <string name="over_package_reminder_type">Veri planı kullanıldığında</string>
     <string name="package_change_notification_summary">Daha fazla bilgi edinmek için dokunun</string>
     <string name="package_change_notification_title">Veri limitini otomatik olarak ayarla</string>
@@ -3610,6 +3679,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_battery_history_show_imei">İmei:</string>
     <string name="pc_battery_history_total_consumption_title">Toplam güç tüketimi</string>
     <string name="pc_battery_history_usetime_title">Aktif</string>
+    <string name="pc_endurance_calculation">Hesaplanıyor</string>
     <string name="pc_fast_charge_notifi_action_text_off">Durdur</string>
     <string name="pc_fast_charge_notifi_action_text_on">Hızlandır</string>
     <string name="pc_fast_charge_notifi_power_threshold_title">Hatırlatıcılar için pil seviyesini ayarlayın</string>
@@ -4956,6 +5026,10 @@ Kalibrasyon işlemi sırasında MIUI kalibrasyon şablonunu almak amacıyla bir 
     <string name="sim_state_exception_summary">Sim kart durumu Sim kartınızda sorun olabileceğini gösteriyor</string>
     <string name="sip_phone">Sip telefon</string>
     <string name="size_byte">B</string>
+    <string name="size_compat1">%1$d:%2$d</string>
+    <string name="size_compat2">%1$d:%2$d</string>
+    <string name="size_embedded">Paralel pencereler</string>
+    <string name="size_full">Tam ekran</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_kilo_byte">KB</string>
     <string name="size_mega_byte">MB</string>

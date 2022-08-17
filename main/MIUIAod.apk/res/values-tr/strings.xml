@@ -32,7 +32,7 @@
     <string name="accessibility_battery_level_charging">Pil şarj oluyor. Yüzde %d</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="add_custom_image">Özel resim</string>
-    <string name="add_from_album">Galeriden ekle</string>
+    <string name="add_from_local">Fotoğraf seç</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="align_center_horizontally">Yatay ve ortaya hizalanmış</string>
     <string name="align_center_vertically">Yığınlanmış ve ortaya hizalanmış</string>
@@ -269,7 +269,6 @@ EE"</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">C</string>
-    <string name="garbage_count">"%1$s eski örnek var"</string>
     <string name="gradient_vectorpath">gradient_vector_path</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
@@ -289,7 +288,6 @@ EE"</string>
     <string name="line_space">Satır aralığı</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başlangıcı,</string>
-    <string name="memory_leak">Bellek sızıntısı</string>
     <string name="midnight">Gece</string>
     <string name="mini_time">Küçük saat</string>
     <string name="minimalist_clock">Basit saat</string>
@@ -404,7 +402,6 @@ EE"</string>
     <string name="notification_anim_pulse">Nabız</string>
     <string name="notification_anim_rhythm">Ritim</string>
     <string name="notification_anim_star">Yıldız ışığı</string>
-    <string name="notification_channel_alerts">Uyarılar</string>
     <string name="notification_nothing">Hiçbiri</string>
     <string name="notification_screen_on">Kilit ekranı</string>
     <string name="off">Kapalı</string>

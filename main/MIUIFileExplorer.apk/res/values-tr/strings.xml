@@ -976,10 +976,12 @@
     <string name="widget_added_fail_tips">Eklenemedi</string>
     <string name="widget_added_success_content">Ana ekrana %1$s eklendi</string>
     <string name="widget_added_success_tips">Eklendi</string>
+    <string name="widget_choose_document_please">Belge seç</string>
     <string name="widget_choose_file">Dosya eklemek için dokunun</string>
     <string name="widget_choose_fragment_title">Dosya türünü seçin</string>
     <string name="widget_finish">Bitti</string>
-    <string name="wifi_state">Wifi ağı</string>
+    <string name="widget_name">Son görüntülenen dosyalar</string>
+    <string name="wifi_state">Wifi durumu</string>
     <string name="withdraw">Geri al</string>
     <string name="withdraw_consent">İzinleri geri al</string>
     <string name="withdraw_consent_content">Devam ederseniz dosyalar uygulamasının gizlilik politikasına verdiğiniz izinleri geri alırsınız. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki yasa ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. Dosyaların hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından izinleri geri almanız dosyaların hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir</string>

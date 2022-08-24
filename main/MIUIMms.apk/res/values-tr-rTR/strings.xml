@@ -342,6 +342,8 @@ engellenenler listesine eklendi"</string>
     <string name="done">Tamamlandı</string>
     <string name="download">İndir</string>
     <string name="download_later">Şu anda indirilemiyor. Daha sonra tekrar deneyin</string>
+    <string name="download_miui_calendar_detail">Takvim etkinlikleri ve hatırlatıcılar ekleyebilmek için takvim uygulamasını indirin. Şimdi indirilsin mi?</string>
+    <string name="download_miui_calendar_title">Takvimi indir</string>
     <string name="downloading">İndiriliyor</string>
     <string name="downloading_file_can_not_play">Kayıt indirilene kadar bekleyin</string>
     <string name="draft">Taslak</string>
@@ -806,6 +808,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="not_prepare_for_send">Gönderilecek mesaj yok</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="not_support_audio_forward">Sesli mesajlar iletilemiyor</string>
+    <string name="notes_not_found">Önce notlar uygulamasını yükleyin</string>
     <string name="notification_ad_content">%s kullanıcısından bir promosyon mesajı aldınız</string>
     <string name="notification_add_todo">Bana hatırlat</string>
     <string name="notification_add_todo_content">Alış kodu: %s</string>
@@ -813,10 +816,10 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="notification_channel_msg_name">Mesajlar</string>
     <string name="notification_channel_other_description">Diğer bildirimler</string>
     <string name="notification_channel_other_name">Diğer</string>
-    <string name="notification_channel_sim1_description">Sim1 mesajları ile ilgili bildirimler</string>
-    <string name="notification_channel_sim1_name">Sim1 mesajları</string>
-    <string name="notification_channel_sim2_description">Sim2 mesajları ile ilgili bildirimler</string>
-    <string name="notification_channel_sim2_name">Sim2 mesajları</string>
+    <string name="notification_channel_sim1_description">Sim 1 mesajları ile ilgili bildirimler</string>
+    <string name="notification_channel_sim1_name">Sim 1 mesajları</string>
+    <string name="notification_channel_sim2_description">Sim 2 mesajları ile ilgili bildirimler</string>
+    <string name="notification_channel_sim2_name">Sim 2 mesajları</string>
     <string name="notification_copy">"OTP'yi kopyala"</string>
     <string name="notification_delete">Sil</string>
     <string name="notification_failed_multiple">%s mesaj gönderilemedi</string>
@@ -1348,6 +1351,7 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="solar_term_white_dews">Çiğ</string>
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
+    <string name="soundrecorder_not_found">Önce kaydediciyi yükleyin</string>
     <string name="sp_category_all">Tüm servis mesajları</string>
     <string name="sp_category_bank">Banka bilgi mesajları</string>
     <string name="sp_category_title_prefix">%s</string>

@@ -287,6 +287,7 @@
     <string name="clip_board_history_desc">Kopyalanan veya kesilen içerik</string>
     <string name="clipboard">Pano</string>
     <string name="close">Kapat</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="confirm_auto_cleaner">Tamam</string>
     <string name="conn_of_function_safe">Güvenlik uygulaması ağ bağlantısı</string>
     <string name="connecting">Bağlanılıyor</string>
@@ -355,6 +356,7 @@
     <string name="deepclean_video_content">İzlemiş olduğunuz veya gereksiz videoları sil</string>
     <string name="deepclean_video_summary_empty">Her şey yolunda gözüküyor</string>
     <string name="default_cache_type">Veri dosyaları</string>
+    <string name="default_web_client_id">150058839225-s58k8vkr0bf0mfjqlnuerm6a91h1r7ef.apps.googleusercontent.com</string>
     <string name="delete_confirm">Sil</string>
     <string name="delete_confirm_msg">Tüm dosyalar kalıcı olarak silinsin mi?</string>
     <string name="delete_slected_data">Sıfırla</string>
@@ -506,6 +508,7 @@
     <string name="garbage_month">Bu ay %s temizlendi</string>
     <string name="gb_global_icon_ad_card_btn">Al</string>
     <string name="gb_global_icon_ad_card_title">Sizin için önerildi</string>
+    <string name="gcm_defaultSenderId">150058839225</string>
     <string name="gigabyteShort">GB</string>
     <string name="global_wa_audio">Ses</string>
     <string name="global_wa_audio_item_title">Sesli mesaj</string>
@@ -560,6 +563,10 @@
     <string name="global_wa_wrapper">Duvar kağıtları</string>
     <string name="go_to">Devam et</string>
     <string name="golbal_wa_backend_alert_dialog_btn">Aç</string>
+    <string name="google_api_key">AIzaSyD6s0NACwbSMWLXXSzcQ01ONWpktGWSVg8</string>
+    <string name="google_app_id">1:150058839225:android:abe7c366d0100605ccbf68</string>
+    <string name="google_crash_reporting_api_key">AIzaSyD6s0NACwbSMWLXXSzcQ01ONWpktGWSVg8</string>
+    <string name="google_storage_bucket">cleaner-e8b97.appspot.com</string>
     <string name="goto_set">Ayarla</string>
     <string name="grabage_rank_title">Bugün temizlendi</string>
     <string name="guide_dc_dialog_message">"2GB'tan daha az boş depolama alanı kaldı. Bu cihazınızı yavaşlatabilir. Depolama alanını boşaltmak için derinlemesine temizlik yapın"</string>
@@ -747,7 +754,6 @@
     <string name="mainbtn_text_no_trash">Atla</string>
     <string name="mainbtn_text_quick_cleanup">Temizle: %s</string>
     <string name="mainbtn_text_quick_cleanup_default">Temizle</string>
-    <string name="manual_item_create_icon_title">Ana ekran kısayolu</string>
     <string name="marketSdkVersion">3.2.19</string>
     <string name="megabyteShort">MB</string>
     <string name="memeory_check_content">%1$d uygulama | %2$s alan</string>
@@ -1030,6 +1036,7 @@
     <string name="privacy_format">https://privacy.mi.com/all/%1$s_%2$s</string>
     <string name="privacy_search_desc">Arama geçmişi</string>
     <string name="privacy_search_type">Google arama</string>
+    <string name="project_id">cleaner-e8b97</string>
     <string name="promotion">Reklam</string>
     <string name="qq_clean">QQ temizleyici</string>
     <string name="qq_clean_exit_confirm_msg">Taramayı şimdi durdurup çıkış yapmak ister misin?</string>

@@ -1345,7 +1345,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="home_game_channel">Alt çubuk oyun kısayolu</string>
     <string name="home_list_item_click">Ana liste öğesi tıklaması</string>
     <string name="home_nf">İçerik akışı</string>
-    <string name="home_nf_recommend_on">Sizin için önerilen</string>
+    <string name="home_nf_recommend_on">İçerik akışı</string>
     <string name="homepage_base">https://www.google.com/webhp?client={CID}&amp;source=android-home</string>
     <string name="homepage_delete_card_menu">Sil</string>
     <string name="homepage_get_location">Konumu al</string>

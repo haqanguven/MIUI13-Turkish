@@ -168,6 +168,7 @@
     <string name="cloud_trash_bin_title">Mi buluttaki notları sil</string>
     <string name="confirm_cancel">Reddet</string>
     <string name="confirm_ok">Kabul et</string>
+    <string name="content_preview_ratio">1:1</string>
     <string name="continuous_default_hint">Metni kopyalayın, resimleri ve ekran görüntülerini alıntı olarak kaydedin</string>
     <string name="continuous_new_excerpt_title">Yeni alıntı</string>
     <string name="copy">Kopyala</string>
@@ -683,9 +684,11 @@
     <string name="note_mindnote_entrance_hint_newversion">"Yazmaya başlayın "</string>
     <string name="note_mindnote_entrance_icon_text">Bir zihin haritası oluşturun</string>
     <string name="note_mindnote_entrance_icon_text_newversion">Bir zihin haritası oluşturun</string>
+    <string name="note_mindnote_not_support_in_phone_model">Bu cihazda zihin haritaları düzenlenemiyor</string>
     <string name="note_module_name">Notlar</string>
     <string name="note_not_text_stub">Metin yok</string>
-    <string name="note_sort_way">Notları sırala</string>
+    <string name="note_sort_way">Sırala</string>
+    <string name="note_write_hint">Yazmaya başla</string>
     <string name="notealert_enter">Notu aç</string>
     <string name="notealert_ok">Yoksay</string>
     <string name="notelist_string_info">…</string>
@@ -797,6 +800,7 @@
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="quick_note_link_default_text">Bağlantı</string>
     <string name="quick_note_new_user_guide">Hızlı notlar, not ve alıntı oluşturmanızı sağlar</string>
+    <string name="recognition_failure">Başarısız oldu</string>
     <string name="recover_notes_hint">Bir hata oluştu. Notları geri yüklemek için i.mi.com adresine gidin</string>
     <string name="redo">İleri al</string>
     <string name="refuse_to_open_as_pic_because_of_loading">Not yüklenene kadar bekleyin ve tekrar deneyin</string>
@@ -859,7 +863,6 @@
     <string name="search_setting_description">Notlarınız içerisinde metin araması yapın</string>
     <string name="search_title_notes">@string/app_name</string>
     <string name="select_account_prompt">Notları senkronize et</string>
-    <string name="select_up_limit_toast">En fazla %d öğe seçin</string>
     <string name="send">Gönder</string>
     <string name="set_alarm_description">Alarm kur</string>
     <string name="setting_big_screen_layout_columns">Kenar çubuğu</string>

@@ -618,17 +618,17 @@ Mi dolaşımın normal şekilde çalışması için internete bağlanması ve ko
     <string name="device_other_title">Diğer telefonlardan içe aktar</string>
     <string name="device_paired_dialog_message">Kişiler alınıyor</string>
     <string name="device_pairing_dialog_message">Eşleştiriliyor</string>
-    <string name="device_transfer_by_bluetooth_message">"1. Diğer cihazda Bluetooth'u açın
+    <string name="device_transfer_by_bluetooth_message">"%1$d. Diğer cihazda Bluetooth'u açın
 
-- Bluetooth Android cihazlarında ağ ayarları menüsünde bulunabilir
-- iOS cihazlarında Bluetooth ayarlar menüsündedir
+- Bluetooth Android cihazlarda ağ ayarlarında bulunabilir
+- iOS cihazlarda Bluetooth ayarlarındadır
 
-2. Android cihazlarında ayrıca bulunabilirlik modu açık olmalıdır
+%2$d. Keşfedilebilir mod Android cihazlarda da açılmalıdır
 
-3. İleri seçeneğine dokunduktan sonra kişilere gerekli izinleri verin"</string>
-    <string name="device_transfer_by_sim_message" formatted="false">"%d. Kişileri Sim karttaki diğer cihazdan kaydedin;
+%3$d. İleriye dokunun ve kişilere gerekli izinleri verin"</string>
+    <string name="device_transfer_by_sim_message">"%1$d. Diğer cihazdaki kişileri Sim karta kaydedin
 
-%d. Kişiler uygulamasında ayarları açın ve ardından Kişileri içe veya dışa aktar - Sim karttan içe aktar seçeneğine gidin. Seçmek için herhangi bir Sim kişisini basılı tutun gerekli tüm kişileri seçin ve içe aktarın"</string>
+%2$d. Kişiler uygulamasında ayarları açın ve ardından kişileri içe veya dışa aktar seçeneğinden Sİm karttan içe aktar seçeneğine gidin. Herhangi bir Sim kişisini seçmek için basılı tutun, gerekli tüm kişileri seçin ve içe aktar seçeneğine dokunun"</string>
     <string name="device_version_header_bluetooth">Bluetooth ile içe aktar</string>
     <string name="device_version_header_no_bluetooth">Sim kart ile içe aktar</string>
     <string name="dialerIconLabel">Son kullanılanlar</string>
@@ -717,7 +717,7 @@ Neden: %s"</string>
     <string name="exporting_vcard_finished_title">%s dosyasının dışa aktarım işlemi tamamlandı</string>
     <string name="external_profile_title">%1$s profilim</string>
     <string name="fail_reason_could_not_initialize_exporter">Dışa aktarım işlemi başlatılamadı: %s</string>
-    <string name="fail_reason_could_not_open_file" formatted="false">%s dosyası açılamadı: %s</string>
+    <string name="fail_reason_could_not_open_file">"%s dosyası açılamadı: %s</string>
     <string name="fail_reason_error_occurred_during_export">Dışa aktarım sırasında bir hata meydana geldi: %s</string>
     <string name="fail_reason_io_error">I/O hatası</string>
     <string name="fail_reason_low_memory_during_import">Yeteri kadar hafıza yok. Dosya boyutu çok büyük olabilir</string>
@@ -1177,6 +1177,9 @@ Neden: %s"</string>
     <string name="preference_smart_group_title">Akıllı gruplar</string>
     <string name="preference_tone_title">Tonlar</string>
     <string name="preference_yellowpage_function_setting">Sarı sayfa ayarları</string>
+    <string name="presentation_payphone">Ankesörlü telefon</string>
+    <string name="presentation_private">Gizli numara</string>
+    <string name="presentation_unknown">Bilinmeyen numara</string>
     <string name="previous">Önceki</string>
     <string name="privacy_password_message1">Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır.</string>
     <string name="privacy_password_message2">Gizlilik koruma şifresi kullanın. Gizlilik koruma şifresi uygulamalar, fotoğraflar, notlar ve gizli dosyalar için çalışır.</string>
@@ -1435,9 +1438,9 @@ Başlamak için ekranınızın altındaki birleştir simgesine dokunun"</string>
     <string name="t9_search_empty_send_sms">Mesaj gönder</string>
     <string name="t9_search_empty_video_call">Görüntülü arama</string>
     <string name="t9_search_guide_pinyin_title1">Kişileri bulmak için rakam girin</string>
-    <string name="t9_search_guide_pinyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"\"üven'i aramak için %d ve %d girin\""</string>
-    <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için rakam girin</string>
-    <string name="t9_search_guide_zhuyin_title2" formatted="false"><font fgcolor="">H</font>akan <font fgcolor="">G</font>"\"üven'i aramak için %d ve %d girin\""</string>
+    <string name="t9_search_guide_pinyin_title2" formatted="false">"Hakan GÜVEN'i aramak için %d ve %d girin"</string>
+    <string name="t9_search_guide_zhuyin_title1">Kişileri bulmak için numaraları girin</string>
+    <string name="t9_search_guide_zhuyin_title2" formatted="false">"Hakan GÜVEN'i aramak için %d ve %d girin"</string>
     <string name="take_new_photo">Yeni fotoğraf çek</string>
     <string name="take_photo">Fotoğraf çek</string>
     <string name="text_msim_balance">Bugün kullanıldı</string>
@@ -1548,6 +1551,7 @@ Lütfen ilgili seçeneklerden birini seçin:"</string>
     <string name="video_chat">Görüntülü sohbet</string>
     <string name="viewContactDesription">Kişiyi görüntüle</string>
     <string name="viewContactTitle">Kişi detayları</string>
+    <string name="view_more_call_logs">Daha fazla göster</string>
     <string name="view_updates_from_group">Güncellemeleri görüntüle</string>
     <string name="voicemail">Sesli mesaj</string>
     <string name="websiteLabelsGroup">İnternet sitesi</string>

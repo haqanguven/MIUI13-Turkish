@@ -70,6 +70,7 @@
     <string name="already_latest_version">Güncel</string>
     <string name="already_newest_version">Mevcut sürüm güncel</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="anonymous_resource_link_error">Eklenemedi</string>
     <string name="anonymous_resource_link_hint">Bazı öğeler hesabınıza eklenmedi. Şimdi eklensin mi?</string>
     <string name="anonymous_resource_link_now">Ekle</string>
@@ -93,6 +94,7 @@
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="application_list_permission_desc">Şeffaf duvar kağıtları ile uyumlu uygulamaları göstermek içindir</string>
     <string name="application_notify_title">Dikkat</string>
+    <string name="apply_4k_video_wallpaper_warning">4K ve 8K videolar video duvar kağıtları olarak kullanılamaz</string>
     <string name="apply_choosen_type_resource">Seçili öğeleri uygula</string>
     <string name="apply_default_font_tip">Sistem geçerli yazı tipi kullanılmaya devam edilsin mi?</string>
     <string name="apply_failed">Uygulanamadı</string>
@@ -1087,6 +1089,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="purchased">Siparişler</string>
     <string name="read_and_agree_account_privacy">\"Mi hesabı <a href="%3$s"><font color="#37A5FF">Kullanıcı sözleşmesi ve <a href="%4$s"><font color="#37A5FF">Gizlilik politikasını okuyun kabul edin\"</font></a></font></a></string>
     <string name="recently_used">Son kullanılanlar</string>
+    <string name="recommend_bottom_tips">En altta</string>
     <string name="recommend_trigger">Kişiselleştirilmiş öneriler</string>
     <string name="recommend_trigger_summary">Tercihlerinize göre öneriler almak için açın</string>
     <string name="refresh_footer_all_loaded">Şimdilik hepsi bu kadar</string>

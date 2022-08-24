@@ -27,6 +27,7 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
+    <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="add_remark_hint">Yorumunuzu buraya girin</string>
     <string name="add_remark_tip">Açıklama eklemek için dokunun</string>
@@ -157,6 +158,8 @@
     <string name="dialog_privacy_revoke_tips">Yetkilendirmeyi kaldırdıktan sonra uygulama veri toplamayı durduracak ve tüm ilgili veriler sunuculardan silinecektir. Bu durum uygulamayı fiilen kullanılamaz hale getirebilir. Yetki yine de kaldırılsın mı? Hesap güvenliğinizi garanti altına almak için Xiaomi bulut hizmetleri için yetkilendirmeyi kaldırmadan önce i.mi.com adresinde oturum açın</string>
     <string name="dialog_title_storage_full">Yeterli boş alan yok</string>
     <string name="download">İndir</string>
+    <string name="download_pause">İndirme duraklatıldı. Devam etmek için dokunun</string>
+    <string name="downloading">İndiriliyor. Duraklatmak için dokunun</string>
     <string name="duration_format_hour">%s saat</string>
     <string name="duration_format_minute">%s dakika</string>
     <string name="duration_format_second">%s saniye</string>
@@ -303,6 +306,15 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="korea_permission_record_resc">Ses kaydetmek için</string>
     <string name="korea_permission_storage">Depolama</string>
     <string name="korea_permission_storage_desc">Kayıtları saklamak için</string>
+    <string name="library_android_database_sqlcipher_author">Zetetic, LLC</string>
+    <string name="library_android_database_sqlcipher_authorWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_isOpenSource">true</string>
+    <string name="library_android_database_sqlcipher_libraryDescription">"SQLCipher tabanlı Android SQLite API'si"</string>
+    <string name="library_android_database_sqlcipher_libraryName">Android için SQLCipher</string>
+    <string name="library_android_database_sqlcipher_libraryVersion">${clientVersionNumber}</string>
+    <string name="library_android_database_sqlcipher_libraryWebsite">https://www.zetetic.net/sqlcipher/</string>
+    <string name="library_android_database_sqlcipher_licenseLink">https://www.zetetic.net/sqlcipher/license/</string>
+    <string name="library_android_database_sqlcipher_repositoryLink">https://github.com/sqlcipher/android-database-sqlcipher</string>
     <string name="loading_more">Yükleniyor</string>
     <string name="loading_order_list">Yükleniyor</string>
     <string name="loading_order_list_empty">Burada sipariş yok</string>
@@ -313,7 +325,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="lyric_item_point_count">%1$d - %2$d</string>
     <string name="manage_external_storage">Tüm dosyalara erişin</string>
     <string name="mark_point_list_title">İşaretler</string>
-    <string name="marketSdkVersion">3.2.9</string>
+    <string name="marketSdkVersion">3.2.12</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">ÖÖ veya ÖS seçin</string>
     <string name="material_hour_selection">Saat seçin</string>
@@ -445,6 +457,8 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="mtrl_picker_toggle_to_day_selection">Bir gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
+    <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
+    <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
     <string name="network_tip_dialog_cancel">Reddet</string>
     <string name="network_tip_dialog_content">Kaydedici düzgün çalışabilmek için internet bağlantısına ihtiyaç duyar. Kabul ediyor musunuz?</string>
     <string name="network_tip_dialog_ok">Kabul et</string>
@@ -548,6 +562,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="privacy_policy_title">Gizlilik politikası</string>
     <string name="privacy_settings">Gizlilik</string>
     <string name="progress">Oynatma ilerleme çubuğu</string>
+    <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
     <string name="recognition_button_add_to_queue">Sıraya ekle</string>
     <string name="recognition_button_cancel">Şimdi değil</string>
     <string name="recognition_button_start">Deşifre et</string>
@@ -742,6 +757,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="sunday_short">Pazar</string>
     <string name="sunday_shortest">P</string>
     <string name="sync_desc_state_complete">Bulutla senkronize edildi: %1$s</string>
+    <string name="system_error_info">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="tab_all">Tümü</string>
     <string name="tab_apps">Uygulamalar</string>
     <string name="tab_call">Aramalar</string>
@@ -824,7 +840,8 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
     <string name="uninstall_warning_content">Ses kaydedici bir sistem uygulamasıdır. Kaldırdıktan sonra sesli ve sesli aramaları kaydedemez ve yazıya dökemezsiniz</string>
-    <string name="uninstall_warning_title">Ses kaydedici Kaldırılsın mı?</string>
+    <string name="uninstall_warning_title">Ses kaydedici kaldırılsın mı?</string>
+    <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="usage_description">Sesin kopyalanması ve öğelerin bulut ile senkronize edilmesi</string>
     <string name="user_feedback">Geri bildirim</string>
     <string name="v7_preference_off">Kapalı</string>

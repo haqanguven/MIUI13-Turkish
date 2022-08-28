@@ -3155,8 +3155,8 @@ Bu durum sürekli meydana geliyorsa pil performansını iyileştirmek için uygu
     <string name="domain_urls_title">Bağlantıları açma</string>
     <string name="done">Bitti</string>
     <string name="done_button">Tamam</string>
-    <string name="double_click_power_key">Güç tuşuna çift bas</string>
-    <string name="double_click_volume_down_when_lock">Ekran kilitliyken sesi kısma tuşuna iki kez basın</string>
+    <string name="double_click_power_key">Güç tuşuna çift basın</string>
+    <string name="double_click_volume_down_when_lock">Ekran kilitliyken ses kısma tuşuna iki kez basın</string>
     <string name="double_connect">Çift bağlantı</string>
     <string name="double_connect_summary">İki cihaza bağlanmak için</string>
     <string name="double_g_v">"G ve V'yi çoğalt"</string>

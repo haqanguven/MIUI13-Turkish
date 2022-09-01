@@ -259,7 +259,6 @@
     <string name="bind_simcard_title">Aramalar için varsayılan Sim</string>
     <string name="bluetooth_connection_failed_toast">Bluetooth bağlantısı kesildi</string>
     <string name="blurbJoinContactDataWith">%s adlı kişi ile birleştirmek istediğiniz kişiyi seçin:</string>
-    <string name="btn_call_fuhao_txt">Sub</string>
     <string name="btn_split_contact">Ayır</string>
     <string name="button_cancel_scan">Durdur</string>
     <string name="button_scan">Yeniden tara</string>
@@ -365,6 +364,7 @@
     <string name="callrecordview_menu_show_missed">Cevapsız aramalar</string>
     <string name="callrecordview_menu_show_sim">%s arama</string>
     <string name="callrecordview_menu_show_stranger">Bilinmeyen numaralardan gelen aramalar</string>
+    <string name="callrecordview_menu_xiaoaiphone">Mi AI arama asistanı</string>
     <string name="cancel">İptal et</string>
     <string name="cancel_confirmation_dialog_message">Değişiklikler yoksayılsın mı?</string>
     <string name="cancel_confirmation_dialog_title">İptal et</string>
@@ -587,7 +587,6 @@ Mi dolaşımın normal şekilde çalışması için internete bağlanması ve ko
     <string name="description_image_button_eight">sekiz</string>
     <string name="description_image_button_five">beş</string>
     <string name="description_image_button_four">dört</string>
-    <string name="description_image_button_fuhao_named_dial">Sub ara</string>
     <string name="description_image_button_nine">dokuz</string>
     <string name="description_image_button_one">bir</string>
     <string name="description_image_button_plus">Artı</string>
@@ -819,11 +818,6 @@ Neden: %s"</string>
     <string name="heavenly_stems_wu">5</string>
     <string name="heavenly_stems_xin">8</string>
     <string name="heavenly_stems_yi">2</string>
-    <string name="heduohao_fuhao_call_menu_title">Sub %d üzerinden ara</string>
-    <string name="heduohao_fuhao_order">Sub %d</string>
-    <string name="heduohao_label">HeDuoHao</string>
-    <string name="heduohao_main_call_menu_title">Ana hattan ara</string>
-    <string name="heduohao_popup_txt">Sub %d</string>
     <string name="hide_app_description_content">Kişiler bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra yelefon uygulaması aracılığıyla kullanmaya devam edebilirsiniz</string>
     <string name="hide_app_description_title">Kişiler ana ekrandan kaldırılsın mı?</string>
     <string name="hint_distance" />

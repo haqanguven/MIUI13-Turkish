@@ -3941,8 +3941,8 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_center_list_item_wake_notification_summary">Gelen bildirimler yalnızca ekranı açtığınızda görüntülenecektir</string>
     <string name="power_center_main_percent_formatted">%%%s</string>
     <string name="power_center_night_charge_noti_subtitle">Pil %s tarafından tamamen şarj edilecek</string>
-    <string name="power_center_night_charge_noti_title">Optimize edilmiş şarj açık</string>
-    <string name="power_center_night_charge_protection">Optimize edilmiş şarj</string>
+    <string name="power_center_night_charge_noti_title">Şarjı optimize et açık</string>
+    <string name="power_center_night_charge_protection">Şarjı optimize et</string>
     <string name="power_center_night_charge_protection_setting">Güvenlik > Pil bölümünde daha fazla seçenek görüntüleyin</string>
     <string name="power_center_night_charge_protection_summary">Pilin eskimesini azaltmak için MIUI günlük şarj rutininizden öğrenir</string>
     <string name="power_center_one_key_save">Optimize et</string>

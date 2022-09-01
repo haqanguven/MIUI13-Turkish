@@ -66,6 +66,7 @@
     <string name="australian_magpie">Avustralya saksağanı</string>
     <string name="authorization_btn_text">Başlat</string>
     <string name="authorization_tips">Gerekli izinler</string>
+    <string name="avalible_per_day">Oturum süresi</string>
     <string name="baboon_info">Zeytuni babun her bireyin egemenliğine bağlı olarak gelişmiş sosyal sıralamaya sahip gruplar halinde yaşar</string>
     <string name="back">Geri</string>
     <string name="bear_info">Ayılar en büyük kara etoburlarıdır. Soğuk bölgelerde yaşarlar ve keskin koku alma duyularıyla bilinirler</string>
@@ -115,7 +116,10 @@
     <string name="canada_goose">Kanada kazı</string>
     <string name="capybara">Kapibara</string>
     <string name="capybara_info">Capybaras are semiaquatic herbivore rodents who can hold their breath underwater for up to five minutes at a time.</string>
-    <string name="category_other">Diğer sınıflandırma</string>
+    <string name="category_limit_notify_title">Ekran süresi uyarısı</string>
+    <string name="category_list_expand">Daha fazla</string>
+    <string name="category_list_packup">Gizle</string>
+    <string name="category_other">Diğer</string>
     <string name="chacma_baboon">Chacma baboon</string>
     <string name="cheetah">Çita</string>
     <string name="cheetah_info">Çitalar esnek ve karmaşık bir sosyal yapıya sahip en hızlı kara hayvanlarıdır</string>
@@ -197,8 +201,10 @@
     <string name="color_gamut">Renk aralığı</string>
     <string name="common_brushtail">Brushtail keseli sıçan</string>
     <string name="common_ostrich">Devekuşu</string>
+    <string name="compulsor_tip">Ana ekran</string>
     <string name="contact_description">Arama yapmak için ana ekran kısayollarına dokunun</string>
     <string name="contact_title">Kişi kısayolları</string>
+    <string name="continue_time">Oturum süresi</string>
     <string name="contrast_ratio">Kontrast</string>
     <string name="control_center_title">Bugünlük ekran süresi</string>
     <string name="control_center_title_new">Bugün kullanıldı</string>
@@ -233,6 +239,8 @@
     <string name="desktop_widget_not_support">"Ekran süresi istatistikleri
 ikinci alanda oluşturulmaz"</string>
     <string name="desktop_widget_screen_use_time">Ekran süresi</string>
+    <string name="device_limit_enable">Açık</string>
+    <string name="device_limit_un_enable">Kapalı</string>
     <string name="display_description">Daha büyük simgeler, geniş metin ve daha az görsel karmaşa</string>
     <string name="display_title">Daha büyük öğeler</string>
     <string name="door_amin_assert">image_door</string>
@@ -380,6 +388,9 @@ ikinci alanda oluşturulmaz"</string>
     <string name="focus_mode_timer_pick_dialog_title">Süreyi girin</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
+    <string name="force_rest">Oturum aralarını kullanın</string>
+    <string name="force_rest_summary">Oturumlar belirlenen sınıra ulaştığında zorunlu molalar verin</string>
+    <string name="force_rest_time">Mola süresi</string>
     <string name="fps_high">Yüksek</string>
     <string name="fps_nature_summary">Yüksek yenileme hızı her şeyi canlı ve net tutar</string>
     <string name="fps_nature_title">Yüksek</string>
@@ -412,6 +423,16 @@ ikinci alanda oluşturulmaz"</string>
     <string name="green_peafowl">Yeşil tavus kuşu</string>
     <string name="green_warbler_finch">Yeşil ötleğen ispinozu</string>
     <string name="grey_headed_flying_fox">Gri başlı uçan tilki</string>
+    <string name="guard_item_app_summary">Uygulamaları uzaktan kaldırın</string>
+    <string name="guard_item_app_title">Uygulamaları yönet</string>
+    <string name="guard_item_browser_summary">Uygulamalara ve içeriğe erişimi kontrol edin</string>
+    <string name="guard_item_browser_title">Kısıtlamalar</string>
+    <string name="guard_item_call_summary">Belirli kişilerin arama yapmasına izin ver</string>
+    <string name="guard_item_call_title">Haberleşme</string>
+    <string name="guard_item_eye_protect_summary">Duruş izleme</string>
+    <string name="guard_item_eye_protect_title">Göz rahatlığı</string>
+    <string name="guard_range_from">From</string>
+    <string name="guard_range_to">To</string>
     <string name="harp_seal">Arp mührü</string>
     <string name="harpy_eagle">Harpy kartal</string>
     <string name="has_applied">Uygulandı</string>
@@ -430,10 +451,12 @@ ikinci alanda oluşturulmaz"</string>
     <string name="high_fps_description">Yüksek ekran yenileme hızı. Daha yüksek güç tüketimi</string>
     <string name="high_fps_tip_footer">Daha yüksek yenileme hızlarının kullanılması görüntüleme deneyimini daha sorunsuz hale getirir ancak daha fazla güç tüketir</string>
     <string name="hippopotamus">Hippo</string>
+    <string name="holiday_limit">İzin günleri</string>
     <string name="hsv_space_color">HSV renk alanı</string>
     <string name="hsv_space_color_hue">Renk</string>
     <string name="hsv_space_color_saturation">Doygunluk</string>
     <string name="hsv_space_color_value">Değer</string>
+    <string name="in_forbidden_period">Kullanım artık kısıtlandı</string>
     <string name="intelligent_radio_btn_summary">Performansı güç tüketimiyle dengelemek için senaryolara göre yenileme hızını dinamik olarak ayarlayın</string>
     <string name="intelligent_radio_btn_title">Otomatik (Önerilir)</string>
     <string name="intelligent_recognition_item_summary">Servis sağlayıcılar tarafından yapılan aramaları tanımlayın ve onlar için ayrı zil sesleri kullanın</string>
@@ -474,6 +497,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="less_than_one">&lt; %d</string>
     <string name="lion">Lion</string>
     <string name="lion_info">Aslanlar sert ve güçlü avcılardır. Gruplar halinde yaşarlar ve güçlü bir bölge duyguları vardır</string>
+    <string name="loading_error">Öğeler yüklenemedi</string>
     <string name="lock_summary">Kişisel bilgilerinizi korumaya alın</string>
     <string name="long_tai1ed_iaeger">Uzun kuyruklu jaeger</string>
     <string name="low_flicker_mode">Düşük ışık</string>
@@ -576,6 +600,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="nature_mix_summary">Özel bir karışım oluşturun</string>
     <string name="nazca_booby">Nazca bubi</string>
     <string name="network_error">Bir ağ hatası oluştu. Tekrar deneyin</string>
+    <string name="next_day">"(Ertesi gün) "</string>
     <string name="night">ÖS</string>
     <string name="nine_banded_armadillo">Armadillo</string>
     <string name="no_matching">Eşleşen program yok</string>
@@ -713,6 +738,8 @@ ikinci alanda oluşturulmaz"</string>
     <string name="steady_on_screen_notification_title">Telefonunuzu bırakın ve bir mola verin</string>
     <string name="steady_on_screen_notification_title_pad">Cihazınızı bırakın ve bir mola verin</string>
     <string name="steady_on_screen_notify">Kesintisiz kullanım bildirimi</string>
+    <string name="steady_on_screen_notify_new">Ara ver</string>
+    <string name="steady_on_screen_ntf_msg">Tüm özellikler %1$s içinde tekrar kullanılabilir olacak</string>
     <string name="steady_on_screen_setting">Kesintisiz oturumlar için zaman sınırı</string>
     <string name="steady_on_screen_summary">Kesintisiz oturumlar için zaman sınırı</string>
     <string name="stop_app_timer">Ekran süresini kapat</string>
@@ -773,6 +800,12 @@ ikinci alanda oluşturulmaz"</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
+    <string name="time_over_back_home">Ana ekran</string>
+    <string name="time_over_delayed_use">Yoksay</string>
+    <string name="time_over_not_delayed_use">Tamam</string>
+    <string name="time_over_today">"Bugün için daha fazla
+zaman kalmadı"</string>
+    <string name="time_over_today_use">"Bugünkü seanslar: "</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
@@ -801,6 +834,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="tuesday_shortest">S</string>
     <string name="two_toed_sloths">İki parmaklı tembel hayvan</string>
     <string name="two_toed_sloths_info">İki parmaklı tembel hayvanlar yağmur ormanlarının kanopilerinde ağaçtan ağaca kolaylıkla seyahat edebilir</string>
+    <string name="unavailable_per_day">Molalar</string>
     <string name="unlock_times_per_day">"Günlük ortalama: "</string>
     <string name="unlock_times_per_hour">"Her saat kilit açma:  "</string>
     <string name="usage_agree">Kabul et</string>
@@ -836,8 +870,10 @@ ikinci alanda oluşturulmaz"</string>
     <string name="usage_device_limit_app_prolong_time3">60 dakika ekle</string>
     <string name="usage_device_limit_app_prolong_time4">Bugün sınırlandırma</string>
     <string name="usage_device_limit_app_prolong_time5">Bir kez zaman ekleyin</string>
+    <string name="usage_device_limit_forbidden_period">Kullanım %1$s ile %2$s arasında sınırlandırılmıştır</string>
     <string name="usage_device_limit_notifation_summary_start">%1$s içinde limitinize ulaşacaksınız</string>
     <string name="usage_device_limit_notifation_title">Bugün kalan süre</string>
+    <string name="usage_device_limit_start_forbidden_period">Kullanım %1$s ile %2$s arasında kısıtlanacak (%3$s kaldı)</string>
     <string name="usage_device_limit_time_over">Bugünün limitine ulaştınız (%1$s)</string>
     <string name="usage_exit">Çıkış</string>
     <string name="usage_focus_focus_premission_main_summary">Bu uygulamanın odak modu kullanımı istatistiklerini kaydetmek için hesap bilgilerinize erişmesi gerekir</string>
@@ -869,6 +905,8 @@ Temel hizmetler sağlamak için internete bağlanmanız ve gerekli kişisel bilg
     <string name="usage_home_premission_second_summary_double_link_prefix">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız. Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı vede yüklemeyi kabul etmezseniz bu uygulamayı kullanamazsınız. Yetkilendirmenizi Ekran süresi > Ayarlar > Ekran saatini kapat seçeneklerinden iptal edebilirsiniz</string>
     <string name="usage_home_premission_second_summary_double_link_suffix" formatted="false">Bu uygulamayı kullanmadan önce <a href="'%1s'">Kullanıcı sözleşmesi</a> ve <a href="'%2s'">Gizlilik politikasını</a> okuyun ve kabul edin</string>
     <string name="usage_home_premission_second_summary_new">Kişisel bilgilerinizi korumak için ilgili yasa ve yönetmeliklere ve gizlilik politikalarına kesinlikle uyacağız. Yukarıdaki gerekli izinleri veya işlevleri kabul etmiyorsanız bu uygulama düzgün çalışmayacaktır. Ekran zaman yönetimi > Ayarlar > Ekran zaman yönetimini devre dışı bırakma izninizi veya gizlilikle ilgili diğer hususları geri almak için bizimle privacy@xiaomi.com adresinden iletişime geçebilirsiniz</string>
+    <string name="usage_new_category_limit_summary">Bu kategorideki tüm uygulamalar için günlük kullanım limitleri belirleyin</string>
+    <string name="usage_new_category_limit_title">Uygulama kategorisi için kullanımı kısıtla</string>
     <string name="usage_new_home_app_limit_summary">Bu uygulama için günlük bir ekran süresi sınırı belirleyin</string>
     <string name="usage_new_home_app_limit_title">Ekran süresini sınırla</string>
     <string name="usage_new_home_average">"Ortalama "</string>
@@ -1093,6 +1131,7 @@ Bu uygulama normal çalışabilmek için internete bağlanmaya ve aşağıdaki i
     <string name="willow_grouse_info">Söğüt sürüsü yaşamının büyük bir kısmında otçul olup, öncelikle subalpin ve subarktik habitatları işgal eder</string>
     <string name="wolf">Kurt</string>
     <string name="wombat">Wombat</string>
+    <string name="workday_limit">İş günleri</string>
     <string name="yellow_necked_spurfowl">Sarı boyunlu mahmuz kuşu</string>
     <string name="yellow_throated_marten">Sarı boğazlı sansar</string>
     <string name="yesterday">Dün</string>

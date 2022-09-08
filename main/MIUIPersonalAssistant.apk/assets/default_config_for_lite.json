@@ -1,26 +1,5 @@
 [
   {
-    "providerName": "com.miui.personalassistant.service.shortcut.widget.shortcut.MediumShortcutWidgetProvider",
-    "spanX": 4,
-    "spanY": 2,
-    "serviceKey": "shortcut_suggest",
-    "implUniqueCode": "wd_0220210814140015020548"
-  },
-  {
-    "productId": "b8006e83-c497-4642-9815-f674b82842b0",
-    "title": "Hava durumu",
-    "appName": "Hava durumu",
-    "maMlTag":"Bağla",
-    "resource": "maml_weather_2x2.zip",
-    "spanX": 2,[
-  {
-    "providerName": "com.miui.personalassistant.service.shortcut.widget.shortcut.MediumShortcutWidgetProvider",
-    "spanX": 4,
-    "spanY": 2,
-    "serviceKey": "shortcut_suggest",
-    "implUniqueCode": "wd_0220210814140015020548"
-  },
-  {
     "productId": "b8006e83-c497-4642-9815-f674b82842b0",
     "title": "Hava durumu",
     "appName": "Hava durumu",
@@ -44,16 +23,5 @@
     "spanX": 2,
     "spanY": 2,
     "serviceKey": "security"
-  },
-  {
-    "productId": "a71db3f8-fc64-428c-8a80-5d11cf75be09",
-    "title": "Tek tıkla hızlandır",
-    "appName": "Telefon koruyucusu",
-    "maMlTag":"Bağla",
-    "resource": "maml_memory_2x2.zip",
-    "spanX": 2,
-    "spanY": 2,
-    "serviceKey": "memory",
-    "implUniqueCode": "ma_0220210813165006010970"
   }
 ]

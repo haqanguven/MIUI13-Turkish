@@ -88,6 +88,7 @@
     <string name="all_apps_setting_drawer_tips_desc">Uygulama çekmecesi ana ekranda yukarı doğru kaydırarak açılır. Uygulama çekmecesi ile ana ekran moduna geçmek içerik merkezini kullanılmaz hale getirir. Yine de geçilsin mi?</string>
     <string name="all_apps_setting_drawer_tips_title">Uygulama çekmecesini kullan</string>
     <string name="all_apps_setting_drawer_title">Uygulama çekmecesi</string>
+    <string name="all_apps_setting_jeejen_title">Basit mod</string>
     <string name="all_apps_setting_letter_scrollbar">A-Z</string>
     <string name="all_apps_setting_original_scrollbar">Orijinal düzen</string>
     <string name="all_apps_setting_scroll_bar">Kaydırma çubuğu</string>
@@ -185,7 +186,7 @@
     <string name="branch_deepview_button">Uygulamayı al</string>
     <string name="branch_deepview_button_description">Kurulumdan hemen sonra bu içeriği görün</string>
     <string name="branch_feature_description">Hızlı nulucu uygulamaların yanı sıra uygulama içi içeriği ve öğeleri çevrimiçi olarak bulabilir</string>
-    <string name="branch_guide_attention">"Gelişmiş aramayı kullanmak arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce son kullanıcı keşif şartlar &amp; koşullarını ve Branch keşif gizlilik politikasını okuyun ve kabul edin"</string>
+    <string name="branch_guide_attention">Gelişmiş aramayı kullanmak arama isteklerinizi, Google Reklam Kimliğinizi ve IP adresinizi Branch Metrics ile paylaşmayı gerektirir. Bu özelliği kullanmadan önce son kullanıcı keşif şartlar &amp; koşullarını ve Branch keşif gizlilik politikasını okuyun ve kabul edin</string>
     <string name="branch_guide_description_one">Tüm uygulamalarınızı uygulama çekmecesine koyacağız. Ana ekranınız düzgün ve düzenli görünecek</string>
     <string name="branch_guide_description_three">Yerleşik arama ile ihtiyacınız olan her şeyi anında bulabileceksiniz</string>
     <string name="branch_guide_description_two">Uygulama çekmecesi uygulamaları otomatik olarak kategorilere ayırır</string>
@@ -411,6 +412,7 @@
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
     <string name="edit">Düzenle</string>
+    <string name="edit_folder">Klasörü düzenle</string>
     <string name="edit_folder_title">Klasör adını düzenle</string>
     <string name="edit_mode_dual_app">Çift uygulama oluştur</string>
     <string name="edit_mode_group">Grup</string>
@@ -500,9 +502,15 @@
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
+    <string name="fold_pair_install_shortcut_launcher_success">Oluşturuldu</string>
     <string name="fold_pair_install_shortcut_long_click">Ana ekrana eklemek için basılı tutun</string>
     <string name="fold_pair_installed_shortcut_launcher">Bu kısayol zaten var</string>
     <string name="folder_name">Klasör</string>
+    <string name="folder_picker_big_text">Genişletilmiş</string>
+    <string name="folder_picker_default_text">Normal</string>
+    <string name="folder_picker_options_tab_text">Boyut</string>
+    <string name="folder_picker_sliding_button_tab_text">Vurgulanan uygulamaları öner</string>
+    <string name="folder_picker_tab_text">Klasör</string>
     <string name="frame_load_failed">Çerçeve yüklenemiyor</string>
     <string name="free_style_apps_title">Uygulama seçin</string>
     <string name="free_style_drawer_title">Tüm uygulamalar</string>
@@ -531,7 +539,6 @@
     <string name="gadget_clock_24_label">Saat 4x2</string>
     <string name="gadget_clock_34_label">Saat 4x3</string>
     <string name="gadget_clock_label">Saat</string>
-    <string name="gadget_common_global_search_label">@string/gadget_search_label</string>
     <string name="gadget_dual_clock_label">Çift saat</string>
     <string name="gadget_error_text">Araç yüklenemiyor</string>
     <string name="gadget_google_search_label">Google arama</string>
@@ -603,10 +610,14 @@
     <string name="image_too_small_message">Orijinal resim yeterince büyük değil</string>
     <string name="in_app_result_by">Uygulama içi sonuçlar</string>
     <string name="install">Yükle</string>
+    <string name="intelligent_exposed_button_summary_text">Uygulamaları büyütülmüş klasörlerde vurgulamak için uygulama kullanımınıza dayalı akıllı önerileri kullanın</string>
     <string name="invalid_contact_shortcut">Geçersiz kişi</string>
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez</string>
     <string name="item_view_role_description">Sekme</string>
+    <string name="jeejen_description">"Daha büyük arayüz öğeleri\u000d
+Daha erişilebilir arama\u000d
+Arttırılmış güvenlik"</string>
     <string name="key_shortcut_settings_title">Tuş kısayolları</string>
     <string name="label">Etiket</string>
     <string name="launcher_icon_management">Ana ekran kısayollarını yönet</string>
@@ -617,7 +628,7 @@
     <string name="launcher_search_bar_value_disable">Kapalı</string>
     <string name="launcher_search_bar_value_enable">Açık</string>
     <string name="launcher_slide_up_title">Ana ekranda yukarı kaydırma</string>
-    <string name="launcher_sliding_up_gesture">Arama bölümü</string>
+    <string name="launcher_sliding_up_gesture">Arama için yukarı kaydırma</string>
     <string name="launcher_title">Ana ekran &amp; son kullanılanlar</string>
     <string name="layout_guide_description">Uygulama çekmecesiniz sevmezseniz her zaman klasik ana ekrana dönebilirsiniz. Basit bir şekilde ana ekran ayarları kısayolunu kullanın ve iki mod arasında geçiş yapın</string>
     <string name="layout_guide_tip_title">Tek bir dokunuşla eski haline geri gidebilirsiniz</string>
@@ -699,6 +710,7 @@
     <string name="menu_more">Daha fazla</string>
     <string name="menu_new_display_open">Yeni pencerede aç</string>
     <string name="menu_no_word">Simge metnini gizle</string>
+    <string name="menu_only_widget_no_word">Araç metnini gizle</string>
     <string name="menu_pc_open">Bilgisayar programı ile aç</string>
     <string name="menu_picktheme">Bir tema seçin</string>
     <string name="menu_reset_scene">Varsayılan düzene sıfırla</string>
@@ -789,7 +801,6 @@
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
@@ -909,6 +920,9 @@
     <string name="open_personal_assistant_dialog_desc_international">Uygulama kasası kartlarını kullanamayacaksınız. Güncellemeleri almaya devam edeceksiniz</string>
     <string name="open_personal_assistant_dialog_title">Uygulama kasasını kapat</string>
     <string name="open_personal_assistant_settings">Uygulama kasası ayarları</string>
+    <string name="open_personal_assistant_settings_off">Kapalı</string>
+    <string name="open_personal_assistant_settings_on">Açık</string>
+    <string name="open_personal_assistant_settings_simplified">Uygulama kasası</string>
     <string name="open_personal_assistant_title">Uygulama kasası</string>
     <string name="open_personal_assistant_title_synonyms">Negatif ekran</string>
     <string name="ota_layout_adjustment_button_text">Anladım</string>
@@ -975,6 +989,8 @@
     <string name="quick_search_guide_quick_search">Hızlı arama</string>
     <string name="quick_search_guide_title">Varsayılan modu seçin</string>
     <string name="recent_apps">Son kullanılanlar</string>
+    <string name="recent_menu_item_add_pair">Bu bölünmüş ekran kombinasyonu için bir ana ekran kısayolu oluşturun</string>
+    <string name="recent_menu_item_add_pair_first_toast">Bu Bölünmüş ekran kombinasyonu için bir ana ekran kısayolu oluşturun</string>
     <string name="recent_menu_item_info">Bilgi</string>
     <string name="recent_menu_item_lock">Kilitle</string>
     <string name="recent_menu_item_multi_window">Böl</string>

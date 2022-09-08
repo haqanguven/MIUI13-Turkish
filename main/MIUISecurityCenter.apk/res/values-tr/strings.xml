@@ -2753,8 +2753,8 @@ manzara moduna geçin"</string>
     <string name="hints_scan_result_no_finish">Tarama tamamlanmadı. Yeniden başlamak için dokunun</string>
     <string name="hints_scan_result_phone_safe">Herşey yolunda gözüküyor</string>
     <string name="hints_scan_result_safe">Güvenli</string>
-    <string name="hints_scanning">Taranıyor</string>
-    <string name="hints_scanning_text">Taranıyor</string>
+    <string name="hints_scanning">"Taranıyor: "</string>
+    <string name="hints_scanning_text">"Taranıyor: "</string>
     <string name="hints_virus_apk_list_item_summary">apk</string>
     <string name="hints_virus_apk_summary">%s (Apk)</string>
     <string name="hints_virus_app_list_item_summary">uygulama</string>

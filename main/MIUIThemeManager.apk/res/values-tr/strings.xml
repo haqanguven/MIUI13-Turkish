@@ -652,7 +652,7 @@ Kapatmak için dokunun"</string>
     <string name="lockscreen_apply_failured_but_home_apply_success">Ana ekran duvar kağıdı uygulandı. Kilit ekranı duvar kağıdı uygulanamıyor</string>
     <string name="lockscreen_apply_success">Kilit ekranı duvar kağıdı uygulandı</string>
     <string name="lockscreen_apply_success_but_home_apply_failured">Kilit ekranı duvar kağıdı uygulandı. Ana ekran duvar kağıdı uygulanamıyor</string>
-    <string name="lockscreen_desk_wallpaper">Ana ekran ve kilit ekranı duvar kağıtlarını içerir</string>
+    <string name="lockscreen_desk_wallpaper">Ana ekran ve kilit ekranı duvar kağıtları</string>
     <string name="lockscreen_magazine_subscribe">%1$s takipçi</string>
     <string name="lockscreen_magazine_summary">Kategoriler</string>
     <string name="lockscreen_magazine_system_subscribe">%1$s duvar kağıdı</string>

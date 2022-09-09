@@ -197,6 +197,8 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="anti_disturb_msg_detail">Gelen arama bildirimleri hariç tüm bildirimleri kapat</string>
     <string name="anti_disturb_msg_title">Rahatsız etme</string>
+    <string name="antispam_guangdian_card_hint">Sim kartınız farklı bir uzakta mesajına geçmeyi desteklemiyor. Ayrıntılar için operatörünüzle iletişime geçin</string>
+    <string name="antispam_guangdian_card_title">Anahtarlama desteklenmiyor</string>
     <string name="antispam_mms_text">Engellenen mesajları görüntüleyebilmek için mesajlaşmayı varsayılan mesaj uygulamanız olarak ayarlayın</string>
     <string name="antispam_mms_text_setting">Engelleme listesini kullanabilmek için mesajlaşmayı varsayılan mesaj uygulamanız olarak ayarlayın</string>
     <string name="antispam_mode_details">Engelleme listesi ayrıntıları</string>
@@ -565,9 +567,11 @@ Herhangi bir uygulama verisi kaybetmezsiniz"</string>
     <string name="app_manager_unstall_application">Kaldır</string>
     <string name="app_managere_not_have_app">Boş</string>
     <string name="app_manger_des_separator">", "</string>
-    <string name="app_mobile">Mobil</string>
+    <string name="app_mobile">Mobil veri</string>
     <string name="app_name">Güvenlik</string>
-    <string name="app_name_na">Veri kullanımı</string>
+    <string name="app_name_na">Güvenlik</string>
+    <string name="app_name_pad">Güvenlik</string>
+    <string name="app_name_phone">Güvenlik</string>
     <string name="app_name_securitycenter">Güvenlik</string>
     <string name="app_not_installed_toast">Uygulama cihazınıza yüklü değil</string>
     <string name="app_perm_manager_service">İzinler</string>
@@ -978,6 +982,8 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="beauty_fun_screen_light">Ekran ışık doldurma</string>
     <string name="beauty_fun_settings_light">Işık parlaklığını doldurun</string>
     <string name="beauty_fun_video_effect">Video için güzelleştir</string>
+    <string name="beauty_portrait_center">Yüzleri ortalayın</string>
+    <string name="beauty_portrait_center_desc">Görüntülü aramalarda ve toplantılarda yüzleri otomatik olarak tanımlayın ve ortalayın. Bu özellik bazı uygulamalar tarafından desteklenmemektedir</string>
     <string name="beauty_settings">Ayarlar</string>
     <string name="before_execute_notify">before_exclude_notify</string>
     <string name="begin_date">Kullanım periyodu sıfırlama tarihi</string>
@@ -1477,8 +1483,10 @@ Cihazınızdaki tüm veriler silinebilir ve kilit ekranı şifreniz sıfırlanab
     <string name="dialog_msg_auto_start_declare">Bazı uygulamalar hatalı olarak başlatılmalarının MIUI tarafından engellendiğini bildirebilir. Bu gibi durumlarda bireysel uygulamalara verilmiş izinleri ayarlar > uygulamalar menüsünde kontrol edin</string>
     <string name="dialog_msg_create_icon_content">Şimdi bir ana ekran kısayolu eklensin mi?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Bir daha gösterme</string>
-    <string name="dialog_msg_delete_icon_content">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
-    <string name="dialog_msg_delete_icon_title">Bu ana ekran kısayolu kaldırılsın mı?</string>
+    <string name="dialog_msg_delete_icon_content_pad">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
+    <string name="dialog_msg_delete_icon_content_phone">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
+    <string name="dialog_msg_delete_icon_title_pad">Bu ana ekran kısayolu kaldırılsın mı?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Bu ana ekran kısayolu kaldırılsın mı?</string>
     <string name="dialog_msg_stop_virus_scan">Güvenlik taraması tamamlanmadan önce durdurulsun mu?</string>
     <string name="dialog_no_longer_alert">Tekrar gösterme</string>
     <string name="dialog_remobe_luckymoney_cancle">Tek atış kullan</string>
@@ -1638,6 +1646,10 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="eletric_identification_unfamiliar_numbers">Bilinmeyen numaraları tanımlayın</string>
     <string name="eletric_identification_unfamiliar_numbers_summary">Kullanıcı geri bildirimlerine göre bilinmeyen numaralar için arama türlerini görüntüleyin</string>
     <string name="eletric_key_protect_electric_announcement">Dolandırıcılığa karşı koruma</string>
+    <string name="eletric_no_grant_dialog_message_for_phone">Bilinmeyen numaraları tanımlayabilmek için gerekli izinleri verin</string>
+    <string name="eletric_no_grant_dialog_negative_button">İptal et</string>
+    <string name="eletric_no_grant_dialog_positive_button">Ayarlar</string>
+    <string name="eletric_no_grant_dialog_title">Gerekli izinler</string>
     <string name="eletric_risk_call_identification">Aramaları koruyun</string>
     <string name="eletric_risk_call_identification_announcement">Bilinmeyen numaralardan arama alırken olası riskler hakkında bilgi alın</string>
     <string name="eletric_status_protecting">Açık</string>
@@ -3725,6 +3737,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="pc_statistics_battery_use_summary">Son şarjdan bu yana %s</string>
     <string name="pc_statistics_battery_use_title">Pil kullanımı</string>
     <string name="pc_to_phone_install">USB üzerinden %s yüklemesi engellendi</string>
+    <string name="pc_xiaoai_create_auto_task">"Mi AI'dan yeni görev"</string>
     <string name="per_month_pkg_traffic_settings">Mobil veri limiti ayarlayın</string>
     <string name="percent_formatted_text">%%%s</string>
     <string name="percent_symbol">%</string>

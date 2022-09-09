@@ -179,6 +179,7 @@
     <string name="classes_edit_name">Ders adı girin</string>
     <string name="classes_fail">Tanınamadı. Tekrar deneyin</string>
     <string name="classes_isNull">Henüz hiç ders eklemediniz</string>
+    <string name="classes_module_crop">Fotoğraf çektikten sonra ders programı alanını tam olarak seçin ve tekrar deneyin</string>
     <string name="classes_titlt">Ders programı</string>
     <string name="classes_topTitle">Ders programınızı tarayın</string>
     <string name="clearable_edittext_clear_description">Temizle</string>

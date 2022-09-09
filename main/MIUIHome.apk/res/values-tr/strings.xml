@@ -539,6 +539,7 @@
     <string name="gadget_clock_24_label">Saat 4x2</string>
     <string name="gadget_clock_34_label">Saat 4x3</string>
     <string name="gadget_clock_label">Saat</string>
+    <string name="gadget_common_global_search_label">@string/gadget_search_label</string>
     <string name="gadget_dual_clock_label">Çift saat</string>
     <string name="gadget_error_text">Araç yüklenemiyor</string>
     <string name="gadget_google_search_label">Google arama</string>
@@ -801,6 +802,7 @@ Arttırılmış güvenlik"</string>
     <string name="mtrl_picker_a11y_next_month">Gelecek aya geç</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya geç</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">Tamam</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
@@ -1123,6 +1125,7 @@ Arttırılmış güvenlik"</string>
     <string name="sort_by_abc">Ada göre sırala</string>
     <string name="sort_by_frequency">Kullanıma göre sırala</string>
     <string name="sort_by_not_defined">Otomatik sırala</string>
+    <string name="split_screen_position_top">Bölünmüş üst</string>
     <string name="start_activity_failed">Başlatıcı başlatılamıyor</string>
     <string name="starting_preset_app">Başlatılıyor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -1260,8 +1263,12 @@ Arttırılmış güvenlik"</string>
     <string name="widget_global_search">Ara</string>
     <string name="widget_quick_function">Hızlı fonksiyonlar</string>
     <string name="widgets_preview_title">Araç ekle</string>
+    <string name="work_mode_off_detailed_text">İş uygulamalarınız size bildirim gönderemez, pilinizi kullanamaz veya konumunuza erişemez</string>
     <string name="work_mode_off_label">Bildirimler ve uygulamalar kapalı</string>
+    <string name="work_mode_off_text">İş uygulamaları duraklatıldı</string>
     <string name="work_mode_on_label">Kuruluşunuz tarafından yönetiliyor</string>
+    <string name="work_mode_toggle_off">İş uygulamalarını kapatın</string>
+    <string name="work_mode_toggle_on">İş uygulamalarını açın</string>
     <string name="work_profile_first_content">Kişisel veriler iş uygulamalarından ayrı &amp; gizlidir</string>
     <string name="work_profile_got_button">Anladım</string>
     <string name="work_profile_next_button">Sonraki</string>

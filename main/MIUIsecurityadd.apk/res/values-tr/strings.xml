@@ -156,7 +156,7 @@
     <string name="close">Kapat</string>
     <string name="close_password_dialog_message">Şifre kapatıldıktan sonra başlangıç alanındaki şifre devre dışı bırakılır. Girdiğiniz parmak izi ve yüz verilerini silinecek. Parmak izi, yüz tanıma ve cihaz korumasını kullanamayacaksınız</string>
     <string name="close_password_dialog_title">Şifre doğrulamasını kapat</string>
-    <string name="com.crashlytics.android.build_id">c9c977faf0af44f192fecd504961d332</string>
+    <string name="com.crashlytics.android.build_id">00000000000000000000000000000000</string>
     <string name="confirmDelete">Silme işlemini onayla</string>
     <string name="confirm_main_space_password">Lütfen ilk alan için şifreyi onaylayın</string>
     <string name="copy">Kopyala</string>
@@ -314,6 +314,8 @@
     <string name="friday_shortest">Cum</string>
     <string name="function_not_support">Bu özellik desteklenmiyor</string>
     <string name="game_booster">Oyun hız arttırıcı</string>
+    <string name="gamebooster_dialog_recover">Yenile</string>
+    <string name="gamebooster_dialog_start_booster">Başlat</string>
     <string name="gamebooster_network_dialog_message">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message_pad">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
@@ -633,7 +635,11 @@ Güvenli ve daha güvenli"</string>
     <string name="playing">Oynat</string>
     <string name="pm">ÖS</string>
     <string name="pm_lable_name">Root erişimi hakkında</string>
+    <string name="power_center_battery_duration_screen_on">Kalan ekran süresi</string>
+    <string name="power_main_battery_last_hour_minute_screen_on">%1$s %2$s ekran süresi kaldı</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="preference_key_information_setting_close">key_information_setting_close</string>
+    <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
     <string name="privacy_declare_dialog_title">Hizmet şartları</string>
     <string name="privacy_name">(Gizlilik politikası)</string>
     <string name="privacy_prompt_traffic_purchase_message">Telefon numaranız ve operatör bilgileriniz veri satın alma seçenekleri hakkında daha fazla bilgi almak amacıyla şifrelenecek ve Mi sunucularına yüklenecektir.</string>

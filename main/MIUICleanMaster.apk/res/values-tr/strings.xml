@@ -79,7 +79,8 @@
     <string name="app_description_content">Temizleyici cihazınızdaki çöpleri bulur ve depolama alanı boşaltır. Uygulamayı kaldırmadan önce uygulamaya ihtiyacınız olmadığından emin olun</string>
     <string name="app_description_title">Temizleyici hakkında</string>
     <string name="app_name">Temizleyici</string>
-    <string name="app_name_securitycenter">Güvenlik</string>
+    <string name="app_name_pad">Temizleyici</string>
+    <string name="app_name_phone">Temizleyici</string>
     <string name="app_reset">Sıfırla</string>
     <string name="app_specific_clean">Uygulama temizleyici</string>
     <string name="app_unload">Kaldır</string>
@@ -371,8 +372,10 @@
     <string name="dialog_msg_check_all">%2$d öğeyi içeren %1$s uygulamasını seçmek için onaylayın</string>
     <string name="dialog_msg_create_icon_content">Şimdi bir ana ekran kısayolu eklensin mi?</string>
     <string name="dialog_msg_create_icon_not_remain_anymore">Bir daha gösterme</string>
-    <string name="dialog_msg_delete_icon_content">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
-    <string name="dialog_msg_delete_icon_title">Ana ekran kısayolu kaldırılsın mı?</string>
+    <string name="dialog_msg_delete_icon_content_pad">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
+    <string name="dialog_msg_delete_icon_content_phone">Güvenlik cihazınızdaki çöpleri temizlemenize, virüsleri bulup etkisiz hale getirmenize, pilden tasarruf etmenize, izinleri yönetmenize ve daha pek çok şeye olanak tanır</string>
+    <string name="dialog_msg_delete_icon_title_pad">Bu ana ekran kısayolu kaldırılsın mı?</string>
+    <string name="dialog_msg_delete_icon_title_phone">Bu ana ekran kısayolu kaldırılsın mı?</string>
     <string name="dialog_msg_esc_cleanmaster">Devam eden temizleme taraması durdurulsun mu?</string>
     <string name="dialog_msg_load_cleanup_engine_error">Temizleme motoru zarar görmüş durumda</string>
     <string name="dialog_msg_stop_scan">Devam eden temizleme taraması durdurulsun mu?</string>

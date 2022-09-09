@@ -113,6 +113,7 @@ engellenenler listesine eklendi"</string>
     <string name="bookmark_empty">Favori mesaj yok</string>
     <string name="bookmark_list_title">Favoriler</string>
     <string name="button_close">Kapat</string>
+    <string name="button_copy">Kopyala</string>
     <string name="button_emoji_creature">Hayvan emojisi</string>
     <string name="button_emoji_lifestyle">Yaşam tarzı emojisi</string>
     <string name="button_emoji_smiley">Yüz emojisi</string>
@@ -899,6 +900,7 @@ Mi mesajı etkinleştirmek için giden bir mesaj gerekir. Bu mesaj için operat�
     <string name="pref_summary_send_delivery_reports">Multimedya mesajı alındığında göndericiye iletim doğrulama mesajı gönder</string>
     <string name="pref_summary_switch_aim_card">Videolar, resimler ve karmaşık biçimlendirme içeren mesajları kart olarak görüntüleyin</string>
     <string name="pref_summary_voice_report">Mesajlar alındıkça yüksek sesle okumak için açın. Oynatmayı durdurmak için sesi kısma veya güç düğmesine basın</string>
+    <string name="pref_summary_voice_report_disable">Bu özelliği kullanabilmek için Mi AI Konuşma motorunu yükleyin</string>
     <string name="pref_summary_wake_up_screen">Yeni mesaj alındığında ekranı uyandır</string>
     <string name="pref_switch_sdk_setting">Akıllı mesaj hizmeti sağlayıcısını değiştir</string>
     <string name="pref_system_title">Sistem</string>

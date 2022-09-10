@@ -106,9 +106,9 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="copy">Kopyala</string>
-    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Bu cihazı internete bağlı değilken bulmak için telefon numarasına erişmek için</string>
-    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Bu cihazı internete bağlı değilken bulmak için</string>
-    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazınızı bulmak ve kayıp moduna geçmek için</string>
+    <string name="custom_define_permission_desc_android.permission.READ_PHONE_STATE">Bu cihazı internete bağlı değilken bulmak için telefon numarasına erişmek içindir</string>
+    <string name="custom_define_permission_desc_android.permission.SEND_SMS">Bu cihazı internete bağlı değilken bulmak içindir</string>
+    <string name="custom_define_permission_desc_android.permission_group.LOCATION">Cihazınızı bulmak ve kayıp moduna geçmek içindir</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
@@ -156,14 +156,14 @@ Ayrıntılar için satış danışmanınızla iletişime geçin"</string>
     <string name="find_device_error_custom">%s</string>
     <string name="find_device_error_network">Ağ hatası</string>
     <string name="find_device_error_password_changed">Hesap şifresi yakın bir tarihte zaten değiştirildi</string>
-    <string name="find_device_error_server">Sunucu hatası: %s</string>
+    <string name="find_device_error_server">Sunucu hatası (%s)</string>
     <string name="find_device_error_unknown">Bilinmeyen hata (%s)</string>
     <string name="find_device_noise_title">Cihazı bul alarmı</string>
     <string name="find_device_notice">Cihazınızı bulmak, kilitlemek veya geri yüklemek için i.mi.com adresine gidin</string>
-    <string name="find_device_notice_sms_alert_with_common_charge_hint">Sim durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için Sim kartları değiştirdikten sonra &lt;font color=#0097FF>&lt;b>ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir</string>
-    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Sim durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için Sim kartlarını değiştirdikten sonra &lt;font color=#0097FF>&lt;b>yurtiçi ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir</string>
-    <string name="find_device_notice_sms_alert_with_internal_charge_hint">Sim durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için Sim kartlarını değiştirdikten sonra &lt;font color=#0097FF>&lt;b>uluslararası ücretli kısa mesaj&lt;/b>&lt;/font> gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir</string>
-    <string name="find_device_stop_noise">"Susturmak için Tamam'a dokunun"</string>
+    <string name="find_device_notice_sms_alert_with_common_charge_hint">Sim durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için Sim kartları değiştirdikten sonra ücretli kısa mesaj gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir</string>
+    <string name="find_device_notice_sms_alert_with_domestic_charge_hint">Sim durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için Sim kartlarını değiştirdikten sonra yurtiçi ücretli kısa mesaj gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir</string>
+    <string name="find_device_notice_sms_alert_with_internal_charge_hint">Sim durumunu güncellemek ve tüm hizmetlerin normal çalıştığından emin olmak için Sim kartlarını değiştirdikten sonra uluslararası ücretli kısa mesaj gönderilir. Bu mesaj operatörünüz tarafından ücretlendirilir</string>
+    <string name="find_device_stop_noise">"Susturmak için tamam'a dokunun"</string>
     <string name="find_device_storage_corrupted">Cihazı bul depolama alanı hasarlı. Cihazınız şu anda güvenli değil</string>
     <string name="find_device_success_title">Cihazı bul</string>
     <string name="find_device_telephony_fault">Cihazı bul: Telefon hatası (%s)</string>

@@ -82,6 +82,8 @@
     <string name="backup_hint_pad">Cihazınızı açık tutun</string>
     <string name="backup_is_running">Cihaz yedekleniyor</string>
     <string name="backup_new">Yeni:</string>
+    <string name="backup_notice_content">Yedekleriniz şifrelenmez. Bu üçüncü taraf uygulamalar tarafından erişilebileceği veya değiştirilebileceği anlamına gelir. Diğer güvenlik riskleri de ortaya çıkabilir. Yedeklenen öğeleri iyi korunan bir ortamda sakladığınızdan emin olun</string>
+    <string name="backup_notice_title">Dikkat</string>
     <string name="backup_notification_title">Yedekleme çalışıyor</string>
     <string name="backup_progress">Yedekleniyor</string>
     <string name="backup_report">Detayları görüntüle</string>
@@ -110,6 +112,8 @@
     <string name="cancel_moving_dialog_message">İçe aktarım durdurulsun mu?</string>
     <string name="cancel_moving_dialog_title">İçe aktarımı durdur</string>
     <string name="cancel_restore">Durdur</string>
+    <string name="category_contacts">Kişiler</string>
+    <string name="category_message_contacts">Mesajlaşma ve kişiler</string>
     <string name="check_privacy_policy">Gizlilik politikasını görüntüle</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -688,6 +692,8 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="permission_read_storage_global">Depolama alanına erişin</string>
     <string name="permission_read_write_storage">Öğeleri yedekleyebilmek için önce bu özelliğin depolama alanına erişmesine izin verin</string>
     <string name="permission_read_write_sys_app">Mesajları, kişileri ve arama geçmişini yedekleyip geri yükleyebilmek için önce bu özelliğin bu öğelere erişmesine izin verin</string>
+    <string name="permission_read_write_sys_app1">Bu öğeleri yedekleyebilmek ve geri yükleyebilmek için bu özelliğin mesajlarınıza ve kişilerinize erişmesine izin verin</string>
+    <string name="permission_read_write_sys_app2">Bu öğeleri yedekleyebilmek ve geri yükleyebilmek için bu özelliğin kişilerinize erişmesine izin verin</string>
     <string name="permission_related">İzinler</string>
     <string name="permission_restore_calendar">Takvim etkinliklerini geri yüklemek için</string>
     <string name="permission_restore_calendar_desc">Takvim etkinliklerini geri yükleyebilmek için önce bu uygulamanın takvim etkinliklerinizi düzenlemesine izin verin</string>

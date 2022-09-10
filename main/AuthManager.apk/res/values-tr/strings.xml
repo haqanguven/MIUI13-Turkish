@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="HIPS_ACTION_REJECT_CLEAR">Panoyu kısıtlayın ve temizleyin</string>
+    <string name="HIPS_ACTION_REJECT_CLEAR">Panoyu kısıtla ve temizle</string>
     <string name="HIPS_Action_Accept">İzin ver</string>
     <string name="HIPS_Action_Accept_Once">Bir kez izin ver</string>
     <string name="HIPS_Action_Accept_This">Bir kez izin ver</string>
@@ -47,6 +47,7 @@
     <string name="HIPS_Perm_Location_Desc">Kesin konumu alır (GPS ve ağ tabanlı)</string>
     <string name="HIPS_Perm_NEARBY_DEVICES">Yakındaki cihazlara bağlanın</string>
     <string name="HIPS_Perm_NEARBY_DEVICES_Desc">Yakındaki cihazları keşfedin ve bunlara bağlanın</string>
+    <string name="HIPS_Perm_NEARBY_DEVICES_Desc_T_china">Bluetooth ve wifi aracılığıyla yakındaki cihazları keşfedin ve bunlara bağlanın</string>
     <string name="HIPS_Perm_PhoneID">Cihaz bilgilerini alma</string>
     <string name="HIPS_Perm_PhoneID_Desc">"Telefon numarası, IMEI ve IMSI'ye erişir"</string>
     <string name="HIPS_Perm_PhoneID_Desc_Q">Telefon numarasına ve cihaz durumuna erişin</string>
@@ -440,6 +441,7 @@
     <string name="ok">Tamam</string>
     <string name="perm_action_allow">İzin ver</string>
     <string name="perm_action_deny">Reddet</string>
+    <string name="perm_educate_post_notification">Bildirim gölgesinde ve ana ekran simgelerinde göründükleri gibi bildirimlere ses ve titreşim eşlik edebilir. Bildirim tercihlerinizi ayarlardan değiştirebilirsiniz</string>
     <string name="perm_manager_suggest_operation">İzinleri yönet</string>
     <string name="perm_manager_suggest_title">İzinler ayarlansın mı?</string>
     <string name="perm_modem_location">Konuma erişim</string>
@@ -452,6 +454,7 @@
     <string name="permdesc_location_background">"%1$s'in arka planda konum bilgilerine erişmesine izin verilsin mi?"</string>
     <string name="permdesc_microphone">"%1$s'in ses kaydetmek ve arama yapmak için mikrofon kullanmasına izin verilsin mi?"</string>
     <string name="permdesc_nearby_devices">"%1$s'in yakındaki cihazları keşfetmesine ve bunlara bağlanmasına izin verilsin mi?"</string>
+    <string name="permdesc_post_notification">"%1$s'nin bildirim göndermesine izin verilsin mi?"</string>
     <string name="permdesc_process_outgoing_call">"%1$s'nin aramaları yanıtlamasına ve bitirmesine izin verilsin mi?"</string>
     <string name="permdesc_read_calendar">"%1$s'in takvim etkinliklerine erişmesine ve düzenlemesine izin verilsin mi?"</string>
     <string name="permdesc_read_call_log">"%1$s'in arama geçmişine erişmesine izin verilsin mi?"</string>
@@ -538,7 +541,7 @@
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_blur_location">Evet</string>
     <string name="storage_policy_notify_both_title">"%1$s'in sosyal medya uygulamalarındaki galeriye ve mesajlara erişmesine izin verilmiyor"</string>
-    <string name="storage_policy_notify_content">Okumasına izin vermek için. Ayarlara gitmek için tıklayın</string>
+    <string name="storage_policy_notify_content">İzinleri ayarlamak için dokunun</string>
     <string name="storage_policy_notify_gallery_title">%1$s telefon albümlerini okuması reddedildi</string>
     <string name="storage_policy_notify_sociality_title">%1$s sosyal bilgilerini okuması reddedildi</string>
     <string name="storage_policy_notify_title">%1$s telefon albümlerini okuması reddedildi</string>

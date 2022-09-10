@@ -211,6 +211,7 @@ Not: Yüklemiş olduğunuz uygulamara ait veriler Xiaomi bulut alanınıza yedek
     <string name="cloud_backup_detail_frequence_every_7_day">Her %d günde bir yedekleyin</string>
     <string name="cloud_backup_detail_frequence_every_day">Her gün yedekleyin</string>
     <string name="cloud_backup_detail_header_msg">Artık cihazınızın ana ekran düzenini, uygulamalarını, sistem ayarlarını ve WeChat verilerini yedekleyebilirsiniz</string>
+    <string name="cloud_backup_detail_header_msg_no_wechat_backup">Cihazınızın ana ekran düzenini, uygulama listesini ve sistem ayarlarını yedekleyin. Daha fazla bilgi edinmek için dokunun</string>
     <string name="cloud_backup_detail_local_backup_size">Yedekleme boyutu: %s</string>
     <string name="cloud_backup_detail_manage">Yedekleri yönet</string>
     <string name="cloud_backup_detail_no_time">Yedek kayıt yok</string>

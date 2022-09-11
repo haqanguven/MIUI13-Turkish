@@ -299,7 +299,6 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="deletion_helper_photos_age_summary">30 günden eski</string>
     <string name="deletion_helper_photos_loading_summary">Öğeler bulunuyor</string>
     <string name="deletion_helper_photos_loading_title">Yedeklenen fotoğraflar ve videolar</string>
-    <string name="deletion_helper_photos_summary">%1$s</string>
     <string name="deletion_helper_photos_title">Yedeklenen fotoğraflar &amp; videolar</string>
     <string name="deletion_helper_preference_title">Şu anki boş alan</string>
     <string name="deletion_helper_title">Kaldırılacak öğeleri seçin</string>
@@ -441,6 +440,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mtrl_exceed_max_badge_number_content_description">"%1$d'den fazla yeni bildirim"</string>
+    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Gelecek aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
@@ -546,6 +546,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="select_webview_provider_title">İnternet görünümü kullanımı</string>
     <string name="select_webview_provider_toast_text">Bu seçenek artık geçerli değil. Tekrar deneyin</string>
     <string name="settings_label">Ağ ayarları</string>
+    <string name="settings_package">com.android.settings</string>
     <string name="settingslib_learn_more_text">Daha fazla bilgi</string>
     <string name="shared_data_delete_failure_text">Paylaşılan verileri silerken bir hata oluştu</string>
     <string name="shared_data_no_accessors_dialog_text">Bu paylaşılan veriler için edinilmiş kiralama yok. Silmek ister misiniz?</string>
@@ -574,7 +575,6 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="speed_label_very_fast">Çok hızlı</string>
     <string name="speed_label_very_slow">Çok yavaş</string>
     <string name="standby_bucket_summary">Uygulama bekleme durumu: %s</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="status_unavailable">Kullanım dışı</string>
     <string name="storage_category">Depolama</string>
     <string name="storage_menu_free">Yer aç</string>
@@ -738,6 +738,7 @@ Kimlik bilgisi depolama etkin değil gibi görünüyor"</string>
     <string name="wifi_wapi_user_certificate">Kullanıcı sertifikası</string>
     <string name="wifitrackerlib_auto_connect_disable">Otomatik bağlantı kapalı</string>
     <string name="wifitrackerlib_available_via_app">%1$s üzerinden erişilebilir</string>
+    <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">%1$s üzerinden bağlanıldı</string>
     <string name="wifitrackerlib_connected_via_network_scorer">%1$s üzerinden otomatik olarak bağlandı</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı aracılığıyla otomatik olarak bağlandı</string>

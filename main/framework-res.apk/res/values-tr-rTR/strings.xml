@@ -24,7 +24,7 @@
     <string name="selectTextMode">Metin seç</string>
     <string name="fingerprint_icon_content_description">Parmak izi simgesi</string>
     <string name="paste_as_plain_text">Düz metin olarak yapıştır</string>
-    <string name="autofill">Otomatik Doldur</string>
+    <string name="autofill">Otomatik doldur</string>
     <string name="BaMmi">Arama engelleme</string>
     <string name="CLIRDefaultOffNextCallOff">Arayan kimliği varsayılanları kısıtlanmamıştır. Sonraki arama: Kısıtlanmamış</string>
     <string name="CLIRDefaultOffNextCallOn">Arayan kimliği varsayılanları kısıtlanmamıştır. Sonraki arama: Kısıtlanmış</string>

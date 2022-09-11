@@ -471,7 +471,7 @@ Bu izin kapalıysa bu uygulama tarafından planlanan mevcut alarmlar ve zamana d
     <string name="biometric_dialog_wrong_pattern">Yanlış desen</string>
     <string name="biometric_dialog_wrong_pin">Yanlış Pin</string>
     <string name="birthday_status">Doğum günü</string>
-    <string name="birthday_status_content_description">"%1$s’in doğum günü"</string>
+    <string name="birthday_status_content_description">%1$s’in doğum günü</string>
     <string name="blob_expires_text">%s de sona eriyor</string>
     <string name="blob_id_text">Paylaşılan veri kimliği: %d</string>
     <string name="block">Tüm bildirimleri engelle</string>
@@ -617,6 +617,7 @@ Oynatma kalitesi"</string>
     <string name="category_work">İş</string>
     <string name="cell_data_off">Kapalı</string>
     <string name="cell_data_off_content_description">Mobil veri kapalı</string>
+    <string name="certinstaller_package">com.android.certinstaller</string>
     <string name="change_theme_reboot">Temayı değiştirmek için cihazı yeniden başlatmanız gerekmektedir</string>
     <string name="character_counter_content_description">Karakterler %1$d/%2$d girdi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
@@ -843,7 +844,10 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="device_locked_without_biometric_face">Üçüncü taraf ekran kilidi kullanırken yüz verileriyle bu cihazın kilidini açamazsınız</string>
     <string name="device_locked_without_biometric_finger">Üçüncü taraf ekran kilidi kullanırken bu cihazın kilidini parmak izleriyle açamazsınız</string>
     <string name="device_services">Aygıt hizmetleri</string>
-    <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrasında, telefonunuzun kilidi açılıncaya kadar bu uygulama başlatılamaz</string>
+    <string name="dialog_forget_password_cancel">Cancel</string>
+    <string name="dialog_forget_password_message">"Puk kodunuzu unuttuysanız cihazınıza erişimi kaybetmemek için bu eSim'i devre dışı bırakabilirsiniz. Bundan sonra yardım almak için operatörünüzle iletişime geçebilirsiniz"</string>
+    <string name="dialog_forget_password_ok">Devre dışı</string>
+    <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrasında telefonunuzun kilidi açılıncaya kadar bu uygulama başlatılamaz</string>
     <string name="disable_carrier_button_text">"ESim'i devre dışı bırak"</string>
     <string name="disable_overlays">Donanım katmanlarını devre dışı bırak</string>
     <string name="disable_overlays_summary">"Ekran oluştururken her zaman GPU'yu kullan"</string>
@@ -864,7 +868,7 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="dock_alignment_slow_charging">Daha hızlı şarj için telefonu yeniden hizalayın</string>
     <string name="dock_forced_resizable">Bu uygulama ekranı bölme özelliği ile çalışmayabilir</string>
     <string name="dock_non_resizeble_failed_to_dock_text">Bu uygulama ekran bölmeyi desteklemiyor</string>
-    <string name="download_lock_wallpaper">Atlıkarıncayı indirmek için çift dokunun</string>
+    <string name="download_lock_wallpaper">Duvar kağıdı döngüsünü indirmek için çift dokunun</string>
     <string name="drag_to_add_tiles">Eklemek için sürükleyin</string>
     <string name="drag_to_rearrange_tiles">Döşemeleri yeniden düzenlemek için basılı tutun ve sürükleyin</string>
     <string name="drag_to_remove_disabled">En az %1$d parçaya ihtiyacınız var</string>
@@ -938,13 +942,13 @@ Mobil veriyi yeniden etkinleştirmeniz durumunda operatörünüz ek ücret talep
     <string name="face_unlock_success">Başarıyla açıldı</string>
     <string name="face_unlock_swipe_up_retry">Tekrar denemek için yukarı kaydırın</string>
     <string name="failed_to_open_app_settings_toast">%1$s ayarları açılamadı</string>
-    <string name="feedback_alerted">Bu bildirim sistem tarafından otomatik olarak <b>Varsayılana yükseltildi</b></string>
-    <string name="feedback_demoted">Bu bildirim gölgenizde otomatik olarak <b>alt sıraya alındı</b></string>
+    <string name="feedback_alerted">Bu bildirim sistem tarafından otomatik olarak varsayılana yükseltildi</string>
+    <string name="feedback_demoted">Bu bildirim gölgenizde otomatik olarak alt sıraya alındı</string>
     <string name="feedback_ok">Tamam</string>
-    <string name="feedback_promoted">Bu bildirim gölgenizde otomatik olarak <b>daha üst sıralarda yer aldı</b></string>
+    <string name="feedback_promoted">Bu bildirim gölgenizde otomatik olarak daha üst sıralarda yer aldı</string>
     <string name="feedback_prompt">Geliştiriciye geri bildiriminizi bildirin. Bu doğru muydu?</string>
     <string name="feedback_response">Geri bildiriminiz için teşekkürler!</string>
-    <string name="feedback_silenced">Bu bildirim sistem tarafından otomatik olarak <b>sessize indirildi</b></string>
+    <string name="feedback_silenced">Bu bildirim sistem tarafından otomatik olarak sessize indirildi</string>
     <string name="finger_error_single_mode">Tek elle modda parmak izi tarayıcı kullanılamaz. Tek el modundan çıkın ve tekrar deneyin</string>
     <string name="fingerprint_add_text">Parmak izi arayüzü güncellendi. Parmak izinizi tekrar ekleyin</string>
     <string name="fingerprint_add_title">Parmak izi ekle</string>
@@ -975,57 +979,14 @@ Kilidi açmak için Pin'inizi girin"</string>
     <string name="fingerprint_try_again_text">Yeniden deneyin</string>
     <string name="float_notification_snooze_strategy">Kayan bildirimleri geçici olarak gizle</string>
     <string name="fmt_chinese_date">N-e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">dd</string>
     <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">dd MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">dd MMMM yyyy</string>
-    <string name="fmt_date_numeric_day">dd</string>
-    <string name="fmt_date_numeric_month">MM</string>
     <string name="fmt_date_numeric_month_day">dd/MM</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">MM/yyyy</string>
     <string name="fmt_date_numeric_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_short_month">MM</string>
     <string name="fmt_date_short_month_day">dd/MM</string>
     <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">dd/MM/yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">zD T</string>
-    <string name="fmt_date_timezone">zD</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">hh</string>
-    <string name="fmt_time_12hour_minute">hh:mm</string>
-    <string name="fmt_time_12hour_minute_pm">hh:mm aa</string>
-    <string name="fmt_time_12hour_minute_second">hh:mm:ss</string>
-    <string name="fmt_time_12hour_minute_second_millis">hh:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">hh:mm:ss.S aa</string>
-    <string name="fmt_time_12hour_minute_second_pm">hh:mm:ss aa</string>
-    <string name="fmt_time_12hour_pm">hh aa</string>
-    <string name="fmt_time_24hour">H</string>
-    <string name="fmt_time_24hour_minute">HH:mm</string>
-    <string name="fmt_time_24hour_minute_second">HH:mm:s</string>
-    <string name="fmt_time_24hour_minute_second_millis">HH:mm:ss.S</string>
-    <string name="fmt_time_millis">S</string>
-    <string name="fmt_time_minute">m</string>
-    <string name="fmt_time_minute_second">m:s</string>
-    <string name="fmt_time_minute_second_millis">m:s.S</string>
-    <string name="fmt_time_second">s</string>
-    <string name="fmt_time_second_millis">s.S</string>
-    <string name="fmt_time_timezone">zT</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">DW</string>
-    <string name="fmt_weekday_date_time">DW T</string>
-    <string name="fmt_weekday_date_time_timezone">zDW T</string>
-    <string name="fmt_weekday_date_timezone">zDW</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">zW T</string>
-    <string name="fmt_weekday_timezone">zW</string>
     <string name="force_allow_on_external">Harici birimdeki uygulamalara izin vermeye zorla</string>
     <string name="force_allow_on_external_summary">Manifest değerlerinden bağımsız olarak uygulamaları harici depolamaya yazmak için uygun hale getirir</string>
     <string name="force_msaa">"4x MSAA'yı zorla"</string>
@@ -1036,6 +997,7 @@ Kilidi açmak için Pin'inizi girin"</string>
     <string name="force_rtl_layout_all_locales_summary">Tüm yerel ayarlar için sağdan sola ekran düzenini zorlar</string>
     <string name="forced_resizable_secondary_display">Uygulama ikincil ekranda çalışmayabilir</string>
     <string name="forget_password_string">Şifremi unuttum</string>
+    <string name="forget_password_string_for_esim"><u>Forgot PUK code</u></string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -1106,10 +1068,10 @@ Kilidi açmak için Pin'inizi girin"</string>
     <string name="hidden_notifications_text">Kilidi açmadan önce onları görün</string>
     <string name="hidden_notifications_title">Bildirimleri daha hızlı alın</string>
     <string name="high_temp_alarm_help_care_steps">Bakım adımlarına bakın</string>
+    <string name="high_temp_alarm_help_url">help_uri_usb_warm</string>
     <string name="high_temp_alarm_notify_message">Bu cihazı şarj ederken bir sorun var. Güç adaptörünü çıkarın ve kablo ısınabileceğinden dikkatli olun</string>
     <string name="high_temp_alarm_title">Şarj cihazının fişini çek</string>
     <string name="high_temp_dialog_help_text">Bakım adımlarına bakın</string>
-    <string name="high_temp_dialog_help_url" />
     <string name="high_temp_dialog_message">"Telefonunuz otomatik olarak soğumaya çalışacaktır. Telefonunuzu kullanmaya devam edebilirsiniz ancak daha yavaş çalışabilir
 
 Telefonunuz soğuduktan sonra normal şekilde çalışır"</string>
@@ -1285,7 +1247,7 @@ Yalnızca desteklenen şarj cihazlarını kullanın"</string>
     <string name="keyguard_password_enter_pin_prompt">Yeni Sim Pin kodu</string>
     <string name="keyguard_password_enter_puk_code">Sim Puk ve yeni Pin kodunu yazın</string>
     <string name="keyguard_password_enter_puk_prompt">Sim Puk kodu</string>
-    <string name="keyguard_password_entry_touch_hint"><font size="17">Şifre yazmak için dokunun</font></string>
+    <string name="keyguard_password_entry_touch_hint">Şifre yazmak için dokunun</string>
     <string name="keyguard_password_wrong_pin_code">Yanlış Pin kodu</string>
     <string name="keyguard_permanent_disabled_sim_instructions">"Sim kartınız kalıcı olarak devre dışı bırakıldı
 Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
@@ -1362,7 +1324,6 @@ Başka bir Sim kart için kablosuz servis sağlayıcınıza başvurun"</string>
     <string name="kg_wrong_password">Yanlış şifre</string>
     <string name="kg_wrong_pattern">Yanlış desen</string>
     <string name="kg_wrong_pin">Yanlış Pin</string>
-    <string name="kilobyte_per_second">KB/s</string>
     <string name="label_view">Görüntüle</string>
     <string name="launch_defaults_none">Hiçbir varsayılan tercih ayarlanmadı</string>
     <string name="launch_defaults_some">Bazı varsayılan tercihler ayarlandı</string>
@@ -1455,7 +1416,6 @@ EEEE"</string>
     <string name="manage_notifications_history_text">Geçmiş</string>
     <string name="manage_notifications_text">Yönet</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
-    <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'ı seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_minute_selection">Dakika seçin</string>
@@ -1526,6 +1486,8 @@ EEE"</string>
     <string name="miui_notification_menu_snooze">Ertele</string>
     <string name="miui_notification_menu_title_not_allow">Kısıtla</string>
     <string name="miui_notification_menu_unfold">Önemli olarak işaretle</string>
+    <string name="miui_notification_slide_menu_msg_ongoing">%1$s için kalıcı bildirimler şimdi kısıtlansın mı?</string>
+    <string name="miui_notification_slide_menu_ongoing">Kalıcı bildirimleri kısıtla</string>
     <string name="miui_screen_rotation_freeze_message">Yatay modda kilitli ekran yönü</string>
     <string name="miui_snooze_always_float">Gizleme</string>
     <string name="miui_snooze_cancel">İptal et</string>
@@ -1537,6 +1499,10 @@ EEE"</string>
     <string name="miui_snooze_user_set_fail">Ayarlar > Bildirimler &amp; Daha fazla seçenek için kontrol merkezi</string>
     <string name="miui_snooze_user_set_success">Başarıyla uygulandı. Ayarlar > Bildirimler &amp; Daha fazla seçenek için kontrol merkezi</string>
     <string name="miui_unimportant_notifications">Önemsiz bildirimler</string>
+    <string name="miui_vertical_time_format_12">"hh
+mm"</string>
+    <string name="miui_vertical_time_format_24">"HH
+mm"</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
@@ -1805,6 +1771,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="notification_group_collapse_button_text">Daralt</string>
     <string name="notification_header_default_channel">Bildirimler</string>
     <string name="notification_hidden_text">İçerik gizlendi</string>
+    <string name="notification_menu_accessibility">%1$s %2$s</string>
     <string name="notification_menu_gear_description">Bildirim kontrolleri</string>
     <string name="notification_menu_settings_action">Ayarlar</string>
     <string name="notification_menu_snooze_action">Bana hatırlat</string>
@@ -1870,11 +1837,11 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="phone_locked_foget_password">Şifrenizi mi unuttunuz?</string>
     <string name="phone_locked_foget_password_mehod_back">Geri</string>
     <string name="phone_locked_foget_password_method">Şifrenizi mi unuttunuz?</string>
-    <string name="phone_locked_foget_password_method_content">Cihazınızdaki fotoğraf ve kişileriniz dahil olacak şekilde <font color="#a5220e">tüm verileri silmeli</font> ve ardından yeni bir kilit ekranı şifresi belirlemeniz gerekmektedir</string>
+    <string name="phone_locked_foget_password_method_content">Cihazınızdaki fotoğraf ve kişileriniz dahil olacak şekilde tüm verileri silmeli ve ardından yeni bir kilit ekranı şifresi belirlemeniz gerekmektedir</string>
     <string name="phone_locked_foget_password_method_next">İleri</string>
     <string name="phone_locked_foget_password_ok">Tamam</string>
-    <string name="phone_locked_forget_password_suggesstion_one_content">Cihazınızı kapatın <font color="#a5220e">güç</font> ve <font color="#a5220e">ses açma</font> tuşlarına Mi logosunu görene kadar aynı anda basın ve basılı tutun</string>
-    <string name="phone_locked_forget_password_suggesstion_two_content"><font color="#a5220e">Sil &amp;amp; Sıfırla</font> seçeneğini seçin ve cihaz yeniden başlatılana kadar bekleyin</string>
+    <string name="phone_locked_forget_password_suggesstion_one_content">Cihazınızı kapatın güç ve ses açma tuşlarına Mi logosunu görene kadar aynı anda basın ve basılı tutun</string>
+    <string name="phone_locked_forget_password_suggesstion_two_content">Sil &amp; Sıfırla seçeneğini seçin ve cihaz yeniden başlatılana kadar bekleyin</string>
     <string name="phone_locked_forget_password_suggesstions_title">Veriler nasıl silinir?</string>
     <string name="phone_locked_string">Telefon kilitlendi</string>
     <string name="phone_locked_string_owner_user">İlk alan şifresini girmek için çok sayıda başarısız girişimde bulunuldu. Bu cihaz şimdi kilitlendi</string>
@@ -1900,7 +1867,6 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="pm">ÖS</string>
     <string name="pointer_location">İşaretçi konumu</string>
     <string name="pointer_location_summary">Mevcut dokunmatik verilerini gösteren yer paylaşımı</string>
-    <string name="power_charging">%1$s - %2$s</string>
     <string name="power_charging_duration">%1$s - tam şarj olmasına %2$s var</string>
     <string name="power_charging_limited">%1$s - Şarj geçici olarak sınırlı</string>
     <string name="power_discharge_by">Yaklaşık %1$s kadar sürmeli (%2$s)</string>
@@ -2008,7 +1974,9 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings">Hızlı ayarlar</string>
     <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
     <string name="quick_settings_batterysaver_label">Pil tasarrufu</string>
+    <string name="quick_settings_bluetooth_connected_tip">Bluetooth ile başarıyla bağlandı</string>
     <string name="quick_settings_bluetooth_detail_empty_text">Eşleştirilmiş cihaz yok</string>
+    <string name="quick_settings_bluetooth_disconnected_tip">Bugün tüm Bluetooth cihazlarının bağlantısı kesilecek</string>
     <string name="quick_settings_bluetooth_label">Bluetooth</string>
     <string name="quick_settings_bluetooth_multiple_devices_label">Bluetooth (%d cihaz)</string>
     <string name="quick_settings_bluetooth_off_label">Bluetooth kapalı</string>
@@ -2092,6 +2060,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_inversion_label">Renkleri ters çevir</string>
     <string name="quick_settings_location_label">Konum</string>
     <string name="quick_settings_location_off_label">Konum kapalı</string>
+    <string name="quick_settings_low_battery_toast_text">El feneri kullanılamıyor. Pil çok düşük</string>
     <string name="quick_settings_media_device_label">Medya cihazı</string>
     <string name="quick_settings_mic_label">Mikrofon erişimi</string>
     <string name="quick_settings_more_settings">Daha fazla</string>
@@ -2120,10 +2089,14 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="quick_settings_rotation_unlocked_label">Otomatik döndürme</string>
     <string name="quick_settings_rotationlock_label">Döndürme kapalı</string>
     <string name="quick_settings_rssi_emergency_only">Sadece acil aramalar</string>
-    <string name="quick_settings_rssi_label">RSSI</string>
     <string name="quick_settings_screen_record_label">Ekran kaydı</string>
     <string name="quick_settings_screen_record_start">Başlat</string>
     <string name="quick_settings_screen_record_stop">Durdur</string>
+    <string name="quick_settings_screen_rotation_inner_locked">İç ekran döndürme kapalı</string>
+    <string name="quick_settings_screen_rotation_inner_unlocked">İç ekran döndürme açık</string>
+    <string name="quick_settings_screen_rotation_outer_landscape_locked">Manzara modunda dış ekran kilitlendi</string>
+    <string name="quick_settings_screen_rotation_outer_portrait_locked">Portre modunda dış ekran kilitlendi</string>
+    <string name="quick_settings_screen_rotation_outer_unlocked">Dış ekran döndürme açık</string>
     <string name="quick_settings_screenbutton_label">Düğmeler</string>
     <string name="quick_settings_screenlock_label">Ekranı kilitle</string>
     <string name="quick_settings_screenshot_label">Ekran resmi</string>
@@ -2258,7 +2231,7 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="screenshot_top_boundary_pct">Üst sınır yüzde %1$d</string>
     <string name="search_menu">Arama ayarları</string>
     <string name="search_menu_title">Ara</string>
-    <string name="see_more_title">Daha fazla gör</string>
+    <string name="see_more_title">Daha fazla</string>
     <string name="select_application">Uygulama seçin</string>
     <string name="select_conversation_text">Ana ekranınıza eklemek için bir konuşmaya dokunun</string>
     <string name="select_conversation_title">Konuşma araçları</string>
@@ -2307,8 +2280,8 @@ Sorularınız varsa %2$s ile iletişime geçin"</string>
     <string name="show_silently">Bildirimleri sessizce göster</string>
     <string name="show_touches">Hafifçe dokunmayı göster</string>
     <string name="show_touches_summary">Hafifçe dokunmalarda görsel geri bildirim göster</string>
-    <string name="shut_down_password_forget_password_suggesstion_one_content">&lt;<font color="#e6e6e6">Data></font>G<font color="#e6e6e6">&lt;font</font> color=\"#e6e6e6\">örene&lt;/font> &lt;font color=\"#e6e6e6\">kadar&lt;/font> &lt;fo&lt;font color=\"#e6e6e6\">nt colo&lt;/font>r=#e6e6e6>[Güç]&lt;/font> ve &lt;font color=#e6e6e6>[Ses +]&lt;/font> düğmelerini basılı tutun&lt;img src=\"\">&lt;/Data></string>
-    <string name="shut_down_password_forget_password_suggesstion_two_content"><font color="#e6e6e6">[Veriyi sil]</font> öğesini seçin ve ardından <font color="#e6e6e6">[Yeniden başlat]</font> öğesine dokunun</string>
+    <string name="shut_down_password_forget_password_suggesstion_one_content">Görene kadar [Güç] ve [Ses +] düğmelerini basılı tutun</string>
+    <string name="shut_down_password_forget_password_suggesstion_two_content">[Veriyi sil] öğesini seçin ve ardından [Yeniden başlat] öğesine dokunun</string>
     <string name="sim_state_locked_dialog_title">Geçersiz Sim kart</string>
     <string name="sim_state_locked_puk_dialog_message">En az %d kez yanlış Puk kodu girdiniz. Sim kartınız şu anda geçersiz. Bu Sim kartı bir başkasıyla değiştirin</string>
     <string name="simulate_color_space">Renk uzayını simüle et</string>
@@ -2373,6 +2346,7 @@ E"</string>
     <string name="status_bar_ethernet">Ethernet</string>
     <string name="status_bar_input_method_settings_configure_input_methods">Giriş yöntemlerini ayarla</string>
     <string name="status_bar_latest_events_title">Bildirimler</string>
+    <string name="status_bar_network_name_separator">-</string>
     <string name="status_bar_no_notifications_title">Bildirim yok</string>
     <string name="status_bar_notification_app_settings_title">%s ayar</string>
     <string name="status_bar_notification_inspect_item_title">Uygulama bilgisi</string>
@@ -2390,6 +2364,7 @@ E"</string>
     <string name="storage_category">Depolama</string>
     <string name="stream_accessibility">Ulaşılabilirlik</string>
     <string name="stream_alarm">Alarm</string>
+    <string name="stream_assistant">Asistan</string>
     <string name="stream_bluetooth_sco">Bluetooth</string>
     <string name="stream_dtmf">Çift çoklu ton frekansı</string>
     <string name="stream_music">Medya</string>
@@ -2483,6 +2458,7 @@ Telefonunuz çok ısınabilir:
     <string name="tip_close_flares">Bu oturum sırasında uygulama davranışı hakkında bildirim almayacaksınız</string>
     <string name="title_convert_fbe">Dosya tabanlı şifrelemeye dönüştürme</string>
     <string name="title_usb_accessory">USB aksesuar</string>
+    <string name="toast_for_first_use_three_gesture">Swipe horizontally with four fingers to switch between apps</string>
     <string name="today">Bugün</string>
     <string name="tomorrow">Yarın</string>
     <string name="torch_high_temperature_warning">Cihazınız aşırı ısınmış. Şimdi elfeneri kullanılamaz</string>
@@ -2741,7 +2717,6 @@ Wifi adresi (BSSID)
     <string name="wifi_security_psk_sae">WPA2/WPA3-Kişisel</string>
     <string name="wifi_security_sae">WPA3-Kişisel</string>
     <string name="wifi_security_short_none_owe">Hiçbiri/OWE</string>
-    <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA-Kişisel</string>
     <string name="wifi_security_wpa2">WPA2-Kişisel</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2-Kişisel</string>
@@ -2764,6 +2739,7 @@ Kimlik bilgisi depolama etkin değil gibi görünüyor"</string>
     <string name="wifi_wapi_user_certificate">Kullanıcı sertifikası</string>
     <string name="wifitrackerlib_auto_connect_disable">Otomatik bağlantı kapalı</string>
     <string name="wifitrackerlib_available_via_app">%1$s üzerinden erişilebilir</string>
+    <string name="wifitrackerlib_certinstaller_package">com.android.certinstaller</string>
     <string name="wifitrackerlib_connected_via_app">%1$s üzerinden bağlanıldı</string>
     <string name="wifitrackerlib_connected_via_network_scorer">%1$s üzerinden otomatik olarak bağlandı</string>
     <string name="wifitrackerlib_connected_via_network_scorer_default">Ağ derecelendirme sağlayıcısı aracılığıyla otomatik olarak bağlandı</string>

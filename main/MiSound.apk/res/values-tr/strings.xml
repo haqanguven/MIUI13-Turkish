@@ -297,7 +297,7 @@
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başlangıcı,</string>
     <string name="material_timepicker_am">ÖÖ</string>
-    <string name="material_timepicker_clock_mode_description">Switch to clock mode for the time input.</string>
+    <string name="material_timepicker_clock_mode_description">Zaman girişi için saat moduna geçin</string>
     <string name="material_timepicker_hour">Saat</string>
     <string name="material_timepicker_minute">Dakika</string>
     <string name="material_timepicker_pm">ÖS</string>
@@ -516,7 +516,7 @@
     <string name="music_sound_sample">Sistem ön ayar</string>
     <string name="music_sure_to_delete_sound_msg">Seçilen ön ayarlar şimdi silinsin mi?</string>
     <string name="music_thirty_to_sixty_years">30-60 yaşında</string>
-    <string name="music_title_dolby_control">Dolby digital plus</string>
+    <string name="music_title_dolby_control">Dolby dijital plus</string>
     <string name="music_unsupport_effect_summary">USB kulaklıklar desteklenmiyor</string>
     <string name="music_upper_sixty_years">60 yıldan fazla</string>
     <string name="name">Ad</string>
@@ -535,6 +535,7 @@
     <string name="personal_sound">Uygulamalı hazır ayar ile oynatın</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="required_permissions">;</string>
     <string name="retry_test">Baştan başla</string>
     <string name="ringtone_output_device_summary">Aksesuarlar bağlandığında gelen aramalar ve bildirimler için sese izin verin (Kablolu kulaklıklar veya Bluetooth cihazları)</string>
     <string name="ringtone_output_device_title">Hoparlör sesi</string>

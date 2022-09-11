@@ -524,7 +524,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="plugin_ota_progress">Güncelleniyor</string>
     <string name="plugin_start_update">Bluetooth eklentileri güncelleniyor</string>
     <string name="plugin_update_failed">Güncelleştirilemedi</string>
-    <string name="plugin_update_notification_summary">"Bluetooth eklentilerini güncellemeyi tamamlamak için Bluetooth'u açın ve kapatın"</string>
+    <string name="plugin_update_notification_summary">"Bluetooth eklentilerini güncellemeyi tamamlamak için bluetooth'u açın ve kapatın"</string>
     <string name="plugin_update_notification_title">"Bluetooth'u yeniden başlat"</string>
     <string name="plugin_update_success">Bluetooth eklentileri güncellendi</string>
     <string name="pm">ÖS</string>
@@ -571,7 +571,7 @@ Daha hızlı bağlantı protokolü"</string>
     <string name="start_speech">Konuşmayı başlat</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop_speech">Konuşmayı durdur</string>
-    <string name="stylus_firmware_failed_summary">"Kalemi yeniden takın, Bluetooth'u yeniden başlatın ve tekrar deneyin"</string>
+    <string name="stylus_firmware_failed_summary">"Kalemi yeniden takın, bluetooth'u yeniden başlatın ve tekrar deneyin"</string>
     <string name="stylus_firmware_failed_title">Donanım yazılımı güncellenemedi</string>
     <string name="stylus_firmware_success_summary">Eşleştirmek için kalemi takın</string>
     <string name="stylus_firmware_success_title">Donanım yazılımı başarıyla güncellendi</string>

@@ -72,7 +72,7 @@
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
     <string name="button_text_back">Geri</string>
     <string name="cancel_install">İptal et</string>
-    <string name="cancel_update">Güncellemeyi iptal et</string>
+    <string name="cancel_update">İptal et</string>
     <string name="cb_back">Geri</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
@@ -614,7 +614,7 @@
     <string name="pure_introduction_des2">Riskli uygulamaları tanımlayın veya yönetin, çalışmayı kısıtlayın ve sistem hasarını önleyin</string>
     <string name="pure_introduction_des3">Ödeme ortamı güvenliğini tespit edin, ödeme risklerini belirleyin ve mülk güvenliğini koruyun</string>
     <string name="pure_introduction_des4">Uygulamanın gizliliğe erişimini kontrol edin, aşırı erişimi önleyin ve kişisel gizlilik güvenliğini koruyun</string>
-    <string name="pure_introduction_des5">Telekomünikasyon dolandırıcılık risklerini belirleyin, dolandırıcılık uygulamalarına müdahale edin ve riskli transferleri koruyun</string>
+    <string name="pure_introduction_des5">Mobil dolandırıcılık risklerini belirleyin, dolandırıcılık uygulamalarına müdahale edin ve riskli transferleri koruyun</string>
     <string name="pure_introduction_label1">Uygulama güvenliği</string>
     <string name="pure_introduction_label2">Sistem güvenliği</string>
     <string name="pure_introduction_label3">Mülk güvenliği</string>
@@ -628,7 +628,7 @@
     <string name="pure_mode_des">"Güvenli mod haklarınızı daha iyi korumak için Xiaomi'nin güvenliği tarafından incelenmemiş uygulamaların yüklenmesini kısıtlayacaktır"</string>
     <string name="pure_mode_give_up_protect">Korumayı kapat</string>
     <string name="pure_mode_open_toast">Güvenli mod açık</string>
-    <string name="pure_mode_title">Riski engelleyin</string>
+    <string name="pure_mode_title">Riskleri her zaman engelleyin</string>
     <string name="pure_tip_virus">Virüs içerir: %1$s</string>
     <string name="resolve_suggestion_title">Öneri</string>
     <string name="risk_app">Riskli uygulama</string>
@@ -654,10 +654,10 @@
     <string name="safe_mode_close_tip_des">Güvenli modu kapattıktan sonra yüklediğiniz uygulamaların güvenlik testlerimizi geçip geçmediğini öğrenemezsiniz. Yine de kapatılsın mı?</string>
     <string name="safe_mode_close_tip_des_once">Güvenli mod kapatıldıktan sonra yüklediğiniz tüm uygulamaların güvenlik testinden geçtiğinin garantisi yoktur ve riskler olabilir. Eğer güveniyorsanız ve mevcut uygulamayı kurmanız gerekiyorsa yetkili tek kurulumu kullanmanız önerilir</string>
     <string name="safe_mode_in_service">Güvenli mod hizmeti</string>
-    <string name="safe_mode_introduce_close_tip">İstemi kapat</string>
-    <string name="safe_mode_introduce_close_tip_des">Güvenli modu kapattıktan sonra uygulama güvenliğiniz, gizlilik güvenliğiniz, mülkiyet güvenliğiniz tam olarak korunmayacaktır ve riskler olabilir. Lütfen dikkatli çalışın</string>
-    <string name="safe_mode_tip_title_off_msg">Güvenli mod açık değil</string>
-    <string name="safe_mode_tip_title_on_msg">Güvenli mod</string>
+    <string name="safe_mode_introduce_close_tip">Kapatma doğrulaması</string>
+    <string name="safe_mode_introduce_close_tip_des">Güvenli modu kapattıktan sonra uygulama güvenliğiniz, gizlilik güvenliğiniz, mülkiyet güvenliğiniz tam olarak korunmayacak vede riskler olabilecektir</string>
+    <string name="safe_mode_tip_title_off_msg">Güvenli mod kapalı</string>
+    <string name="safe_mode_tip_title_on_msg">Güvenli mod açık</string>
     <string name="safe_mode_title_text">Güvenli mod</string>
     <string name="safe_version_install">Mi güvenlik sürümünü yükleyin</string>
     <string name="saturday">Cumartesi</string>
@@ -679,8 +679,8 @@
     <string name="security_mode_feedback_tips">Lütfen iyileştirmelerinizi bize bildirin</string>
     <string name="security_mode_introduce">Güvenli mod işlevi tanıtımı</string>
     <string name="security_mode_introduce_setting">Temiz mod ayarları</string>
-    <string name="security_mode_off_suggestion_msg">Etkinleştirilmesi önerilir</string>
-    <string name="security_mode_on_suggestion_msg">Aktif</string>
+    <string name="security_mode_off_suggestion_msg">Devre dışı</string>
+    <string name="security_mode_on_suggestion_msg">Etkin</string>
     <string name="send">Gönder</string>
     <string name="server_error_msg">Güvenlik kontrolü yapmak için ağa bağlanılamadı</string>
     <string name="settings">Ayarlar</string>
@@ -695,7 +695,7 @@
     <string name="settings_security_mode_service_opening_msg_2">Uygulama güvenlik kontrolleri</string>
     <string name="settings_security_mode_service_opening_msg_3">Ödeme güvenliği koruması</string>
     <string name="settings_security_mode_service_opening_msg_4">Gizlilik koruması</string>
-    <string name="settings_security_mode_service_opening_msg_5">Telekomünikasyon dolandırıcılık koruması</string>
+    <string name="settings_security_mode_service_opening_msg_5">Mobil dolandırıcılık koruması</string>
     <string name="settings_security_mode_service_title_1">Kötü amaçlı uygulamaların yanlışlıkla yüklenmesini önleyin ve uygulama güvenliğini koruyun</string>
     <string name="settings_security_mode_service_title_2">Sistem güvenliğini korumak için riskli uygulamaları belirleyin ve yönetin</string>
     <string name="settings_security_mode_service_title_3">Uygulamanın gizliliğe erişimini kontrol edin ve kişisel bilgi güvenliğini koruyun</string>

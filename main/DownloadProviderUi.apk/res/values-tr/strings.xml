@@ -488,7 +488,11 @@
     <string name="start_download">İndir</string>
     <string name="starting_analysis">Bilgi alınıyor</string>
     <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="storage_dialog_content">Özelliklerini kullanabilmek için indirilenlerin cihaz depolama alanına erişmesine izin verin</string>
+    <string name="storage_dialog_go">Ayarlar</string>
+    <string name="storage_dialog_title">Cihaz depolama alanına erişin</string>
     <string name="storage_internal">Dahili depolama</string>
+    <string name="storage_permission_deny">Depolama izinleri gerekli</string>
     <string name="storage_sd_card">SD kart</string>
     <string name="storage_usb">USB depolama</string>
     <string name="subfile_list">Dosyalar</string>
@@ -577,7 +581,6 @@
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çrş</string>
     <string name="wednesday_shortest">Çrş</string>
-    <string name="xiaomi_account_not_exist_message">Böyle bir Mi hesabı bulunmamaktadır</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">İptal et</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
     <string name="xiaomi_market_sdk_update_dialog_title">%s yeni sürüm</string>

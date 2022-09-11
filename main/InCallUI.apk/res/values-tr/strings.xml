@@ -75,6 +75,8 @@
     <string name="call_button_tools_text">Özellikler</string>
     <string name="call_contacts_deny_permission_msg">Kişi okuma iznini devre dışı bıraktınız. Kişi bilgileri görüntülenemiyor</string>
     <string name="call_description_recording">Kayıt ediliyor</string>
+    <string name="call_log_short_in">Bu numara az önce sizi aradı</string>
+    <string name="call_log_short_out">Az önce bu numarayı aradın</string>
     <string name="call_not_support_high_frequency_click">Bu düğmeye çok sık dokunma</string>
     <string name="call_progress_info_call_forwarding">Arama başka bir numaraya yönlendiriliyor</string>
     <string name="call_progress_info_call_rejected">Arama reddedildi</string>
@@ -620,5 +622,6 @@
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="wifi_call">VoWifi arama</string>
+    <string name="xiaoai_assistant">Mi AI arama asistanı</string>
     <string name="yesterday">Dün</string>
 </resources>

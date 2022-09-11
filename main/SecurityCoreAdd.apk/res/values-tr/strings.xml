@@ -172,14 +172,14 @@ mesajları ikinci alanda göster"</string>
     <string name="create_work_space">İş alanı oluştur</string>
     <string name="creating_app_icon">Simge oluşturuluyor</string>
     <string name="cta_declaration_agree_and_continue">Kabul et</string>
-    <string name="cta_declaration_message_format" formatted="false">Şirket modunu kullanmadan önce bizim <a href="%s"><font color="%s">%s okuyup kabul e</font></a>tmeniz gerekir. Şirket modunu etkinleştirmek için cihazınızın internete bağlanması gerekir. Kabul ediyor musunuz?</string>
+    <string name="cta_declaration_message_format">Kurumsal modu kullanmadan önce %s %s %s yazımızı okuyup kabul etmelisiniz. Kurumsal modunu etkinleştirmek için cihazınızın internete bağlanması gerekir. Kabul ediyor musunuz?</string>
     <string name="cta_declaration_title">Şartlar ve koşullar</string>
     <string name="current_space">Geçerli alan</string>
     <string name="dataSafe">İkinci alanı kullanmak iki adet cihaza sahip olmak gibidir</string>
     <string name="date_picker_label_day" />
     <string name="date_picker_label_month" />
     <string name="date_picker_label_year" />
-    t<string name="date_picker_lunar">Çin geleneksel yakvimi</string>
+	<string name="date_picker_lunar">Çin geleneksel takvimi</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="declare_dialog_title">Çift uygulamalar hakkında</string>
     <string name="deleteAll">Tümünü sil</string>
@@ -557,7 +557,7 @@ ikinci alan parmak izini tarayın"</string>
     <string name="scanner_fingerprint_tips_desc">İkinci alana giriş için kullanılacak mevcut parmak izlerinden birini seçin. Seçmiş olduğunuz parmak izini ilk alana giriş için kullanamazsınız</string>
     <string name="scanner_fingerprint_tips_title">İkinci alana mevcut parmak izi kullanarak gir</string>
     <string name="scanner_second_space_fingerprint">İkinci parmak izini tara</string>
-    <string name="search_input_txt_na"><font color="'#ff0000'">%s</font></string>
+    <string name="search_input_txt_na">%s</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_result_text">Uygulama bulunamadı</string>
     <string name="secondSpace">İkinci alan</string>
@@ -567,6 +567,7 @@ ikinci alan parmak izini tarayın"</string>
     <string name="second_space_desktop_tips_dialog_title">Hızlı</string>
     <string name="second_space_finger_printf_desc">İkinci alana girmek için kullanılacak olan özel bir parmak izi ekleyin</string>
     <string name="second_space_finger_printf_title">İkinci alan parmak izi</string>
+    <string name="second_space_setting_search_label">Gizlilik koruması/Koruma/Gizlilik koruması özellikleri</string>
     <string name="secondspace_homepage">"İkinci alan için belirlenmiş bir ekran kilidi ayarlayın
 Verilerinizi ayırın ve güvenliğini sağlayın"</string>
     <string name="select_existed_fingerprint">Parmak izi seçin</string>
@@ -770,7 +771,7 @@ ikinci alan parmak izi kullanın"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
-    <string name="undo_activated_dialog_message">Yetkilendirmeyi iptal etmek şirket modunu devre dışı bırakır ve cihazınızda fabrika verilerine sıfırlama işlemi gerçekleştirir. İlgili tüm özellikler artık kullanılamayacak. Bunun yanında Xiaomi şirket modu için gereken bilgileri toplamayı durduracaktır (IMEI, Cihaz Kimliği, sistem sürümü, bölge vb.). Size, Xiaomi’nin şirket modu için topladığı verileri yönetmediğini hatırlatmak isteriz. İlgili tüm tarafları bilgilendirmek için elimizden gelenin en iyisini yapacağız ancak bu iptal işlemini onaylamak için şirketinizin amirleriyle iletişime geçmenizi öneririz. Yetkilendirme iptal etmek ve fabrika verilerine sıfırlama istiyor musunuz?</string>
+    <string name="undo_activated_dialog_message">"Yetkilendirmeyi iptal etmek şirket modunu devre dışı bırakır ve cihazınızda fabrika verilerine sıfırlama işlemi gerçekleştirir. İlgili tüm özellikler artık kullanılamayacak. Bunun yanında Xiaomi şirket modu için gereken bilgileri toplamayı durduracaktır (IMEI, Cihaz Kimliği, sistem sürümü, bölge vb.). Size, Xiaomi’nin şirket modu için topladığı verileri yönetmediğini hatırlatmak isteriz. İlgili tüm tarafları bilgilendirmek için elimizden gelenin en iyisini yapacağız ancak bu iptal işlemini onaylamak için şirketinizin amirleriyle iletişime geçmenizi öneririz. Yetkilendirme iptal etmek ve fabrika verilerine sıfırlama istiyor musunuz?"</string>
     <string name="undo_activated_dialog_ok">Geri al</string>
     <string name="undo_grant_dialog_message">Xiaomi yetkilendirmeyi iptal ettikten sonra bu özellik için gereken bilgileri toplamayı durduracaktır. Şimdi iptal edilsin mi?</string>
     <string name="undo_privacy_menu">Yetkilendirmeyi iptal et</string>
@@ -812,7 +813,7 @@ kendi uygulamasını hak ediyor"</string>
     <string name="xspace_head">Çift uygulama</string>
     <string name="xspace_header">Çift uygulamalar</string>
     <string name="xspace_instagram_title">İnstagram</string>
-    <string name="xspace_install_complete">&lt;font>Çift uygulama başarıyla oluşturuldu. &lt;/font>&lt;font color=#0D84FF>Şimdi aç&lt;/font></string>
+    <string name="xspace_install_complete">Çift uygulama başarıyla oluşturuldu. Şimdi aç</string>
     <string name="xspace_install_completed">Simge ana ekrana eklendi</string>
     <string name="xspace_install_completed_global">Simge çekmeceye eklendi</string>
     <string name="xspace_install_failed">Oluşturulamadı</string>

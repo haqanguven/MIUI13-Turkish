@@ -52,7 +52,7 @@
     <string name="account_invalid_user_avatar">Bu fotoğraf geçersiz. Farklı bir fotoğraf deneyin</string>
     <string name="account_limit_update_birthday">Doğum günü şu anda güncellenemiyor</string>
     <string name="account_mibi_center">Mi kredi</string>
-    <string name="account_mibi_charge">Mi kredi Ücreti</string>
+    <string name="account_mibi_charge">Mi kredi ücreti</string>
     <string name="account_mipay_info">Mi ödeme</string>
     <string name="account_no_set">Hiçbiri</string>
     <string name="account_none">Hiçbiri</string>
@@ -66,6 +66,7 @@
 Hesap kimliğiniz: %s"</string>
     <string name="account_token_expired_title">Kimlik doğrulaması başarısız oldu</string>
     <string name="account_user_avatar">Profil fotoğrafı</string>
+    <string name="account_user_avatar_activity_not_found">Galeri açılamadı</string>
     <string name="account_user_avatar_from_album">Fotoğraf seç</string>
     <string name="account_user_avatar_from_camera">Fotoğraf çek</string>
     <string name="account_user_base_info">Kişisel bilgiler</string>
@@ -127,6 +128,7 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="character_counter_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
     <string name="character_counter_pattern">%1$d / %2$d</string>
     <string name="check_apk_update">Güncellemeleri kontrol et</string>
+    <string name="child_account_system_ad_disable_hint">Bu özellik çocuk hesaplarında kullanılamaz</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
     <string name="chinese_day_11">11. gün</string>
@@ -199,6 +201,14 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="close">Kapat</string>
     <string name="cloud_description_closed">Dolu | Senkronizasyon kapalı</string>
     <string name="cloud_description_normal">Dolu</string>
+    <string name="cloud_member">Üyelik</string>
+    <string name="cloud_member_status_expired">Süresi doldu</string>
+    <string name="cloud_member_status_expired_soon">Yakında sona eriyor</string>
+    <string name="cloud_member_status_non_vip">Yükselt</string>
+    <string name="cloud_member_vipname_free">Ücretsiz</string>
+    <string name="cloud_member_vipname_mega">Mega</string>
+    <string name="cloud_member_vipname_premium">Premium</string>
+    <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi bulut</string>
     <string name="cloud_service_status_backup_not_open">Yedekleme kapalı</string>
     <string name="cloud_service_status_cloud_not_open">Kapalı</string>
@@ -311,7 +321,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="facebook_app_id">2263965750590514</string>
     <string name="facebook_login">Facebook ile giriş yap</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
-    <string name="family_share">Aile paylaşımı</string>
+    <string name="family_service">Aile hizmetleri</string>
+    <string name="family_share">Aile paylaşımları</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Cihazı bul</string>
     <string name="find_device_access_denied">Durum alınamıyor. Erişim engellendi</string>
@@ -579,9 +590,10 @@ Bu kodu amirinize gönderin"</string>
     <string name="notify_verify_security_phone">Telefon</string>
     <string name="oauth_get_scopes_failed">Hesap bilgileri alınamadı</string>
     <string name="oauth_getting_scopes">Hesap doğrulanıyor</string>
-    <string name="oauth_scopes_intro"><font color="#%1$s">&lt;fon</font>t color=#%1$s>%2$s&lt;/font> aşağıdaki izinleri alacak:&lt;br> &lt;br> %3$s</string>
+    <string name="oauth_scopes_intro">%1$s %2$s aşağıdaki izinleri alacak: %3$s</string>
     <string name="oauth_title">Mi hesabı ile oturum açın</string>
     <string name="ok">Tamam</string>
+    <string name="operator_broadnet">Çin Broadnet</string>
     <string name="operator_mobile">Çin Mobil</string>
     <string name="operator_mobile_agreement">China Mobil tarafından sağlanan doğrulama hizmetleri</string>
     <string name="operator_other">Phone number</string>
@@ -622,7 +634,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_completed">Tamamlandı</string>
     <string name="passport_confirm_login">Devam et</string>
     <string name="passport_confirm_recycle_account">Evet</string>
-    <string name="passport_confirm_recycle_account_msg"><font color="Red">Görünüşe göre</font> %s numarası operatörünüz tarafından geri dönüştürülmüş ve onunla ilişkili bir Mi hesabı var. Bu hesap senin mi?</string>
+    <string name="passport_confirm_recycle_account_msg">Görünüşe göre %s numarası operatörünüz tarafından geri dönüştürülmüş ve onunla ilişkili bir Mi hesabı var. Bu hesap senin mi?</string>
     <string name="passport_continue">Devam et</string>
     <string name="passport_copy_message_text_success">Başarıyla kopyalandı</string>
     <string name="passport_copy_message_vcode">Kodu kopyala</string>
@@ -630,7 +642,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_debug_china_failed_to_get_phone_from_sim_activate_but_successfully_from_operator_with_count">Yurtiçi: Sim kart etkinleştirme numarası alınamadı (%s)</string>
     <string name="passport_debug_china_successfully_got_phone_from_sim_activate_with_count">Yurtiçi: Sim kart etkinleştirilmesi başarılı oldu (%s)</string>
     <string name="passport_debug_international_failed_to_get_phone_from_sim_activate">Uluslararası: Sim kart etkinleştirilmesi başarısız oldu</string>
-    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">Uluslararası: Sim kart etkinleştirilmesi başarılı oldu (%)</string>
+    <string name="passport_debug_international_successfully_got_phone_from_sim_activate_with_count">Uluslararası: Sim kart etkinleştirilmesi başarılı oldu (%s)</string>
     <string name="passport_delete_account">Oturumu kapat</string>
     <string name="passport_downlink_reg">Telefon numarasını kullanarak hesap oluştur</string>
     <string name="passport_email">E-posta adresi</string>
@@ -670,7 +682,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_get_back_pwd">Hesap şifresini kurtar</string>
     <string name="passport_get_innetdate_agree">Kontrol et</string>
     <string name="passport_get_innetdate_disagree">Hayır</string>
-    <string name="passport_get_innetdate_msg"><font color="Red">Görünüşe göre</font> %s numarası operatörünüz tarafından geri dönüştürülmüş gibi görünüyor. Numaranın ne zaman çevrimiçi olduğu kontrol edilsin mi?</string>
+    <string name="passport_get_innetdate_msg">Görünüşe göre %s numarası operatörünüz tarafından geri dönüştürülmüş gibi görünüyor. Numaranın ne zaman çevrimiçi olduğu kontrol edilsin mi?</string>
     <string name="passport_get_innetdate_title">Numaranın ne zaman çevrimiçi olduğuna bak</string>
     <string name="passport_get_verify_code">Kodu al</string>
     <string name="passport_getting_activator_phone">Sim bilgileri alınıyor</string>
@@ -818,7 +830,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_use_generated_pwd_message">Şifrenizi hatırladığınızdan emin olun. Şifrenizi diğer Mi hizmetlerinde oturum açmak için kullanabilirsiniz</string>
     <string name="passport_use_generated_pwd_title">Şifrenizi hatırlayın</string>
     <string name="passport_user_agreement">Kullanıcı sözleşmesi</string>
-    <string name="passport_user_agreement_link">"Xiaomi'nin "<a href="%1$s">Kullanıcı sözleşmesini</a> ve <a href="%2$s"> Gizlilik politikasını okudum ve kabul ediyorum</a>"</string>
+    <string name="passport_user_agreement_link">"Xiaomi'nin %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ediyorum</string>
     <string name="passport_user_agreement_required">Kullanıcı sözleşmesi (Zorunlu)</string>
     <string name="passport_user_id_notice">Mi hesap kimliğiniz: %s</string>
     <string name="passport_user_reg_region">Ülke veya bölge</string>
@@ -826,6 +838,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="passport_vcode_notification_title">Oturum açma doğrulamanız tamamlanmadı</string>
     <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
     <string name="passport_vcode_sms_send_prompt">%s numarasına doğrulama kodu gönder</string>
+    <string name="passport_vcode_what_app_send_prompt">WhatsApp doğrulama kodunuz %s kurtarma telefonunuza teslim edilecek</string>
     <string name="passport_verification_failed">Kimlik doğrulaması başarısız oldu</string>
     <string name="passport_verify">Doğrula</string>
     <string name="passport_verifying_activator_phone">Telefon güvenliği doğrulanıyor</string>
@@ -1044,20 +1057,29 @@ Bu kodu amirinize gönderin"</string>
     <string name="update_phone_notice">Güvenlik ayarlarını değiştir</string>
     <string name="update_phone_number_notice_message">Telefon numarasını güncellemeden önce kimliğinizi güncellemeniz gerekmektedir</string>
     <string name="used_cloud_storage_info">Kullanılan depolama alanı: %s</string>
+    <string name="user_agreement_device_permission_desc">Oturum açma ortamının güvenliğini sağlamak içindir</string>
+    <string name="user_agreement_device_permission_title">Cihaz bilgilerine erişin</string>
+    <string name="user_agreement_must_permission_msg">Zorunlu izinler (Bu uygulamanın temel özellikleri ve hizmetleri için kullanılır)</string>
+    <string name="user_agreement_network_permission_msg">Bu uygulamanın internete bağlanması gerekiyor ve normal çalışabilmesi için aşağıdaki izinlere ihtiyacı var:</string>
+    <string name="user_agreement_permission_summary_msg">Xiaomi hesabı Xiaomi tarafından sağlanan tüm hizmetlere erişmenizi sağlar. Bu uygulamanın internete bağlanması gerekiyor ve normal çalışabilmesi için aşağıdaki izinlere ihtiyacı var:</string>
+    <string name="user_agreement_use_account_msg">Xiaomi hesabı Xiaomi tarafından sağlanan tüm hizmetlere erişmenizi sağlar</string>
+    <string name="user_agreement_wifi_permission_title">Wifi ağını açma ve kapatma</string>
+    <string name="user_agreement_wlan_permission_desc">Güvenlik sorunları için oturum açma ortamını kontrol etmek içindir</string>
+    <string name="user_agreement_wlan_permission_title_china">Wifi ağını açma ve kapatma</string>
     <string name="user_avatar_update_title">Profil resmini değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_instruction_all_purpose">Mi hesaba hoş geldiniz. Hesabınızı Xiaomi, Mi.com, Xiaomi bulut ve GetApps gibi bağlı şirketler tarafından sağlanan hizmetlere erişmek için kullanabilirsiniz. Mi paraları alabilir, sanal ürünler satın alabilir ve oyunlar, temalar vede e-kitaplar dahil değerli hizmetlerden yararlanabilirsiniz</string>
-    <string name="user_instruction_tip">Giriş yapabilme, şartlar ve koşulları okuyup kabul edebilmek için</string>
-    <string name="user_license_with_3rd_app"><Data>"Mi hesabımla oturum açarak &lt;a href=%1$s>kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s>gizlilik politikasını &lt;/a> vede Mi hesabı &lt;a href=%3$s>kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%4$s>gizlilik politikasını&lt;/a> okuduğumu ve kabul ettiğimi onaylıyorum"</Data></string>
-    <string name="user_license_with_3rd_app_mobile"><Data>"&lt;a href=%1$s>Kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s>gizlilik politikasını&lt;/a> Mi hesabının &lt;a href=%3$s>kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%4$s>gizlilik politikasını&lt;/a> ayrıca &lt;a href=%5$s>China Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_no_operator"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a> and Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_telcom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of eSurfing account verification services&lt;/a>."</Data></string>
-    <string name="user_license_with_3rd_app_unicom"><Data>"I've read and agreed to &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>, Mi Account's &lt;a href=%3$s>User Agreement&lt;/a> and &lt;a href=%4$s>Privacy Policy&lt;/a>, as well as &lt;a href=%5$s>Terms and conditions of China Unicom verification services&lt;/a>."</Data></string>
-    <string name="user_license_with_out_3rd_app_no_operator"><Data>"I've read and agreed to Mi Account's &lt;a href=%1$s>User Agreement&lt;/a> and &lt;a href=%2$s>Privacy Policy&lt;/a>."</Data></string>
-    <string name="user_license_without_3rd_app"><Data>"Mi hesabı &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikasını&lt;/a> okudum ve kabul ediyorum"</Data></string>
-    <string name="user_license_without_3rd_mobile"><Data>"Mi hesabının &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası&lt;/a>, ayrıca &lt;a href=%3$s> Çin Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum&lt;/a>"</Data></string>
-    <string name="user_license_without_3rd_telcom"><Data>"Mi hesabının &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası&lt;/a>, ayrıca &lt;a href=%3$s> eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum&lt;/a>"</Data></string>
-    <string name="user_license_without_3rd_unicom"><Data>"Mi hesabının &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası&lt;/a>, ayrıca &lt;a href=%3$s> Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum&lt;/a>"</Data></string>
+    <string name="user_instruction_tip">Giriş yapabilme, şartlar ve koşulları okuyup kabul edebilmek içindir</string>
+    <string name="user_license_with_3rd_app"><Data>"Mi hesabımla oturum açarak &lt;a href=%1$s>kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s>Gizlilik politikasını &lt;/a> vede Mi hesabı &lt;a href=%3$s>kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%4$s>gizlilik politikasını&lt;/a> okuduğumu ve kabul ettiğimi onaylıyorum"</Data></string>
+    <string name="user_license_with_3rd_app_mobile">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ayrıca %5$s China Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum</string>
+    <string name="user_license_with_3rd_app_no_operator">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="user_license_with_3rd_app_telcom">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve %5$s eSurfing hesap doğrulama hizmetlerinin şart ve koşullarını okudum ve kabul ediyorum</string>
+    <string name="user_license_with_3rd_app_unicom">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve ayrıca Çin Unicom doğrulama hizmetlerinin %5$s şart ve koşullarını okudum ve kabul ediyorum</string>
+    <string name="user_license_with_out_3rd_app_no_operator">Mi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="user_license_without_3rd_app">Mi hesabı %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okudum ve kabul ediyorum"</string>
+    <string name="user_license_without_3rd_mobile">Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası  ayrıca %3$s Çin Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum</string>
+    <string name="user_license_without_3rd_telcom">Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası, ayrıca %3$s eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum</string>
+    <string name="user_license_without_3rd_unicom">Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası, ayrıca %3$s Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="vip_account_settings">Vip ayarları</string>

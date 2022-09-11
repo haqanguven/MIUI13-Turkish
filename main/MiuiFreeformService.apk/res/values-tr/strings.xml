@@ -31,6 +31,7 @@
     <string name="afternoon">ÖS</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Yüzen pencere</string>
+    <string name="bottom_bar_smallwindow_drag_text">Sabitlemek için buraya sürükleyin</string>
     <string name="bottom_bar_smallwindow_text">Sabitlemek için bırakın</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -200,6 +201,7 @@
     <string name="friday_shortest">C</string>
     <string name="fullscreen_slide_to_small_freeform">Serbest biçime tam ekran slayt</string>
     <string name="fullscreen_slide_to_small_freeform_summary">Ekranın altından ekranın sağ üst köşesine kaydırın</string>
+    <string name="fullscreen_slide_to_small_freeform_summary_squarehot">Ekranın altından üst kenarına doğru kaydırın</string>
     <string name="heavenly_stems_bing">3</string>
     <string name="heavenly_stems_ding">4</string>
     <string name="heavenly_stems_geng">7</string>

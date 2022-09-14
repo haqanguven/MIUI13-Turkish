@@ -577,7 +577,6 @@ Oynatma kalitesi"</string>
     <string name="change_pin_title">Sesli mesaj Pin değiştir</string>
     <string name="character_counter_content_description">Karakterler %1$d/%2$d girdi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
-    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="charge_length_format">%1$s önce</string>
     <string name="china_mobile_palm_category">Operatör hizmeti</string>
     <string name="china_mobile_palm_title">CMCC çevrimiçi servis salonu</string>
@@ -774,6 +773,8 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="data_enable_summary">Cihazın mobil veri kullanımına izin verir</string>
     <string name="data_enable_warning">Her zaman mobil veri kullanılmasına izin vermek operatör planınızın dışında ek ücretler oluşturabilir. Yine de bağlanılsın mı?</string>
     <string name="data_enabled">Mobil veri</string>
+    <string name="data_interruption_remind">"Ağ ortamınız güvenilir değil gibi görünüyor. Bağlantıyı iyileştirmek için ikincil Sim'de VoLTE aramaları sırasında cihazınızın mobil veri kullanmasına izin verin"</string>
+    <string name="data_interruption_remind_for_t">"Ağ ortamınız güvenilir değil gibi görünüyor. Bağlantıyı iyileştirmek için ikincil Sim'de VoLTE aramaları sırasında cihazınızın mobil veri kullanmasına izin verin"</string>
     <string name="data_plan">Mobil veri planı</string>
     <string name="data_usage_disable_mobile">Mobil veri kapatılsın mı?</string>
     <string name="data_usage_ota">Sistem güncellemeleri</string>
@@ -812,6 +813,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="delete_blob_text">Paylaşılan verileri silin</string>
     <string name="delete_fdn_contact">Sabit arama numarasını sil</string>
     <string name="deleting_fdn_contact">Sabit arama numarası siliniyor</string>
+    <string name="description_delete_button">Geri al</string>
     <string name="description_dial_button">Çevir</string>
     <string name="description_dialpad_back">Geri git</string>
     <string name="description_dialpad_button">Tuş takımını göster</string>
@@ -843,7 +845,7 @@ Devam etmek için sil ve dönüştür seçeneğine basın"</string>
     <string name="direct_boot_unaware_dialog_message">Not: Yeniden başlatma sonrasında, telefonunuzun kilidi açılıncaya kadar bu uygulama başlatılamaz</string>
     <string name="disable">Kapat</string>
     <string name="disable_all_cf">Tüm arama yönlendirme seçeneklerini kapat</string>
-    <string name="disable_cdma_cw">Cancel</string>
+    <string name="disable_cdma_cw">İptal et</string>
     <string name="disable_cfb_forbidden">Operatörünüz telefonunuz meşgul durumdayken arama yönlendirmenin kapatılmasını desteklemiyor</string>
     <string name="disable_cfnrc_forbidden">Operatörünüz telefonunuza ulaşılamadığı durumlarda arama yönlendirme özelliğini desteklemiyor</string>
     <string name="disable_cfnry_forbidden">Operatörünüz cevapsız aramaları yönlendirme özelliğinin kapatılmasını desteklemiyor</string>
@@ -865,7 +867,6 @@ Yine de eSim devre dışı bırakılsın mı?"</string>
     <string name="display_name_summary">&lt;Kullanıcı adı ile aynı></string>
     <string name="display_name_title">Görüntüleme ismi</string>
     <string name="do_not_show_again">Tekrar gösterme</string>
-    <string name="domain_address">SipDomain</string>
     <string name="domain_address_title">Sunucu</string>
     <string name="doneButton">Tamamlandı</string>
     <string name="dsda_summary">5G+4G çift Sim bekleme modu seçili ağlar tarafından desteklenir</string>
@@ -951,10 +952,10 @@ Yine de eSim devre dışı bırakılsın mı?"</string>
     <string name="enable_dual_4g_prompt_when_turn_on_volte">"VoLTE görüşmeleri her iki Sim yuvası için 4G bağlantısı gerektirir. Şimdi çift 4G'ye geçelim mi?"</string>
     <string name="enable_esim_dialog_summary">"eSim'i şimdi etkinleştirirseniz Sim %s devre dışı bırakılacaktır
 Yine de eSim etkinleştirin mi?"</string>
-    <string name="enable_esim_dialog_title">eSim'i etkinleştir</string>
+    <string name="enable_esim_dialog_title">"eSim'i etkinleştir"</string>
     <string name="enable_esim_error_toast_message">eSim etkinleştirilemedi</string>
     <string name="enable_esim_progress_activating_message">eSim etkinleştiriliyor</string>
-    <string name="enable_esim_title">"Use eSim"</string>
+    <string name="enable_esim_title">eSim kullan</string>
     <string name="enable_fdn">Sabit numaraları aç</string>
     <string name="enable_fdn_ok">Sabit numaraları kapat</string>
     <string name="enable_freeform_support">Serbest biçimli pencereleri etkinleştir</string>
@@ -1043,8 +1044,6 @@ Yine de eSim etkinleştirin mi?"</string>
     <string name="fiveg_infos">5G bilgileri</string>
     <string name="fiveg_network_config_type1">Ağ yapılandırma türü:</string>
     <string name="fiveg_network_mode_default">Otomatik</string>
-    <string name="fiveg_network_mode_nsa">NSA</string>
-    <string name="fiveg_network_mode_sa_nsa">SA+NSA</string>
     <string name="fiveg_network_mode_title">5G ağ modunu seç</string>
     <string name="fiveg_network_title">5G ağları</string>
     <string name="fiveg_nrca_switch_summary">Daha iyi bağlantı için 5G operatör toplamasını kullanın</string>
@@ -1069,57 +1068,12 @@ Yine de eSim etkinleştirin mi?"</string>
     <string name="flash_when_ring_summary">Gelen aramalar için flaşı yakıp söndürür</string>
     <string name="flash_when_ring_title">Telefon çaldığında yakıp söndür</string>
     <string name="fmt_chinese_date">N/e</string>
-    <string name="fmt_date">D</string>
-    <string name="fmt_date_day">d</string>
-    <string name="fmt_date_long_month">MMMM</string>
     <string name="fmt_date_long_month_day">d MMMM</string>
-    <string name="fmt_date_long_year_month">MMMM yyyy</string>
     <string name="fmt_date_long_year_month_day">d MMMM, yyyy</string>
-    <string name="fmt_date_numeric_day">d</string>
-    <string name="fmt_date_numeric_month">M</string>
     <string name="fmt_date_numeric_month_day">d-M</string>
-    <string name="fmt_date_numeric_year">yyyy</string>
-    <string name="fmt_date_numeric_year_month">M-yyyy</string>
     <string name="fmt_date_numeric_year_month_day">d-M-yyyy</string>
-    <string name="fmt_date_short_month">MMM</string>
     <string name="fmt_date_short_month_day">d MMM</string>
-    <string name="fmt_date_short_year_month">MMM yyyy</string>
     <string name="fmt_date_short_year_month_day">d MMM, yyyy</string>
-    <string name="fmt_date_time">D T</string>
-    <string name="fmt_date_time_timezone">D T z</string>
-    <string name="fmt_date_timezone">D z</string>
-    <string name="fmt_date_year">yyyy</string>
-    <string name="fmt_time">T</string>
-    <string name="fmt_time_12hour">"h 'o''clock'"</string>
-    <string name="fmt_time_12hour_minute">h:mm</string>
-    <string name="fmt_time_12hour_minute_pm">h:mm a</string>
-    <string name="fmt_time_12hour_minute_second">h:mm:ms</string>
-    <string name="fmt_time_12hour_minute_second_millis">h:mm:ss.S</string>
-    <string name="fmt_time_12hour_minute_second_millis_pm">h:mm:ss.S a</string>
-    <string name="fmt_time_12hour_minute_second_pm">h:mm:ss a</string>
-    <string name="fmt_time_12hour_pm">ha</string>
-    <string name="fmt_time_24hour">"H 'o''clock'"</string>
-    <string name="fmt_time_24hour_minute">H:mm</string>
-    <string name="fmt_time_24hour_minute_second">H:mm:ss</string>
-    <string name="fmt_time_24hour_minute_second_millis">H:mm:ss.S</string>
-    <string name="fmt_time_millis">"S'ms'"</string>
-    <string name="fmt_time_minute">"m'min'"</string>
-    <string name="fmt_time_minute_second">"m'min' s's'"</string>
-    <string name="fmt_time_minute_second_millis">"m'min' s.S's'"</string>
-    <string name="fmt_time_second">"s's'"</string>
-    <string name="fmt_time_second_millis">"s.S's'"</string>
-    <string name="fmt_time_timezone">T z</string>
-    <string name="fmt_timezone">z</string>
-    <string name="fmt_weekday">W</string>
-    <string name="fmt_weekday_date">W, D</string>
-    <string name="fmt_weekday_date_time">W, D T</string>
-    <string name="fmt_weekday_date_time_timezone">W, D T z</string>
-    <string name="fmt_weekday_date_timezone">W, D z</string>
-    <string name="fmt_weekday_long">EEEE</string>
-    <string name="fmt_weekday_short">E</string>
-    <string name="fmt_weekday_time">W T</string>
-    <string name="fmt_weekday_time_timezone">W T z</string>
-    <string name="fmt_weekday_timezone">W z</string>
     <string name="fold_answer_pref_summary">Gelen bir aramayı otomatik olarak kabul etmek için cihazı katlayın</string>
     <string name="fold_answer_pref_title">Aramaları kabul etmek için katlayın</string>
     <string name="forbidden_fakecell">Sahte baz istasyonlarına bağlanmayın</string>
@@ -1137,7 +1091,7 @@ Yine de eSim etkinleştirin mi?"</string>
     <string name="forced_to_hide">Göstermeyi gizle</string>
     <string name="four_point_five_switch_summary">Mobil veri bağlantı hızını artırmak ve ses kalitesini iyileştirmek için 4.5G kullanın</string>
     <string name="four_point_five_switch_title">4.5G</string>
-    <string name="frequecy_num">Lte kanal numarası</string>
+    <string name="frequecy_num">LTE kanal numarası</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cuma</string>
     <string name="friday_shortest">C</string>
@@ -1155,7 +1109,7 @@ Sorunun devam etmesi halinde operatörünüz ile iletişime geçin"</string>
 Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="general_news_settings">Genel haberler</string>
     <string name="general_setting">Ayarlar</string>
-    <string name="general_settings_category">General</string>
+    <string name="general_settings_category">Genel</string>
     <string name="get_pin2">Pin2 kodunu girin</string>
     <string name="get_smsc_address_error">Ağa bağlanılamıyor</string>
     <string name="get_smsc_address_timeout">Bağlantı zaman aşımı</string>
@@ -1190,6 +1144,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="heavenly_stems_yi">2</string>
     <string name="help_feedback_label">Yardım &amp; geri bildirim</string>
     <string name="help_label">Yardım &amp; geri bildirim</string>
+    <string name="hide_stk_name">USim araç kiti</string>
     <string name="home">Ana ekran ayarları</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="ime_security_warning">Bu giriş yöntemi şifreler ve kredi kartı numaraları gibi kişisel veriler de dahil olmak üzere yazdığınız tüm metni toplayabilir. Bu yöntem %1$s uygulamasının bir özelliğidir. Bu giriş yöntemini kullanmak istiyor musunuz?</string>
@@ -1216,7 +1171,7 @@ Yine de yeni sağlayıcıya geçilsin mi?"</string>
     <string name="incall_error_out_of_service_wfc">Mobil ağ kullanılamıyor. Arama yapmak için bir kablosuz ağa bağlanın</string>
     <string name="incall_error_outgoing_call_failed">Arama yapılamadı</string>
     <string name="incall_error_power_off">Arama yapmak için uçak modunu kapatın</string>
-    <string name="incall_error_power_off_thermal">"<b>Telefon çok sıcak</b>
+    <string name="incall_error_power_off_thermal">"Telefon çok sıcak
 
 Bu arama tamamlanamıyor. Telefonunuz soğuyunca tekrar deneyin
 
@@ -1267,6 +1222,11 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="ivr_type_cu_3">Çin Unicom 2G</string>
     <string name="ivr_type_settings">Veri plan ayarları</string>
     <string name="ivr_type_settings_hint">Tarife kodunuzu girin</string>
+    <string name="jp_sb_label_ndp">"Diğer taşıyıcının USim
+kilit açma kodunun girilmesini beklerken eklenir"</string>
+    <string name="jp_sb_sim_lock_unlock_psw_max_length">Girilen kilit açma kodu 8 basamaktan az veya 16 basamaktan fazla</string>
+    <string name="jp_sb_unlock_failed">Kod doğrulama hatasının kilidini açın</string>
+    <string name="jp_sb_unlock_success">Kod doğrulama başarısının kilidini açın</string>
     <string name="jump_to_mobile_network_setting">Mobil ağ ayarları</string>
     <string name="keep_screen_on">Uyanık kal</string>
     <string name="keep_screen_on_summary">Şarj edilirken ekran hiçbir zaman uykuya geçmez</string>
@@ -1364,8 +1324,9 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="location">Konum</string>
     <string name="lodgings_disable">Konaklama kapalı</string>
     <string name="lodgings_enable">Konaklama açık</string>
+    <string name="low_battery_flash_when_ring_button_tip">Düşük pil nedeniyle çalarken flaş kullanılamıyor</string>
     <string name="lte_band_sel_setting">Band listesi</string>
-    <string name="lte_band_set_status">Lte bandı seç</string>
+    <string name="lte_band_set_status">LTE bandı seç</string>
     <string name="lte_freq_set_button">Pci ve frekansı ayarla</string>
     <string name="main_netcheck_summary">Ağ sorunları için test bağlantısı</string>
     <string name="maintenance_disable">Bakım kapalı</string>
@@ -1375,7 +1336,6 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="manage_fdn_list">SAN listesi</string>
     <string name="managed_user_title">Tüm iş uygulamaları</string>
     <string name="manual_mode_disallowed_summary">%1$s ile bağlantı kurulduğunda kullanılamaz</string>
-    <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">"ÖÖ veya ÖS'ı seçin"</string>
     <string name="material_hour_selection">Saat seçin</string>
     <string name="material_minute_selection">Dakika seçin</string>
@@ -1486,7 +1446,7 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="mobile_data_status_roaming_turned_on_subtext">Veri dolaşımı açık</string>
     <string name="mobile_data_status_roaming_with_plan_subtext">Şu anda dolaşımda olan veri planı etkin</string>
     <string name="mobile_data_status_roaming_without_plan_subtext">Şu anda dolaşım veri planına ihtiyaç duyuyor</string>
-    <string name="mobile_geo_location_config_summary">Mark locations where network signal abnormalities occur to improve call quality</string>
+    <string name="mobile_geo_location_config_summary">Arama kalitesini artırmak için ağ sinyali anormalliklerinin meydana geldiği yerleri işaretleyin</string>
     <string name="mobile_geo_location_config_title">Sabit nokta ağ optimizasyonu</string>
     <string name="mobile_intelligent_connection_title">Akıllı mobil ağ bağlantısı</string>
     <string name="mobile_network_dual_card_optimizationmobile_title">Çift Sim &amp; mobil ağlar</string>
@@ -1621,13 +1581,11 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s kaldır</string>
     <string name="mtrl_exceed_max_badge_number_content_description">"%1$d'den fazla yeni bildirim"</string>
-    <string name="mtrl_exceed_max_badge_number_suffix">%1$d%2$s</string>
     <string name="mtrl_picker_a11y_next_month">Gelecek aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Şu anki seçim: %1$s</string>
     <string name="mtrl_picker_cancel">İptal et</string>
     <string name="mtrl_picker_confirm">Kaydet</string>
-    <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Bir tarih seçin</string>
     <string name="mtrl_picker_date_header_unselected">Seçilen tarih</string>
     <string name="mtrl_picker_day_of_week_column_header">Gün sütunu: %1$s</string>
@@ -1639,7 +1597,6 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="mtrl_picker_out_of_range">Kapsama alanı dışında: %1$s</string>
     <string name="mtrl_picker_range_header_only_end_selected">Başlangıç tarihi – %1$s</string>
     <string name="mtrl_picker_range_header_only_start_selected">Bitiş tarihi - %1$s</string>
-    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
     <string name="mtrl_picker_range_header_title">Bir tarih aralığı seçin</string>
     <string name="mtrl_picker_range_header_unselected">"Baslangic tarihi -  Bitiş tarihi"</string>
     <string name="mtrl_picker_save">Kaydet</string>
@@ -1655,7 +1612,7 @@ Yine de acil arama yapabilirsiniz"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
     <string name="multi_category_disable">Çoklu kategori kapalı</string>
     <string name="multi_category_enable">Çoklu kategori açık</string>
-    <string name="n28_summary">Use the 803MHz frequency band</string>
+    <string name="n28_summary">803MHz frekans bandını kullanın</string>
     <string name="n28_title">N28 band</string>
     <string name="name">Ad</string>
     <string name="national_disable">Ulusal haberler kapalı</string>
@@ -1715,6 +1672,8 @@ Lütfen operatörlerinizle iletişime geçin"</string>
     <string name="no_vm_number">Eksik sesli mesaj numarası</string>
     <string name="no_vm_number_msg">Sim kartta kayıtlı sesli mesaj numarası yok</string>
     <string name="no_voip">İnternet araması desteklenmiyor</string>
+    <string name="no_volte_call_service_notification_content2_for_cbn">Arama yapılamıyor. HD ses hizmeti Sim %d için kayıtlı değil (Çin Broadnet)</string>
+    <string name="no_volte_call_service_notification_content_for_cbn">"Arama yapılamıyor. HD ses hizmeti Çin Broadnet Sim için kayıtlı değil</string>
     <string name="no_wifi_available">İnternet aramaları için bir wifi ağına bağlı olmanız gerekmektedir (Wifi &amp; ağ ayarlarını kullanın)</string>
     <string name="noon">Öğlen</string>
     <string name="not_a_valid_port">Bağlantı noktası numarası 1000 ile 65534 arasında olmalıdır</string>
@@ -1861,7 +1820,7 @@ Yeniden deneyin veya daha fazla seçenek için müşteri hizmetlerini arayın"</
 "</string>
     <string name="pause_prompt_yes">Evet</string>
     <string name="payphone">Ankesörlü telefon</string>
-    <string name="pci_num">Lte pci numarası</string>
+    <string name="pci_num">LTE pci numarası</string>
     <string name="permission_description">İzin ayrıntıları</string>
     <string name="phoneAppLabel">Telefon hizmetleri</string>
     <string name="phoneIconLabel">Telefon</string>
@@ -1996,18 +1955,13 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="preferred_network_mode_wcdma_perf_summary">Tercih edilen ağ modu: Tercihen WCDMA</string>
     <string name="preferred_network_restrict_network_changed_incall">Mobil ağ arama sırasında değiştirilemiyor</string>
     <string name="preferred_network_type_3g_only_warning">Ağa bağlanabilmek için Sim kartınızın 3G hizmetini desteklemesi gerekmektedir</string>
-    <string name="preferred_network_type_cdma">CDMA</string>
-    <string name="preferred_network_type_pref_entries_3g_non_preferred_mx_at">3G/2G</string>
     <string name="preferred_network_type_pref_entries_3g_preferred">3G öncelikli</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_cdma">3G öncelikli (CDMA)</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred_jp_sb">3G/GSM</string>
-    <string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">Otomatik WCDMA/GSM</string>
+	<string name="preferred_network_type_pref_entries_3g_preferred_lm_cr">Otomatik WCDMA/GSM</string>
     <string name="preferred_network_type_pref_entries_3g_preferred_mx_at">3G/2G (3G öncelikli)</string>
-    <string name="preferred_network_type_pref_entries_4g_non_preferred_mx_at">4G/3G/2G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred">LTE öncelikli</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_cdma">4G öncelikli (CDMA)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_custom">4G öncelikli</string>
-    <string name="preferred_network_type_pref_entries_4g_preferred_jp_sb">4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_lm_cr">Otomatik LTE/WCDMA/GSM</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_mx_at">4G/3G/2G (4G öncelikli)</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_uk_ee">Otomatik 4G/3G/2G</string>
@@ -2015,7 +1969,6 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mt">Otomatik 2G/3G/4G</string>
     <string name="preferred_network_type_pref_entries_4g_preferred_za_mtn">Otomatik 2G/3G/4G</string>
     <string name="preferred_network_type_pref_entries_5g_preferred">5G öncelikli</string>
-    <string name="preferred_network_type_pref_entries_5g_preferred_jp_sb">5G/4G/3G/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_lm_cr">Otomatik 5G/LTE/WCDMA/GSM</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_mx_at">5G/4G/3G/2G (5G/4G öncelikli)</string>
     <string name="preferred_network_type_pref_entries_5g_preferred_uk_ee">Otomatik 5G/4G/3G/2G</string>
@@ -2030,7 +1983,6 @@ Telefonunuz bir sonraki başarısız oldu girişimden sonra otomatik olarak kili
     <string name="preferred_network_type_pref_entries_only_3g">Sadece 3G</string>
     <string name="preferred_network_type_pref_entries_only_3g_lm_cr">Sadece WCDMA</string>
     <string name="preferred_network_type_pref_entries_only_4g">Sadece LTE</string>
-    <string name="preferred_network_type_td_scdma">GSM/TD-SCDMA</string>
     <string name="preferred_network_type_title">Tercih edilen ağ türü</string>
     <string name="preferred_phone_account">Tercih edilen arama hesabı</string>
     <string name="preferred_wificall_title">Ağ tercihi</string>
@@ -2299,7 +2251,7 @@ UT arayüzü: %5$s"</string>
     <string name="show_volte_switch_title">VoLTE anahtarını göster</string>
     <string name="show_vonr_switch_summary">Sim ayrıntılarında VoNR anahtarını göster</string>
     <string name="show_vonr_switch_title">VoNR anahtarını göster</string>
-    <string name="show_vowifi_switch_summary">Sim ayrıntılarında WLAN arama anahtarını göster</string>
+    <string name="show_vowifi_switch_summary">Sim ayrıntılarında wifi arama anahtarını göster</string>
     <string name="show_vowifi_switch_title">Wifi arama anahtarını göster</string>
     <string name="simContacts_airplaneMode">Kişileri Sim karttan içe aktarmak için uçak modunu kapatın</string>
     <string name="simContacts_empty">Sim kartınızda kayıtlı kişi yok</string>
@@ -2330,7 +2282,7 @@ UT arayüzü: %5$s"</string>
     <string name="singleContactImportedMsg">Kişi içe aktarıldı</string>
     <string name="single_emergency_number_title">Acil durum numarası</string>
     <string name="single_fiveg_deactivate_sim_dialog_btn_disable_sim">Devre dışı bırak</string>
-    <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">"Devre dışı bırakmak için Sim'i seçin\""</string>
+    <string name="single_fiveg_deactivate_sim_dialog_title_select_deactivate_sim">"Devre dışı bırakmak için Sim'i seçin"</string>
     <string name="single_fiveg_dialog_title_prompt">Dikkat</string>
     <string name="single_fiveg_dialog_title_remind">Dikkat</string>
     <string name="single_fiveg_disable_fiveg_dialog_btn_getit">Anladım</string>
@@ -2371,15 +2323,15 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="sip_settings">İnternet araması</string>
     <string name="sip_system_decide">Otomatik</string>
     <string name="skt_emm_cause_12_13_16_17_22">Ağ kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
-    <string name="skt_emm_cause_2">Telefon numarası kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
-    <string name="skt_emm_cause_3">Kullanıcı doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
-    <string name="skt_emm_cause_6">Cihaz doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
+    <string name="skt_emm_cause_2">Telefon numarası kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
+    <string name="skt_emm_cause_3">Kullanıcı doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
+    <string name="skt_emm_cause_6">Cihaz doğrulanamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
     <string name="skt_emm_cause_7_8_15">Ağ kaydedilemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
     <string name="skt_msim_emm_cause_12_13_16_17_22">Sim %d ağı kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin</string>
-    <string name="skt_msim_emm_cause_2">Sim %d telefon numarasını kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
-    <string name="skt_msim_emm_cause_3">Sim %d kullanıcıyı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
-    <string name="skt_msim_emm_cause_6">Sim %d kartı cihazı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
-    <string name="skt_msim_emm_cause_7_8_15">Sim %d ağ kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)\"</string>
+    <string name="skt_msim_emm_cause_2">Sim %d telefon numarasını kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
+    <string name="skt_msim_emm_cause_3">Sim %d kullanıcıyı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
+    <string name="skt_msim_emm_cause_6">Sim %d kartı cihazı doğrulayamadı. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
+    <string name="skt_msim_emm_cause_7_8_15">Sim %d ağ kaydedemedi. Cihazınızı kapatın ardından tekrar açın ve tekrar deneyin. Bundan sonra hala bu sorunla karşılaşırsanız müşteri desteğine başvurun (1599-0011)</string>
     <string name="smart_dual_sim_prompt">"Mevcut bağlantı zayıfsa cihazınız ikincil Sim'i kullanarak bir mobil veri ağına bağlanacaktır. Bu ek veri ücretleri oluşturabilir. Ek ücretlerden kaçınmak için bir veri kullanım limiti belirleyin"</string>
     <string name="smart_dual_sim_prompt_ok">Ayarlar</string>
     <string name="smart_dual_sim_prompt_title">Veri kullanımı uyarısı (Sim %s)</string>
@@ -2388,6 +2340,13 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="smart_forwarding_settings_menu">Akıllı yönlendirme</string>
     <string name="smart_forwarding_settings_menu_summary">Bir numaraya ulaşılamadığında aramaları her zaman diğer numaranıza yönlendirin</string>
     <string name="smart_multinetwork_acceleration_title">Akıllı ağ hızlandırma</string>
+    <string name="smart_switch_dual_sim_diag_cancel">İptal et</string>
+    <string name="smart_switch_dual_sim_diag_message">"Mevcut veri Sim'iniz sabit bir ağ bağlantısı sağlamıyor gibi görünüyor. Veri Sim kartları arasında otomatik geçiş yapmak bağlantı kalitesini iyileştirebilir. Bu özelliği ayarlarda açabilirsiniz"</string>
+    <string name="smart_switch_dual_sim_diag_ok">Ayarlar</string>
+    <string name="smart_switch_dual_sim_diag_title">Dikkat</string>
+    <string name="smart_switch_dual_sim_prompt">Sim %1$s kullanılarak mobil veri ağına bağlanmak ek veri ücretlerine neden olabilir. Ek ücretlerden kaçınmak için bir veri kullanım limiti belirleyin</string>
+    <string name="smart_switch_dual_sim_summary">Ağ bağlantısı kalitesine ve cihaz durumuna göre veri Sim kartları arasında otomatik olarak geçiş yapın</string>
+    <string name="smart_switch_dual_sim_title">Veri Sim kartları arasında geçiş yapın</string>
     <string name="sms_messages_title">Mesaj</string>
     <string name="smsc_dialog_message">Girdiğiniz numaranın doğru olduğundan emin olun. Aksi takdirde mesaj gönderemez veya alamazsınız. SMSC numaranızı onaylamak için operatörünüze başvurun</string>
     <string name="solar_term_autumn_begins">Sonbahar başlıyor</string>
@@ -2781,7 +2740,7 @@ Bu tabletin bir kulaklığı yok. Eller serbest moduna geçebilir veya arama yap
     <string name="volte_switch_title">VoLTE</string>
     <string name="volte_switch_title_ct">VoLTE</string>
     <string name="volte_tips_when_turn_on">Çin telekom VoLTE hizmetleri sadece LTE şebekesi kapsama alanlarında sağlanmaktadır</string>
-    <string name="vonr_switch_summary">Sesli çağrıların kalitesini artırmak için VoNR kullanın</string>
+    <string name="vonr_switch_summary">Sesli aramaların kalitesini artırmak için VoNR kullanın</string>
     <string name="vonr_switch_title">VoNR kullan</string>
     <string name="vowifi_emergency_notification_content">Mobil şebeke kapsama alanı olan alanlarda acil aramalar yapılabilir</string>
     <string name="vowifi_emergency_notification_title">Vodafone wifi aranıyor</string>
@@ -2885,12 +2844,7 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wifi_security_none_owe">Yok/Gelişmiş açık</string>
     <string name="wifi_security_owe">Geliştirilmiş açık</string>
     <string name="wifi_security_passpoint">Geçiş noktası</string>
-    <string name="wifi_security_psk_sae">WPA2/WPA3-Kişisel</string>
-    <string name="wifi_security_sae">WPA3-Kişisel</string>
     <string name="wifi_security_short_none_owe">Hiçbiri/OWE</string>
-    <string name="wifi_security_wpa">WPA-Kişisel</string>
-    <string name="wifi_security_wpa2">WPA2-Kişisel</string>
-    <string name="wifi_security_wpa_wpa2">WPA/WPA2-Kişisel</string>
     <string name="wifi_ssid_is_empty">SSID boş bırakılamaz</string>
     <string name="wifi_ssid_length_is_max">SSID 32 karakter uzunluğunda olabilir</string>
     <string name="wifi_status_mac_randomized">MAC randomize edildi</string>
@@ -2959,6 +2913,7 @@ Kimlik bilgisi depolama etkin değil gibi görünüyor"</string>
     <string name="wrong_password">Girdiğiniz şifre doğru değil</string>
     <string name="xcap_setting_summary">Arama engelleme, sesli mesaj &amp; arama yönlendirme ve arama bekletme</string>
     <string name="xcap_setting_title">Arama servisi ayarları</string>
+    <string name="xiaoai_assistant_setting_title">Mi AI arana asistanı</string>
     <string name="yesterday">Yesterday</string>
     <string name="zen_alarm_warning">Sonraki alarmınızı %1$s duymayacaksınız</string>
     <string name="zen_alarm_warning_indef">Bundan önce kapatırsanız %1$s sonraki alarmınızı duymayacaksınız</string>

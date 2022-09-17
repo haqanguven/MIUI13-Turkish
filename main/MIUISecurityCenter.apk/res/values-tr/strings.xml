@@ -10,6 +10,7 @@
     <string name="HIPS_Perm_External_READ_FILES_Desc">Cihazınızdaki dosyalara ve belgelere erişin</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO">"Ses'e erişin"</string>
     <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_Desc">Cihazınızdaki müziğe ve diğer seslere erişin</string>
+    <string name="HIPS_Perm_External_READ_MEDIA_AUDIO_PIC_VIDEO_Desc">Görüntülere, videolara ve ses dosyalarına erişin ve dahili depolama birimine kaydedin</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO">Fotoğraflara ve videolara erişin</string>
     <string name="HIPS_Perm_External_READ_MEDIA_PIC_VIDEO_Desc">Cihazınızdaki fotoğraflara ve videolara erişin</string>
     <string name="HIPS_Perm_External_Storage">Öğelere erişin ve depolamaya kaydedin</string>
@@ -666,6 +667,7 @@ Kişisel kırmızı zarfı destekleyin ve kırmızı zarfı gruplayın
     <string name="applock_bind_account_dialog_content">Unutmanız durumunda Mi hesabınız uygulama kilidinizi geri yüklemenin tek yoludur. Mi hesabınızı eklemek için oturum açın</string>
     <string name="applock_bind_account_dialog_title">Mi hesabınızı ekleyin</string>
     <string name="applock_bind_account_title">Şifremi unuttum</string>
+    <string name="applock_biometric_recognition">Biyometrik</string>
     <string name="applock_close_dialog_summary">Uygulama kilidini kapatmanızdan sonra uygulamalar korunmayacak ve şifreniz silinecektir</string>
     <string name="applock_close_dialog_title">Uygulama kilidi kapatılsın mı?</string>
     <string name="applock_exit_account_info">Hesabınız oturumunuzu kapattığınızda otomatik olarak silinir</string>
@@ -1339,6 +1341,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="confirm_open">Aç</string>
     <string name="confirm_open_shut_down_password_content">Kapatma onayını açmadan önce bir ekran kilidi ayarlayın</string>
     <string name="confirm_open_shut_down_password_title">Ekran kilidini ayarla</string>
+    <string name="confirm_package_type">Paket türünü onaylayın</string>
     <string name="confirm_prompt_all_permission">Tüm uygulamalar için izin istensin mi?</string>
     <string name="confirm_reject_all_permission">Tüm uygulamaların bu özelliği kullanımı kısıtlansın mı?</string>
     <string name="confirm_take">Al</string>
@@ -2187,6 +2190,12 @@ gönüllüsü"</string>
   %2$d. Bu özellik açıkken, normal bir SIM kart kullanmıyorsanız diğer kişi geri arama tonlarınızı duyamaz. Gelen aramalar, %3$d-%4$d saniyelik işlem yapılmadığında otomatik olarak reddedilecektir
   %5$d. Çin Mobile ve Çin Unicom tarafından verilen Veri Sim kartları desteklenir. Çin Mobil, Çin Unicom ve Çin Telecom tarafından verilen normal Sim kartlar desteklenir"</string>
     <string name="function_gwsd_title">Gelen aramaları veri Sim bağlantısını kesmesine izin verme</string>
+    <string name="function_oncall_not_close_network">Aramalar için bağlantıyı kes</string>
+    <string name="function_oncall_not_close_network_detail">"Bu özellik hakkında
+  %1$d. Bu özellik, bu cihaz belirli 5G ağlarına bağlıyken oyun oturumları sırasında gelen aramalarla kesintiye uğramadan çevrimiçi kalmanıza olanak tanır
+  %2$d. Sim kartlarınızdan hiçbiri 5G şebekesine bağlı değilse gelen aramalar birincil Sim'iniz tarafından otomatik olarak reddedilecektir
+  %3$d. Bu özellik yalnızca anakara Çin'de desteklenir
+  %4$d. Bu özellik yalnızca 5G-SA ağlarında çalışır"</string>
     <string name="function_shield_auto_bright">Otomatik parlaklığı kapat</string>
     <string name="function_shield_eye_shield">Okuma modunu kapat</string>
     <string name="function_shield_pull_notification_bar">Bildirim alanını açma</string>

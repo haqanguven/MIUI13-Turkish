@@ -81,6 +81,9 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="account_settings_action">Hesap ayarları</string>
     <string name="account_settings_address">account_settings_address</string>
     <string name="account_settings_background_attachments">account_settings_background_attachments</string>
+    <string name="account_settings_background_attachments_security">account_settings_background_attachments_security</string>
+    <string name="account_settings_background_attachments_security_summary">Güvenlik riskleri için kurulum paketleri içeren ekleri kontrol edin</string>
+    <string name="account_settings_background_attachments_security_title">Ekleri risklere karşı kontrol edin</string>
     <string name="account_settings_background_attachments_summary">Eklentileri wifi kullanarak indir</string>
     <string name="account_settings_background_attachments_summary_inter">Eklentileri wifi kullanarak indir</string>
     <string name="account_settings_background_attachments_title">Ekleri otomatik olarak indir</string>
@@ -319,6 +322,10 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="attachment_unknown">%s dosya</string>
     <string name="attachment_video">Video</string>
     <string name="attachments_header">Eklentiler</string>
+    <string name="attachments_security_alert_install_message">Bu ek bir kurulum paketidir. Açmadan önce kaynağa güvendiğinizden emin olun. Şimdi kurulsun mu?</string>
+    <string name="attachments_security_alert_install_title">Dikkat</string>
+    <string name="attachments_security_alert_message">Bu mesaj bir yükleme paketi içerir. Açmadan önce kaynağa güvendiğinizden emin olun</string>
+    <string name="attachments_security_install">Install</string>
     <string name="attendee_needed">En az bir davetli ekleyin</string>
     <string name="authority_email_provider">com.android.email.provider</string>
     <string name="auto_advance_help_title">Bir mesaj silindikten sonra şunu görüntüle</string>
@@ -481,6 +488,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="click_to_reload">Yenilemek için ekrana dokunun</string>
     <string name="close">Kapat</string>
     <string name="close_custom_folder">Alt klasörleri gizle</string>
+    <string name="close_tips">Hatırlatıcıyı kapat</string>
     <string name="collapse_recipient_details">Alıcı ayrıntılarını daralt</string>
     <string name="colon">:</string>
     <string name="command_139_mail_open_pop3_imap">KQ</string>
@@ -871,6 +879,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="folder_junk_name_en2">İstenmeyen posta</string>
     <string name="folder_junk_name_en3">Gereksiz e-posta</string>
     <string name="folder_junk_name_en4">Önemsiz</string>
+    <string name="folder_junk_name_en5">Spam</string>
     <string name="folder_list_current_account">Geçerli posta kutusu</string>
     <string name="folder_list_display_all">Tüm klasörleri göster</string>
     <string name="folder_list_display_only_import">Yalnızca önemli klasörleri görüntüleme</string>

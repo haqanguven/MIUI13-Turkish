@@ -213,6 +213,12 @@
         <item quantity="other">%1$d gün</item>
         <item quantity="one">%1$d gün</item>
     </plurals>
+    <plurals name="electronic_scale_weight_compared_with_more_days_gain">
+        <item quantity="other">%3$d günden beri %1$dkg | +%2$dkg</item>
+    </plurals>
+    <plurals name="electronic_scale_weight_compared_with_more_days_loss">
+        <item quantity="other">%3$d günden beri %1$dkg | %2$dkg</item>
+    </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
         <item quantity="other">%d saniye ileri sar</item>
         <item quantity="one">%d saniye ileri sar</item>
@@ -708,6 +714,5 @@ Yaklaşık %1$d dakika sürer"</item>
     </plurals>
     <plurals name="userinfo_user_age_display_format_year">
         <item quantity="other">%1$d yaşında</item>
-        <item quantity="one">%1$d yaşında</item>
     </plurals>
 </resources>

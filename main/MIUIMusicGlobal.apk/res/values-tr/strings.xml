@@ -42,8 +42,6 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="access_denied_info">Çok fazla deneme yaptınız. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="account_and_cloud">Hesap</string>
-    <string name="account_bind_secure_email_title">Kurtarma e-postası ekle</string>
-    <string name="account_bind_secure_phone_title">Kurtarma telefon numarası ekle</string>
     <string name="account_crop_user_avatar">Fotoğrafı kırp</string>
     <string name="account_empty_user_name">Mi hesabı kullanıcı adınızı girin</string>
     <string name="account_error_all_space_user_name">Kullanıcı adının tamamı boşluk karakterinden oluşamaz</string>
@@ -64,17 +62,13 @@
     <string name="account_user_avatar_from_album">Galeri</string>
     <string name="account_user_avatar_from_camera">Kamera</string>
     <string name="account_user_base_info">Temel bilgiler</string>
-    <string name="account_user_birthday">Doğum günü</string>
     <string name="account_user_details">Kişisel bilgiler</string>
     <string name="account_user_email">Kurtarma e-postası</string>
     <string name="account_user_gender">Cinsiyet</string>
     <string name="account_user_id">Mi hesabı kimliği</string>
     <string name="account_user_name">Kullanıcı adı</string>
     <string name="account_user_name_dialog_title">Kullanıcı adınızı girin</string>
-    <string name="account_user_other_info">Ayrıntılar</string>
     <string name="account_user_phone">Kurtarma telefonu</string>
-    <string name="account_user_region">Bölge</string>
-    <string name="action_add_phone">Telefon numarası ekle</string>
     <string name="action_item_add">Ekle</string>
     <string name="action_item_add_song">Oynatma listesine ekle</string>
     <string name="action_item_add_to_current_playlist">Geçerli çalma listesi</string>
@@ -92,7 +86,6 @@
     <string name="action_item_remove_from_favorite">Favoriden kaldır</string>
     <string name="action_item_share">Paylaş</string>
     <string name="action_settings">Ayarlar</string>
-    <string name="action_update_phone">Telefon numarasını değiştir</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="activate_email_notice">Hesabınızı 24 saat içerisinde etkinleştirdiğinizden emin olun</string>
     <string name="activity_not_found_notice">Uygulama bulunamıyor</string>
@@ -131,8 +124,10 @@
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_bugly_id">e5f6fa4ff3</string>
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
-    <string name="app_description_content">Müzik bir ses oynatıcı içeren ve ses dosyalarını yönetmenize izin veren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra ses dosyalarını çalmaya devam edebileceksiniz</string>
+    <string name="app_description_content">Müzikler bir ses oynatıcı içeren ve ses dosyalarını yönetmenize izin veren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra ses dosyalarını çalmaya devam edebileceksiniz</string>
     <string name="app_description_title">Müzikler ana ekrandan kaldırılsın mı?</string>
+    <string name="app_disable_description_content">Müzikler bir sistem uygulamasıdır. Devre dışı bırakırsanız bu diğer uygulamaları kullanımınızı etkileyebilir. Yine de devre dışı bırakılsın mı?</string>
+    <string name="app_disable_description_title">Sistem uygulaması devre dışı bırakılsın mı?</string>
     <string name="app_label">Müzikler</string>
     <string name="app_name">Müzikler</string>
     <string name="app_permission_confirm">Anladım</string>
@@ -180,7 +175,6 @@
     <string name="back_confirm">Uygulamayı arkaplana itmek için dokunun</string>
     <string name="banner_op">Müzikler</string>
     <string name="best_experience">En iyi deneyim</string>
-    <string name="bind_sign_in_title">Mi hesabı ekle</string>
     <string name="bluetooth_device">Bluetooth ses cihazı</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarım genişlet</string>
@@ -279,8 +273,6 @@
     <string name="choose_download_quality">İndirme kalitesini seçin</string>
     <string name="choose_music_lang_pref">Şarkılar için tercih edilen dil</string>
     <string name="choose_stream_quality">Akış kalitesini seç</string>
-    <string name="choose_to_signin">Evet</string>
-    <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
     <string name="clause_content_first">Yasal gereksinimlere dayalı olarak müziğin ilgili hizmetleri size sağlaması için izninize ihtiyacı vardır</string>
     <string name="clause_content_second">Endüstri güvenlik standartlarına göre kişisel bilgilerinizi koruyacağız</string>
     <string name="clause_content_third">İzninizi istediğiniz zaman ayarlardan geri çekebilirsiniz</string>
@@ -290,7 +282,6 @@
     <string name="click_to_add_album_cover_and_lyric">Albüm kapağı ve şarkı sözleri eklemek için dokunun</string>
     <string name="click_to_shuffle">Hepsini karışık oynatmak için dokunun</string>
     <string name="close">Kapat</string>
-    <string name="close_country_code_content_description">Ülke kodunu silin</string>
     <string name="close_music_time">"Kalan süre: "</string>
     <string name="collect_diagnosis_log">Günlükleri topla</string>
     <string name="columbus_ad_flag_text">Reklam</string>
@@ -304,7 +295,7 @@
     <string name="columbus_player_speed_video">Videoyu atla</string>
     <string name="columbus_player_unit_sec">saniye</string>
     <string name="columbus_skip_ad">Atla</string>
-    <string name="com.crashlytics.android.build_id">8d62271004e844cebf1c4a4a2666946f</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">b9df9b206727482e8a87bb972bbab257</string>
     <string name="com.miapm.build_id">c5544cac5b644c7aa2c61fc9daaab972</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
@@ -327,10 +318,7 @@
     <string name="common_signin_button_text_long">"Google'da oturum aç"</string>
     <string name="confirm">Tamam</string>
     <string name="confirm_activate_email">Doğrulandı</string>
-    <string name="confirm_bundled_phone_dialog_title">Bağlı telefon numarasını doğrula</string>
     <string name="confirm_exit">Değişiklikler kaydedilsin mi?</string>
-    <string name="confirm_new_pwd">Yeni şifreyi onaylayın</string>
-    <string name="confirm_unbundled_phone_dialog_message">Bu telefon %1$s cihazinda Mi hesabı %2$s ile ilişkilendirilmiş durumda. Devam etmeniz durumunda Mi hesabı %3$s ile ilişkisi sonlandırılacaktır. Devam edilsin mi?</string>
     <string name="connect_now">Bağlan</string>
     <string name="connecting_apk">Bağlanılıyor</string>
     <string name="content_country_key">content_country</string>
@@ -436,9 +424,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="discover_more_music">Daha fazla şarkı keşfedin</string>
     <string name="do_not_remind_this_version">Bu sürümü hatırlatma</string>
     <string name="do_not_support_google_voice_search">Google sesli arama cihazınızda desteklenmiyor</string>
-    <string name="doing_login">Oturum açılıyor</string>
     <string name="doing_query_account">Hesap bilgileri kontrol ediliyor</string>
-    <string name="doing_register">Hesap oluşturuluyor</string>
     <string name="download">İndir</string>
     <string name="download_added_to_list">İndirme listesine eklendi</string>
     <string name="download_apk_desktop_installing">Yükleniyor</string>
@@ -637,7 +623,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="facebook_not_installed">"Öncelikle Facebook'u yükleyin"</string>
     <string name="fail_to_fetch_payment_page_url">Ödeme bilgisi alınamadı</string>
     <string name="fail_to_play">Şarkı oynatılamıyor</string>
-    <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="failed_not_access_sd_card">Önce SD karta erişim izni ver</string>
     <string name="failed_obtain_permissions">İzin alınamadı</string>
     <string name="failed_to_connect_hint">Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -670,7 +655,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="filter_by_size_prefix">"Kısa dosyaları gizle "</string>
     <string name="filter_by_size_summary">Kısa ses dosyaları gizle</string>
     <string name="filter_size_unit">%dKB</string>
-    <string name="find_psw">Şifremi unuttum</string>
     <string name="find_you_tunes">Ezgilerinizi bulun</string>
     <string name="firebase_database_url">https://mi-music-global.firebaseio.com</string>
     <string name="floating_view_dialog_desc">Bu sayfadan şimdi çıkarsanız müzik çalma durdurulacaktır. Yine de çıkılsın mı?</string>
@@ -742,12 +726,9 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="friday_shortest">C</string>
     <string name="gcm_defaultSenderId">948829309969</string>
     <string name="gcm_fallback_notification_channel_label">Çeşitli</string>
-    <string name="get_back_pwd">Şifre sıfırlanıyor</string>
     <string name="get_more_favorite_content_after_login">Daha fazla şarkı ve videoyu keşfetmek için oturum açın</string>
     <string name="get_one_day_vip">%d-günlük VIP üyelik aldınız</string>
     <string name="get_one_hour_vip">%d-saatlik VIP üyelik aldınız</string>
-    <string name="get_ph_ticket">Kodu al</string>
-    <string name="get_phone_bind_exceed_limit">Bir telefon numarasını 3 Mi hesabına kadar ilişkilendirebilirsiniz. Yeni hesap eklenemiyor</string>
     <string name="get_phone_verifycode_exceed_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin</string>
     <string name="get_vip">VIP üyelik al</string>
     <string name="getverifycode_seconde">s</string>
@@ -761,7 +742,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="google_storage_bucket">mi-music-global.appspot.com</string>
     <string name="goto_local_search">Cihazda ara</string>
     <string name="goto_online_search">Çevrimiçi ara</string>
-    <string name="goto_sign_up">Hesap oluştur</string>
     <string name="gps_prompt_context">Mobil ağ ile mi indiriyorsunuz?</string>
     <string name="gps_prompt_title">İpuçları</string>
     <string name="handle_later">Şimdi değil</string>
@@ -820,7 +800,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="i_know">Tamam</string>
     <string name="icon_content_description">İletişim kutusu simgesi</string>
     <string name="id_namespace">hungama</string>
-    <string name="identity">Kimlik doğrulama</string>
     <string name="imported">İçe aktarıldı</string>
     <string name="impunity_declaration_content">Ürünü kullanmaya başlamadan önce <a href="http://www.miui.com/res/doc/eula.html?lang=en">Kullanıcı sözleşmesi</a> ve <a href="http://www.miui.com/res/doc/privacy.html?lang=en">Gizlilik politikası</a> sözleşmelerimizi kabul etmeniz gerekmektedir</string>
     <string name="impunity_declaration_ignore">Tekrar gösterme</string>
@@ -831,7 +810,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="impunity_declaration_title">Hizmet şartları</string>
     <string name="in_searching_please_wait">Aranıyor</string>
     <string name="include_sensitive_extra">false</string>
-    <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
     <string name="individuation_card_login_button">Oturum aç</string>
     <string name="individuation_card_login_message">Seveceğiniz daha fazla şarkı bulmak için oturum açın</string>
     <string name="individuation_card_title">Size özel</string>
@@ -849,8 +827,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="info_system_version">Sistem sürümü:</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
     <string name="input_hint_prefix">Lütfen %1$s girin</string>
-    <string name="input_length_exceeds_limit">Girdiğiniz metin çok uzun</string>
-    <string name="input_new_pwd">Yeni şifreyi girin</string>
     <string name="installing_apk">Yükleniyor</string>
     <string name="insufficient_space">Cihazınızın dahili depolama alanında yeterli alan yok</string>
     <string name="invalid_number">Numara geçersiz</string>
@@ -858,7 +834,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="is_scanning">Depolama denetleniyor</string>
     <string name="is_scanning_support_online">"Depolama denetleniyor
 (Bu arada çevrimiçi müzik yayını yapabilir)"</string>
-    <string name="isornot_your_mi_account">Bu Mi hesabı sizin mi?</string>
     <string name="item_view_role_description">Sekme</string>
     <string name="joox_account_bind_mi_account">Mi hesabı ekle</string>
     <string name="joox_account_cancel_login">İptal et</string>
@@ -913,7 +888,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="joox_vip_expired_hint">"VIP üyeliğinizin süresi doldu. JOOX'tan indirilen şarkılar yalnızca indirilenlerinizde gösterilecektir"</string>
     <string name="jooxdebugvip">JooxVip anahtar testi</string>
     <string name="jooxtestlogin">Joox giriş testi</string>
-    <string name="just_a_second">Yükleniyor</string>
     <string name="just_hit_next">Sadece ileri dokunun</string>
     <string name="keep_queued_download">Koru</string>
     <string name="ktv_playlist">KTV oynatma listesi</string>
@@ -1193,7 +1167,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="network_traffic">Veri kullanımı</string>
     <string name="next_time">Sonraki zaman</string>
     <string name="next_to_play">Bir sonraki</string>
-    <string name="nick_name">Takma Ad</string>
     <string name="night">ÖS</string>
     <string name="no_account">Oturum açılmadı</string>
     <string name="no_album_info">Albüm bilgisi yok</string>
@@ -1208,7 +1181,6 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="no_local_source_find">Şarkı bulunamadı</string>
     <string name="no_longer_prompt">Tekrar gösterme</string>
     <string name="no_lyrics">Şarkı sözü yok</string>
-    <string name="no_phone">Telefon numarası yok</string>
     <string name="no_results_return">Arama sonucu yok</string>
     <string name="no_scanned_songs">Boş</string>
     <string name="no_song_downloaded">Sunucuya bağlanılamıyor</string>
@@ -1276,7 +1248,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="online_playlist_category">Çalma listeleri</string>
     <string name="online_recommend">Liste</string>
     <string name="online_service_open_tip">Çevrimiçi müzik hizmeti açık</string>
-    <string name="online_service_title">Çevrimiçi Hizmetleri</string>
+    <string name="online_service_title">Çevrimiçi hizmetler</string>
     <string name="online_switch">Çevrimiçi içerik hizmeti</string>
     <string name="online_switch_confirm_title">Çevrimiçi içerik hizmetlerini kapatmak tüm çevrimiçi özellikleri kullanılamaz duruma getirecektir. Yine de kapatılsın mı?</string>
     <string name="online_switch_message">Vip hizmetler ve tavsiyeler çevrimiçi hizmetlerde kapatılır. Yinede kapatılsın mı?</string>
@@ -1290,91 +1262,95 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="partner_id">3041</string>
     <string name="party">Parti</string>
     <string name="passport_access_denied">Erişim engellendi</string>
-    <string name="passport_account_label">Mi hesabı</string>
     <string name="passport_account_name">Hesap: %1$s     </string>
-    <string name="passport_activate_token_expired">Doğrulama kodunun süresi doldu. Tekrar deneyin</string>
     <string name="passport_area_code_title">Alan kodu</string>
     <string name="passport_auth_title" />
     <string name="passport_bad_authentication">Geçersiz kullanıcı adı veya şifre</string>
-    <string name="passport_barcode_add_account_prompt">Bir hesap eklemek için oturum açtıktan sonra QR kodunu tekrar taratın</string>
-    <string name="passport_can_not_receive_verification_code">Doğrulama kodu alamıyorum?</string>
-    <string name="passport_captcha_title">Doğrulama</string>
+    <string name="passport_can_not_recevie_verify_code">Bir kod almadınız mı?</string>
     <string name="passport_checking_account">Şifre kontrol ediliyor</string>
-    <string name="passport_close">Kapat</string>
-    <string name="passport_delete_account">Oturumu kapat</string>
+    <string name="passport_clear_input">Girilen içeriği temizle</string>
+    <string name="passport_copy_link">Bağlantıyı kopyala</string>
+    <string name="passport_copy_to_clipboard_successful">Kopyalandı</string>
+    <string name="passport_country_area_china">CN</string>
+    <string name="passport_country_code_china">+86</string>
+    <string name="passport_dialog_captcha_title">Kod</string>
+    <string name="passport_dialog_doing_login">Oturum açılıyor</string>
+    <string name="passport_dialog_doing_register">Hesap oluşturuluyor</string>
+    <string name="passport_dialog_is_my_account">Evet</string>
+    <string name="passport_dialog_is_your_mi_account">Bu senin Xiaomi hesabın mı?</string>
+    <string name="passport_dialog_loading">Yükleniyor</string>
+    <string name="passport_dialog_nick_name_prefix">Kullanıcı adı: %s</string>
+    <string name="passport_dialog_phone_number_prefix">Telefon numarası: %s</string>
+    <string name="passport_dialog_register_other">Hayır. Yeni oluşturacağım</string>
     <string name="passport_email">E-posta adresi</string>
     <string name="passport_empty_password">Şifre boş bırakılamaz</string>
-    <string name="passport_empty_user_name">Kullanıcı adı boş bırakılamaz</string>
     <string name="passport_error_auth_fail">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="passport_error_device_id">Aygıt kimliğini alınamıyor</string>
+    <string name="passport_error_dynamic_token_error">Doğrulama kodu yanlış</string>
     <string name="passport_error_email">Girmiş olduğunuz e-posta adresi geçersiz</string>
-    <string name="passport_error_empty_captcha_code">Doğrulamayı girin</string>
     <string name="passport_error_empty_email">E-posta adresinizi girin</string>
-    <string name="passport_error_empty_phone_num">Telefon numarasını girin</string>
+    <string name="passport_error_empty_password">Şifrenizi girin</string>
     <string name="passport_error_empty_pwd">Şifre boş bırakılamaz</string>
-    <string name="passport_error_empty_vcode">Doğrulama kodunu girin</string>
-    <string name="passport_error_empty_voice_code">Doğrulamayı girin</string>
-    <string name="passport_error_illegal_pwd">Hatalı şifre</string>
+    <string name="passport_error_empty_user_id">Kullanıcı adınızı giriniz</string>
+    <string name="passport_error_length_limit">Girdiğiniz metin çok uzun</string>
     <string name="passport_error_network">Ağa bağlanılamıyor</string>
     <string name="passport_error_no_password_user">Henüz bir şifre oluşturmadınız. Mesaj ile oturum açın</string>
-    <string name="passport_error_phone_error">Geçersiz telefon numarası</string>
+    <string name="passport_error_phone">Geçersiz telefon numarası</string>
     <string name="passport_error_server">Sunucu hatası</string>
+    <string name="passport_error_sms_limit">Bu numaraya çok fazla doğrulama kodu gönderildi. Daha sonra tekrar deneyin</string>
+    <string name="passport_error_ticket_invalid">Bu kod yanlış</string>
+    <string name="passport_error_timeout_network_error">İstek zaman aşımına uğradı</string>
+    <string name="passport_error_token_expired">Kodun süresi doldu. Tekrar deneyin</string>
+    <string name="passport_error_unknow_error">Bir hata oluştu</string>
+    <string name="passport_error_unknow_host_network_error">Ağa bağlanılamadı</string>
+    <string name="passport_error_unknow_network_error">Bir ağ hatası oluştu</string>
     <string name="passport_error_unknown">Bilinmeyen hata</string>
-    <string name="passport_error_user_agreement_error">Öncelikle şartlar ve koşulları kabul edin</string>
+    <string name="passport_error_user_agreement">Önce kullanıcı sözleşmemizi kabul edin</string>
     <string name="passport_error_user_name">Girmiş olduğunuz kullanıcı adı geçersiz</string>
-    <string name="passport_forget_password"><u>Şifremi unuttum</u></string>
-    <string name="passport_get_verify_code">Kodu al</string>
-    <string name="passport_getting_verify_code">Yükleniyor</string>
+    <string name="passport_error_user_password">Şifreler eşleşmiyor</string>
+    <string name="passport_get_login_type_next">Sonraki</string>
+    <string name="passport_header_back">Geri</string>
     <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın</string>
     <string name="passport_input_captcha_hint">Kodu girin</string>
     <string name="passport_input_password_hint">Şifre girin</string>
-    <string name="passport_input_phone_hint">Telefon numarasını girin</string>
-    <string name="passport_input_vcode_hint">Doğrulama kodunu girin</string>
+    <string name="passport_input_phone_number_hint">Telefon numarasını girin</string>
+    <string name="passport_input_verify_code">Dogrulama kodunu giriniz</string>
     <string name="passport_input_voice_captcha_hint">Sesli doğrulama kodunu girin</string>
     <string name="passport_input_voice_hint">Sesli kodu girin</string>
-    <string name="passport_international_phone_password_login_tip">(Çin dışındaki ülkelerde bulunan kullanıcılar mobil telefon numarasını şu biçimde girmeleri gerekmektedir: [alan kodu][telefon numarası]. Örneğin: +91 817282982)</string>
-    <string name="passport_log_detail">Ayrıntıları görüntüle</string>
-    <string name="passport_login_failed">Oturum açılamıyor</string>
+    <string name="passport_mi_account_first_title">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
+    <string name="passport_mi_account_title">Xiaomi hesabı ile oturum açın</string>
+    <string name="passport_network_error">Bir ağ hatası oluştu</string>
+    <string name="passport_network_error_hint">Bağlantıyı kontrol edip tekrar deneyin veya bağlantıyı kopyalayıp tarayıcınızda açın</string>
     <string name="passport_next">İleri</string>
-    <string name="passport_next_step">İleri</string>
+    <string name="passport_page_load_failed">Sayfa açılamıyor</string>
+    <string name="passport_password_login_btn">Sign in</string>
+    <string name="passport_password_not_show">Şifreyi gösterme</string>
     <string name="passport_password_req_notice">Şifreler 8 ile 16 karakter arasında olmalı ve şunlardan en az ikisini içermelidir: rakamlar, harfler ve özel semboller (Örneğin. 123abc# veya 123abc veya abc@#)</string>
+    <string name="passport_password_show">Şifreyi göster</string>
     <string name="passport_querying_phone_info">Hesap bilgileri isteniyor</string>
-    <string name="passport_quick_login_dialog_step2_title">2 adımlı doğrulama</string>
-    <string name="passport_quick_login_dialog_title">Şifreyi doğrula</string>
-    <string name="passport_quick_login_step2_title">2 adımlı doğrulama</string>
     <string name="passport_quick_login_title">Şifrenizi girin</string>
-    <string name="passport_re_get_verify_code">Kodu tekrar al</string>
     <string name="passport_reging">Hesap oluşturuluyor</string>
     <string name="passport_register_restricted">Bu numara ile çok fazla sayıda hesap ilişkilendirildi. Başka bir numara deneyin</string>
-    <string name="passport_reload_ph_ticket">Tekrar gönder</string>
     <string name="passport_relogin_notice">Tekrar oturum açmanız gerekmektedir</string>
+    <string name="passport_resend_ticket">Kodu yeniden gönder</string>
+    <string name="passport_retry">Tekrar dene</string>
+    <string name="passport_send_sms_to">%1$s adresine kod gönderildi</string>
     <string name="passport_send_too_many_code">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin</string>
-    <string name="passport_send_too_many_sms">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. 24 saat bekleyin ve tekrar deneyin</string>
     <string name="passport_sending_vcode">Kod gönderiliyor</string>
     <string name="passport_set_password">Şifre oluştur</string>
     <string name="passport_set_password_no_phone_msg">Hesabınızı korumak için telefon numaranızı ekleyin</string>
-    <string name="passport_sign_in">Oturum aç</string>
-    <string name="passport_sign_in_or_sign_up">Oturum aç/Hesap oluştur</string>
-    <string name="passport_sms_phone_intro">Kod %1$s numarasına gönderildi</string>
     <string name="passport_talkback_image_captcha">Resimli doğrulama kodu</string>
     <string name="passport_talkback_switch_image_captcha">Resimli doğrulama koduna geç</string>
     <string name="passport_talkback_switch_voice_captcha">Sesli doğrulama koduna geç</string>
     <string name="passport_talkback_voice_captcha">Sesli doğrulama kodunu oynat</string>
-    <string name="passport_timeout_network_error">Ağ bağlantısı zaman aşımına uğradı</string>
-    <string name="passport_trust_device">Bu güvenli bir cihazdır</string>
-    <string name="passport_trying_read_verify_code_sms">Doğrulama kodu alınıyor</string>
-    <string name="passport_unknow_error">Tanımlanamayan bir hata oluştu</string>
+    <string name="passport_ticket_send_by_second">%d gönder</string>
+    <string name="passport_to_forget_password">Parolanızı mı unuttunuz?</string>
+    <string name="passport_to_password_login">Şifre kullanarak giriş yapın</string>
+    <string name="passport_to_verify_code_login">Mesaj ile giriş yapın</string>
     <string name="passport_unknow_host_network_error">Ağ ayarlarınızı kontrol edin ve yeniden deneyin</string>
-    <string name="passport_unknow_network_error">Ağ bağlantısı yok</string>
-    <string name="passport_user_agreement_link">Xiaomi <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikasını</a> okudum ve kabul ettim</string>
-    <string name="passport_user_agreement_link_more">"Şu anlaşmaları okudum ve kabul ettim: Xiaomi'nin "<a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a>,<a href="%2$s">%3$s</a>"</string>
+    <string name="passport_user_id_hint">E-posta/telefon numarası/Xiaomi hesap kimliği</string>
     <string name="passport_user_id_intro">%1$s için şifre girin</string>
-    <string name="passport_v_code_error">Doğrulama kodu yanlış</string>
-    <string name="passport_vcode_notification_title">Oturum açma onayınız tamamlanmadı</string>
-    <string name="passport_vcode_prompt_long">Doğrulama kodunu girin</string>
-    <string name="passport_vcode_sms_send_prompt">Kod %s hedefine gönderildi</string>
-    <string name="passport_verification_failed">Doğrulanamadı</string>
-    <string name="passport_verify">Doğrula</string>
+    <string name="passport_user_password_hint">Şifre</string>
     <string name="passport_wechat_not_install">"Öncelikle WeChat'i yükleyin"</string>
     <string name="passport_wrong_captcha">Girdiğiniz kod yanlış</string>
     <string name="passport_wrong_phone_number_format">Girmiş olduğunuz telefon numarası biçimi geçersiz</string>
@@ -1404,10 +1380,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="permission_declaration_title">Erişim izinli</string>
     <string name="permission_open">İzin ver</string>
     <string name="permission_required">Gerekli izinler</string>
-    <string name="phone_bind_too_many">Bu telefon kısa bir süre içerisinde bir kaç Mi Hesabı ile ilişkilendirildi. Farklı bir telefon numarası kullanmayı deneyin.</string>
-    <string name="phone_hint">Telefon numarası</string>
-    <string name="phone_num_use_for">Telefon numarası bu işlemler için kullanılır:</string>
-    <string name="phone_number">Telefon numarası</string>
+    <string name="phone_auto_login_register_with_local_number">Hesap oluştur</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="pick_favorite_song">Favoriler</string>
     <string name="pick_local_song">Yerel şarkılar</string>
@@ -1424,7 +1397,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="play_video_with_traffic">Devam et</string>
     <string name="play_video_with_traffic_toast">Mobil veri kullanıyorsunuz</string>
     <string name="playlist_empty">Çalma listesi yok</string>
-    <string name="playlist_recommend_title">Tavsiye</string>
+    <string name="playlist_recommend_title">Öneri</string>
     <string name="playlist_title">Çalma listesi adı</string>
     <string name="playlist_title_is_empty">Çalma listesi adı boş bırakılamaz</string>
     <string name="playlist_title_is_invalid">Çalma listesi zaten mevcut</string>
@@ -1450,9 +1423,9 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="privacy_desc">Gizlilik politikası (Zorunlu)</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=tr_TR</string>
-    <string name="privacy_request_desc">Müziğin çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. <a href="%1$s">Gizlilik politikamızda</a>"\"\" topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden müziğin gizlilik politikasına verdiğiniz izni geri çekebilirsiniz
-Müziği kullanmadan önce \"\""<a href="%2$s">Kullanıcı sözleşmemizi</a> ve <a href="%1$s">Gizlilik politikamızı</a>"\"\" okuyun ve kabul edin
-Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız. Bununla birlikte temel işlevler hâlâ kullanılabilir olacaktır\"\""</string>
+    <string name="privacy_request_desc">"Müziğin çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. <a href="%1$s">Gizlilik politikamızda</a> topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden müziğin gizlilik politikasına verdiğiniz izni geri çekebilirsiniz
+Müziği kullanmadan önce <a href="%2$s">Kullanıcı sözleşmemizi</a> ve <a href="%1$s">Gizlilik politikamızı</a> okuyun ve kabul edin
+Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız. Bununla birlikte temel işlevler hâlâ kullanılabilir olacaktır"</string>
     <string name="privacy_request_subtitle">"Müziğe hoş geldiniz! Bu uygulama aşağıdaki hizmetleri destekler:
 - Yerel bir ses oynatıcı
 - Çevrimiçi yayınlanan hizmetler"</string>
@@ -1463,11 +1436,8 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın baz
     <string name="project_device">Mi telefon</string>
     <string name="project_id">mi-music-global</string>
     <string name="prompt_grant_write_settings_permission">Sistem ayarlarını değiştirmeye izin ver</string>
-    <string name="protocal_dialog_cancel">İptal</string>
     <string name="protocal_dialog_confirm">Kabul et</string>
     <string name="protocal_dialog_title">Uyarı</string>
-    <string name="psw_hint">Şifre</string>
-    <string name="psw_sign_in">Şifre kullanarak oturum aç</string>
     <string name="pulluprefreshrecyclerview_loading_error">Yüklenmedi</string>
     <string name="pulluprefreshrecyclerview_loading_finished">Başarıyla yüklendi</string>
     <string name="pulluprefreshrecyclerview_loading_running">Yükleniyor</string>
@@ -1475,9 +1445,9 @@ Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın baz
     <string name="qq_login_btn_content_description">QQ ile oturum açın</string>
     <string name="qq_login_protocol_scheme">com.xiaomi.passport.ui</string>
     <string name="queue_is_empty">Kuyruk oynatma boş</string>
-    <string name="read_and_agree_hungama_protocol"><font color="#A374F0">&lt;Data>&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">Hungam</font>"a Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum ve kabul ettim&lt;/Data>"</string>
-    <string name="read_and_agree_joox_protocol"><font color="#A374F0">&lt;Data>&lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\">JOO</font>"X Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum ve kabul ettim&lt;/Data>"</string>
-    <string name="read_and_agree_mi_protocol">&lt;Data>X<font color="#A374F0">iaomi &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%1$s\"</font>">Kullanıcı Sözleşmesi'ni&lt;/a>&lt;/font> ve &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum be kabul ettim&lt;/Data>"</string>
+    <string name="read_and_agree_hungama_protocol"><font color="#A374F0"><font color="#A374F0">&lt;font color=\"#A374F0\">&lt;Data>&lt;font color=\"#A374F0\">&lt;/color</font>></font>"&lt;a href=\"%1$s\">Hungam&lt;/font>\"a Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum ve kabul ettim&lt;/Data>\""</string>
+    <string name="read_and_agree_joox_protocol"><font color="#A374F0"><font color="#A374F0">&lt;font color=\"#A374F0\">&lt;Data>&lt;font color=\"#A374F0\">&lt;/co</font>l</font>"or>&lt;a href=\"%1$s\">JOO&lt;/font>\"X Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum ve kabul ettim&lt;/Data>\""</string>
+    <string name="read_and_agree_mi_protocol">&lt;<font color="#A374F0">Data>X<font color="#A374F0">&lt;font color=\"#A374F0\">iaomi &lt;font color=\"#A374F0\">&lt;</font></font>"/color>&lt;a href=\"%1$s\"&lt;/font>\">Kullanıcı Sözleşmesi'ni&lt;/a>&lt;/font> ve &lt;font color=\"#A374F0\">&lt;/color>&lt;a href=\"%2$s\">Gizlilik Politikası'nı&lt;/a>&lt;/font> okudum be kabul ettim&lt;/Data>\""</string>
     <string name="read_and_agree_protocol">Devam etmeden önce Kullanıcı Sözleşmemizi ve Gizlilik Politikamızı okuyun ve kabul edin.</string>
     <string name="ready_to_play">Bir sonraki</string>
     <string name="recaptcha_cookies_key">recaptcha_cookies_key</string>
@@ -1513,10 +1483,7 @@ mutlu ol"</string>
     <string name="resend_email_reach_limit_message">Çok fazla sayıda doğrulama e-postası talep ettiniz. Doğrulama e-postasının gelen kutunuzun gereksiz klasöründe olup olmadığından emin olun.</string>
     <string name="resend_email_reach_limit_title">Çok fazla deneme</string>
     <string name="resend_email_success">Başarıyla gönderildi</string>
-    <string name="restart_action">Baştan başlat</string>
     <string name="restart_immediate">Şimdi Başlat</string>
-    <string name="restart_phone_bind_message">Kısa mesajın size ulaşması biraz zaman alabilir. Yine de yeniden başlamak istiyor musunuz?</string>
-    <string name="restart_phone_bind_title">Kurtarma telefon numarasını değiştir</string>
     <string name="retry">Tekrar dene</string>
     <string name="retry_after_network_available">Ağa bağlanamıyor. Veri bağlantınızı kontrol edin ve tekrar deneyin</string>
     <string name="retry_download">Tekrar dene</string>
@@ -1578,7 +1545,6 @@ mutlu ol"</string>
     <string name="send_diagnosis_log">Kayıtları gönder</string>
     <string name="send_email_activate_message">Doğrulama e-postası başarıyla gönderildi</string>
     <string name="send_to_title">Gönder: %1$s</string>
-    <string name="sending">Gönderiliyor</string>
     <string name="service_and_settings">Servis ve hizmetler</string>
     <string name="service_error">Sunucu hatası</string>
     <string name="set_as_alarm_clock_ringtone">Alarm</string>
@@ -1587,7 +1553,6 @@ mutlu ol"</string>
     <string name="set_online_home_title">Çevrimiçi öneriler</string>
     <string name="set_ringtones_failed">Zil Sesi yapılamadı</string>
     <string name="set_ringtones_successful">%s zil sesi olarak ayarla</string>
-    <string name="set_success">Başarıyla değiştirildi</string>
     <string name="setting_feature_setting">Özellik ayarı</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_search_key_notification">Müzik bildirimleri;Müzik;Bildirimler;şarkılar</string>
@@ -1610,9 +1575,6 @@ mutlu ol"</string>
     <string name="shuffle_off_notif">Karışık kapalı</string>
     <string name="shuffle_on_notif">Karışık açık</string>
     <string name="shuffle_play_toast_text">Şarkılar karıştırılıyor</string>
-    <string name="sign_in">Oturum açılıyor</string>
-    <string name="sign_in_progress">Oturum açılıyor</string>
-    <string name="sign_in_title">Mi hesabınızda oturum açın</string>
     <string name="similar_albums">Benzer albümler</string>
     <string name="similar_playlists">Benzer çalma listeleri</string>
     <string name="similar_songs">Benzer şarkılar</string>
@@ -1624,7 +1586,6 @@ mutlu ol"</string>
     <string name="sleep_mode_summary">Ayarlanan süre bitince oynatıcı durdurulur</string>
     <string name="sleep_mode_title">Uyku modu</string>
     <string name="sliding_pro_center">Pro merkez</string>
-    <string name="sms_send_success">Başarıyla gönderildi</string>
     <string name="sns_access_token_expired_warning">Oturum sona erdi. Bu hesaba yeniden bağlanmak için tekrar oturum açın</string>
     <string name="sns_bind_limit">Çok fazla sayıda denemede bulundunuz. Diğer oturum açma yöntemlerini deneyin</string>
     <string name="sns_sign_in">Diğer oturum açma yolları</string>
@@ -1719,7 +1680,10 @@ mutlu ol"</string>
     <string name="talkback_pre">Önceki şarkı</string>
     <string name="talkback_search">Ara</string>
     <string name="talkback_show_navigation_draw">Çekmeceyi göster</string>
-    <string name="telephone_permissions_for_push">Arama izinleri: Google push bildirimi hizmetlerini sağlamak için</string>
+    <string name="task_card_button_exchange">Kullan</string>
+    <string name="task_card_message_received_successfully">Bugünün görevlerini tamamladınız. Madeni paralarınızı şimdi kullanın</string>
+    <string name="task_card_title_received_successfully">Başarıyla talep edildi</string>
+    <string name="telephone_permissions_for_push">Arama izinleri: Google itme bildirimi hizmetlerini sağlamak içindir</string>
     <string name="temporary_not_available">Bu özellik henüz kullanılamamaktadır</string>
     <string name="terms_of_service">Hizmet şartları</string>
     <string name="test_mode">Test modu</string>
@@ -1767,15 +1731,13 @@ mutlu ol"</string>
     <string name="thursday">Perşembe</string>
     <string name="thursday_short">Perşembe</string>
     <string name="thursday_shortest">P</string>
-    <string name="ticket_hint">Doğrulama kodu</string>
-    <string name="ticket_invalid">Girmiş olduğunuz kod hatalı</string>
-    <string name="ticket_sign_in">Mesaj ile oturum aç</string>
     <string name="ticket_summary">Gösteriler, konserler. Tiyatro ve diğer etkinlikler için bilet satınal</string>
     <string name="ticket_title">Biletleri Göster</string>
     <string name="time_picker_dialog_title">Zamanı ayarla</string>
     <string name="time_picker_label_hour">S</string>
     <string name="time_picker_label_minute">D</string>
     <string name="time_to_upgrade">Müzik uygulamasını son sürüme güncelleyin</string>
+    <string name="tips_click_here_to_continue">Tap to resume playback</string>
     <string name="title_command_mode">Komut modu</string>
     <string name="title_online_fm_recommend">FM özelliği</string>
     <string name="title_online_recommend">Önerilen liste</string>
@@ -1818,6 +1780,14 @@ mutlu ol"</string>
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Salı</string>
     <string name="tuesday_shortest">S</string>
+    <string name="ucrop_crop">Crop</string>
+    <string name="ucrop_error_input_data_is_absent">Hem giriş hem de çıkış Uri belirtilmelidir</string>
+    <string name="ucrop_label_edit_photo">Fotoğrafı düzenle</string>
+    <string name="ucrop_label_original">Orijinal</string>
+    <string name="ucrop_menu_crop">Kırp</string>
+    <string name="ucrop_mutate_exception_hint">Bu nedenle L öncesi cihazlarda çalışmasını sağlamak için uygulamanızdaki renk kaynağını (ucrop_color_toolbar_widget) geçersiz kılın</string>
+    <string name="ucrop_rotate">Döndür</string>
+    <string name="ucrop_scale">Ölçek</string>
     <string name="ultra_high_quality">En yüksek</string>
     <string name="unknown_album_name">Bilinmeyen albüm</string>
     <string name="unknown_artist_name">Bilinmeyen sanatçı</string>
@@ -1828,11 +1798,9 @@ mutlu ol"</string>
     <string name="update_email_address_dialog_message">Kurtarma e-posta adresinizi güncellemeden önce kimliğinizi doğrulamanız gerekmektedir</string>
     <string name="update_email_address_dialog_title">Kurtarma e-posta adresini güncelle</string>
     <string name="update_now">Şimdi güncelle</string>
-    <string name="update_phone_notice">Güvenlik ayarlarını değiştir</string>
     <string name="upgrade_music">Müzik güncelle</string>
     <string name="upgrade_music_message">Paket hazır. Güncellemek için yeniden başlatın</string>
     <string name="upgrading_in_backstage">Arka planda güncelleniyor</string>
-    <string name="upload_error_log">Kayıtları yükle</string>
     <string name="upload_favorite_dialog_title">Diğer senkronize cihazlarda erişebilmek için şarkılarınızı buluta yükleyin. Bu özelliği ayarlardan kapatabilirsiniz</string>
     <string name="upload_favorite_setting_summary">Şarkılara diğer cihazlarda erişmek için şarkıları bulut alanına yükleyin</string>
     <string name="upload_favorite_setting_title">Şarkıları senkronize et</string>
@@ -1841,23 +1809,21 @@ mutlu ol"</string>
     <string name="upload_playlist_to_hungama_title">Mi hesabınızı kullandığınız diğer cihazlardan erişebilmek için çevrimiçi şarkıları Hungama ile senkronize edin</string>
     <string name="upload_playlist_to_hungama_toast">Çevrimiçi şarkılar Hungama ile senkronize edilecek</string>
     <string name="user_agreement">Kullanıcı sözleşmesi</string>
-    <string name="user_agreement_hint_3rd_app"><a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini okudum ve kabul ettim.</string>
-    <string name="user_agreement_hint_3rd_app_mobile"><a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini, ayrıca <a href="%5$s">China Mobile doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_hint_3rd_app_with_telecom"><a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini, ayrıca <a href="%5$s">eSurfing hesabı doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_hint_3rd_app_with_unicom"><a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini, ayrıca <a href="%5$s">China Unicom doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_hint_default">Mi hesabı <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">"\"Gizlilik Politikası'nı\""</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_hint_default_1">Read and agreed to the <a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy.</a></string>
-    <string name="user_agreement_hint_default_extra">"\"\"I've read and agreed to the \""<a href="%1$s">User Agreement</a> and <a href="%2$s">Privacy Policy.</a> The first login will automatically create a Xiaomi account\"</string>
+    <string name="user_agreement_hint_3rd_app"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a> sözleşmelerini okudum ve kabul ettim</string>
+    <string name="user_agreement_hint_3rd_app_mobile"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a> sözleşmelerini, ayrıca <a href="%5$s">China Mobile doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_3rd_app_with_telecom"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a> sözleşmelerini, ayrıca <a href="%5$s">eSurfing hesabı doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_3rd_app_with_unicom"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı sözleşmesi</a> ve <a href="%4$s">Gizlilik politikası</a> sözleşmelerini, ayrıca <a href="%5$s">China Unicom doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_default">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_default_1"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> okuyup kabul edin</string>
+    <string name="user_agreement_hint_default_extra"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını okudum ve kabul ediyorum.</a> İlk giriş otomatik olarak bir Xiaomi hesabı oluşturacaktır</string>
     <string name="user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız.</string>
-    <string name="user_agreement_hint_with_mobile">Mi hesabı <a href="%1$s">Kullanıcı Sözleşmesi</a>, <a href="%2$s">Gizlilik Politikası</a> ve <a href="%3$s">China Mobile doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_hint_with_telecom">Mi hesabı <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve <a href="%3$s">eSurfing hesabı doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_hint_with_unicom">Mi hesabı <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve <a href="%3$s">China Unicom doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum.</string>
-    <string name="user_agreement_protocal_dialog_hint_default"><a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik Politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini okuyun ve kabul edin.</string>
+    <string name="user_agreement_hint_with_mobile">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a>, <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Çin Mobil doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_telecom">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">eSurfing hesabı doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_unicom">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Çin Unicom doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_url">http://www.miui.com/res/doc/eula.html?lang=en</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_experience_program_open">"Telif hakkı kısıtlamalarından dolayı indirilen şarkıarı oynatabilmek içim kullanıcı deneyimi programına kaydolmanız gerekir. Bunu Ayarlar > Şifreler &amp; Güvenlik > Gizlilik > Kullanıcı deneyimi programı'na kaydol menüsünden yapabilirsiniz"</string>
-    <string name="user_id_hint">E-posta/Telefon/Mi hesabı kimliği</string>
     <string name="user_name_phone_number">Telefon numarası</string>
     <string name="user_playlist_plaza">Çalma listeleri</string>
     <string name="user_privacy_dialog_negative_text">İptal et</string>
@@ -1870,7 +1836,6 @@ mutlu ol"</string>
     <string name="user_profile_follow_count">Takip edilen: %s</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
-    <string name="v_code_title">Doğrulama kodunu girin</string>
     <string name="version_info">Sürüm</string>
     <string name="vhigh_sound_quality">HD</string>
     <string name="video_play_cellular">Cihazınız wifi ağına bağlı değil. Mobil veri kullanılsın mı?</string>

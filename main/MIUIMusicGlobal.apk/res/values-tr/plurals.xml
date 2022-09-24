@@ -202,6 +202,10 @@ Not: Dosya cihazdan da silinecektir"</item>
         <item quantity="other">Şarkı arasında geçiş süresi: %d saniye</item>
         <item quantity="one">Şarkı arasın geçiş süresi: %d saniye</item>
     </plurals>
+    <plurals name="task_guide">
+        <item quantity="other">Bugün %1$d jeton kazanın</item>
+        <item quantity="one">Bugün %1$d jeton kazanın</item>
+    </plurals>
     <plurals name="video_count">
         <item quantity="other">Video</item>
         <item quantity="one">Video</item>

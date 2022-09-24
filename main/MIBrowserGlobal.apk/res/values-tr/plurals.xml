@@ -67,8 +67,8 @@
         <item quantity="one">%1$d gün önce</item>
     </plurals>
     <plurals name="download_business_v5_edit_mode_title">
-        <item quantity="other">%1$d seçili</item>
-        <item quantity="one">%1$d seçili</item>
+        <item quantity="other">%1$d seçildi</item>
+        <item quantity="one">%1$d seçildi</item>
     </plurals>
     <plurals name="download_dialog_confirm_delete_downloads_message">
         <item quantity="other">%d görev silinsin mi?</item>

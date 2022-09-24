@@ -281,6 +281,7 @@
     <string name="pa_accessibility_olympic_the_third">Üçüncü sıra: %s</string>
     <string name="pa_accessibility_picker_app_group_list_item">%1$s/%2$d</string>
     <string name="pa_accessibility_picker_back">Geri dön</string>
+    <string name="pa_accessibility_picker_close">Kapat</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Desteklenen araçların listesini görüntüleyin</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">Seçili %1$s, satır %2$d, sayı %3$d. Başlamak için iki kez dokunun</string>
     <string name="pa_accessibility_picker_home_search">Araç ara</string>
@@ -591,6 +592,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_picker_request">Ayarlar</string>
     <string name="pa_picker_retry">Tekrar deneyin</string>
     <string name="pa_picker_search">Ara</string>
+    <string name="pa_picker_search_card_filter_button_text">Tüm araçlar</string>
     <string name="pa_picker_search_card_header_accessibility_filter_icon">Filtrele</string>
     <string name="pa_picker_search_card_more_all_applications">Daha fazla uygulama</string>
     <string name="pa_picker_search_card_more_all_suits">Daha fazla araç seti</string>
@@ -642,6 +644,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_setting_app_usage_auth_dialog_message">Bu özelliği kapattıktan sonra uygulama öneriler araçlarını kullanamayacaksınız. Yine de kapatılsın mı?</string>
     <string name="pa_setting_app_usage_auth_dialog_title">Dikkat</string>
     <string name="pa_setting_bugreport">Geri bildirim</string>
+    <string name="pa_setting_perm_empty">Burada henüz bir şey yok</string>
     <string name="pa_setting_privacy_auth">Uygulama kullanımının analizine izin ver</string>
     <string name="pa_setting_privacy_auth_summary">Kullanım alışkanlıklarınıza göre öneriler alacaksınız</string>
     <string name="pa_setting_privacy_category_perm">İzinler</string>

@@ -44,7 +44,7 @@
     <string name="appcirculate_fragment_circulate_app_content_description">Uygulama anlık görüntüsü: %1$s</string>
     <string name="appcirculate_fragment_circulate_device_card_button">Şimdi aç</string>
     <string name="appcirculate_fragment_circulate_device_card_subtitle">Yardım</string>
-    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Açtıktan sonra yakındaki cihazları arayabilir\u000d
+    <string name="appcirculate_fragment_circulate_device_card_switch_subtitle">"Açtıktan sonra yakındaki cihazları arayabilir
 ve video akışı işlevini deneyimlemeye başlayabilirsiniz"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1">"Wifi ve Bluetooth'u aç"</string>
     <string name="appcirculate_fragment_circulate_device_card_switch_title_1_global">"Wifi ve Bluetooth'u aç"</string>
@@ -59,12 +59,14 @@ bulamıyor musunuz?"</string>
     <string name="appcirculate_fragment_circulate_device_list_button_confirm">Tekrar ara</string>
     <string name="appcirculate_fragment_circulate_device_list_text_none"><u>İstenen cihazı bulamadı mı?</u></string>
     <string name="appcirculate_fragment_circulate_device_list_text_searching">Yakındaki cihazları arama</string>
+    <string name="appcirculate_toast_app_notstall">Aktarım başarısız oldu. Uygulama cep telefonuna yüklenmedi</string>
     <string name="appcirculate_toast_busy">Hedef cihaz dosyaları aktarıyor. Lütfen aktarım tamamlandıktan sonra ekranlar arası işbirliği yapın</string>
     <string name="appcirculate_toast_cancel">İptal et</string>
     <string name="appcirculate_toast_fail">Hata</string>
     <string name="appcirculate_toast_loading">Yükleniyor</string>
     <string name="appcirculate_toast_not_support_device_pad">Bu uygulama tabletlerde açılamıyor</string>
     <string name="appcirculate_toast_not_support_device_pc">Bu uygulama bilgisayarlarda açılamıyor</string>
+    <string name="appcirculate_toast_not_support_device_phone">Bu uygulama telefonda açılamıyor</string>
     <string name="appcirculate_toast_not_support_device_tv">"Bu uygulama TV'lerde açılamıyor"</string>
     <string name="appcirculate_toast_not_support_device_tv_connected">"Bu TV'ye zaten bağlı"</string>
     <string name="appcirculate_toast_success_1">Başarılı oldu</string>
@@ -83,6 +85,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - > Xiaomi hesabını
     <string name="ball_hint_text_success">Bağlantı başarılı oldu</string>
     <string name="bottom_sheet_behavior">com.google.android.material.bottomsheet.BottomSheetBehavior</string>
     <string name="bottomsheet_action_expand_halfway">Yarıya kadar genişlet</string>
+    <string name="cast_image_des">Yansıtma eğitimi</string>
     <string name="casting_tips">Yansıtılıyor</string>
     <string name="character_counter_content_description">Girilen karakter: %1$d / %2$d</string>
     <string name="character_counter_overflowed_content_description">Karakter sınırı aşıldı %1$d / %2$d</string>
@@ -165,7 +168,7 @@ Xiaomi hesabınıza giriş yapmadıysanız lütfen Ayarlar - > Xiaomi hesabını
     <string name="circulate_card_mirror_device_title_pad">Tablet</string>
     <string name="circulate_card_mirror_device_title_television">Televizyon</string>
     <string name="circulate_card_mirror_help"><u>Cihaz desteği hakkında bilgi edinin</u></string>
-    <string name="circulate_card_mirror_pad_subtitle">"Büyük ekran projeksiyonunu kolayca kullanabilmek için\u000d
+    <string name="circulate_card_mirror_pad_subtitle">"Büyük ekran projeksiyonunu kolayca kullanabilmek için
 Tablet ekranı kartını TV'ye sürükleyip bırakın"</string>
     <string name="circulate_card_mirror_pad_title">Tablet ekranı</string>
     <string name="circulate_card_mirror_phone_subtitle">"Telefon ekranını yansıtmak için
@@ -191,8 +194,11 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_card_sticker_remote_control">TV uzaktan kumandası</string>
     <string name="circulate_card_sticker_remote_control_bottom">Alt</string>
     <string name="circulate_card_sticker_remote_control_center">Onayla</string>
+    <string name="circulate_card_sticker_remote_control_coordination_input">İşbirlikçi girdi</string>
+    <string name="circulate_card_sticker_remote_control_coordination_input_subtitle">TV ana sayfa arama giriş sayfasına girdiğinde buraya TV için metin girmek için yerel klavyeyi kullanabilirsiniz</string>
     <string name="circulate_card_sticker_remote_control_cut">Kes</string>
     <string name="circulate_card_sticker_remote_control_home">Ana</string>
+    <string name="circulate_card_sticker_remote_control_keyboard">Klavye</string>
     <string name="circulate_card_sticker_remote_control_left">Sol</string>
     <string name="circulate_card_sticker_remote_control_menu">Menü</string>
     <string name="circulate_card_sticker_remote_control_power">Güç</string>
@@ -205,24 +211,65 @@ diğer cihazlara sürükleyip bırakın"</string>
     <string name="circulate_common_retry_later">Lütfen daha sonra tekrar deneyiniz</string>
     <string name="circulate_cta_agree">Kabul et</string>
     <string name="circulate_cta_app_name">Mi Smart Hub</string>
-    <string name="circulate_cta_desc_pad">Mi Smart Hub merkezine hoş geldiniz. Bu uygulamayı ekran yansıtma ve Mi Miucast işlevlerini çalıştırmak ve ses ve video içeriğini kullanım için diğer cihazlara aktarmak için kullanabilirsiniz. Bu uygulamayı kullanma sürecinde internete bağlanacağız ve sizden aşağıdaki izinlere başvuracağız:</string>
     <string name="circulate_cta_desc_phone">Mi Miaoxiang merkezine hoş geldiniz. Bu uygulamayı ekran projeksiyonu Mi Miaobo, MIUI+ işlevlerini çalıştırmak ve ses, video ve uygulama içeriğini kullanım için diğer cihazlara aktarmalarda kullanabilirsiniz. Bu uygulamayı kullanma sürecinde internete bağlanacağız ve sizden aşağıdaki izinlere başvuracağız:</string>
     <string name="circulate_cta_exit">Çıkış</string>
     <string name="circulate_cta_premission_sound_subtitle">Projeksiyon işlemi sırasında oynatma için sesi diğer cihazlara iletin</string>
     <string name="circulate_cta_premission_sound_title">Ses kaydı</string>
+    <string name="circulate_cta_premission_storage_pad_title">Depolama alanına eriş ve ögeleri kaydet</string>
     <string name="circulate_cta_premission_storage_subtitle">Aktarılan dosyaları göndermek ve almak için kullanılır</string>
     <string name="circulate_cta_premission_storage_title">Cihazdaki fotoğrafları ve dosyaları okuyun ve yazın</string>
     <string name="circulate_cta_premission_wlan_subtitle">Cihazları taramak ve ses ve video akışı yapmak için wifi ağını kullanın</string>
-    <string name="circulate_cta_premission_wlan_subtitle_global">Cihazları taramak ve içerik akışı yapmak için wifi ağını kullanın</string>
-    <string name="circulate_cta_premission_wlan_subtitle_miui_plus">Ses ve video akışı için wifi ağını kullanın</string>
-    <string name="circulate_cta_premission_wlan_subtitle_miui_plus_global">Wifi kullanarak içerik akışı yapın</string>
     <string name="circulate_cta_premission_wlan_title">Wifi ağını aç veya kapat</string>
-    <string name="circulate_cta_premission_wlan_title_global">Wifi ağını aç veya kapat</string>
+    <string name="circulate_cta_user_agreement">"Devam etmeden önce Kullanıcı Sözleşmesi'ni ve Gizlilik Politikası'nı okuyun ve kabul edin."</string>
     <string name="circulate_device_type_name_pad">Tablet</string>
     <string name="circulate_device_type_name_pc">Bilgisayar</string>
+    <string name="circulate_device_type_name_phone">Telefon</string>
     <string name="circulate_device_type_name_tv">Televizyon</string>
     <string name="circulate_device_type_name_wifi_speaker">Hoparlör</string>
     <string name="circulate_device_type_name_wifi_speaker_with_screen">Ekranlı hoparlör</string>
+    <string name="circulate_headset_back_to_box_desc">"1. Her iki kulaklığı da şarj kutusuna yerleştirin.\u000d
+2. Kutudaki tuşa basılı tutun.\u000d
+3. Hedef cihazda eşleştirmeyi bitirin."</string>
+    <string name="circulate_headset_back_to_box_desc_err_308">"Cihazlar arasında oynatmayı aktarabilmek için, önce kulaklıklarınızı TV'niz ile eşleştirin."</string>
+    <string name="circulate_headset_back_to_box_desc_pad">"1. Her iki kulaklığı da kutuya yerleştirin.\u000d
+2. Kutudaki tuşa basılı tutun.\u000d
+3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın."</string>
+    <string name="circulate_headset_back_to_box_desc_phone">"1. Her iki kulaklığı da kutuya yerleştirin.\u000d
+2. Kutudaki tuşa basılı tutun.\u000d
+3. Bluetooth ayarlarında veya bu cihazda bir açılır iletişim kutusu kullanarak eşleştirmeyi tamamlayın."</string>
+    <string name="circulate_headset_back_to_box_desc_tv">"1. Her iki kulaklığı da şarj kutusuna yerleştirin.\u000d
+2. Kutunun üzerindeki tuşa basılı tutun.\u000d
+3. TV'nizde mevcut Bluetooth cihazlarının listesini açın ve eşleşmeyi onaylayın."</string>
+    <string name="circulate_headset_back_to_box_subtitle">Bu kulaklıklar otomatik eşleştirilemiyor. Onun yerine hedef cihazda manuel olarak eşleştirin.</string>
+    <string name="circulate_headset_back_to_box_title">Önce kulaklıkları eşleştir</string>
+    <string name="circulate_headset_back_to_box_title_err_308">Kulaklıklarınızı eşleştirin</string>
+    <string name="circulate_headset_back_to_box_title_pad">Kulaklığı bu cihazla eşleştir</string>
+    <string name="circulate_headset_back_to_box_title_phone">Kulaklığı bu cihazla eşleştir</string>
+    <string name="circulate_headset_back_to_box_title_tv">Kulaklıklarınızı eşleştirin</string>
+    <string name="circulate_headset_control_anc_clear">Temizle</string>
+    <string name="circulate_headset_control_anc_disable_hint">Kulaklık ikili bir cihaza bağlı. Bu cihazda yalnızca kulaklığın ses seviyesi ayarlanabilir</string>
+    <string name="circulate_headset_control_anc_noise_cancel">İptal et</string>
+    <string name="circulate_headset_control_anc_off">Kapat</string>
+    <string name="circulate_headset_control_battery_case">Şarj kutusu</string>
+    <string name="circulate_headset_control_battery_left">Sol</string>
+    <string name="circulate_headset_control_battery_right">Sağ</string>
+    <string name="circulate_headset_control_more_settings">Daha fazla</string>
+    <string name="circulate_headset_duplicate_cancel">İptal et</string>
+    <string name="circulate_headset_duplicate_dialog_message">Başka bir kulaklık çifti %1$s cihazınıza bağlı görünüyor. Mevcut çift ile değiştirilsin mi?</string>
+    <string name="circulate_headset_duplicate_dialog_title">%1$s cihazına bağlı kulaklıkları değiştirin</string>
+    <string name="circulate_headset_duplicate_ok">Değiştir</string>
+    <string name="circulate_headset_error_account_not_match">"Her iki cihazda da aynı Xiaomi Hesabı'nı kulandığınızdan emin olun"</string>
+    <string name="circulate_headset_error_acquired_by_other_host">Şimdi başka bir cihaz kullanılıyor. Daha sonra tekrar deneyin.</string>
+    <string name="circulate_headset_error_default">Bağlantı zaman aşımına uğradı</string>
+    <string name="circulate_headset_error_device_not_support">Kulaklıklar bu cihaza bağlanamıyor</string>
+    <string name="circulate_headset_error_headset_not_support">Kulaklığınız bu bilgisayara bağlanamıyor</string>
+    <string name="circulate_headset_error_headset_not_worn">Lütfen kulaklıkları iki kulakla da kullanın</string>
+    <string name="circulate_headset_error_headset_not_worn_both">Lütfen kulaklıkları iki kulakla da kullanın</string>
+    <string name="circulate_headset_error_remote_host_bluetooth_unenable">"TV'nizde Bluetooth'u açın
+ve Xiaomi Hesabınızda oturum açın"</string>
+    <string name="circulate_headset_error_self_upgrade">"Bu işlem tamamlanamadı. Önce Mi Smart Hub'ı güncelleyin."</string>
+    <string name="circulate_headset_error_timeout">Bağlantı zaman aşımına uğradı</string>
+    <string name="circulate_headset_error_upgrade">"Önce hedef cihazınızda Mi Smart Hub'ı güncelleyin"</string>
     <string name="circulate_help_button_content_description">Yardım</string>
     <string name="circulate_help_card_subtitle">Yardım</string>
     <string name="circulate_help_card_title">"Cihazımı
@@ -232,7 +279,17 @@ bulamıyor musunuz?"</string>
     <string name="circulate_help_feedback_button">Geri bildirim</string>
     <string name="circulate_local_pad_name">Tabletim</string>
     <string name="circulate_local_phone_name">Telefonum</string>
+    <string name="circulate_more_button_content_description">Daha fazla</string>
     <string name="circulate_public_device_title_format">%2$s/%1$s</string>
+    <string name="circulate_ringfind_button_hint_play">Sesi oynat</string>
+    <string name="circulate_ringfind_button_hint_stop">Durdur</string>
+    <string name="circulate_ringfind_error_hint_ringing">Cihaz zaten çalıyor</string>
+    <string name="circulate_ringfind_error_hint_start">Çalma başarısız. Lütfen tekrar deneyin</string>
+    <string name="circulate_ringfind_error_hint_stop">Zil sesi kapatılamadı. Tekrar denemek için lütfen tekrar tıklayın</string>
+    <string name="circulate_ringfind_title">Çan araması</string>
+    <string name="circulate_ringfind_title_stop">Çalmayı durdur</string>
+    <string name="circulate_speaker_control_header_title">Hoparlör yayın kontrolü</string>
+    <string name="circulate_speaker_control_view">"%1$s'den"</string>
     <string name="circulate_title">Mi Smart Hub</string>
     <string name="circulate_tv_power_alter_text">Ayarlarınıza göre TV duracak veya kapanacaktır. Kapattıktan sonra uzaktan kumanda ve TV bu sayfada kaybolacak</string>
     <string name="circulate_tv_power_alter_title">Kapat. Ekranı dinle</string>
@@ -253,6 +310,7 @@ bulamıyor musunuz?"</string>
     <string name="config_wifi_label_china">MiPaiPai wifi ağını yapılandırın</string>
     <string name="config_wifi_label_global">MiPaiPai wifi ağını yapılandırın</string>
     <string name="connect_device_fail">Cihaza bağlanılamadı</string>
+    <string name="connect_success">%1$s connected</string>
     <string name="console_guide_btn_got_it">Anladım</string>
     <string name="console_guide_subtitle_hang_up">Cihazınızın ekranı kapalıyken yansıtmaya devam edebilirsiniz. Bu özellik güç tüketimini azaltır</string>
     <string name="console_guide_subtitle_private">Kayan bildirimleri, gelen aramaları ve diğer özel öğeleri harici ekranlarda gösterme</string>
@@ -287,8 +345,12 @@ bulamıyor musunuz?"</string>
     <string name="debug_mode_wait_remove_title">Cihaz tarama açılır penceresini kaldır</string>
     <string name="default_web_client_id">687519570831-jhea9co2r033aaptoj7b50bcredbeos4.apps.googleusercontent.com</string>
     <string name="device_desc_trust">Güvenilen cihazlar</string>
+    <string name="device_type_name_pad">Tablet</string>
+    <string name="device_type_name_phone">Telefon</string>
     <string name="dialog_can_not_find_device">Yakınlarda cihaz bulunamadı</string>
+    <string name="dialog_cancel">İptal et</string>
     <string name="dialog_cancle">İptal et</string>
+    <string name="dialog_confirm">Onayla</string>
     <string name="dialog_connect_fail">Bağlanılamadı</string>
     <string name="dialog_connect_retry">Tekrar denemek için dokunun</string>
     <string name="dialog_connect_verify_perssion">Önce televizyonunuzda yansıtmaya izin verin</string>
@@ -322,6 +384,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="dialog_scanning_precondition_new_global">Yansıtmayı kullanabilmek için wifi, bluetooth ve konum hizmetlerini açın. Şimdi açılsın mı?</string>
     <string name="dialog_select_tv">Cihaz seçin (%d)</string>
     <string name="dialog_show_help">Yardım</string>
+    <string name="dialog_title">İşbirlikçi girdi</string>
     <string name="disconnect">Yansıtmayı durdur</string>
     <string name="dual_wifi_warning_china">Çift wifi ağını kapatın ve tekrar deneyin</string>
     <string name="dual_wifi_warning_global">Çift wifi ağını kapatın ve tekrar deneyin</string>
@@ -344,8 +407,11 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="eras_bc">BCE</string>
     <string name="err_toast_msg_audio_support_support_only">Cihaz yalnızca müzik akışını destekler. Müzik kartlarını sürükleyip bırakabilirsiniz</string>
     <string name="err_toast_msg_default">Bu işlem desteklenmiyor</string>
+    <string name="err_toast_msg_mirror_and_bluetooth_support_only">Ses oynatma aktarılamıyor</string>
     <string name="err_toast_msg_mirror_support_support_only">Cihaz yalnızca ekranlar arası işbirliğini destekler ve ekran kartlarını sürükleyip bırakabilirsiniz</string>
     <string name="err_toast_msg_not_support">Bu işlem desteklenmiyor</string>
+    <string name="err_toast_msg_not_support_audio_protocol">Ses oynatma bu cihaza aktarılamıyor</string>
+    <string name="err_toast_msg_not_support_video_protocol">"Bu cihaz MIUI+'ı desteklemiyor"</string>
     <string name="err_toast_msg_retry_later">Aktarım başarısız oldu. Lütfen daha sonra tekrar deneyin</string>
     <string name="error_icon_content_description">Hata</string>
     <string name="evening">Öğleden sonra</string>
@@ -354,6 +420,12 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
     <string name="file_read_des">Fotoğrafları ve diğer dosyaları harici monitörlerde görüntülemek için</string>
+    <string name="find_device_close">Kapat</string>
+    <string name="find_device_notification_content">"%2$s/%1$s" bu %3$s'yi arıyor. Kilidini aç zili durdur"</string>
+    <string name="find_device_notification_content_single">"%1$s bu %2$s'yi arıyor. Kilidini aç zili durdur"</string>
+    <string name="find_device_popup_content">"%2$s/%1$s bu %3$s'yi arıyor"</string>
+    <string name="find_device_popup_content_single">"%1$s bu %2$s'yi arıyor"</string>
+    <string name="find_device_title">Cihaz çalıyor</string>
     <string name="fmt_chinese_date">N/e</string>
     <string name="fmt_date">D</string>
     <string name="fmt_date_day">d</string>
@@ -411,7 +483,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="friday_shortest">Cum</string>
     <string name="gcm_defaultSenderId">687519570831</string>
     <string name="global_privacy">Şartlar ve koşullar</string>
-    <string name="global_privacy_detail">&lt;Data>Bu uygulamayı<a href="%1$s"> kulla<a href<a;href="%2$s"><a href="%1$s">&lt;a href=\"%1$s\">nmadan&lt;a href=\"%1$s\">&lt;a href&lt;a href=\"%2$s\">=\"%1$s\"> </a></a></a>önce &lt;a &lt;/a>hr&lt;a href=\"%2$s\">ef=%1$s>Kul&lt;/a>lanı&lt;a&lt;/a>&lt;/a>&lt;/a> href=\"%2$s\">cı sözleşmemizi&lt;/a> v&lt;/a>e &lt;a href=%2$s>Gizlilik politikamızı&lt;/a> okuyun ve kabul edin.&lt;br>Yukarıda bahsedilen hizmetleri kullanmayı onaylamazsanız, bu uygulamanın bazı özelliklerini kullanamayacaksınız; bununla birlikte, temel işlevler hâlâ kullanılabilir olacaktır&lt;/Data></string>
+    <string name="global_privacy_detail">Bu uygulamayı kullanmadan önce %1$s Kullanıcı sözleşmemizi ve %2$s Gizlilik politikamızı okuyun ve kabul edin. Yukarıda belirtilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamazsınız. Ancak temel işlevleri sizin için geçerli olmaya devam eder</string>
     <string name="global_privacy_explain">"Yansıtma'ya hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sağlamaktadır:"</string>
     <string name="global_privacy_feature">Küçültülmüş pencereler kullanma, ekran kapalıyken yansıtma ve gizli ögeleri saklama</string>
     <string name="global_privacy_main">Öğeleri telefonunuzun ekranından daha büyük bir harici monitöre yansıtma</string>
@@ -433,6 +505,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="guide_page_subtitle_2">"Büyük ekran projeksiyonu ve ekranlar arası işbirliğini kolayca gerçekleştirmek için telefon ekran kartını tablete, bilgisayara ve TV'ye sürükleyip bırakın"</string>
     <string name="guide_page_subtitle_2_pad">"Büyük ekran projeksiyonunu kolayca gerçekleştirmek için düz ekran kartını TV'ye sürükleyip bırakın"</string>
     <string name="guide_page_subtitle_3">"Uygulamayı ekranın sol üst köşesine sürükleyin göndermek istediğiniz tableti, bilgisayarı veya TV'yi seçmek için tıklayın. Ardından mevcut uygulama hedef cihaza aktarılabilir"</string>
+    <string name="guide_page_subtitle_earphones">Kulaklığı ilgili cihaza bağlamak ve kullanmaya devam etmek için kulaklık kartını cep telefonu, tablet ve TV arasında sürükleyin</string>
     <string name="guide_page_title_0">Xiaomi Miaoxiang merkezine hoş geldiniz</string>
     <string name="guide_page_title_0_pad">Xiaomi Miaoxiang merkezine hoş geldiniz</string>
     <string name="guide_page_title_1">Müzik akışı</string>
@@ -440,6 +513,7 @@ Eğer bağlantı sorunu yaşıyorsanız yardım için görüntüleyin"</string>
     <string name="guide_page_title_2">Telefonu diğer cihazlara yansıtın</string>
     <string name="guide_page_title_2_pad">Tableti diğer cihazlara yansıtın</string>
     <string name="guide_page_title_3">Uygulamayı doğrudan dağıtın</string>
+    <string name="guide_page_title_earphones">Kulaklık akışı</string>
     <string name="hang_up">Ekran kapalı durumdayken yansıt</string>
     <string name="hang_up_alert_dialog_content">Cihazınızın ekranı kapalıyken yansıtmaya devam edin. Bu özellik pil tüketimini azaltır. Ekranı tekrar açmak için güç tuşuna basın</string>
     <string name="hang_up_alert_dialog_neg">İptal et</string>
@@ -534,7 +608,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
 4. Herhangi bir sorunla karşılaşırsanız, bu sorunu \"Hizmetler &amp; geri bildirim\" uygulamamızı kullanarak bildirebilirsiniz"</string>
     <string name="help_page_text_end">Cihazınızın markası listede yoksa, yansıtma işlevi hakkında daha fazla bilgi almak için üretici ile iletişime geçin</string>
     <string name="hide_bottom_view_on_scroll_behavior">com.google.android.material.behavior.HideBottomViewOnScrollBehavior</string>
-    <string name="icon_content_description">Dialog Icon</string>
+    <string name="icon_content_description">İletişim simgesi</string>
     <string name="invisible_mode_dialog_content">Gizli moddayken yayınlamayı kullanamazsınız. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_content_audio_relay">Gizli moddayken oynatma aktarılamaz. Önce Gizli modu kapatın</string>
     <string name="invisible_mode_dialog_pos">Kapat</string>
@@ -542,12 +616,28 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="item_view_role_description">Tab</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
     <string name="keyguard_setting_privacy_policy_url">http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s</string>
+    <string name="label">Label</string>
+    <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_brand_regular">sans-serif</string>
+    <string name="m3_ref_typeface_plain_medium">sans-serif-medium</string>
+    <string name="m3_ref_typeface_plain_regular">sans-serif</string>
+    <string name="m3_sys_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
+    <string name="m3_sys_motion_easing_emphasized_accelerate">cubic-bezier(0.3, 0.0, 0.8, 0.2)</string>
+    <string name="m3_sys_motion_easing_emphasized_decelerate">cubic-bezier(0.1, 0.7, 0.1, 1.0)</string>
+    <string name="m3_sys_motion_easing_emphasized_path_data">M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1</string>
+    <string name="m3_sys_motion_easing_legacy">cubic-bezier(0.4, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_accelerate">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_legacy_decelerate">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
+    <string name="m3_sys_motion_easing_linear">cubic-bezier(0.0, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard">cubic-bezier(0.2, 0.0, 0.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_accelerate">cubic-bezier(0.3, 0.0, 1.0, 1.0)</string>
+    <string name="m3_sys_motion_easing_standard_decelerate">cubic-bezier(0.0, 0.0, 0.0, 1.0)</string>
     <string name="material_clock_display_divider">:</string>
     <string name="material_clock_toggle_content_description">Select AM or PM</string>
-    <string name="material_hour_selection">Select hour</string>
+    <string name="material_hour_selection">Saat seçin</string>
     <string name="material_hour_suffix">"%1$s o'clock"</string>
-    <string name="material_minute_selection">Select minutes</string>
-    <string name="material_minute_suffix">%1$s minutes</string>
+    <string name="material_minute_selection">Dakika seçin</string>
+    <string name="material_minute_suffix">%1$s dakika</string>
     <string name="material_motion_easing_accelerated">cubic-bezier(0.4, 0.0, 1.0, 1.0)</string>
     <string name="material_motion_easing_decelerated">cubic-bezier(0.0, 0.0, 0.2, 1.0)</string>
     <string name="material_motion_easing_emphasized">path(M 0,0 C 0.05, 0, 0.133333, 0.06, 0.166666, 0.4 C 0.208333, 0.82, 0.25, 1, 1, 1)</string>
@@ -652,6 +742,31 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="month_september_shortest">E</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
+    <string name="mr_button_content_description">Yayınla</string>
+    <string name="mr_cast_button_connected">Yayınla. Bağlı</string>
+    <string name="mr_cast_button_connecting">Yayınla. Bağlanıyor</string>
+    <string name="mr_cast_button_disconnected">Yayınla. Bağlı değil</string>
+    <string name="mr_cast_dialog_title_view_placeholder">Bilgi yok</string>
+    <string name="mr_chooser_searching">Cihazlar bulunuyor</string>
+    <string name="mr_chooser_title">Yayınlanacak yer:</string>
+    <string name="mr_controller_album_art">Albüm kapağı</string>
+    <string name="mr_controller_casting_screen">Ekran yayınlanıyor</string>
+    <string name="mr_controller_close_description">Kapat</string>
+    <string name="mr_controller_collapse_group">Daralt</string>
+    <string name="mr_controller_disconnect">Bağlantıyı kes</string>
+    <string name="mr_controller_expand_group">Genişlet</string>
+    <string name="mr_controller_no_info_available">Bilgi yok</string>
+    <string name="mr_controller_no_media_selected">Medya seçilmedi</string>
+    <string name="mr_controller_pause">Duraklat</string>
+    <string name="mr_controller_play">Oynat</string>
+    <string name="mr_controller_stop">Durdur</string>
+    <string name="mr_controller_stop_casting">Yayını durdur</string>
+    <string name="mr_controller_volume_slider">Ses düzeyi kaydırma çubuğu</string>
+    <string name="mr_dialog_default_group_name">Grup</string>
+    <string name="mr_dialog_groupable_header">Cihaz ekleyin</string>
+    <string name="mr_dialog_transferable_header">Bir grupta oynatın</string>
+    <string name="mr_system_route_name">Sistem</string>
+    <string name="mr_user_route_category_name">Cihazlar</string>
     <string name="msg_send_fail">Veri aktarılamadı</string>
     <string name="mtrl_badge_numberless_content_description">Yeni bildirim</string>
     <string name="mtrl_chip_close_icon_content_description">%1$s içeriğini kaldır</string>
@@ -660,7 +775,6 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
-    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih seçin</string>
@@ -688,6 +802,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="mtrl_picker_toggle_to_day_selection">Gün seçmeye geçmek için dokunun</string>
     <string name="mtrl_picker_toggle_to_text_input_mode">Metin giriş moduna geç</string>
     <string name="mtrl_picker_toggle_to_year_selection">Yıl seçmeye geçmek için dokunun</string>
+    <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="nfc_connect_failed_toast">Yansıtılamadı. Tekrar deneyin</string>
     <string name="night">Akşam</string>
     <string name="no_permission">Kapalı beta kalifikasyonu yok</string>
@@ -699,7 +814,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_cast_desc">Yayınlanıyor</string>
     <string name="notification_desc_scanning">Yakındaki cihazlar aranıyor</string>
-    <string name="notification_rc_title">XiaoMi TV Asistanı</string>
+    <string name="notification_rc_title">XiaoMi TV asistanı</string>
     <string name="notification_show_more">Daha fazla özelliği görüntülemek için dokunun</string>
     <string name="notify">Yansıtma arka planda çalışıyor</string>
     <string name="notify_wifiap_dialog_msg">Kodu taramak ve ağı yapılandırmak için önce taşınabilir erişim noktasını kapatın</string>
@@ -778,10 +893,10 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_setting_show_policy">Gizlilik politikasını görüntüle</string>
     <string name="privacy_setting_show_user_agreement">Kullanıcı sözleşmesini görüntüle</string>
     <string name="privacy_text_1">"Yansıtma'ya hoşgeldiniz! Yansıtma özelliği telefonunuzun ekranındaki öğeleri daha büyük bir harici ekranda görüntülemenize olanak sağlar
-Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, \"\"\""<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"\"\"\"HappyCast Gizlilik Politikası'nı\"\"\""</a>"\"\"\" okuyun ve kabul edin
+Kişisel bilgileriniz, ilgili yasalar, yönetmelikler ve gizlilik politikaları çerçevesinde korunur. Bazı özellikler, üçüncü taraf hizmet sağlayıcısı olan HappyCast tarafından sağlanmaktadır. Bu özelliği kullanmadan önce, \"\"\"\""<a href="%2$s">HappyCast Yasal Bildirisi</a> ve <a href="%1$s">"\"\"\"\"HappyCast Gizlilik Politikası'nı\"\"\"\""</a>"\"\"\"\" okuyun ve kabul edin
 Bu uygulama düzgün çalışabilmek için internete bağlanmalı ve kişisel bilgilerinizi toplamak üzere şu izinlere sahip olmalıdır:"</string>
-    <string name="privacy_text_2">"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz, bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz
-Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin</string>
+    <string name="privacy_text_2">"Bu izinleri vermeyi veya kişisel bilgilerinizi paylaşmayı ve yüklemeyi reddederseniz bu uygulamayı kullanamazsınız. Bu durumda bu uygulamayı kaldırmayı, oturumu kapatmayı veya ayarlar menüsünde izinleri kaldırmayı seçebilirsiniz
+Bu özelliği kullanmadan önce <a href="%1$s">"Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikası</a> anlaşmalarımızı okuyun ve kabul edin"</string>
     <string name="privacy_text_pemission">"　　•Cihazınızdaki resimleri harici ekranlara yansıtmak için erişir ve kaydeder
 　　•Harici cihazlara ses yansıtmak için aramaları ve sesleri kaydeder
 　　•Cihazınızı tanımak için telefon numarasına, IMEI ve IMSI numaralarına erişir
@@ -851,6 +966,16 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="solar_term_white_dews">Çiğ</string>
     <string name="solar_term_winter_begins">Kış başlıyor</string>
     <string name="solar_term_winter_solstice">Kış gündönümü</string>
+    <string name="stat_cancel">İptal et</string>
+    <string name="stat_confirm">Onayla</string>
+    <string name="stat_failed">Hata</string>
+    <string name="stat_pad">Tablet</string>
+    <string name="stat_phone">Telefon</string>
+    <string name="stat_src_click">Tıkla</string>
+    <string name="stat_src_pull">Çek</string>
+    <string name="stat_src_push">Bırak</string>
+    <string name="stat_success">Başarılı oldu</string>
+    <string name="stat_unit_ms">ms</string>
     <string name="status_bar_in_casting">Yansıtılıyor</string>
     <string name="status_bar_in_casting_long">Daha fazla yansıtma özelliğini görüntülemek için dokunun</string>
     <string name="status_bar_notification_info_overflow">999+</string>
@@ -929,9 +1054,32 @@ Bu özelliği kullanmadan önce "<a href="%1$s">Kullanıcı Sözleşmesi</a> ve 
     <string name="tuesday">Salı</string>
     <string name="tuesday_short">Sal</string>
     <string name="tuesday_shortest">Sal</string>
+    <string name="upgrade_app_name_version">%1$s | %2$s</string>
+    <string name="upgrade_cancel">İptal et</string>
+    <string name="upgrade_cancel_all">Güncellemeleri iptal et</string>
+    <string name="upgrade_check_upgrade">Güncelle</string>
+    <string name="upgrade_checking">Güncellemeler kontrol ediliyor…</string>
+    <string name="upgrade_help_menu">Yardım</string>
+    <string name="upgrade_help_title">Güncelleme ile ilgili yardım</string>
+    <string name="upgrade_login_dialog_message">Bağlı cihazlarınızı görüntüleyebilmek için Xiaomi Hesabınızda oturum açın.</string>
+    <string name="upgrade_login_dialog_sure">Oturum aç</string>
+    <string name="upgrade_login_dialog_title">Xiaomi Hesabı ile oturum aç</string>
+    <string name="upgrade_no_devices">Mevcut güncelleme yok</string>
     <string name="upgrade_now">Yükselt</string>
+    <string name="upgrade_scan">Güncellemeleri kontrol et</string>
+    <string name="upgrade_start">Güncelle</string>
+    <string name="upgrade_start_all">Güncelle</string>
     <string name="upgrade_test_package">"Dahili test paketi yükseltilmedi. Lütfen dahili test paketindeki
 ilgili uygulamaları en son sürüme yükseltin"</string>
+    <string name="upgrade_title">Bağlı cihazları güncelle</string>
+    <string name="upgrade_toast_cannot_cancel_while_installing">Kurulum devam ediyor</string>
+    <string name="upgrade_toast_no_wifi">Bağlanılamadı</string>
+    <string name="upgrade_tv_device_tip">*Güncellemeler, Xiaomi TV tarafından sağlanmaktadır</string>
+    <string name="upgrade_ver_can_upgrade">Güncelleme mevcut</string>
+    <string name="upgrade_ver_can_upgrade_1to2">"Sürüm %1$d'den %2$d'ye güncelle"</string>
+    <string name="upgrade_ver_can_upgrade_to1">Güncelle: sürüm %1$d</string>
+    <string name="upgrade_ver_latest">Mevcut sürüm güncel</string>
+    <string name="upgrade_ver_latest1">Mevcut sürüm (%1$d) güncel</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="wednesday">Çarşamba</string>

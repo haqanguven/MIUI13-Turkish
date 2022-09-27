@@ -69,6 +69,8 @@
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="back">Geri</string>
     <string name="btn_send">Gönder</string>
+    <string name="bugreport_dialog_informed_consent_content">"Kilit ekranı şifrenizle ilgili bir hata tespit ettik. Sorunu bulmamıza ve çözmemize yardımcı olması için cihaz günlüklerinizi gönderebilirsiniz. Günlük bilgileri anonim olarak yüklenecek, yalnızca sorun giderme için kullanılacak ve sorun giderme tamamlandığında silinecektir"</string>
+    <string name="bugreport_dialog_informed_consent_title">Bilgilendirilmiş onay</string>
     <string name="bugreport_dialog_not_show_again">Tekrar gösterme</string>
     <string name="bugreport_dialog_submit_content">Şu anda bu cihazda yazılım kayıtlarını kullanıyorsunuz. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Bu bilgilerin açığa çıkmasını engellemek için kayıtları kimseyle paylaşmayın. Kabul et seçeneğini seçmek <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir</string>
     <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>

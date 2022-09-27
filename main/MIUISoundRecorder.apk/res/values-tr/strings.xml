@@ -29,6 +29,7 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="actionbar_button_up_description">Geri</string>
+    <string name="add_remark_dialog_title">@string/record_item_title_remark</string>
     <string name="add_remark_hint">Yorumunuzu buraya girin</string>
     <string name="add_remark_tip">Açıklama eklemek için dokunun</string>
     <string name="afternoon">ÖS</string>
@@ -40,6 +41,7 @@
     <string name="all_record">Tüm kayıtlar</string>
     <string name="allowed">Onayla</string>
     <string name="am">ÖÖ</string>
+    <string name="androidx_startup">androidx.startup</string>
     <string name="app_name">Ses kaydedici</string>
     <string name="app_record">Uygulama kayıtları</string>
     <string name="app_record_preference_title">Uygulama kayıtları</string>
@@ -347,6 +349,7 @@ Metne kaydetme şu anda yalnızca mandarin aktarımını desteklemektedir. Aktar
     <string name="material_timepicker_select_time">Zaman seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
     <string name="menu">Menü</string>
+    <string name="menu_remark">@string/record_item_title_remark</string>
     <string name="message_file_size_error">Kayıt %s tarafından desteklenen maksimum kayıt uzunluğuna ulaştı</string>
     <string name="mi_account_msg">Dosyalarınızı bulutta yazıya dökmek için Mi hesabınızda oturum açın ve ilk 60 dakikayı ücretsiz olarak edinin</string>
     <string name="mi_account_ok">Oturum açın</string>
@@ -632,6 +635,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="record_downloading_notification_complete">İndirme işlemi tamamlandı</string>
     <string name="record_downloading_notification_count">%d indiriliyor</string>
     <string name="record_format_preference_title">Kayıt biçimi</string>
+    <string name="record_item_title_delete">@string/delete</string>
     <string name="record_item_title_multi_choice">Seç</string>
     <string name="record_item_title_remark">Açıklama ekle</string>
     <string name="record_item_title_send">Paylaş</string>
@@ -762,9 +766,11 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="tab_apps">Uygulamalar</string>
     <string name="tab_call">Aramalar</string>
     <string name="tab_fm">Radyo</string>
+    <string name="tab_record">@string/app_name</string>
     <string name="tap_to_record">Kayda başlamak için düğmeye dokunun</string>
     <string name="text_btn_backward_3_seconds">3 saniye geri</string>
     <string name="text_btn_complete">Durdur</string>
+    <string name="text_btn_copy">Kopyala</string>
     <string name="text_btn_forward_3_seconds">3 saniye ileri</string>
     <string name="text_btn_list">Kayıtlar</string>
     <string name="text_btn_mark">İşaretle</string>
@@ -774,6 +780,7 @@ Metin ses servisinden daha iyi yararlanmak için aşağıdakileri de bilmeniz ge
     <string name="text_btn_recognize_pending">"Beklemede "</string>
     <string name="text_btn_recording">Kayda başla</string>
     <string name="text_btn_wave">Dalga</string>
+    <string name="text_copy_complete">Panoya kopyalandı</string>
     <string name="text_finish">Onayla</string>
     <string name="text_play_speed_0_5">0.5X oynatma hızı</string>
     <string name="text_play_speed_1_0">Normal oynatma hızı</string>

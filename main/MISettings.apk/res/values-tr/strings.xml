@@ -198,6 +198,7 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_save">Genel bir zil sesi ayarlamak için bitti düğmesine dokunun</string>
     <string name="close">Kapat</string>
+    <string name="closed_high_refresh_options">Yüksek yenileme hızı kullanmayan uygulamalar</string>
     <string name="color_gamut">Renk aralığı</string>
     <string name="common_brushtail">Brushtail keseli sıçan</string>
     <string name="common_ostrich">Devekuşu</string>
@@ -216,6 +217,8 @@
     <string name="created_successfully">Oluşturma başarılı oldu</string>
     <string name="crowned_hornbill">Taçlı kartallar</string>
     <string name="cu_confirm">Ayarla</string>
+    <string name="customize_high_refresh_summary">"Bu özellik %d Hz'e kadar yenileme hızını destekler. Uygun yenileme hızı cihaz tercihlerine göre otomatik olarak seçilebilir"</string>
+    <string name="customize_high_refresh_title">Yüksek yenileme hızı kullanan uygulamalar</string>
     <string name="customize_radio_btn_summary">Seçilen yenileme hızını tercih et</string>
     <string name="customize_radio_btn_title">Özel</string>
     <string name="dall_sheep">Dağ koyunu</string>
@@ -387,6 +390,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="focus_mode_timer_pick_dialog_summary" formatted="false">%d - %d dakika</string>
     <string name="focus_mode_timer_pick_dialog_title">Süreyi girin</string>
     <string name="focus_time_exception_tip">Sistem saati değişti gibi görünüyor. Odak modu kapatıldı</string>
+    <string name="follow_apps_settings">Uygulama ayarlarına göre</string>
     <string name="follow_sim1">Sim 1 ayarlarını uygula</string>
     <string name="force_rest">Oturum aralarını kullanın</string>
     <string name="force_rest_summary">Oturumlar belirlenen sınıra ulaştığında zorunlu molalar verin</string>
@@ -450,6 +454,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="helmeted_guineafowl">Gine tavuğu</string>
     <string name="high_fps_description">Yüksek ekran yenileme hızı. Daha yüksek güç tüketimi</string>
     <string name="high_fps_tip_footer">Daha yüksek yenileme hızlarının kullanılması görüntüleme deneyimini daha sorunsuz hale getirir ancak daha fazla güç tüketir</string>
+    <string name="high_refresh_options_title">Desteklenen uygulamalar</string>
     <string name="hippopotamus">Hippo</string>
     <string name="holiday_limit">İzin günleri</string>
     <string name="hsv_space_color">HSV renk alanı</string>
@@ -600,6 +605,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="nature_mix_summary">Özel bir karışım oluşturun</string>
     <string name="nazca_booby">Nazca bubi</string>
     <string name="network_error">Bir ağ hatası oluştu. Tekrar deneyin</string>
+    <string name="new_customize_high_refresh_title">Yüksek yenileme hızı</string>
     <string name="next_day">"(Ertesi gün) "</string>
     <string name="night">ÖS</string>
     <string name="nine_banded_armadillo">Armadillo</string>
@@ -616,6 +622,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="notification_sound">Bildirim sesleri</string>
     <string name="ocelot">Ocelot</string>
     <string name="olive_baboon">Zeytin babun</string>
+    <string name="opened_high_refresh_options">Yüksek yenileme hızı kullanan uygulamalar</string>
     <string name="orange_winged_amazon">Turuncu kanatlı amazon</string>
     <string name="orca">Katil balina</string>
     <string name="ostrich_info">"Devekuşları yaşayan kara hayvanlarının en büyük yumurtalarını bırakan Afrika'nın uçamayan büyük kuşlarıdır"</string>
@@ -681,6 +688,7 @@ ikinci alanda oluşturulmaz"</string>
     <string name="sea_otter">Deniz su samuru</string>
     <string name="seal_info">Foklar derin sularda hızlı hareket edebilen, balık ve karideslerle beslenen deniz memelileridir</string>
     <string name="search_app_name">Uygulama ara</string>
+    <string name="search_app_tips">Uygulama ara</string>
     <string name="search_empty">Hiçbir uygulama bulunamadı</string>
     <string name="search_menu_title">Ara</string>
     <string name="search_nature_mix">Doğa müzesi;Hayvanlar</string>
@@ -692,8 +700,15 @@ ikinci alanda oluşturulmaz"</string>
     <string name="shortcut_created">Kısayol oluşturuldu</string>
     <string name="silent_ringtone_hint">Ses şimdi susturuldu. Sesi açın ve tekrar deneyin</string>
     <string name="silver_pheasant">Gümüş sülün</string>
-    <string name="sim_slot_1"> (Sim 1)</string>
-    <string name="sim_slot_2"> (Sim 2)</string>
+    <string name="sim_slot_1">" (Sim 1)"</string>
+    <string name="sim_slot_2">" (Sim 2)"</string>
+    <string name="size_byte">B</string>
+    <string name="size_giga_byte">GB</string>
+    <string name="size_kilo_byte">KB</string>
+    <string name="size_mega_byte">MB</string>
+    <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
+    <string name="size_tera_byte">TB</string>
     <string name="skywalker_hoolock_gibbon">Skywalker hoolock gibbon</string>
     <string name="small_ground_finch">Küçük yer ispinozu</string>
     <string name="sms_delivered_sound_title">İletilen mesaj</string>

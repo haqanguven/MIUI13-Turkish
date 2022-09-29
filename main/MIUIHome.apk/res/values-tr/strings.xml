@@ -616,8 +616,8 @@
     <string name="is_setting_wallpaper_message">Duvar kağıdı ayarlanıyor</string>
     <string name="is_system_wallpaper_message">Sistem kaynakları silinemez</string>
     <string name="item_view_role_description">Sekme</string>
-    <string name="jeejen_description">"Daha büyük arayüz öğeleri\u000d
-Daha erişilebilir arama\u000d
+    <string name="jeejen_description">"Daha büyük arayüz öğeleri
+Daha erişilebilir arama
 Arttırılmış güvenlik"</string>
     <string name="key_shortcut_settings_title">Tuş kısayolları</string>
     <string name="label">Etiket</string>
@@ -997,6 +997,8 @@ Arttırılmış güvenlik"</string>
     <string name="recent_menu_item_lock">Kilitle</string>
     <string name="recent_menu_item_multi_window">Böl</string>
     <string name="recent_menu_item_unlock">Kilidi aç</string>
+    <string name="recent_menu_item_worldcirculate">Uygulama akışı</string>
+    <string name="recent_menu_item_worldcirculate_disable">Uygulamalar yayınlanamaz</string>
     <string name="recents_app_info_button_label">Uygulama bilgisi</string>
     <string name="recents_clear_all_tasks">Tümünü temizle</string>
     <string name="recents_config_title">Son işlem ayarları</string>
@@ -1211,6 +1213,8 @@ Arttırılmış güvenlik"</string>
     <string name="title_select_shortcut">Kısayol seçin</string>
     <string name="toast_drag_to_assistant_reject">Uygulama kasası başlatılıyor</string>
     <string name="toast_screen_icons_misplaced">Diğer kaynaktan geri yüklendi. Bazı öğeler yanlış konumlandırılmış olabilir</string>
+    <string name="toast_split_app_unsupported">Bu uygulama bölünmüş ekranı desteklemiyor</string>
+    <string name="toast_split_select_app">Bölünmüş ekranı kullanmak için bir uygulamaya dokunun</string>
     <string name="today">Bugün</string>
     <string name="toggle_select_title">Geçiş seçin</string>
     <string name="toggle_title">Geçişler</string>

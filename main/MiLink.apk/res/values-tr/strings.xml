@@ -775,6 +775,7 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="mtrl_picker_a11y_next_month">Sonraki aya değiştir</string>
     <string name="mtrl_picker_a11y_prev_month">Önceki aya değiştir</string>
     <string name="mtrl_picker_announce_current_selection">Geçerli seçim: %1$s</string>
+    <string name="mtrl_picker_cancel">@android:string/cancel</string>
     <string name="mtrl_picker_confirm">@android:string/ok</string>
     <string name="mtrl_picker_date_header_selected">%1$s</string>
     <string name="mtrl_picker_date_header_title">Tarih seçin</string>
@@ -869,6 +870,8 @@ Miracast özelliğini açmanız gerekirse, [MENU] tuşuna basın ve Uygulamalar�
     <string name="privacy_permission_nfc_desc">NFC kullanarak cihazları eşleştirmek için</string>
     <string name="privacy_permission_optional">İsteğe bağlı izinler</string>
     <string name="privacy_permission_optional_desc">Bunları kullanıyorken ek özellikler kullanıldı</string>
+    <string name="privacy_permission_screencast">Ekrandaki bilgilere erişme</string>
+    <string name="privacy_permission_screencast_desc">Kayıt veya yayın sırasında bu özelliği sağlayan hizmet, ses, şifreler, ödeme bilgileri, fotoğraflar ve mesajlar gibi hassas bilgiler dahil olmak üzere ekranınızda görüntülenen veya cihazınızdan oynatılan her türlü hassas bilgiyi yakalayabilir</string>
     <string name="privacy_permission_wlan">"Wifi'yi aç veya kapat"</string>
     <string name="privacy_permission_wlan_china">Wifi açılıyor ve kapanıyor</string>
     <string name="privacy_permission_wlan_desc">Yakınlardaki kullanılabilir cihazları bulmak için</string>

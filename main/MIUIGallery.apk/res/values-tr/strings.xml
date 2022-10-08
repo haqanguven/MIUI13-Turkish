@@ -927,8 +927,8 @@ Hatıraların görünmesini sağlamak için şarj cihazını bağlayın ve ekran
     <string name="cleaner_slim_description">Cihazınızda optimize edilmiş fotoğrafları saklayın. Orijinal dosyalar Xiaomi bulut alanında saklanacaktır</string>
     <string name="cleaner_slim_start">Optimize et</string>
     <string name="cleaner_slim_title">Fotoğrafları optimize et</string>
-    <string name="cleaner_space_description">boşaltılabilir</string>
-    <string name="cleaner_space_detail_description">Depolama alanı boşaltmak için galerinizdeki fotoğrafları temizleyin</string>
+    <string name="cleaner_space_description">Boşaltılabilir</string>
+    <string name="cleaner_space_detail_description">Depolama alanını boşaltmak için galerinizdeki fotoğrafları temizleyin</string>
     <string name="cleaner_stop_scan">Taramayı durdur</string>
     <string name="cleaner_title">Temizle</string>
     <string name="cleaner_video_action">Şimdi sil</string>
@@ -1343,7 +1343,7 @@ Arkadaşlarınızın daha fazla fotoğraflarını çekin"</string>
     <string name="fail_to_sync_album">Albüm senkronize edilemedi. Ağ bağlantınızı kontrol edin ve ardından yeniden deneyin</string>
     <string name="family_member_invitation_text">Diğer aile üyesi</string>
     <string name="fancy_color_desc">Renkler</string>
-    <string name="fast_share_auto_render">Güzelleştirme</string>
+    <string name="fast_share_auto_render">Güzelleştir</string>
     <string name="fast_share_auto_render_finish">Güzelleştirildi</string>
     <string name="feature_guidance_photo_effects">"Yeni efektler mevcut
 "</string>
@@ -2360,7 +2360,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo">Fotoğraflar</string>
     <string name="photo_edit_file_not_exits_tip">Düzenlemeden önce fotoğrafı indir</string>
     <string name="photo_editor_adjust">Ayarla</string>
-    <string name="photo_editor_beautify">Güzelleştirme</string>
+    <string name="photo_editor_beautify">Güzelleştir</string>
     <string name="photo_editor_beautify_auto">Otomatik</string>
     <string name="photo_editor_beauty_compare">Orijinal</string>
     <string name="photo_editor_common_download_failed">Eklenti indirilemedi. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -2385,7 +2385,7 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_frame">Çerçeve</string>
     <string name="photo_editor_label">Düzenle</string>
     <string name="photo_editor_long_crop">Kırp</string>
-    <string name="photo_editor_miui_beauty">Güzelleştirme</string>
+    <string name="photo_editor_miui_beauty">Güzelleştir</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish">Lekeler</string>
     <string name="photo_editor_miui_beauty_menu_eraser_blemish_title">Lekeleri kaldır</string>
     <string name="photo_editor_miui_beauty_menu_eraser_pouch">Gözaltı</string>

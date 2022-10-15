@@ -661,6 +661,7 @@
     <string name="new_audio_create_guide_tip">Bir sesli not oluşturmak için basın ve basılı tutun</string>
     <string name="new_audio_create_talkback_des">Bir metin notu oluşturmak için dokunun. Bir sesli not oluşturmak için basın ve basılı tutun. Kaydı durdurmak ve notu oluşturmak için tuşu bırakın veya iptal etmek için kaydırın</string>
     <string name="new_data_empty_note">Henüz öğe yok</string>
+    <string name="new_lite_audio_create_talkback_des">Not oluşturmak için dokunun</string>
     <string name="night">Akşam</string>
     <string name="no_network">Ağa bağlanılamıyor</string>
     <string name="noon">Öğlen</string>
@@ -1138,6 +1139,9 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>
+    <string name="widget_all_notes_name">Tüm notlar</string>
+    <string name="widget_all_todo_name">Tüm görevler</string>
+    <string name="widget_click_check">Görüntülemek için dokunun</string>
     <string name="widget_content_loading">Yükleniyor</string>
     <string name="widget_create_select_size">Boyut seç</string>
     <string name="widget_empty_content">Bir not seçmek için dokunun</string>
@@ -1154,6 +1158,8 @@ Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="widget_size_item_super_big">Ekstra büyük</string>
     <string name="widget_size_not_support">Bu cihazda ekstra büyük araçları desteklenmiyor</string>
     <string name="widget_take_notes_title">Notlar</string>
+    <string name="widget_total_notes">%1$d</string>
+    <string name="widget_total_todo">%1$d</string>
     <string name="xiaomi_account_type">com.xiaomi</string>
     <string name="yesterday">Dün</string>
 </resources>

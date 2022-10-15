@@ -210,6 +210,11 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="cloud_member_vipname_premium">Premium</string>
     <string name="cloud_member_vipname_ultra">Ultra</string>
     <string name="cloud_service">Xiaomi bulut</string>
+    <string name="cloud_service_cloud_open">Aç</string>
+    <string name="cloud_service_space_full">Depolama alanı dolu</string>
+    <string name="cloud_service_space_not_enough">Yetersiz depolama</string>
+    <string name="cloud_service_space_used">Dolu</string>
+    <string name="cloud_service_state_error">Yüklenemedi</string>
     <string name="cloud_service_status_backup_not_open">Yedekleme kapalı</string>
     <string name="cloud_service_status_cloud_not_open">Kapalı</string>
     <string name="cloud_service_status_storage_full">Depolama alanı dolu</string>
@@ -289,6 +294,8 @@ Profiliniz %s hesabınızdaki bilgiler doğrultusunda güncellendi"</string>
     <string name="diagnosis_log_sent_format">"Kayıt günlüğü başarıyla gönderildi
 Kimlik: %s
 Bu kodu amirinize gönderin"</string>
+    <string name="dind_device_service_not_open">Kapalı</string>
+    <string name="dind_device_service_opened">Açık</string>
     <string name="download_file">%s indiriliyor</string>
     <string name="early_morning">ÖÖ</string>
     <string name="earthly_branches_chen">15</string>
@@ -322,6 +329,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="facebook_login">Facebook ile giriş yap</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="family_service">Aile hizmetleri</string>
+    <string name="family_service_not_open">Üyeleri davet et</string>
     <string name="family_share">Aile paylaşımları</string>
     <string name="fb_login_protocol_scheme">fb2263965750590514</string>
     <string name="find_device">Cihazı bul</string>
@@ -475,6 +483,7 @@ Bu kodu amirinize gönderin"</string>
     <string name="logout_account">Oturumu kapat</string>
     <string name="logout_failed">Oturum kapatılamıyor</string>
     <string name="marketSdkVersion">3.2.12</string>
+    <string name="mi_account">Hesabım</string>
     <string name="mi_account_identity_title">Kimliğinizi doğrulayın</string>
     <string name="mi_finance">Finansım</string>
     <string name="mi_finance_info">Yeni kullanıcılar için bonuslar</string>
@@ -1045,6 +1054,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="two_factor_auth_need_code_summary">Diğer bağlı Mi cihazlarında bir kod göreceksiniz. Oturum açmak için yeni bir cihaza bu kodu girin</string>
     <string name="two_factor_auth_summary">Yeni bir cihazda veya yeni bir yerde oturum açmaya çalıştığınızda diğer bağlı cihazlarda bu konuda bilgilendirilirsiniz. Bu tür oturum açma girişimlerinin sizin tarafınızdan onaylanıp onaylanmadığını onaylamanız gerekir</string>
     <string name="unbind_sns_description">Bu hesabı kaldırdıktan sonra %s hesap bilgilerinizle Mi hesabınızda oturum açamazsınız</string>
+    <string name="unit_gb">" GB"</string>
+    <string name="unit_mb">" MB"</string>
     <string name="unknown_error_info">Bilinmeyen hata</string>
     <string name="unlock_help_notice">"Yardım:
 1. Şifrenizi unuttuysanız şifrenizi sıfırlamak için id.mi.com adresine gidin
@@ -1089,7 +1100,8 @@ Bu kodu amirinize gönderin"</string>
     <string name="wednesday_shortest">Ç</string>
     <string name="weixin">WeChat</string>
     <string name="weixin_login">WeChat ile oturum açın</string>
-    <string name="xiao_mi_vip">Mi vip</string>
+    <string name="xiao_mi_vip">Mi Vip</string>
+    <string name="xiaomi_cloud_service">Xiaomi bulut</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>

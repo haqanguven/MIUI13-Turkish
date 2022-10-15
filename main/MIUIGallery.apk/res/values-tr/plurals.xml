@@ -496,6 +496,38 @@
         <item quantity="other">%d fotoğraf yüklendi</item>
         <item quantity="one">%d fotoğraf yüklendi</item>
     </plurals>
+    <plurals name="share_album_home_pref_rooms">
+        <item quantity="other">%1$d oda</item>
+        <item quantity="one">%1$d oda</item>
+    </plurals>
+    <plurals name="share_album_home_pref_screens">
+        <item quantity="other">%1$d ekran</item>
+        <item quantity="one">%1$d ekran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_share_home_summary">
+        <item quantity="other">%1$d paylaşılan ekran</item>
+        <item quantity="one">%1$d paylaşılan ekran</item>
+    </plurals>
+    <plurals name="share_album_home_pref_unshare_home_summary">
+        <item quantity="other">%1$d akıllı ev ortamı kullanılabilir</item>
+        <item quantity="one">%1$d akıllı ev ortamı kullanılabilir</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_oversize">
+        <item quantity="other">%d öğe senkronize olmayacak kadar büyük</item>
+        <item quantity="one">%d öğe senkronize olmayacak kadar büyük</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_owner_upload_error">
+        <item quantity="other">%d öğe senkronize edilemedi. Depolama alanınızı yükseltin</item>
+        <item quantity="one">%d öğe senkronize edilemedi. Depolama alanınızı yükseltin</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_retry">
+        <item quantity="other">%d öğe senkronize edilemedi. Tekrar deneyin</item>
+        <item quantity="one">%d öğe senkronize edilemedi. Tekrar deneyin</item>
+    </plurals>
+    <plurals name="share_album_sync_textline_sharer_upload_error">
+        <item quantity="other">%d öğe senkronize edilemedi. Bu albümün sahibinin bulut depolama alanı dolu</item>
+        <item quantity="one">%d öğe senkronize edilemedi. Bu albümün sahibinin bulut depolama alanı dolu</item>
+    </plurals>
     <plurals name="slideshow_interval_value">
         <item quantity="other">%1$d saniye</item>
         <item quantity="one">%1$d saniye</item>

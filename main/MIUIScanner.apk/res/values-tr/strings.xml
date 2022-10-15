@@ -896,6 +896,8 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="scan_code_object_guard">Kod tarama, çiçekleri ve bitkileri tanıma veya aynı stili bulma</string>
     <string name="scan_code_object_summary">Çiçekleri ve bitkileri tanımlayın, aynı modeli bulun ve QR kodunu veya barkodu tarayın</string>
     <string name="scan_code_permanent">QR kodunu, çiçekleri, evcil hayvanları tanımlayın ve aynı ürünü bulun</string>
+    <string name="scan_content_warning">"Metin tanıma sonuçları şu anda desteklenmiyor
+Acil onarım. Lütfen sabırlı olun"</string>
     <string name="scan_document_top_tip">Belge tarayın ve PDF dosyası oluşturun</string>
     <string name="scan_document_top_tip_second">Belgeleri tarayın ve PDF dosyası oluşturun</string>
     <string name="scan_form">Tablo tara</string>
@@ -1167,7 +1169,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="xiaoai_dialog">"Mi AI'ye taramak
 istediğinizi söylemeyi deneyin"</string>
     <string name="xiaoai_text">Küçük aşk düğmesi</string>
-    <string name="xiaoai_vision">Mi AI barkod okuyucu</string>
+    <string name="xiaoai_vision">Barkod okuyucu</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Güncelle</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>

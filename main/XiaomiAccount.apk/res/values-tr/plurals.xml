@@ -33,6 +33,10 @@
         <item quantity="other">%d sonuç bulundu</item>
         <item quantity="one">%d sonuç bulundu</item>
     </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">%d kişi</item>
+        <item quantity="one">%d kişi</item>
+    </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
     </plurals>

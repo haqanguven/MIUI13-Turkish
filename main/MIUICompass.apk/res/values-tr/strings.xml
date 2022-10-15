@@ -48,6 +48,7 @@
     <string name="calibrate_failed">Rakım kalibrasyonu başarısız</string>
     <string name="calibrate_failed_no_location">Kalibre edilemiyor</string>
     <string name="calibrate_failed_timeout">Sunucuya bağlanılamıyor</string>
+    <string name="calibrate_new_tip">Topu dairenin etrafında döndürmek için cihazınızı keskin bir şekilde eğin</string>
     <string name="calibrate_rotate_again">Tekrar deneyin</string>
     <string name="calibrate_success">Kalibre edildi</string>
     <string name="calibrate_tip">Topu dairenin etrafında yuvarlamak için cihazınızı eğin</string>

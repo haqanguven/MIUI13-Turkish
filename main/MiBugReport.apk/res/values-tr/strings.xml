@@ -62,15 +62,35 @@
     <string name="add_to_trust_device">Bu güvenli bir cihazdır</string>
     <string name="afternoon">Öğleden sonra</string>
     <string name="am">ÖÖ</string>
+    <string name="antivirus_none_engine_dialog_ok">Tamam</string>
     <string name="app_empty">Uygulamalar bulunamadı</string>
     <string name="app_label">Geri bildirim</string>
     <string name="app_name">Geri bildirim</string>
+    <string name="app_permission_use_group_calendar">Takvim</string>
+    <string name="app_permission_use_group_calendar_des">Takvim bilgilerini okuyun ve ekleyin</string>
+    <string name="app_permission_use_group_camera">Kamera</string>
+    <string name="app_permission_use_group_camera_des">Kamerayı kullanır</string>
+    <string name="app_permission_use_group_contact">Kişiler</string>
+    <string name="app_permission_use_group_contact_des">İletişim bilgilerini okuyun ve ekleyin</string>
+    <string name="app_permission_use_group_location">Konum bilgisi</string>
+    <string name="app_permission_use_group_location_des">Doğru ve yaklaşık konum</string>
+    <string name="app_permission_use_group_mic">Mikrofon</string>
+    <string name="app_permission_use_group_mic_des">Ses kaydı</string>
+    <string name="app_permission_use_group_phone">Telefon</string>
+    <string name="app_permission_use_group_phone_des">Arama geçmişi, arama yapma ve arama durumuna erişmek için öğeleri okuyun ve ekleyin</string>
+    <string name="app_permission_use_group_sensor">Vücut sensörleri</string>
+    <string name="app_permission_use_group_sensor_des">Vücut sensörleri tarafından oluşturulan verileri okuyun</string>
+    <string name="app_permission_use_group_sms">Mesajlaşma</string>
+    <string name="app_permission_use_group_sms_des">Mesaj gönderme, alma ve okuma</string>
+    <string name="app_permission_use_group_storage">Depolama</string>
+    <string name="app_permission_use_group_storage_des">Öğelere erişin ve depoya kaydedin</string>
+    <string name="app_permission_use_neccesary">Gerekli izinler</string>
+    <string name="app_permission_use_no_neccesary">İsteğe bağlı izinler</string>
+    <string name="app_permission_use_title">İzinler</string>
     <string name="app_search">Uygulama ara</string>
     <string name="auth_fail_warning">Oturumun süresi doldu. Tekrar oturum açın</string>
     <string name="back">Geri</string>
     <string name="btn_send">Gönder</string>
-    <string name="bugreport_dialog_informed_consent_content">"Kilit ekranı şifrenizle ilgili bir hata tespit ettik. Sorunu bulmamıza ve çözmemize yardımcı olması için cihaz günlüklerinizi gönderebilirsiniz. Günlük bilgileri anonim olarak yüklenecek, yalnızca sorun giderme için kullanılacak ve sorun giderme tamamlandığında silinecektir"</string>
-    <string name="bugreport_dialog_informed_consent_title">Bilgilendirilmiş onay</string>
     <string name="bugreport_dialog_not_show_again">Tekrar gösterme</string>
     <string name="bugreport_dialog_submit_content">Şu anda bu cihazda yazılım kayıtlarını kullanıyorsunuz. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Bu bilgilerin açığa çıkmasını engellemek için kayıtları kimseyle paylaşmayın. Kabul et seçeneğini seçmek <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir</string>
     <string name="bugreport_dump_complete_notification_summary">Görüntülemek için dokunun</string>
@@ -92,8 +112,8 @@
     <string name="catch_full_log_dialog_title">Günlükler oluşturuluyor</string>
     <string name="catch_full_log_dump_hprof_failed">Gecikme kaydı oluşturulamadı</string>
     <string name="catch_full_log_item_content_catching">Emekleniyor</string>
-    <string name="catch_full_log_item_content_need_open">"%1$d. Günlük oluşturmaya başlamak için başlata dokunun\u000d
-%2$d. Karşılaştığınız sorunu yeniden oluşturun\u000d
+    <string name="catch_full_log_item_content_need_open">"%1$d. Günlük oluşturmaya başlamak için başlata dokunun
+%2$d. Karşılaştığınız sorunu yeniden oluşturun
 %3$d. Bu sayfaya geri dönün ve bitir ve yükleye dokunun"</string>
     <string name="catch_full_log_item_content_title">Adımlar:</string>
     <string name="catch_full_log_item_title_audio">Ses, ses kaydı ve arama sesi</string>
@@ -203,7 +223,7 @@
     <string name="cta_confirm">Tamam</string>
     <string name="cta_dialog_content">Bu özelliğin normal çalışabilmesi için internete bağlanmanız gerekmektedir</string>
     <string name="cta_dialog_title">İnternet bağlantısı</string>
-    <string name="cta_message">"&lt;Data>Normal çalışabilmesi için Geri bildirim'in internete bağlanması gerekir. Bu uygulama ayrıca konumunuza erişim izni isteyebilir. Devam etmeden önce &lt;a href=\"%1$s\">Gizlilik Politikası'nı&lt;/a> ve &lt;a href=\"%2$s\">Kullanıcı Sözleşmesi'ni&lt;/a> okuyun ve kabul edin.&lt;/Data>"</string>
+    <string name="cta_message">"Normal çalışabilmesi için Geri bildirim'in internete bağlanması gerekir. Bu uygulama ayrıca konumunuza erişim izni isteyebilir. Devam etmeden önce "<a href="%1$s">"Gizlilik Politikası'nı"</a> ve <a href="%2$s">"Kullanıcı Sözleşmesi'ni"</a> okuyun ve kabul edin.</string>
     <string name="cta_not_show_again">Tekrar gösterme</string>
     <string name="customer_service_apply">Müşteri hizmetlerine başvur</string>
     <string name="customer_service_complain">Müşteri hizmetlerine bildir</string>
@@ -218,6 +238,7 @@
     <string name="diagnosis_log_sent_format">"Kayıtlar başarıyla gönderildi
 Kimlik:%s
 Bu kodu yöneticiye gönderin"</string>
+    <string name="disabled_authorised_apps_title">İptal edilen yetkilendirme</string>
     <string name="discard_draft_dialog_button_cancel">Burada kal</string>
     <string name="discard_draft_dialog_button_discard">Vazgeç</string>
     <string name="discard_draft_dialog_content">Bu raporda yaptığınız değişikliklerin tamamı kaybolacaktır</string>
@@ -237,6 +258,8 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="earthly_branches_you">20</string>
     <string name="earthly_branches_zi">11</string>
     <string name="empty" />
+    <string name="enabled_authorised_apps_summary">Yetkilendirmeyi iptal etmek için Mi hesabınızda oturum açmalısınız</string>
+    <string name="enabled_authorised_apps_title">Verilen yetki</string>
     <string name="eras_ad">CE</string>
     <string name="eras_bc">BCE</string>
     <string name="err_type">Hata türü</string>
@@ -486,6 +509,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="login_by_local_phone_long_text">Şimdi oturum aç</string>
     <string name="login_by_local_phone_short_text">Oturum aç</string>
     <string name="login_other">Başka bir Mi hesabı</string>
+    <string name="login_out">Login out</string>
     <string name="login_register_by_local_phone_long_text">Hesap oluştur</string>
     <string name="login_with_sns">Oturum açmanın diğer yolları</string>
     <string name="logo_title">Geri bildirim</string>
@@ -504,7 +528,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="miuix_appcompat_action_mode_select_all">Tümünü seç</string>
     <string name="miuix_appcompat_action_mode_title_empty">Ögeleri seç</string>
     <string name="miuix_appcompat_actionbar_immersion_button_more_description">Daha fazla</string>
-    <string name="miuix_appcompat_cancel_description">İptal</string>
+    <string name="miuix_appcompat_cancel_description">İptal et</string>
     <string name="miuix_appcompat_confirm_description">Onayla</string>
     <string name="miuix_appcompat_delete_description">Sil</string>
     <string name="miuix_appcompat_deselect_all">Seçimi kaldır</string>
@@ -591,7 +615,7 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="month_september_shortest">Eyl</string>
     <string name="more">Daha fazla</string>
     <string name="morning">Sabah</string>
-    <string name="net_error_info">Ağ bağlantısı yok. Ayarlara gitmek için buraya hafifçe dokunun</string>
+    <string name="net_error_info">"Ağ bağlantısı yok. Ayarlar'a gitmek için buraya dokunun"</string>
     <string name="network_err">Ağ bağlantısı kurulamıyor</string>
     <string name="network_error_info">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="network_timeout_info">Ağa bağlanılamadı. Tekrar deneyin</string>
@@ -614,19 +638,19 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="passport_can_not_recevie_verify_code">Kod alamadınız mı?</string>
     <string name="passport_checking_account">Şifre kontrol ediliyor</string>
     <string name="passport_clear_input">Girilen içeriği temizle</string>
-    <string name="passport_copy_link">"URL'yi kopyala"</string>
+    <string name="passport_copy_link">Bağlantıyı kopyala</string>
     <string name="passport_copy_to_clipboard_successful">Başarıyla kopyalandı</string>
     <string name="passport_country_area_china">TR</string>
     <string name="passport_country_code_china">+90</string>
     <string name="passport_dialog_captcha_title">Kod</string>
-    <string name="passport_dialog_doing_login">Oturum açılıyor…</string>
-    <string name="passport_dialog_doing_register">Hesap oluşturuluyor…</string>
+    <string name="passport_dialog_doing_login">Oturum açılıyor</string>
+    <string name="passport_dialog_doing_register">Hesap oluşturuluyor</string>
     <string name="passport_dialog_is_my_account">Evet</string>
-    <string name="passport_dialog_is_your_mi_account">Bu sizin Xiaomi Hesabınız mı?</string>
-    <string name="passport_dialog_loading">Yalnızca bir sn.…</string>
+    <string name="passport_dialog_is_your_mi_account">Bu sizin Xiaomi hesabınız mı?</string>
+    <string name="passport_dialog_loading">Yükleniyor</string>
     <string name="passport_dialog_nick_name_prefix">Takma ad: %s</string>
     <string name="passport_dialog_phone_number_prefix">Telefon numarası: %s</string>
-    <string name="passport_dialog_register_other">Hayır, bir hesap oluşturacağım</string>
+    <string name="passport_dialog_register_other">Hayır. Bir hesap oluşturacağım</string>
     <string name="passport_email">E-posta adresi</string>
     <string name="passport_empty_password">Şifre boş bırakılamaz</string>
     <string name="passport_error_auth_fail">Oturumun süresi doldu. Tekrar oturum açın</string>
@@ -642,30 +666,30 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="passport_error_no_password_user">Henüz bir şifre oluşturmadınız. Mesaj ile oturum açın</string>
     <string name="passport_error_phone">Geçersiz telefon numarası</string>
     <string name="passport_error_server">Sunucu hatası</string>
-    <string name="passport_error_sms_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. Daha sonra tekrar deneyin.</string>
+    <string name="passport_error_sms_limit">Bu numaraya çok fazla sayıda doğrulama kodu gönderildi. Daha sonra tekrar deneyin</string>
     <string name="passport_error_ticket_invalid">Bu kod yanlış</string>
     <string name="passport_error_timeout_network_error">İstek zaman aşımına uğradı</string>
-    <string name="passport_error_token_expired">Kodun süresi doldu. Tekrar deneyin.</string>
+    <string name="passport_error_token_expired">Kodun süresi doldu. Tekrar deneyin</string>
     <string name="passport_error_unknow_error">Bir hata oluştu</string>
     <string name="passport_error_unknow_host_network_error">Ağa bağlanılamadı</string>
     <string name="passport_error_unknow_network_error">Bir ağ hatası oluştu</string>
     <string name="passport_error_unknown">Oturum açılamıyor</string>
-    <string name="passport_error_user_agreement">Önce Kullanıcı Sözleşmemizi kabul edin</string>
+    <string name="passport_error_user_agreement">Önce kullanıcı sözleşmemizi kabul edin</string>
     <string name="passport_error_user_name">Girmiş olduğunuz kullanıcı adı geçersiz</string>
     <string name="passport_error_user_password">Şifreler eşleşmiyor</string>
     <string name="passport_get_login_type_next">İleri</string>
     <string name="passport_header_back">Geri</string>
-    <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın.</string>
+    <string name="passport_identification_expired">Doğrulama kodunun süresi doldu. Baştan başlayın</string>
     <string name="passport_input_captcha_hint">Kodu girin</string>
     <string name="passport_input_password_hint">Şifrenizi girin</string>
     <string name="passport_input_phone_number_hint">Telefon numarası girin</string>
     <string name="passport_input_verify_code">Doğrulama kodunu girin</string>
     <string name="passport_input_voice_captcha_hint">Sesli doğrulama kodunu gir</string>
     <string name="passport_input_voice_hint">Sesli kodu girin</string>
-    <string name="passport_mi_account_first_title">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız.</string>
-    <string name="passport_mi_account_title">Xiaomi Hesabı ile oturum aç</string>
-    <string name="passport_network_error">Bir ağ hatası oluştu.</string>
-    <string name="passport_network_error_hint">"URL'yi kontrol edin ve tekrar deneyin veya URL'yi kopyalayın ve tarayıcınızda açın."</string>
+    <string name="passport_mi_account_first_title">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
+    <string name="passport_mi_account_title">Xiaomi hesabı ile oturum aç</string>
+    <string name="passport_network_error">Bir ağ hatası oluştu</string>
+    <string name="passport_network_error_hint">Bağlantıyı kontrol edin ve tekrar deneyin veya bağlantıyı kopyalayın ve tarayıcınızda açın</string>
     <string name="passport_next">Sonraki</string>
     <string name="passport_page_load_failed">Sayfa açılamıyor</string>
     <string name="passport_password_login_btn">Oturum aç</string>
@@ -704,14 +728,29 @@ Bu kodu yöneticiye gönderin"</string>
     <string name="phone_auto_login_register_with_local_number">Hesap oluştur</string>
     <string name="photoPickerNotFoundText">Kullanılabilir fotoğraf yok</string>
     <string name="please_agree_protocal">Lütfen protokolü kabul edin</string>
-    <string name="please_download_gallery">Install Gallery to view</string>
     <string name="pm">ÖS</string>
     <string name="post_miui_bbs_failed">MIUI foruma gönderilemedi</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="privacy_authorize_cloud_msg">"Hesabınızın güvenliğini sağlamak için Xiaomi Bulut hizmetleri yetkilendirmeyi iptal etmek istiyorsanız i.mi.com'da oturum açın"</string>
+    <string name="privacy_authorize_dialog_agree">Kabul et</string>
+    <string name="privacy_authorize_dialog_exit">Çıkış</string>
+    <string name="privacy_authorize_dialog_message">"Bu hizmetin temel özelliklerini kullanmak için Xiaomi'nin kişisel verilerinizi toplamasını, işlemesini ve kullanmasını kabul etmelisiniz. Kişisel verileri nasıl topladığımızı ve işlediğimizi öğrenmek için Gizlilik Politikamıza bakın. Kabul et'i seçmek, %1$s Gizlilik politikamızı ve %2$s Kullanıcı sözleşmemizi okuyup kabul ettiğiniz anlamına gelir"</string>
+    <string name="privacy_authorize_network_error">Ağa bağlanın ve tekrar deneyin</string>
+    <string name="privacy_authorize_privacy_policy">Gizlilik politikası</string>
+    <string name="privacy_authorize_revoke">Geri al</string>
+    <string name="privacy_authorize_revoke_dialog_msg">Yetkilendirmeyi iptal ettikten sonra, uygulama veri toplamayı durduracak ve ilgili tüm veriler sunuculardan silinecektir. Bu uygulamayı neredeyse kullanılamaz hale getirebilir. Yine de yetkilendirme iptal edilsin mi?</string>
+    <string name="privacy_authorize_revoke_dialog_title">Yetkilendirmeyi iptal et</string>
+    <string name="privacy_authorize_revoke_failed">Yetki iptal edilemedi</string>
+    <string name="privacy_authorize_revoke_success">Yetkilendirme başarıyla iptal edildi</string>
+    <string name="privacy_authorize_revoke_time">Geri al (%1$d saniye)</string>
+    <string name="privacy_authorize_revoke_title">Yetki verme &amp; geri alma</string>
+    <string name="privacy_authorize_revoking">Yetki iptal ediliyor</string>
+    <string name="privacy_authorize_success">Yetkilendirme başarıyla verildi</string>
+    <string name="privacy_authorize_title">Yetkilendirme</string>
     <string name="privacy_category_title">Gizlilik</string>
     <string name="privacy_policy_title">Gizlilik politikası</string>
-    <string name="privacy_policy_update_hint">"%1$s gizlilik politikası güncellendi:\u000d
-%2$s\u000d
+    <string name="privacy_policy_update_hint">"%1$s gizlilik politikası güncellendi:
+%2$s
 Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"</string>
     <string name="privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>
@@ -735,7 +774,7 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="request_error_invalid_token">Doğrulanamadı</string>
     <string name="request_error_network">Bir ağ hatası oluştu. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
     <string name="request_error_unknown">Bir sistem hatası oluştu. Geri dönün ve tekrar deneyin</string>
-    <string name="request_gallery_permission_message">Galeriye erişim izni ver:&lt;br />Profil fotoğraflarını ayarlamak içindir</string>
+    <string name="request_gallery_permission_message">Galeriye erişim izni ver: Profil fotoğraflarını ayarlamak içindir</string>
     <string name="resend_active_email">Tekrar gönder</string>
     <string name="resend_email_reach_limit_message">Çok fazla sayıda doğrulama e-postası talep ettiniz. Doğrulama e-postasının gelen kutunuzun gereksiz klasöründe olup olmadığından emin olun</string>
     <string name="resend_email_reach_limit_title">Çok fazla deneme</string>
@@ -788,7 +827,7 @@ Devam etmeden önce %3$s uygulamasının yeni sürümünü okuyun ve kabul edin"
     <string name="submit_dialog_cancel">Reddet</string>
     <string name="submit_dialog_confirm">Onayla</string>
     <string name="submit_dialog_content">Geri bildirimi kullanabilmek için <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> kabul etmelisiniz. Bildirdiğiniz sorunlar eklediğiniz öğelerle birlikte MIUI sunucularına yüklenir (Cihazınız ve ağ hakkındaki bilgilerle birlikte kişisel bilgileri de içerebilir). Bu da bize sorunu bulmamızda ve çözmemizde yardımcı olacaktır</string>
-    <string name="submit_dialog_content_global">"Geri bildirimleriniz, eklentiler ve kayıtlar da MIUI sunucularına ve MIUI forum'un geliştiriciler için ayrılan kısıtlanmış bir bölümüne gönderilir. Başlıklarınız ve forum etkinlikleriniz hakkındaki bilgiler de analiz edilmek ve ileride iletişime geçebilmek amacıyla toplanır. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek "<a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir</string>
+    <string name="submit_dialog_content_global">"Geri bildirimleriniz eklentiler ve kayıtlar da MIUI sunucularına ve MIUI forumun geliştiriciler için ayrılan kısıtlanmış bir bölümüne gönderilir. Başlıklarınız ve forum etkinlikleriniz hakkındaki bilgiler de analiz edilmek ve ileride iletişime geçebilmek amacıyla toplanır. Kayıtlar, kişisel bilgilerinizi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek <a href="http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s">Gizlilik politikası</a> ve <a href="http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s">Kullanıcı sözleşmesini</a> okuyup kabul ettiğiniz anlamına gelir"</string>
     <string name="submit_dialog_content_global_with_contactinfo">Geri bildiriminiz kayıtlar, telefon numaranız veya e-posta adresiniz, eklerle birlikte (varsa), MIUI sunucularına gönderilecektir. Kayıtlar, kişisel bilgi ve konum verilerinizi içerebilir. Kabul et seçeneğini seçmek <a href="%1$s">Gizlilik politikamızı</a> ve <a href="%2$s">Kullanıcı sözleşmemizi</a> okuduğunuz ve kabul ettiğiniz anlamına gelir</string>
     <string name="submit_dialog_not_show_again">Tekrar gösterme</string>
     <string name="submit_dialog_title">Rapor gönder</string>
@@ -907,13 +946,13 @@ Boyut: %2$s"</string>
     <string name="user_agreement_hint_3rd_app_mobile"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini ayrıca <a href="%5$s">China Mobile doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_3rd_app_with_telecom"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini ayrıca <a href="%5$s">eSurfing hesabı doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_3rd_app_with_unicom"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve Mi hesabı <a href="%3$s">Kullanıcı Sözleşmesi</a> ve <a href="%4$s">Gizlilik Politikası</a> sözleşmelerini ayrıca <a href="%5$s">China Unicom doğrulama hizmetleri şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
-    <string name="user_agreement_hint_default">Mi Hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">"gizlilik politikası'nı"</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_default">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">"\"gizlilik politikası'nı\""</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_default_1"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikasını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_default_extra"><a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikasını</a> okudum ve kabul ediyorum</string>
     <string name="user_agreement_hint_first_login">Telefon numaranızı ilk kez kullanıyorsanız otomatik olarak bir hesap oluşturacağız</string>
-    <string name="user_agreement_hint_with_mobile">Mi Hesabı <a href="%1$s">Kullanıcı sözleşmesi</a>, <a href="%2$s">gizlilik politikası</a> ve <a href="%3$s">China Mobile doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
-    <string name="user_agreement_hint_with_telecom">Mi Hesabı <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve <a href="%3$s">eSurfing hesabı doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
-    <string name="user_agreement_hint_with_unicom">Mi Hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve <a href="%3$s">China Unicom doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_mobile">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a>, <a href="%2$s">gizlilik politikası</a> ve <a href="%3$s">China Mobile doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_telecom">Mi hesabı <a href="%1$s">Kullanıcı Sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve <a href="%3$s">eSurfing hesabı doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
+    <string name="user_agreement_hint_with_unicom">Mi hesabı <a href="%1$s">Kullanıcı sözleşmesi</a> ve <a href="%2$s">gizlilik politikası</a> ve <a href="%3$s">China Unicom doğrulama hizmetlerinin Şartlar ve koşullarını</a> okudum ve kabul ediyorum</string>
     <string name="user_avatar_update_title">Profil fotoğrafını değiştir</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_must_known">Dikkat</string>
@@ -948,7 +987,5 @@ Delta güncelleme boyutu: %2$s"</string>
     <string name="xiaomi_update_sdk_external_storage_unavailable">Depolama alanı kullanılamıyor. Lütfen SD kartı kontrol edin</string>
     <string name="xiaomi_update_sdk_kilobytes_unit">%1$sKB</string>
     <string name="xiaomi_update_sdk_megabytes_unit">%1$sMB</string>
-    <string name="xiaomi_update_sdk_update_dialog_cancel">İptal et</string>
-    <string name="xiaomi_update_sdk_update_dialog_ok">Tamam</string>
     <string name="yesterday">Dün</string>
 </resources>

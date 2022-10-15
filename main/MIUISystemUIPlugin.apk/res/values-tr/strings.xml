@@ -62,7 +62,7 @@
     <string name="airplane_mode">Airplane mode</string>
     <string name="already_in_small_freeform">Bazı uygulamalar yüzen pencerelerde açılır</string>
     <string name="am">ÖÖ</string>
-    <string name="app_name">Sistem arayüzü kontrolleri</string>
+    <string name="app_name">Sistem arayüz eklentisi</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="auto_brightness_off">Otomatik parlaklık kapalı</string>
     <string name="auto_brightness_on">Otomatik parlaklık açık</string>

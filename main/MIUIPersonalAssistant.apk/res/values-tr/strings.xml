@@ -281,9 +281,11 @@
     <string name="pa_accessibility_olympic_the_third">Üçüncü sıra: %s</string>
     <string name="pa_accessibility_picker_app_group_list_item">%1$s/%2$d</string>
     <string name="pa_accessibility_picker_back">Geri dön</string>
+    <string name="pa_accessibility_picker_bigBanner_widget_collection">Araç koleksiyonu</string>
     <string name="pa_accessibility_picker_close">Kapat</string>
     <string name="pa_accessibility_picker_home_appList_entrance">Desteklenen araçların listesini görüntüleyin</string>
     <string name="pa_accessibility_picker_home_bigBanner_slected">Seçili %1$s, satır %2$d, sayı %3$d. Başlamak için iki kez dokunun</string>
+    <string name="pa_accessibility_picker_home_maml_slected">%1$s seçili %2$s boyutu ayrıntılar sayfasına girmek için iki kez dokunun. Sürüklemek için iki kez dokunun ve basılı tutun</string>
     <string name="pa_accessibility_picker_home_search">Araç ara</string>
     <string name="pa_accessibility_picker_home_smallBanner_slected">Seçili %1$s, satır %2$d, sayı %3$d. Başlamak için iki kez dokunun</string>
     <string name="pa_accessibility_picker_home_title">Araç ekle</string>
@@ -521,6 +523,8 @@ Ekspres teslimatı kurye hizmetlerinin resmi internet sitelerinden de takip edeb
     <string name="pa_olympic_label">Madalyalar</string>
     <string name="pa_olympic_medal_count">Toplam madalya</string>
     <string name="pa_olympic_medals_description">Olimpiyat madalya sıralamasını kontrol edin</string>
+    <string name="pa_open_personal_assistant_dialog_desc">"Uygulama kasasını kapatırsanız araçları kullanamaz veya ana ekranda sağa kaydırarak bunlara erişemezsiniz. Yine de kapatılsın mı?"</string>
+    <string name="pa_open_personal_assistant_dialog_title">Uygulama kasası kapatılsın mı?</string>
     <string name="pa_operation_switch_summary">En son popüler araçları görüntüleyin</string>
     <string name="pa_operation_switch_title">Popüler promosyonlar</string>
     <string name="pa_pad_privacy_text">Ana ekran araçları</string>
@@ -673,6 +677,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_setting_privacy_policy_update_title">Güncellenmiş gizlilik politikası</string>
     <string name="pa_setting_privacy_revoke_cta">İznin geri alınması</string>
     <string name="pa_setting_privacy_revoke_cta_message">"Devam ederseniz uygulama kasasının gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Halihazırda toplanan ve saklanan kişisel bilgiler aksi gerekmedikçe yürürlükteki kanun ve yönetmeliklere uygun olarak belirli bir süre içinde silinecektir. uygulama kasası hizmetlerini gerekli kişisel bilgilerin toplanmasına dayalı olarak sağladığından onayınızı geri çekmeniz uygulama kasası hizmetlerini kabul etmeyi reddetmeniz olarak değerlendirilecektir. İzin şimdi geri alınsın mı?"</string>
+    <string name="pa_setting_privacy_revoke_cta_negative">On saniye sonra geri çekilebilir</string>
     <string name="pa_setting_privacy_revoke_cta_positive">Geri al</string>
     <string name="pa_setting_privacy_revoke_cta_progress">Geri al (%d saniye)</string>
     <string name="pa_setting_privacy_revoke_cta_summary">Uygulama kasasının gizlilik politikasına ilişkin onayınızı geri çekin</string>
@@ -683,6 +688,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_setting_privacy_revoke_positive">Tamam</string>
     <string name="pa_setting_privacy_third_parties">Üçüncü taraflarla veri paylaşımına ilişkin açıklama</string>
     <string name="pa_setting_privacy_view_priv">Gizlilik politikasını görüntüle</string>
+    <string name="pa_setting_simplify_title_bar">Uygulama kasası</string>
     <string name="pa_setting_version">Sürüm: %1$s</string>
     <string name="pa_shopping_dialog_privacy_authorize_message">Ürün tekliflerini görüntülemek için kullanabileceğiniz alışveriş teklifleri aracına hoş geldiniz. Lütfen üçüncü taraf hizmet bildirimimizi ve gizlilik politikamızı okuyun ve kabul edin</string>
     <string name="pa_shopping_dialog_privacy_authorize_title">Şartlar ve gizlilik</string>
@@ -703,7 +709,7 @@ yükleme durumuna erişmesi gerekir"</string>
     <string name="pa_shopping_widget_empty_content_click_desc">Burada henüz bir şey yok</string>
     <string name="pa_shopping_widget_empty_content_desc">Burada henüz bir şey yok</string>
     <string name="pa_shopping_widget_full_bottom_desc">Tüm ürünler</string>
-    <string name="pa_shopping_widget_full_title_desc">Bunlarda %s CNY tasarruf edin</string>
+    <string name="pa_shopping_widget_full_title_desc_new">Kuponlarla sipariş verdiğinizde %s indirim kazanın</string>
     <string name="pa_shopping_widget_no_cta_content_desc">Alışverişi kullanma izni vermek için dokunun</string>
     <string name="pa_shopping_widget_no_network_content_desc">Ağa bağlanılamadı</string>
     <string name="pa_shopping_widget_no_privacy_content_desc">Alışveriş teklifi aracını kullanmak için gizliliği yetkilendire tıklayın</string>

@@ -634,6 +634,7 @@
     <string name="insert_event_dialog_btn_positive">Evet</string>
     <string name="insert_event_dialog_message">Bu etkinlik takvime eklensin mi?</string>
     <string name="insert_event_dialog_title">Uyarı</string>
+    <string name="insert_event_invalid_toast">Etkinlik ekleme izniniz yok</string>
     <string name="insert_event_toast_add_failed">Eklenemedi</string>
     <string name="insert_event_toast_add_success">Etkinlik oluşturuldu</string>
     <string name="install_email_app">E-posta uygulamasını yükle</string>

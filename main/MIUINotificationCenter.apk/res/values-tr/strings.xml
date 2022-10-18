@@ -113,6 +113,8 @@
     <string name="date_picker_lunar">Çince geleneksel takvim</string>
     <string name="date_time_picker_dialog_title">Tarih ve saati ayarla</string>
     <string name="default_list_type">Alınma zamanına göre sırala</string>
+    <string name="disable_description_content">Bildirimler bir sistem uygulamasıdır. Devre dışı bırakırsanız uygulama bildirimlerini yönetemezsiniz. Yine de devre dışı bırakılsın mı?</string>
+    <string name="disable_description_title">Sistem uygulaması devre dışı bırakılsın mı?</string>
     <string name="disable_float_notification">Kayan bildirimlere izin verilmedi</string>
     <string name="disable_lockscreen_notification">Kilit ekranı bildirimleri izinli değil</string>
     <string name="disable_show_badge_notification">Uygulama bildirimlerine izin verilmedi</string>

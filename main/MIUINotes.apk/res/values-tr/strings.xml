@@ -29,6 +29,7 @@
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="access_denied_info">Çok fazla deneme. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
+    <string name="access_photos_and_videos">Fotoğraflara ve videolara erişin</string>
     <string name="action_collapse">Gizle</string>
     <string name="action_expand">Göster</string>
     <string name="action_folder_description">Klasörleri görüntüle</string>
@@ -757,7 +758,9 @@
     <string name="permission_intro_storage">Notları ve eklentileri kaydetmek içindir</string>
     <string name="permission_microphone_desc">Sesli notlar hazırlamak</string>
     <string name="permission_network_for_cloud_desc">Notları bulut ile senkronize etmek için internete bağlanmanız gerekmektedir. Mobil veri öğeleri senkronize etmek için kullanılabilir. Şimdi bağlanılsın mı?</string>
-    <string name="permission_phone_state_desc">Arama sırasında sesli notları kaydetmeyi durdurmak için</string>
+    <string name="permission_phone_state_desc">Arama sırasında sesli notları kaydetmeyi durdurmak içindir</string>
+    <string name="permission_photos_desc">Notlara resim eklemek içindir</string>
+    <string name="permission_photos_desc_pad">Notlara resim eklemek içindir</string>
     <string name="permission_read_contact_desc">Kişiler ile yapılan aramalar sırasında oluşturulan notları ilişkilendirmek</string>
     <string name="permission_storage_desc">Notları görüntü olarak kaydetmek içindir</string>
     <string name="permission_storage_desc_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
@@ -866,6 +869,7 @@
     <string name="search_title_notes">@string/app_name</string>
     <string name="select_account_prompt">Notları senkronize et</string>
     <string name="send">Gönder</string>
+    <string name="send_notifications_for_reminder">Hatırlatıcı göndermek içindir</string>
     <string name="set_alarm_description">Alarm kur</string>
     <string name="setting_big_screen_layout_columns">Kenar çubuğu</string>
     <string name="setting_big_screen_layout_flat">Düzenler</string>
@@ -1033,6 +1037,7 @@ Notlar uygulamasına kişilerinizi okuma ve cihazdaki hesapları bulma izni veri
 Notlar uygulamasına SD kartınızdaki içerikleri okuma izni verin"</string>
     <string name="toast_refuse_to_use_phone_state">"Telefon izinleri kısıtlı
 Notlar uygulamasına telefonunuzun durumu ve kimliğini okuma izni verin"</string>
+    <string name="toast_refuse_to_use_photos_in_excerpt">Notlara resim ekleyebilmek için bu uygulamanın fotoğraflarınıza erişmesine izin verin</string>
     <string name="toast_refuse_to_use_record_audio">"Mikrofon izinleri kısıtlı
 Ses kaydetmek için notlar uygulamasına izin verin"</string>
     <string name="toast_refuse_to_use_storage_in_excerpt">"Notlarınıza görüntü ekleyebilmesi için Notlar'a depolama alanına erişim izni verin"</string>

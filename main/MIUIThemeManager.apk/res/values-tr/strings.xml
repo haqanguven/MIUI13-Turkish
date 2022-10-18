@@ -254,6 +254,7 @@
     <string name="component_title_settings_video_wallpaper">Özel efektli duvar kağıtları</string>
     <string name="component_title_video_wallpaper">Duvar kağıdı filmleri</string>
     <string name="component_title_wallpaper">Duvar kağıtları</string>
+    <string name="component_title_widget_suit">Araçlar</string>
     <string name="concentration_old_period">Daha fazla</string>
     <string name="configure_success_not_enable_aod">Başarıyla uygulandı. Temanın etkili olması için her zaman açık ekranı açın</string>
     <string name="copy">Kopyala</string>
@@ -927,6 +928,7 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
+    <string name="paying">Satın alınıyor</string>
     <string name="personalize">Kişiselleştirme</string>
     <string name="personalize_alarm_ringtone_title">Alarmlar</string>
     <string name="personalize_aod_title">Her zaman açık</string>
@@ -939,6 +941,7 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
     <string name="personalize_notify_ringtone_title">Bildirimler</string>
     <string name="personalize_notify_style_title">Efektler</string>
     <string name="personalize_recommend_switch_desc">Cihaz kimliğine göre kişiselleştirilmiş içerik önerileri alın</string>
+    <string name="personalize_second_space_not_support_buy_widget">İkinci alanda araç satın alınamıyor</string>
     <string name="personalize_second_space_not_support_set_font">İkinci alanda yazı tipi değiştirilemiyor</string>
     <string name="personalize_theme_entrance">Temalar</string>
     <string name="personalize_third_font">Yazı tipleri</string>
@@ -1358,6 +1361,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="search_sort_news">Önce yeni olanlar</string>
     <string name="search_sort_synthesize">Genel</string>
     <string name="search_sort_top">Önce popüler olanlar</string>
+    <string name="search_view_description_clear">Aramayı temizle</string>
     <string name="selected_resource_file_invalid">Seçilen kaynak dosyası kullanılamıyor</string>
     <string name="send">Gönder</string>
     <string name="server_internal_error">Bir sunucu hatası oluştu. Bir iki dakika bekleyin ve tekrar deneyin</string>
@@ -1708,6 +1712,7 @@ Daha fazla özellik için Temalar > Profil > Tema laboratuvarı menüsüne gidin
     <string name="update_no_net">Bir ağ hatası meydana geldi. Tekrar deneyin</string>
     <string name="update_title">Yeni güncelleme mevcut</string>
     <string name="use_hint">Dikkat</string>
+    <string name="use_now">Ekle</string>
     <string name="using_theme_has_update_tips">Bu tema için bir güncelleme mevcut</string>
     <string name="using_theme_next_automatic_update">Otomatik güncelle</string>
     <string name="using_theme_next_automatic_update_summary">İndirilen temaları ekran kilitli olduğunda wifi ağı üzerinden otomatik olarak günceller</string>

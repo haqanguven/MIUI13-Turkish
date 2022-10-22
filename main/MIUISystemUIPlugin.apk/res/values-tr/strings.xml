@@ -59,7 +59,7 @@
     <string name="accessibility_volume_expand">Genişlet</string>
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">Öğleden sonra</string>
-    <string name="airplane_mode">Airplane mode</string>
+    <string name="airplane_mode">Uçak modu</string>
     <string name="already_in_small_freeform">Bazı uygulamalar yüzen pencerelerde açılır</string>
     <string name="am">ÖÖ</string>
     <string name="app_name">Sistem arayüz eklentisi</string>
@@ -342,7 +342,7 @@
     <string name="miplay_accessibility_prev">Önceki şarkı</string>
     <string name="miplay_accessibility_seekbar">İlerleme çubuğu</string>
     <string name="miplay_accessibility_volume">Ses</string>
-    <string name="miplay_detail_divider_title">TVs &amp; hoparlörler</string>
+    <string name="miplay_detail_divider_title">TV &amp; hoparlörler</string>
     <string name="miplay_detail_header_no_song">Oynatma geçmişi yok</string>
     <string name="miplay_device_full_name">%1$s - %2$s</string>
     <string name="miplay_headset_lc3_hint">"Ses çıkışını bu cihaza geçirebilmek için LC3'ü kapatın"</string>
@@ -552,9 +552,9 @@
     <string name="quick_settings_screenshot_label">Ekran görüntüsü</string>
     <string name="quick_settings_sim_disabled">" (Devre dışı)"</string>
     <string name="quick_settings_sync_label">Senkronizasyon</string>
-    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,custom(com.android.camera/com.xiaomi.camera.videocast.VideoCastTileService),dolbyatomssound,edit</string>
+    <string name="quick_settings_tiles_default">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,custom(com.miui.screenrecorder/.service.QuickService),scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,custom(com.miui.securitycenter/com.miui.superpower.notification.SuperPowerTileService),custom(com.milink.service/com.milink.ui.service.MiLinkTileService),pcmode,custom(com.miui.mishare.connectivity/.tile.MiShareTileService),uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,custom(com.google.android.gms/.nearby.sharing.SharingTileService),screenbutton,wirelesspower,nfc,custom(com.android.camera/com.xiaomi.camera.videocast.VideoCastTileService),dolbyatomssound,circulateworld,custom(com.miui.securitycenter/com.miui.permcenter.settings.InvisibleModeTileService),edit</string>
     <string name="quick_settings_tiles_old_mode">cell,wifi,bt,flashlight,batterysaver,screenshot,edit</string>
-    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,edit,gps,drivemode,hearingassisttile</string>
+    <string name="quick_settings_tiles_stock">vowifi1,vowifi2,cell,wifi,bt,airplane,autobrightness,mute,screenshot,flashlight,rotation,screenlock,scanner,papermode,night,quietmode,batterysaver,extremebatterysaver,pcmode,uwb_shp,aitranslate,powermode,freeformhang,vibrate,hotspot,sync,screenbutton,wirelesspower,nfc,dolbyatomssound,circulateworld,edit,gps,drivemode,hearingassisttile</string>
     <string name="quick_settings_tiles_super_save">cell,wifi,bt,gps,vibrate</string>
     <string name="quick_settings_toast_drag_to_enable_custom_tile">Öğe eklemek için öğeye basın ve basılı tutun. Daha sonra panelin üst kısmına sürükleyin</string>
     <string name="quick_settings_uwbsh_label">Xiaomi sihirli kontrol</string>

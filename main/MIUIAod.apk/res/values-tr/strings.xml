@@ -481,6 +481,8 @@ EE"</string>
     <string name="select_notification_animation_style">Özel efekt seç</string>
     <string name="select_notification_notify_style">Bildirim efekti seç</string>
     <string name="send">Gönder</string>
+    <string name="settings_view_btn_check_off">Kapalı</string>
+    <string name="settings_view_btn_check_on">Açık</string>
     <string name="share">Paylaş</string>
     <string name="share_to_community">Mi toplulukta paylaş</string>
     <string name="show_battery">Pil durumunu göster</string>

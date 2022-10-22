@@ -2220,8 +2220,8 @@ yüzünüzle fotoğrafları seçin"</string>
     <string name="ocr_save_to_note">Kaydet</string>
     <string name="ocr_save_to_note_new">Notlara kaydet</string>
     <string name="ocr_send">Paylaş</string>
-    <string name="ocr_switch_hint">Seçebilmek veya harekete geçmek için resimlerde görüntülenen metni tanıyın</string>
-    <string name="ocr_switch_title">Resimlerdeki metni tanıma</string>
+    <string name="ocr_switch_hint">Seçebilmek veya işlem yapabilmek için resimlerde görüntülenen metni tanıyın</string>
+    <string name="ocr_switch_title">Metin tanıma</string>
     <string name="ocr_text_copied">Kopyalandı</string>
     <string name="ocr_text_copied_selected">Kopyalandı</string>
     <string name="ocr_text_link">Bağlantı</string>
@@ -3459,10 +3459,10 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="trash_high_occupied_tip_toast">"Çöp kutusu boyutu %1$s'ye ulaştı. Yer açmak için çöp kutusunu temizleyin"</string>
     <string name="trash_menu_delete">Sil</string>
     <string name="trash_menu_recovery">Geri yükle</string>
-    <string name="trash_purge_all">Tüm fotoğraflar ve videolar buluttan silinecek. Onları geri yükleyemezsin. Yine de silinsin mi?</string>
-    <string name="trash_purge_all_cloud">Çöp kutusundaki tüm öğeler buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</string>
-    <string name="trash_purge_all_local">Çöp kutusundaki tüm öğeler kalıcı olarak silinecek. Yine de silinsin mi?</string>
-    <string name="trash_purge_dialog_title">Çöpü temizle</string>
+    <string name="trash_purge_all">Tüm fotoğraflar ve videolar buluttan silinecek. Tekrar geri yükleyemezsiniz. Silinsin mi?</string>
+    <string name="trash_purge_all_cloud">Çöp kutusundaki tüm öğeler buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Silinsin mi?</string>
+    <string name="trash_purge_all_local">Çöp kutusundaki tüm öğeler kalıcı olarak silinecek. Silinsin mi?</string>
+    <string name="trash_purge_dialog_title">Çöp temizleme</string>
     <string name="trash_purge_positive_button">Sil</string>
     <string name="trash_size">Silinebilir öğe (%s)</string>
     <string name="trash_vip_button_login">Uzat</string>

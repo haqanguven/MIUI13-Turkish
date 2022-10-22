@@ -49,6 +49,10 @@
         <item quantity="other">%1$d gün önce</item>
         <item quantity="one">%1$d gün önce</item>
     </plurals>
+    <plurals name="delete_cloud_files">
+        <item quantity="other">%1$d dosya tüm cihazlarınızdan ve buluttan silinsin mi? Mi sürücü dosyaları yakın zamanda silinen öğelerinizden kurtarılabilir</item>
+        <item quantity="one">%1$d dosya tüm cihazlarınızdan ve buluttan silinsin mi? Mi sürücü dosyaları yakın zamanda silinen öğelerinizden kurtarılabilir</item>
+    </plurals>
     <plurals name="delete_files">
         <item quantity="other">%1$d dosya silinsin mi?</item>
         <item quantity="one">%1$d dosya silinsin mi?</item>
@@ -128,6 +132,18 @@
         <item quantity="other">%d yeni bildirim</item>
         <item quantity="one">%d yeni bildirim</item>
     </plurals>
+    <plurals name="notification_message_sync_result_fail">
+        <item quantity="other">%1$s dosyası senkronize edilemedi</item>
+        <item quantity="one">%1$s dosyası senkronize edilemedi</item>
+    </plurals>
+    <plurals name="notification_message_sync_result_success">
+        <item quantity="other">"%1$s dosyası senkronize edildi | "</item>
+        <item quantity="one">"%1$s dosyası senkronize edildi | "</item>
+    </plurals>
+    <plurals name="notification_title_syncing_with_count_no_network">
+        <item quantity="other">Ağ bağlantısı bekleniyor. %1$s dosya kaldı</item>
+        <item quantity="one">Ağ bağlantısı bekleniyor. %1$s dosya kaldı</item>
+    </plurals>
     <plurals name="numSelectedFile">
         <item quantity="other">%1$d seçildi</item>
         <item quantity="one">%1$d seçildi</item>
@@ -165,16 +181,16 @@
         <item quantity="one">Arama sonuçları (%1$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_app">
-        <item quantity="other">%1$s uygulamasından ilgili dosyalar (%2$d öğe)</item>
-        <item quantity="one">%1$s uygulamasından ilgili dosyalar (%2$d item)</item>
+        <item quantity="other">%1$s uygulamasından ilgili dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s uygulamasından ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_file">
-        <item quantity="other">%1$s ilgili dosyalar (%2$d öğe)</item>
-        <item quantity="one">%1$s ilgili dosyalar (%2$d item)</item>
+        <item quantity="other">%1$s ilgili dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="search_head_hint_tag">
-        <item quantity="other">Tag %1$s ilgili dosyalar (%2$d öğe)</item>
-        <item quantity="one">Tag %1$s ilgili dosyalar (%2$d item)</item>
+        <item quantity="other">%1$s ilgili dosya (%2$d öğe)</item>
+        <item quantity="one">%1$s ilgili dosya (%2$d öğe)</item>
     </plurals>
     <plurals name="text_group_count">
         <item quantity="other">%d öğe</item>

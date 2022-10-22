@@ -503,8 +503,8 @@
     <string name="filter_portrait_pink_orange">Narenciye</string>
     <string name="filter_portrait_protist">Original</string>
     <string name="filter_single_sky">Gökyüzü</string>
-    <string name="filter_sky_ai_sunny">Temiz gün</string>
-    <string name="filter_sky_ai_sunny_next_effect">Sonraki</string>
+    <string name="filter_sky_ai_sunny">Akıllı</string>
+    <string name="filter_sky_ai_sunny_next_effect">Değiştir</string>
     <string name="filter_sky_ai_sunny_scene_city">Şehir</string>
     <string name="filter_sky_ai_sunny_scene_prairie">Otlak</string>
     <string name="filter_sky_ai_sunny_scene_seaside">Sahil</string>

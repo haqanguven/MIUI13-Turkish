@@ -2,7 +2,7 @@
 <resources>
     <string name="mtb_string_hook_common_demo">Kanca ortak demosu</string>
     <string name="mtb_tool_active_mbn">Eylem</string>
-    <string name="mtb_tool_active_mbn_notify">"Mbn'yi ayarlamak için bir dakika bekleyin"</string>
+    <string name="mtb_tool_active_mbn_notify">"MBN'yi ayarlamak için bir dakika bekleyin"</string>
     <string name="mtb_tool_ant_status_get">Ant durumunu al</string>
     <string name="mtb_tool_ant_status_set">Ant durumunu ayarla</string>
     <string name="mtb_tool_ant_tx_rx_mode">Ant test aracı</string>
@@ -140,7 +140,7 @@
     <string name="mtb_tool_log_power_on_switch">Güç açık teşhis günlüğü</string>
     <string name="mtb_tool_mbn_default_notfiy">Varsayılan MBN</string>
     <string name="mtb_tool_mbn_delete_exsist_error">"Bazı MBN'ler silinemedi. Lütfen silinecek MBN'nin aktif olmadığından emin olun"</string>
-    <string name="mtb_tool_mbn_export_path_notice">"Mbn dışa aktarma yolu:
+    <string name="mtb_tool_mbn_export_path_notice">"MBN dışa aktarma yolu:
 "</string>
     <string name="mtb_tool_mbn_export_to_sd">"MBN'yi SD'ye aktar"</string>
     <string name="mtb_tool_mbn_hw_only_for_sub0">Yalnızca HW MBN kart 1 seçin</string>
@@ -212,7 +212,7 @@ Adım 3: Seçilen MBN'yi yüklemek için Etkinleştir düğmesine tıklayın
     <string name="mtb_tool_modem_diag">Modem teşhisi</string>
     <string name="mtb_tool_modem_diag_command_config_manager">Teşhis komut gönderme aracı</string>
     <string name="mtb_tool_modem_diag_command_set_config_manager">Komut kümesi</string>
-    <string name="mtb_tool_modem_dsda_close_notify">"DSDA'yı kapatacak, emin misiniz?"</string>
+    <string name="mtb_tool_modem_dsda_close_notify">"DSDA'yı kapatacak. Emin misiniz?"</string>
     <string name="mtb_tool_modem_dsda_enable_notify">"DSDA'yı etkinleştirecek mi?"</string>
     <string name="mtb_tool_modem_dsda_switch">"DSDA'yı etkinleştir"</string>
     <string name="mtb_tool_modem_dump">Tam dökümü tetikle</string>
@@ -297,7 +297,7 @@ Mevcut MBN yapılandırması için güncelleyi tıklayın"</string>
     <string name="mtb_tool_nr_only">Yalnızca NR</string>
     <string name="mtb_tool_nv_efs_path_select_hit">NV/EFS öğesini seçin:</string>
     <string name="mtb_tool_nv_efs_path_select_notice">Yukarıyı bulamıyor musunuz? Burada ara</string>
-    <string name="mtb_tool_nvefs_cloud_config_async">NV/EFS yapılandırma eşitleme formu bulutu (otomatik)</string>
+    <string name="mtb_tool_nvefs_cloud_config_async">NV/EFS yapılandırma eşitleme formu bulutu (Otomatik)</string>
     <string name="mtb_tool_nvefs_cloud_config_async_error">Hata! Sim%1$s (%2$s) bulut veri senkronizasyonu başarısız oldu</string>
     <string name="mtb_tool_nvefs_cloud_config_async_success">Başarı! Sim%1$s (%2$s) bulut veri senkronizasyonu tamamlandı</string>
     <string name="mtb_tool_nvefs_cloud_config_http_get_error">Geçerli bulut verileri algılanmadı veya alınırken bir hata oluştu</string>

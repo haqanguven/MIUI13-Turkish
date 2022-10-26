@@ -268,7 +268,7 @@
     <string name="current_version">Mevcut sürüm: %1$s</string>
     <string name="current_version_incompatible">Uyumlu değil</string>
     <string name="custom_storage_permission_desc">Kişiselleştirme tercihlerini değiştirebilmek ve indirilen öğeleri kaydedebilmek için önce bu özelliğin depolama alanına erişmesine izin verin. Bu izni Ayarlar > Gizlilikten verebilirsiniz</string>
-    <string name="custom_storage_permission_desc_above_eleven">To be able to change personalization preferences, allow this feature to access storage first. You can grant this permission in Settings.</string>
+    <string name="custom_storage_permission_desc_above_eleven">Kişiselleştirme tercihlerini değiştirebilmek için önce bu özelliğin depolama alanına erişmesine izin verin. Bu izni ayarlardan verebilirsiniz</string>
     <string name="custom_theme">name,id</string>
     <string name="custom_widget">Önerilen araçlar</string>
     <string name="date_picker_label_day" />
@@ -1093,7 +1093,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="pull_down_view_refresh">Yenile</string>
     <string name="pull_down_view_title">Yenilikler</string>
     <string name="purchased">Siparişler</string>
-    <string name="read_and_agree_account_privacy">\"Mi hesabı <a href="%3$s"><font color="#37A5FF">Kullanıcı sözleşmesi ve <a href="%4$s"><font color="#37A5FF">Gizlilik politikasını okuyun kabul edin\"</font></a></font></a></string>
+    <string name="read_and_agree_account_privacy">Mi hesabı %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikasını okuyun kabul edin</string>
     <string name="recently_used">Son kullanılanlar</string>
     <string name="recommend_bottom_tips">En altta</string>
     <string name="recommend_trigger">Kişiselleştirilmiş öneriler</string>
@@ -1477,7 +1477,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="system_cta_all_purpose_fold">Duvar kağıdına ve kişiselleştirmeye hoş geldiniz. Her zaman açık ekran temalarınızı, duvar kağıtlarınızı, zil seslerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="system_cta_all_purpose_pad">Kişiselleştirmeye hoş geldiniz. Duvar kağıtlarınızı, zil seslerinizi, uygulama simgelerinizi ve yazı tiplerinizi yönetmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="system_cta_main_purpose">Çevrimiçi ve çevrimdışı temaları, duvar kağıtlarını, zil seslerini, yazı tiplerini ve video duvar kağıtlarını kullanın</string>
-    <string name="system_cta_retry_get_permission_btn_pad">Start</string>
+    <string name="system_cta_retry_get_permission_btn_pad">Başlat</string>
     <string name="system_cta_retry_get_permission_msg_pad">Gerekli izinler</string>
     <string name="system_cta_runtime_perm_desc_get_accounts">IMEI bilgisine erişmek ve indirme hizmetleri sağlamak içindir</string>
     <string name="system_cta_runtime_perm_desc_read_phone_state">Oturum açmak ve sistem hesaplarını yönetmek içindir</string>

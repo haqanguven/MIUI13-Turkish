@@ -1061,6 +1061,10 @@ Neden: %s"</string>
     <string name="not_set">Ayarlanmadı</string>
     <string name="notification_click_detail">Ayrıntıları görüntülemek için dokunun</string>
     <string name="notification_micloudsync_delete_contact">Xiaomi bulut kişilerinizden bazılarını silmek istiyor</string>
+    <string name="notification_missedCallTitle">Cevapsız arama</string>
+    <string name="notification_missedCall_call_back">Geri ara</string>
+    <string name="notification_missedCall_message">Mesaj gönder</string>
+    <string name="notification_missedCallsTitle">Cevapsız aramalar</string>
     <string name="open_contact">Kişiyi görüntüle</string>
     <string name="open_dial_pad_description">Tuş takımını aç</string>
     <string name="option_delete_contact">Sil</string>

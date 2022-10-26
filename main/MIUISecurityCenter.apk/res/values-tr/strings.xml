@@ -2263,6 +2263,7 @@ gönüllüsü"</string>
     <string name="gamebox_func_switch_simcard_immersion">Sürükleyici modda Sim kartlar değiştirilemiyor</string>
     <string name="gamebox_func_wlan_close">Wifi şimdi kapalı</string>
     <string name="gamebox_func_wlan_open">Wifi şimdi açık</string>
+    <string name="gamebox_game_center_app_not_find">Önce oyunları yükleyin</string>
     <string name="gamebox_hangup">Ekranı kapat</string>
     <string name="gamebox_hangup_tips_content">Bu özellik ekranı kapatmanıza izin verir ancak oyunun arka planda çalışmasını sağlar. Cihazınızın kilidini açtığınızda otomatik olarak kapanır</string>
     <string name="gamebox_hangup_tips_title">Ekranı kapat</string>
@@ -2342,6 +2343,7 @@ gönüllüsü"</string>
     <string name="gb_barrage_chat_text_speed_faster">Hızlı</string>
     <string name="gb_barrage_chat_text_speed_moderate">Orta</string>
     <string name="gb_barrage_chat_text_speed_slow">Yavaş</string>
+    <string name="gb_barrage_dnd_conflict_toast">Ekrandaki yorumları kullanmak için önce rahatsız etmeyi kapatın</string>
     <string name="gb_beauty_cold_light">Soğuk</string>
     <string name="gb_beauty_face">Güzelleştir</string>
     <string name="gb_beauty_light">Işık doldur</string>
@@ -2373,6 +2375,7 @@ gönüllüsü"</string>
     <string name="gb_dialog_record_way_setting_tips">Not: Oyun videoları kaydetme gecikmeye neden olabilir. Güç tüketiminide arttırabilir</string>
     <string name="gb_dialog_record_way_title">Kayıt yöntemini seçin</string>
     <string name="gb_dialog_wlan_wifi_weak">460 milisaniye</string>
+    <string name="gb_dnd_barrage_conflict_toast">Rahatsız etme açıkken ekrandaki yorumları kullanamayacaksınız</string>
     <string name="gb_first_guide_function_shiled_title">Oyun hızlandırıcı açıkken sistem özelliklerini kapatın</string>
     <string name="gb_first_guide_gamebox_des">Oyun oynarken kısayolları kullanın</string>
     <string name="gb_first_guide_handsfree_des">Arka planda aramaları cevapla</string>
@@ -3479,14 +3482,14 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="notification_garbage_clean_botton_text">Temizle</string>
     <string name="notification_garbage_clean_botton_text_new">Temizle</string>
     <string name="notification_garbage_clean_hint">Depolama alanını temizle</string>
-    <string name="notification_garbage_clean_hint_new">Cihazınızın uçmasına izin verin</string>
+    <string name="notification_garbage_clean_hint_new">Cihazınızı fazlalık dosyalardan temizleyin</string>
     <string name="notification_garbage_clean_size">%s boşalt</string>
     <string name="notification_garbage_clean_size_float_unit">%.1f GB</string>
     <string name="notification_garbage_clean_size_found">%s çöp var</string>
     <string name="notification_garbage_clean_size_found_hint">Çöpü çıkarma zamanı</string>
     <string name="notification_garbage_clean_size_found_text">Çok fazla çöp dosyası</string>
     <string name="notification_garbage_clean_size_int_unit">%d GB</string>
-    <string name="notification_garbage_clean_size_new">%s depolama alanı boşaltın</string>
+    <string name="notification_garbage_clean_size_new">%s depolama alanını boşaltın</string>
     <string name="notification_garbage_cleanup_summary">Cihazınızı hızlandırmak için çöp kutusunu temizle (%s)</string>
     <string name="notification_garbage_cleanup_title">Çöp dosyalarını temizle</string>
     <string name="notification_link_cleaner_2001">Şimdi %s çöp kutusunu temizleyin</string>

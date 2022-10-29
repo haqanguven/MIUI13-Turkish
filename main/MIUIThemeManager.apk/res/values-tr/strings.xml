@@ -58,7 +58,7 @@
     <string name="ad_download_pause">Duraklat</string>
     <string name="ad_download_pending">Beklemede</string>
     <string name="ad_download_resume">Devam et</string>
-    <string name="ad_downloading_tip">Bu öğe indiriliyor. İlerlemeyi Bildirim çubuğunda görüntüleyebilirsiniz</string>
+    <string name="ad_downloading_tip">Bu öğe indiriliyor. İlerlemeyi bildirim çubuğunda görüntüleyebilirsiniz</string>
     <string name="ad_experience_now">Aç</string>
     <string name="ad_tag_text_1">Popüler</string>
     <string name="ad_tag_text_2">Moda</string>
@@ -155,7 +155,7 @@
     <string name="change_wallpaper">Duvar kağıdı</string>
     <string name="character_counter_content_description">%1$d/%2$d arası karakter girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="check_has_new_version">Güncelleme mevcut</string>
     <string name="chinese_day_1">1. gün</string>
     <string name="chinese_day_10">10. gün</string>
@@ -666,7 +666,7 @@ Kapatmak için dokunun"</string>
     <string name="lockscreen_magazine_title">Duvar kağıdı döngüsü</string>
     <string name="lockscreen_wallpaper">Kilit ekranı</string>
     <string name="lockstyle_personal_settings">Kişiselleştir</string>
-    <string name="login_theme">Temalarda oturum açın</string>
+    <string name="login_theme">Oturum aç</string>
     <string name="long_click_can_hide_resource">Öğeleri gizlemek için basılı tutun</string>
     <string name="m3_ref_typeface_brand_medium">sans-serif-medium</string>
     <string name="m3_ref_typeface_brand_regular">sans-serif</string>
@@ -919,7 +919,7 @@ mm"</string>
     <string name="pad_fold_exit_wallpaper_warning_content">"Oturumu kapattıktan sonra aşağıdaki işlemleri gerçekleştiremezsiniz:
 Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve kullanın"</string>
     <string name="pad_fold_exit_wallpaper_warning_title">Duvar kağıdı ve kişiselleştirme oturumu kapatılsın mı?</string>
-    <string name="pad_fold_log_in_theme_detail" formatted="false">&lt;Data>\"Duvar kağıdı ve kişiselleştir<font color="#37A5FF">menin &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%1</font>$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font> ve &lt;font color=\"#37A5FF\">&lt;/color>&lt;a href=\"%2$s\">gizlilik politikasının&lt;/a>&lt;/font> yanı sıra Mi hesabının &lt;font color=\"#37A5FF\">&lt;a href=\"%3$s\">Kullanıcı sözleşmesi&lt;/a>&lt;/font>&lt;font color=\"#37A5FF\"> ve &lt;a href=\"%4$s\">gizlilik politikası&lt;/a>&lt;/font> okudum ve kabul ediyorum\"&lt;/Data></string>
+    <string name="pad_fold_log_in_theme_detail">Duvar kağıdı ve kişiselleştirmenin %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasının yanı sıra Mi hesabının %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikası okudum ve kabul ediyorum</string>
     <string name="pad_fold_log_in_wallpaper">Duvar kağıdı ve kişiselleştirmede oturum açın</string>
     <string name="pad_fold_no_permission">Depolama izinleri gerekli</string>
     <string name="pad_fold_no_permission_detail">Kişiselleştirme tercihlerini değiştirebilmek ve indirilen öğeleri kaydedebilmek için önce bu özelliğin depolama alanına erişmesine izin verin</string>
@@ -955,7 +955,7 @@ Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve k
 1. Satın aldığınız veya favorilere eklediğiniz öğeleri görüntüleyin ve kullanın
 2. Yorum ve beğeni ekleyin, diğer insanları takip edin ve onlarla etkileşime geçin"</string>
     <string name="phone_exit_theme_warning_title">Temalardan çıkış yapılsın mı?</string>
-    <string name="phone_log_in_theme">Temalarda oturum açın</string>
+    <string name="phone_log_in_theme">Oturum aç</string>
     <string name="phone_log_in_theme_detail">Temalar %1$s Kullanıcı sözleşmesi %2$s Gizlilik politikası ile Mi hesabının %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikasını okudum ve kabul ettim (Sistem hesabını kullanarak oturum açmak içindir)</string>
     <string name="playing_ringtone">Oynatılıyor</string>
     <string name="pm">ÖS</string>
@@ -1006,8 +1006,8 @@ Bu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış 
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_prompt">Duvar kağıdı ve kişiselleştirme hizmetlerinin iptali hakkında açıklama</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_detail_title">Hizmetlerimizi iptal etmeden önce duvar kağıdı ve kişiselleştirme hizmetlerinin iptali hakkında açıklamayı okuyun ve kabul edin</string>
     <string name="privacy_pad_fold_logoff_wallpaper_service_introduce">Duvar kağıdı ve kişiselleştirme hizmetlerini iptal etmek üzeresiniz</string>
-    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">&lt;&lt;font color=\"#8E92B0\">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Duvar kağıdı ve kişiselleştirme hizmetlerinin iptal edilmesine&lt;/font> ilişkin açıklama&lt;/a>&lt;/font> okudum ve kabul ediyorum\"&lt;/Data></string>
-    <string name="privacy_pad_fold_read_wallpaper_privacy_policy">&lt;&lt;font color=\"#8E92B0\">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Duvar kağıdı ve kişiselleştirme gizlilik politikasına ilişkin onayın Geri Çekilm&lt;/font>esine ilişkin açıklama&lt;/a>&lt;/font> okudum ve kabul ediyorum\"&lt;/Data></string>
+    <string name="privacy_pad_fold_read_wallpaper_logoff_privacy_policy">%1$s Duvar kağıdı ve kişiselleştirme hizmetlerinin iptal edilmesine ilişkin açıklamayı okudum ve kabul ediyorum</string>
+    <string name="privacy_pad_fold_read_wallpaper_privacy_policy">%1$s Duvar kağıdı ve kişiselleştirme gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklamayı okudum ve kabul ediyorum</string>
     <string name="privacy_pad_fold_revoke_agree_content_3">3. Bu cihaza indirilen tüm duvar kağıtları, yazı tipleri ve zil sesleri</string>
     <string name="privacy_pad_fold_revoke_agree_content_4">4. Bu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış öğeler</string>
     <string name="privacy_pad_fold_revoke_agree_detail_prompt">Duvar kağıdı ve kişiselleştirme gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklama</string>
@@ -1018,7 +1018,7 @@ Bu cihazda oluşturulan tüm izin tercihleri, ayarlar ve önbelleğe alınmış 
 Bu cihazda saklanan öğeleri kişiselleştirme için her kullandığınızda bu uygulamanın cihaz depolamasına erişmesine izin vermenizi isteyeceğiz"</string>
     <string name="privacy_permission_management_description">İzin ayrıntıları</string>
     <string name="privacy_permission_related_content">İzinler</string>
-    <string name="privacy_permit_privacy_policy_content"><font color;="'#37A5FF'"><a href="'%1$s'">Gizlilik politikasıyeni sürümünü kabul etmediğiniz sürece sitemiz</a></font>i kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını şimdi kabul ediyor musunuz?</string>
+    <string name="privacy_permit_privacy_policy_content">%1$s Gizlilik politikasıyeni sürümünü kabul etmediğiniz sürece sitemizi kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını şimdi kabul ediyor musunuz?</string>
     <string name="privacy_phone_important_prompt_content">"Görünüşe göre kullanıcı sözleşmemizi ve gizlilik politikamızı henüz kabul etmediniz. Ancak temaların temel özellikleri ve hizmetleri sizin için hala kullanılabilir
 Bu cihazda saklanan öğeleri kişiselleştirme için her kullandığınızda bu uygulamanın cihaz depolamasına erişmesine izin vermenizi isteyeceğiz"</string>
     <string name="privacy_phone_logoff_service_content">Temalar hizmetlerini iptal et</string>
@@ -1038,8 +1038,8 @@ Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarl
     <string name="privacy_phone_logoff_theme_service_introduce">Tema hizmetlerini iptal etmek üzeresiniz</string>
     <string name="privacy_phone_read_and_write_storage">Depolamaya erişim</string>
     <string name="privacy_phone_read_and_write_storage_above_eleven">Depolamaya erişim</string>
-    <string name="privacy_phone_read_theme_logoff_privacy_policy">&lt;&lt;font color=\"#8E92B0\">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Tema hizmetlerinin iptal edilmesine&lt;/font> ilişkin açıklamayı&lt;/a>&lt;/font> okudum ve kabul ediyorum\"&lt;/Data></string>
-    <string name="privacy_phone_read_theme_privacy_policy">&lt;&lt;font color=\"#8E92B0\">Data>\"&lt;font color=#8E92B0>&lt;/color>&lt;a href=\"%1$s\">Temaların gizlilik politikasına ilişkin onayın geri çekilmesine&lt;/font> ilişkin açıklamayı&lt;/a>&lt;/font> okudum ve kabul ediyorum\"&lt;/Data></string>
+    <string name="privacy_phone_read_theme_logoff_privacy_policy">%1$s Tema hizmetlerinin iptal edilmesine ilişkin açıklamayı okudum ve kabul ediyorum</string>
+    <string name="privacy_phone_read_theme_privacy_policy">%1$s Temaların gizlilik politikasına ilişkin onayın geri çekilmesine ilişkin açıklamayı okudum ve kabul ediyorum</string>
     <string name="privacy_phone_revoke_agree_content_3">3. Bu cihaza indirilen tüm temalar, duvar kağıtları, hareketli duvar kağıtları, yazı tipleri, simgeler ve zil sesleri</string>
     <string name="privacy_phone_revoke_agree_content_4">4. Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarlar ve önbelleğe alınmış öğeler</string>
     <string name="privacy_phone_revoke_agree_detail_content_1">"1. Devam etmeden önce onayınızı geri çekme hakkınız olduğundan emin olun
@@ -1060,7 +1060,7 @@ Bu cihazda oluşturulan tüm arama geçmişi kayıtları, izin tercihleri, ayarl
     <string name="privacy_read_the_updated_privacy_policy_content">Devam etmeden önce %1$s gizlilik politikası yeni sürümünü okuyun ve kabul edin</string>
     <string name="privacy_reading_the_application_list">Bu cihazda yüklü uygulamaların listesine erişim</string>
     <string name="privacy_remind_user_mode_agree">Kabul et</string>
-    <string name="privacy_remind_user_mode_content">&lt;Data>Bu özelliği kullanmak için gizlilik politikamızı kabul edin. Temaları kullandığınızda bize sağladığınız kişisel bilgileri nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi, işlediğimizi ve sakladığımızı öğ<font color="#37A5FF">renmek<font color="#37A5FF">&lt;font color=\"#37A5FF\"> için &lt;font color=\"#37A5FF</font></font>\">&lt;/color>&lt;a href=\"%1$&lt;/font>s\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyun&lt;/Data></string>
+    <string name="privacy_remind_user_mode_content">Bu özelliği kullanmak için gizlilik politikamızı kabul edin. Temaları kullandığınızda bize sağladığınız kişisel bilgileri nasıl topladığımızı, kullandığımızı, ifşa ettiğimizi, işlediğimizi ve sakladığımızı öğrenmek için %1$ Gizlilik politikamızı okuyun</string>
     <string name="privacy_remind_user_mode_title">Dikkat</string>
     <string name="privacy_revoke_agree_content">Onayı geri al</string>
     <string name="privacy_revoke_agree_content_1">1. Mi hesabınızı kullandığınız Xiaomi cihazlarında yapılan tüm siparişler. Satın aldığınız ürünleri artık kullanamayacaksınız</string>
@@ -1206,7 +1206,7 @@ Bu izni Ayarlar > Gizlilik'te verebilirsiniz"</string>
     <string name="resource_exchange_has_expired">Girmiş olduğunuz kodun süresi doldu</string>
     <string name="resource_exchange_has_used">Girmiş olduğunuz kod daha önce kullanıldı</string>
     <string name="resource_exchange_hint">Hediye kodunuzu girin</string>
-    <string name="resource_exchange_purchase_unkown_error">Ups! Bilinmeyen bir hata oluştu. Ödeme durumunuzu görüntülemek için http://market.xiaomi.com adresinde oturum açın</string>
+    <string name="resource_exchange_purchase_unkown_error">Bilinmeyen bir hata oluştu. Ödeme durumunuzu görüntülemek için http://market.xiaomi.com adresinde oturum açın</string>
     <string name="resource_exchange_share_code_content">MIUI Tema Mağazasında %1$s teması için bir hediye kodu aldınız (%2$s). Kullanmak için %3$s seçeneğine dokunun</string>
     <string name="resource_exchange_share_code_dlg_content">%1$s için hediye kodu: %2$s. Bu kodu diğer bir MIUI kullanıcısına gönderdiğinizde kodu göndermiş olduğunuz kullanıcı kodu bu temayı indirmek için kullanabilir</string>
     <string name="resource_exchange_share_code_dlg_title">Gönderiliyor</string>

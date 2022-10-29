@@ -1636,7 +1636,7 @@ erişimine ihtiyaç duyuyor. İzinler menüsüne gitmek için ayarla seçeneğin
     <string name="grant_permission_unlock_and_set">Kilidi aç ve ayarla</string>
     <string name="grant_permission_unlock_and_set_2">Kilidi aç</string>
     <string name="grant_permission_write_clipboard">Öğeleri kopyalayabilmek için bu uygulamanın öğeleri panoya kaydetmesine izin verin</string>
-    <string name="group_header_title_immutable_album">Fotoğrafları düzenleyin</string>
+    <string name="group_header_title_immutable_album">Fotoğrafları düzenle</string>
     <string name="group_header_title_media_group">Medya türleri</string>
     <string name="group_header_title_third_album">Diğer albümler</string>
     <string name="group_header_title_user_create_album">Albümlerim</string>

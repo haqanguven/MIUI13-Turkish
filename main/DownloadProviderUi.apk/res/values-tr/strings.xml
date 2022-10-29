@@ -415,7 +415,7 @@
     <string name="pref_download_revert_default">Varsayılan</string>
     <string name="pref_download_settings_title">İndirme boyutu limiti</string>
     <string name="pref_download_storage_path">İndirme konumu</string>
-    <string name="pref_download_storage_path_2">İndirilen öğelerin konumu</string>
+    <string name="pref_download_storage_path_2">İndirme konumu</string>
     <string name="pref_permission_description">İzin ayrıntıları</string>
     <string name="pref_sniff_shortcut">İnternet araması için ana ekran kısayolu oluştur</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>

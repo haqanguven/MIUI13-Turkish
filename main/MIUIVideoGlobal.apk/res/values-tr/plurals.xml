@@ -37,6 +37,18 @@
         <item quantity="other">%s yıldız seçildi</item>
         <item quantity="one">%s yıldız seçildi</item>
     </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Fast forward %d seconds</item>
+        <item quantity="one">Fast forward %d second</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rewind %d seconds</item>
+        <item quantity="one">Rewind %d second</item>
+    </plurals>
+    <plurals name="fcmpts_dialog_one">
+        <item quantity="other">Watch %s more seconds of a video to earn points and redeem rewards</item>
+        <item quantity="one">Watch %s more second of a video to earn points and redeem rewards</item>
+    </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
         <item quantity="one">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
@@ -182,6 +194,10 @@ Yalnızca bugün mevcuttur"</item>
         <item quantity="other">%d yeni bildirim</item>
         <item quantity="one">%d yeni bildirim</item>
     </plurals>
+    <plurals name="music_playlist_title_count">
+        <item quantity="other">%d songs</item>
+        <item quantity="one">%d song</item>
+    </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Başarıyla paylaşıldı. %d puan kazandınız. Puan merkezinde talep edin</item>
         <item quantity="one">Başarıyla paylaşıldı. %d puan kazandınız. Puan merkezinde talep edin</item>
@@ -265,6 +281,10 @@ Yalnızca bugün mevcuttur"</item>
     <plurals name="toast_bookmark_max_size">
         <item quantity="other">En fazla %d yer işareti ekleyin</item>
         <item quantity="one">En fazla %d yer işareti ekleyin</item>
+    </plurals>
+    <plurals name="v_confirm_hide_videos_new">
+        <item quantity="other">Hide %d selected files?</item>
+        <item quantity="one">Hide %d selected file?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s beğeni</item>

@@ -1081,16 +1081,24 @@ Bu kodu amirinize gönderin"</string>
     <string name="user_avatar_uploading">Yükleniyor</string>
     <string name="user_instruction_all_purpose">Mi hesaba hoş geldiniz. Hesabınızı Xiaomi, Mi.com, Xiaomi bulut ve GetApps gibi bağlı şirketler tarafından sağlanan hizmetlere erişmek için kullanabilirsiniz. Mi paraları alabilir, sanal ürünler satın alabilir ve oyunlar, temalar vede e-kitaplar dahil değerli hizmetlerden yararlanabilirsiniz</string>
     <string name="user_instruction_tip">Giriş yapabilme, şartlar ve koşulları okuyup kabul edebilmek içindir</string>
-    <string name="user_license_with_3rd_app"><Data>"Mi hesabımla oturum açarak &lt;a href=%1$s>kullanıcı sözleşmesini&lt;/a> ve &lt;a href=%2$s>Gizlilik politikasını &lt;/a> vede Mi hesabı &lt;a href=%3$s>kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%4$s>gizlilik politikasını&lt;/a> okuduğumu ve kabul ettiğimi onaylıyorum"</Data></string>
-    <string name="user_license_with_3rd_app_mobile">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ayrıca %5$s China Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum</string>
-    <string name="user_license_with_3rd_app_no_operator">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını okudum ve kabul ediyorum</string>
-    <string name="user_license_with_3rd_app_telcom">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve %5$s eSurfing hesap doğrulama hizmetlerinin şart ve koşullarını okudum ve kabul ediyorum</string>
-    <string name="user_license_with_3rd_app_unicom">%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve ayrıca Çin Unicom doğrulama hizmetlerinin %5$s şart ve koşullarını okudum ve kabul ediyorum</string>
-    <string name="user_license_with_out_3rd_app_no_operator">Mi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ediyorum</string>
-    <string name="user_license_without_3rd_app">Mi hesabı %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okudum ve kabul ediyorum"</string>
-    <string name="user_license_without_3rd_mobile">Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası  ayrıca %3$s Çin Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum</string>
-    <string name="user_license_without_3rd_telcom">Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası, ayrıca %3$s eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum</string>
-    <string name="user_license_without_3rd_unicom">Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası, ayrıca %3$s Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum</string>
+    <string name="user_license_with_3rd_app">"Mi hesabımla oturum açarak %1$s kullanıcı sözleşmesini ve %2$s Gizlilik politikasını vede Mi hesabı %3$s Kullanıcı sözleşmesi ve %4$s Gizlilik politikasını okuduğumu ve kabul ettiğimi onaylıyorum"</string>
+    <string name="user_license_with_3rd_app_mobile">"%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ayrıca %5$s China Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_with_3rd_app_no_operator">"%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını ve Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_with_3rd_app_telcom">"%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve %5$s eSurfing hesap doğrulama hizmetlerinin şart ve koşullarını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_with_3rd_app_unicom">"%1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını Mi hesabının %3$s Kullanıcı sözleşmesini ve %4$s Gizlilik politikasını ve ayrıca Çin Unicom doğrulama hizmetlerinin %5$s şart ve koşullarını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_with_out_3rd_app_no_operator">"Mi hesabının %1$s Kullanıcı sözleşmesini ve %2$s Gizlilik politikasını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_without_3rd_app">Mi hesabı %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okudum ve kabul ediyorum</string>
+    <string name="user_license_without_3rd_mobile">"Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası  ayrıca %3$s Çin Mobil doğrulama hizmetlerinin hüküm ve koşullarını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_without_3rd_telcom">"Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası, ayrıca %3$s eSurfing hesap doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum
+"</string>
+    <string name="user_license_without_3rd_unicom">"Mi hesabının %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikası, ayrıca %3$s Çin Unicom doğrulama hizmetlerinin şartlar ve koşullarını okudum ve kabul ediyorum
+"</string>
     <string name="v7_preference_off">Kapalı</string>
     <string name="v7_preference_on">Açık</string>
     <string name="vip_account_settings">Vip ayarları</string>

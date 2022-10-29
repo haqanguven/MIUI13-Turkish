@@ -136,6 +136,7 @@
     <string name="cast_closed_captions_unavailable">Altyazılar kullanılamıyor</string>
     <string name="cast_connecting_to_device">%1$s cihazına bağlanılıyor</string>
     <string name="cast_disconnect">Bağlantıyı kes</string>
+    <string name="cast_dynamic_group_name_format">%1$s + %2$d</string>
     <string name="cast_expanded_controller_ad_image_description">Yayın alıcıda bir reklam oynatılırken gösterilen resim</string>
     <string name="cast_expanded_controller_ad_in_progress">Reklam işleniyor</string>
     <string name="cast_expanded_controller_background_image">Albüm kapağı</string>
@@ -253,6 +254,8 @@
     <string name="choose">Seç</string>
     <string name="choose_to_signin">Evet</string>
     <string name="choose_to_signup">Hayır. Yeni bir hesap oluşturacağım</string>
+    <string name="chromecast_connecting">"Chromecast'e bağlanılıyor"</string>
+    <string name="chromecast_playing">Bu videoyu Chromecast ile izliyorsunuz</string>
     <string name="clear_text_end_icon_content_description">Metni temizle</string>
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="click_to_open_pip">Resim içinde resime geçmek için dokunun</string>
@@ -336,6 +339,7 @@
     <string name="continue_play">Devam et</string>
     <string name="controller_bar_edit">Düzenle</string>
     <string name="copy">Kopyala</string>
+    <string name="copy_toast_msg">Link kopyalandı</string>
     <string name="current_service_key">service</string>
     <string name="data_empty">Boş</string>
     <string name="date_picker_label_day" />
@@ -394,7 +398,7 @@ Bu kodu gönderin"</string>
     <string name="dialog_privacy_experience_plan">Ürünlerimizi ve hizmetlerimizi geliştirmemize yardımcı olmak için kullanıcı verilerini bizimle paylaşmak için kullanıcı deneyimi programımıza katılın</string>
     <string name="dialog_privacy_info_new2">Hizmetleri kullanabilmek için kişisel bilgilerinizin %1$s tarafından toplanılacağını, işleneceğini ve kullanılacağını kabul etmeniz gerekmektedir. Kabul et seçeneğine dokunduğunuzda <a href="%2$s">Gizlilik politikasını</a> okuyup kabul etmiş sayılırsınız</string>
     <string name="dialog_privacy_info_new3">"Bu hizmeti kullanabilmek için %1$s uygulamasının Gizlilik Politikasına göre kişisel bilgilerinizi toplamasına, işlemesine ve kullanmasına izin vermeniz gerekir. Aşağıdaki kabul et yazısına dokunarak Xiaomi'nin \"\""<a href="%2$s">Gizlilik politikası</a> ve <a href="%3$s">Kullanıcı sözleşmesini</a> onaylıyorsunuz</string>
-    <string name="dialog_privacy_info_new4">Videolar uygulamasına hoş geldiniz! Bu uygulama aşağıdaki hizmetleri sunmaktadır:<br></br><br></br>&lt;br>&lt;/br>&lt;br>&lt;/br> - <br></br>Çevrim iç<br></br>i yayın <br></br>h&lt;br>&lt;/br>izmetleri<br></br>"&lt;br>&lt;/br>- Yerel &lt;br>&lt;/br>\"bir video oynatıcı&lt;br>&lt;/br>Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler &amp;amp; Güvenlik menüsünden değiştirebilirsiniz.&lt;br>&lt;/br>Videolar uygulamasını kullanmadan önce &lt;a href=%1$s>Kullanıcı sözleşmesi&lt;/a> ve &lt;a href=%2$s>Gizlilik politikası'nı&lt;/a> okuyun ve kabul edin\""</string>
+    <string name="dialog_privacy_info_new4">"Videolar uygulamasına hoş geldiniz. Bu uygulama aşağıdaki hizmetleri sunmaktadır: - Çevrimiçi yayın hizmeti. - Yerel video oynatıcı. Temel hizmetleri size sağlayabilmesi için videoların gerekli kişisel bilgileri toplaması gerekmektedir. Topladığımız bilgileri nasıl kullandığımızı Gizlilik politikamızdan öğrenebilirsiniz. İlgili ayarları Ayarlar > Şifreler &amp;amp; Güvenlik menüsünden değiştirebilirsiniz. Videolar uygulamasını kullanmadan önce %1$s Kullanıcı sözleşmesi ve %2$s Gizlilik politikasını okuyun ve kabul edin"</string>
     <string name="dialog_privacy_revoke_cancel">İptal et</string>
     <string name="dialog_privacy_revoke_count_down">Geri al (%1$d saniye)</string>
     <string name="dialog_privacy_revoke_description">"Anahtarı kapatarak videolar uygulamasının Gizlilik politikası'na verdiğiniz izni geri çekiyorsunuz. Kişisel bilgilerinizi toplamaya son vereceğiz. Halihazırda toplanan ve saklanan kişisel veriler, uygulanabilir yasaların gerektirdiği gibi belirli bir süre içinde silinecektir. Gizlilik Politikası'na verdiğiniz izni geri çekmeniz, toplanan kişisel bilgilere dayanan çevrim içi hizmetleri kabul etmeyi reddetmeniz olarak kabul edilecektir"</string>
@@ -433,7 +437,6 @@ Bu kodu gönderin"</string>
     <string name="download_paused">Duraklatıldı</string>
     <string name="download_pending">Bekleniyor</string>
     <string name="download_power_off_tips">Bu özellik şu anda kullanılamıyor</string>
-    <string name="download_progress">%%%d</string>
     <string name="download_retry">Tekrar dene</string>
     <string name="download_space_info" formatted="false">%s, %s</string>
     <string name="download_unable_tip">Bu öğe indirilemiyor</string>
@@ -463,23 +466,41 @@ Bu kodu gönderin"</string>
     <string name="evening">Öğleden sonra</string>
     <string name="exceed_binded_phone_times_notice">Telefon numarası başka bir Mi hesabı tarafından kullanılmaktadır. Lütfen başka bir telefon numarası girin</string>
     <string name="exit">Çık</string>
+    <string name="exo_controls_cc_disabled_description">Altyazıları etkinleştir</string>
+    <string name="exo_controls_cc_enabled_description">Altyazıları devre dışı bırak</string>
+    <string name="exo_controls_custom_playback_speed">%1$.2fx</string>
     <string name="exo_controls_fastforward_description">İleri sar</string>
-    <string name="exo_controls_fullscreen_description">Tam ekran modu</string>
-    <string name="exo_controls_next_description">Sonraki parça</string>
+    <string name="exo_controls_fullscreen_enter_description">Tam ekrana geç</string>
+    <string name="exo_controls_fullscreen_exit_description">Tam ekrandan çık</string>
+    <string name="exo_controls_hide">Oynatıcı kontrollerini gizle</string>
+    <string name="exo_controls_next_description">Sonraki</string>
+    <string name="exo_controls_overflow_hide_description">Ek ayarları gizle</string>
+    <string name="exo_controls_overflow_show_description">Ek ayarları göster</string>
     <string name="exo_controls_pause_description">Duraklat</string>
     <string name="exo_controls_play_description">Çal</string>
-    <string name="exo_controls_previous_description">Önceki parça</string>
+    <string name="exo_controls_playback_speed">Hız</string>
+    <string name="exo_controls_playback_speed_normal">Normal</string>
+    <string name="exo_controls_previous_description">Önceki</string>
     <string name="exo_controls_repeat_all_description">Tümünü tekrarla</string>
     <string name="exo_controls_repeat_off_description">Hiçbirini tekrarlama</string>
     <string name="exo_controls_repeat_one_description">Birini tekrarla</string>
     <string name="exo_controls_rewind_description">Geri sar</string>
-    <string name="exo_controls_shuffle_description">Karıştır</string>
+    <string name="exo_controls_seek_bar_description">Çalma ilerleme durumu</string>
+    <string name="exo_controls_settings_description">Ayarlar</string>
+    <string name="exo_controls_show">Oynatıcı kontrollerini göster</string>
+    <string name="exo_controls_shuffle_off_description">Karıştırma kapalı</string>
+    <string name="exo_controls_shuffle_on_description">Karıştırma açık</string>
     <string name="exo_controls_stop_description">Durdur</string>
+    <string name="exo_controls_time_placeholder">00:00:00</string>
+    <string name="exo_controls_vr_description">VR modu</string>
     <string name="exo_download_completed">İndirme işlemi tamamlandı</string>
     <string name="exo_download_description">İndir</string>
     <string name="exo_download_downloading">İndiriliyor</string>
     <string name="exo_download_failed">İndirilemedi</string>
     <string name="exo_download_notification_channel_name">İndirilenler</string>
+    <string name="exo_download_paused">İndirmeler duraklatıldı</string>
+    <string name="exo_download_paused_for_network">İndirmeler için ağ bekleniyor</string>
+    <string name="exo_download_paused_for_wifi">İndirmeler için kablosuz ağ bekleniyor</string>
     <string name="exo_download_removing">İndirilenler kaldırılıyor</string>
     <string name="exo_item_list">%1$s, %2$s</string>
     <string name="exo_media_action_repeat_all_description">Tümünü tekrarla</string>
@@ -488,6 +509,10 @@ Bu kodu gönderin"</string>
     <string name="exo_track_bitrate">%1$.2f Mbps</string>
     <string name="exo_track_mono">Mono</string>
     <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternatif</string>
+    <string name="exo_track_role_closed_captions">Altyazı</string>
+    <string name="exo_track_role_commentary">Anlatım</string>
+    <string name="exo_track_role_supplementary">Ek kanal</string>
     <string name="exo_track_selection_auto">Otomatik</string>
     <string name="exo_track_selection_none">Yok</string>
     <string name="exo_track_selection_title_audio">Ses</string>
@@ -508,6 +533,10 @@ Bu kodu gönderin"</string>
     <string name="failed_dup_secure_phone_number">Bu telefon numarası zaten başka bir Mi hesabı ile ilişkilendirilmiş durumda</string>
     <string name="failed_to_fetch_data">Bilgi yüklenemedi</string>
     <string name="failure">İndirilemedi</string>
+    <string name="fallback_menu_item_copy_link">Bağlantıyı kopyala</string>
+    <string name="fallback_menu_item_open_in_browser">Tarayıcıda aç</string>
+    <string name="fallback_menu_item_share_link">Bağlantıyı paylaş</string>
+    <string name="fast_channel_popular">Popüler kanallar</string>
     <string name="favor_movie">Filmler</string>
     <string name="favor_online_video">Videolar</string>
     <string name="favor_playlist">Çalma listeleri</string>
@@ -520,6 +549,18 @@ Bu kodu gönderin"</string>
     <string name="fcm_fallback_notification_channel_label">Çeşitli</string>
     <string name="fcm_no_args">Argüman içermeyen dize</string>
     <string name="fcm_push_title">Popüler videolar</string>
+    <string name="fcmpts_dialog_continue">İzle</string>
+    <string name="fcmpts_dialog_not_interested">Hayır</string>
+    <string name="fcmpts_dialog_two" formatted="false">Mi mağaza kuponu kazanmak için %d saniye daha %d video daha izleyin</string>
+    <string name="fcmpts_popup_final">Başarıyla talep edildi. Ödülleri kullanmak için dokunun</string>
+    <string name="fcmpts_popup_final_redeem">Kullan</string>
+    <string name="fcmpts_popup_four" formatted="false">Başarıyla talep edildi. Mi Mağaza kuponu kazanmak için %d saniye %d video daha izleyin</string>
+    <string name="fcmpts_popup_one" formatted="false">%d puan değerinde Mi mağaza kuponu kazanmak için bugün %d video izleyin</string>
+    <string name="fcmpts_popup_one_cts">İzle</string>
+    <string name="fcmpts_popup_three" formatted="false">%d saniye izlediniz. %d puan kazandınız</string>
+    <string name="fcmpts_popup_three_claim">Talep et</string>
+    <string name="fcmpts_popup_three_login_claim">Oturum aç</string>
+    <string name="fcmpts_popup_two" formatted="false">%d puan kazanmak için %d saniye bu videoyu izleyin</string>
     <string name="feedback">Geri bildirim</string>
     <string name="feedback_activity_title">Geri bildirim</string>
     <string name="feedback_contact_empty">İletişim bilgilerinizi girin</string>
@@ -630,7 +671,7 @@ Bu kodu gönderin"</string>
     <string name="galleryplus_double_tap_to_higher_definition">HD önizlemeyi açmak için tekrar çift dokunun</string>
     <string name="galleryplus_fr_unsupport_restore_speed">Desteklenmeyen kare hızı. Normal hıza geri dönün</string>
     <string name="galleryplus_gallery_fold_tags">İşaretleri gizle</string>
-    <string name="galleryplus_gallery_video_adjust_hint">Yalnızca 960fps videolar destekleniyor</string>
+    <string name="galleryplus_gallery_video_adjust_hint">Yalnızca %dfps videolar destekleniyor</string>
     <string name="galleryplus_gallery_video_adjust_text">Ayarla</string>
     <string name="galleryplus_gallery_video_default_music_text">Otomatik</string>
     <string name="galleryplus_gallery_video_icon_is_8k">8K</string>
@@ -801,6 +842,7 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="incentive_exchange_code_copy_and_start">Kullan</string>
     <string name="incentive_exchange_details">Ayrıntılar</string>
     <string name="incentive_exchange_details_current">Sipariş toplamı</string>
+    <string name="incentive_exchange_details_dotask">Puan kazanın</string>
     <string name="incentive_exchange_details_total">Bakiye</string>
     <string name="incentive_exchange_empty_tip">Burada henüz bir şey yok. Başlamak için puanları kullanın</string>
     <string name="incentive_exchange_expire_tip">Talep edilmeyen puanlar gece yarısı kaybolacaktır</string>
@@ -831,6 +873,9 @@ Bu işlem galeri resimlerinizi etkilemez"</string>
     <string name="incentive_view_details">Ayrıntılar</string>
     <string name="inconsistent_pwd">Şifreler eşleşmiyor</string>
     <string name="init_channels">Varsayılan ayarlara sıfırla</string>
+    <string name="inline_auto_play_tip">"Mobil veri kullanılıyor "</string>
+    <string name="inline_auto_play_to_set">Ayarlar</string>
+    <string name="inline_mute_click_tip">Sesi açmak için dokunun</string>
     <string name="input_email_address_notice">Hesabınızı doğrulamak için bu e-posta adresini kullanacağız</string>
     <string name="input_new_pwd">Yeni şifreyi girin</string>
     <string name="input_size_tips_new">En fazla %d karakter girebilirsiniz</string>
@@ -867,13 +912,19 @@ tercih ettiğiniz dili seçin"</string>
     <string name="live_now">Şimdi canlı</string>
     <string name="live_title">Canlı</string>
     <string name="live_tv_detail_player_skeleton">live_tv_detail_palyer_skeleton.json</string>
+    <string name="live_tv_dialog_item_passed">Bu program sona erdi. Bir dahaki sefere yakala</string>
+    <string name="live_tv_dialog_subscirbe_button">Abone ol</string>
+    <string name="live_tv_dialog_subscirbe_tips">"%1$s'a abone olun ve hiçbir bölümü kaçırmayın"</string>
     <string name="live_tv_title">Canlı TV</string>
+    <string name="live_tv_toast_item_subscirbe">Bu programa zaten abonesiniz</string>
     <string name="loading">Yükleniyor</string>
+    <string name="local_adjust_zoom_mode_hint">"%s'de izliyorsunuz"</string>
+    <string name="local_crop_zoom_mode">Resim kırpıldı</string>
     <string name="local_diversion_all_local_videos">Cihazdaki tüm videolar</string>
     <string name="local_diversion_close_recommend">Kapat</string>
     <string name="local_diversion_download_more_video">Daha fazla video</string>
     <string name="local_diversion_manage_local_video">Dosyaları yönet</string>
-    <string name="local_diversion_open_mivideo">*Güçlü ve çok işlevli bir video oynatıcı olan videolar uygulamasına geçin</string>
+    <string name="local_diversion_open_mivideo">* Güçlü ve çok işlevli bir video oynatıcı olan videolar uygulamasına geçin</string>
     <string name="local_diversion_recommend_title">Popüler</string>
     <string name="local_diversion_view_more">Görüntüle</string>
     <string name="local_empty_guide">Çektiğiniz videolar burada görünecek</string>
@@ -882,10 +933,13 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_hide_folder_dialog_title">Gizli videolar</string>
     <string name="local_hide_folder_setting_goto">Ayarlar</string>
     <string name="local_hide_folder_setting_tip">Gizli videoları Profil > Ayarlar > Gizli videoları yönet menüsünden yönetebilirsiniz.</string>
+    <string name="local_play_end_close_tip">Öneriler bugün tekrar gösterilmeyecek</string>
+    <string name="local_play_end_drag_up_guide">Shorts oynamak için dokunun veya yukarı kaydırın</string>
     <string name="local_play_tip">Yerel video oynatılıyor</string>
     <string name="local_push_setting_power_tag">Yerel videolar hakkında bildirimler</string>
     <string name="local_push_title">Bugünün popülerleri</string>
     <string name="local_push_video_title">Yeni yerel videoları tara</string>
+    <string name="local_stretch_zoom_mode">Resim uzatıldı</string>
     <string name="local_subtitle_choose_language_text">Dil</string>
     <string name="local_subtitle_exemption_hint">opensubtitle.org üzerinden altyazı arayın</string>
     <string name="local_subtitle_input_keyword_text">Arama kelimeleri</string>
@@ -911,6 +965,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="local_video_size">Boyut</string>
     <string name="local_video_space">Dolu: %s</string>
     <string name="local_video_time">Süre</string>
+    <string name="local_zoom_adjust_button">Ekran modunu değiştir</string>
     <string name="lock_screen">Kilit ekranı</string>
     <string name="login">Oturum aç</string>
     <string name="login_tip">Geri bildiriminize gönderdiğimiz cevapları almak için oturum açın</string>
@@ -938,6 +993,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="lp_video_zoom_title">Yakınlaştır</string>
     <string name="lv_advance_sound">Sesi yükselt</string>
     <string name="lv_airkan_control_device_des">Oynatma kontrolü için alttaki çubuğa dokunun</string>
+    <string name="lv_airkan_device_my_device">Cihazım</string>
     <string name="lv_airkan_device_xiaomi_phone">Mi telefonum</string>
     <string name="lv_airkan_playing">%s cihazında yansıtılıyor</string>
     <string name="lv_airkan_tips">Yansıtmak için dokunun</string>
@@ -1205,6 +1261,7 @@ tercih ettiğiniz dili seçin"</string>
     <string name="mr_controller_stop">Durdur</string>
     <string name="mr_controller_stop_casting">Yayını durdur</string>
     <string name="mr_controller_volume_slider">Ses düzeyi kaydırma çubuğu</string>
+    <string name="mr_dialog_default_group_name">Grup</string>
     <string name="mr_dialog_device_header">Bir cihaza yayınla</string>
     <string name="mr_dialog_route_header">Bir grupta oynat</string>
     <string name="mr_system_route_name">Sistem</string>
@@ -1259,7 +1316,6 @@ tercih ettiğiniz dili seçin"</string>
     <string name="nick_name">İsim</string>
     <string name="night">Akşam</string>
     <string name="no_account">Oturum açılmadı</string>
-    <string name="no_app_found_error">Uygulama bulunamadı</string>
     <string name="no_history">Burada öğe yok</string>
     <string name="no_longer_prompt">Tekrar gösterme</string>
     <string name="no_more_content">Şimdilik bu kadar</string>
@@ -1536,7 +1592,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="play_list_sign_in_dialog_message">Tüm çalma listelerinizi görüntülemek için Google hesabınız ile oturum açın</string>
     <string name="play_list_skeleton_file">mnc_live_tv_list_skeleton.json</string>
     <string name="play_list_user_local">Yerel</string>
-    <string name="play_list_user_online">Çevrim içi</string>
+    <string name="play_list_user_online">Çevrimiçi</string>
     <string name="playlist_create">Oluştur</string>
     <string name="playlist_detail_recomm_title">Önerilen çalma listeleri</string>
     <string name="playlist_finish">Bitti</string>
@@ -1666,6 +1722,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="plus_shortcut_existed">Bu kısayol zaten mevcut</string>
     <string name="plus_sort_title">Sırala</string>
     <string name="plus_sort_type_default">Varsayılan</string>
+    <string name="plus_sort_type_duration">Uzunluk</string>
     <string name="plus_sort_type_name">Ad</string>
     <string name="plus_sort_type_size">Boyut</string>
     <string name="plus_sort_type_time">Süre</string>
@@ -1675,7 +1732,8 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="popup_click_for_download_video">Video indir</string>
     <string name="popup_pip_activate_button">Ayarlar</string>
     <string name="popup_pip_not_activated">Öncelikle resim içinde resim özelliğini kullanmak için videolara izin verin</string>
-    <string name="popup_window_home_tip">Çevrim içi videoları indirin</string>
+    <string name="popup_recommend_text">Seveceğiniz daha fazla video keşfedin</string>
+    <string name="popup_window_home_tip">Çevrimiçi videoları indirin</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
     <string name="privacy_agree_subtitle">Gizlilik politikasına onay vermek videoların tüm özelliklerini kullanmanıza olanak tanır</string>
     <string name="privacy_agree_title">İzin</string>
@@ -1683,7 +1741,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="privacy_experience_title">Kullanıcı deneyimi programı</string>
     <string name="privacy_revoke_setting">Anahtarı kapatarak videolar uygulamasının gizlilik politikasına verdiğiniz izni geri çekersiniz</string>
     <string name="privacy_revoke_subtitle">Videoların gizlilik politikasına ilişkin onayınızı geri çekin</string>
-    <string name="privacy_revoke_title">İznin geri çekilmesi</string>
+    <string name="privacy_revoke_title">İzni geri al</string>
     <string name="privatestr">MIIBSw</string>
     <string name="pro_prize_popup_style_one">%s karşılığında reklamları kaldırın</string>
     <string name="pro_prize_popup_style_two">%s karşılığında daha fazla özelliğin kilidini açın</string>
@@ -1716,6 +1774,7 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="recommend_online_switch">Çevrimiçi öneriler</string>
     <string name="recommend_online_tips">Çevrimiçi video tavsiyelerini almak için etkinleştirin</string>
     <string name="recommend_page_replay">Yeniden oynat</string>
+    <string name="recommend_slide_to_more">Daha fazlası için kaydırın</string>
     <string name="recommend_switch_alert">Bu bölümü silmek için videoda ayarlara gidin</string>
     <string name="recommend_to_you">Sizin için önerilen</string>
     <string name="reload_sub_title">Tekrar denemek için dokunun</string>
@@ -1782,6 +1841,15 @@ Hesap güvenliğinin arttırılması"</string>
     <string name="sending">Gönderiliyor</string>
     <string name="service_error">Sunucu hatası</string>
     <string name="set_success">Başarıyla değiştirildi</string>
+    <string name="settings_inline_auto_play">Her zaman otomatik oynat</string>
+    <string name="settings_inline_auto_play_close">Otomatik oynatma kapalı</string>
+    <string name="settings_inline_auto_play_tip_close_forever">Her zaman kapalı</string>
+    <string name="settings_inline_auto_play_tip_close_month">Bir ay kapalı</string>
+    <string name="settings_inline_auto_play_tip_open">Açık</string>
+    <string name="settings_inline_auto_play_tip_title">Mobil veri kullanımı hatırlatıcıları</string>
+    <string name="settings_inline_auto_play_title">Otomatik oynat</string>
+    <string name="settings_inline_auto_play_wify">"Yalnızca wifi'de otomatik oynat"</string>
+    <string name="settings_inline_title">Sayfayı otomatik oynatmayı başlat</string>
     <string name="settings_manager_hidden_folder">Gizli videoları yönet</string>
     <string name="share">Paylaş</string>
     <string name="share_fail">Paylaşılamadı. Ağ ayarlarınızı kontrol edin ve tekrar deneyin</string>
@@ -2070,7 +2138,7 @@ Hiçbir şey göstermiyor"</string>
     <string name="v_network_failed">Bir ağ hatası oluştu</string>
     <string name="v_next">İleri</string>
     <string name="v_ok">Tamam</string>
-    <string name="v_online_play">Çevrim içi akış</string>
+    <string name="v_online_play">Çevrimiçi akış</string>
     <string name="v_pw_need_update_app">Tüm özelliklerini kullanabilmek için videolar uygulamasını güncelleyin</string>
     <string name="v_save">Kaydet</string>
     <string name="v_search">Ara</string>
@@ -2131,12 +2199,12 @@ Hiçbir şey göstermiyor"</string>
     <string name="wednesday_shortest">Çrş</string>
     <string name="weibo_application_id" />
     <string name="weibo_redirect_uri" />
-    <string name="welcome_tip_content1">Güçlü yerel video oynatıcı</string>
-    <string name="welcome_tip_content2">Çevrim içi izlenecek veya indirilecek milyonlarca video</string>
+    <string name="welcome_tip_content1">Video oynatıcı</string>
+    <string name="welcome_tip_content2">Çevrimiçi video izleyebilir veya videoları indiribilirsiniz</string>
     <string name="welcome_tip_explore_more">Keşfet</string>
-    <string name="welcome_tip_into_mivideo">Kullanmaya başla</string>
+    <string name="welcome_tip_into_mivideo">Başla</string>
     <string name="welcome_tip_skip">Atla</string>
-    <string name="welcome_tip_title">Videolara hoş geldiniz</string>
+    <string name="welcome_tip_title">Videolar</string>
     <string name="widget_local_video">Yerel videolar</string>
     <string name="widget_local_video_click">Cihazınızda depolanan videoları izlemek için dokunun</string>
     <string name="widget_more_channel">Daha fazla kanal</string>

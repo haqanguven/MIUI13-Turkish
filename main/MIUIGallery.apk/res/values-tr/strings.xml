@@ -2429,9 +2429,9 @@ Bu özelliği ilk kez kullandığınızda dönüştürme biraz zaman alabilir"</
     <string name="photo_editor_remover2_download_finish">AI silgi 2.0 başarıyla indirildi</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_msg">"Wifi ağına bağlı değilsiniz gibi görünüyor. AI silgi 2.0'ı indirmek için %1$d MB mobil veri kullanılsın mı?"</string>
     <string name="photo_editor_remover2_download_sdk_without_wifi_title">"AI silgi 2.0'ı indirin"</string>
-    <string name="photo_editor_remover2_edit_type_free">El ile</string>
-    <string name="photo_editor_remover2_edit_type_line">Çizgileri kaldır</string>
-    <string name="photo_editor_remover2_edit_type_people">İnsanları kaldır</string>
+    <string name="photo_editor_remover2_edit_type_free">Daire</string>
+    <string name="photo_editor_remover2_edit_type_line">Çizgi</string>
+    <string name="photo_editor_remover2_edit_type_people">İnsanlar</string>
     <string name="photo_editor_remover2_no_people_to_remover">Buradaki insanları silemezsin</string>
     <string name="photo_editor_remover2_people_clear">Sil</string>
     <string name="photo_editor_remover2_people_removering">İnsanlar siliniyor</string>

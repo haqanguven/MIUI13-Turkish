@@ -85,8 +85,8 @@
         <item quantity="one">Güvenli mod %d gündür açık</item>
     </plurals>
     <plurals name="settings_security_mode_enable_count">
-        <item quantity="other">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazlarda çalışıyor</item>
-        <item quantity="one">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazlarda çalışıyor</item>
+        <item quantity="other">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
+        <item quantity="one">Güvenli mod &lt;font color=#0D84FF>%1$s&lt;/font> cihazda çalışıyor</item>
     </plurals>
     <plurals name="settings_security_mode_protect_count">
         <item quantity="other">&lt;font color=#0D84FF>%1$s&lt;/font> riskleri etkisiz hale getirildi</item>

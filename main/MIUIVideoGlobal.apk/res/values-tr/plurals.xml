@@ -38,16 +38,16 @@
         <item quantity="one">%s yıldız seçildi</item>
     </plurals>
     <plurals name="exo_controls_fastforward_by_amount_description">
-        <item quantity="other">Fast forward %d seconds</item>
-        <item quantity="one">Fast forward %d second</item>
+        <item quantity="other">%d saniye ileri sar</item>
+        <item quantity="one">%d saniye ileri sar</item>
     </plurals>
     <plurals name="exo_controls_rewind_by_amount_description">
-        <item quantity="other">Rewind %d seconds</item>
-        <item quantity="one">Rewind %d second</item>
+        <item quantity="other">%d saniye geri sar</item>
+        <item quantity="one">%d saniye geri sar</item>
     </plurals>
     <plurals name="fcmpts_dialog_one">
-        <item quantity="other">Watch %s more seconds of a video to earn points and redeem rewards</item>
-        <item quantity="one">Watch %s more second of a video to earn points and redeem rewards</item>
+        <item quantity="other">Puan kazanmak ve ödülleri kullanmak için bir videonun %s saniyesini daha izleyin</item>
+        <item quantity="one">Puan kazanmak ve ödülleri kullanmak için bir videonun %s saniyesini daha izleyin</item>
     </plurals>
     <plurals name="feed_back_home">
         <item quantity="other">%1$d saniye içinde ana sayfaya geri gidiliyor</item>
@@ -55,6 +55,10 @@
     </plurals>
     <plurals name="half_hour_ago">
         <item quantity="other">Yarım saat önce</item>
+    </plurals>
+    <plurals name="hint_local_guide_views">
+        <item quantity="other">%s görüntülenme</item>
+        <item quantity="one">%s görüntülenme</item>
     </plurals>
     <plurals name="in_a_hour">
         <item quantity="other">1 saat içerisinde</item>
@@ -195,8 +199,8 @@ Yalnızca bugün mevcuttur"</item>
         <item quantity="one">%d yeni bildirim</item>
     </plurals>
     <plurals name="music_playlist_title_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d şarkı</item>
+        <item quantity="one">%d şarkı</item>
     </plurals>
     <plurals name="new_incentive_toast_share_success">
         <item quantity="other">Başarıyla paylaşıldı. %d puan kazandınız. Puan merkezinde talep edin</item>
@@ -283,8 +287,8 @@ Yalnızca bugün mevcuttur"</item>
         <item quantity="one">En fazla %d yer işareti ekleyin</item>
     </plurals>
     <plurals name="v_confirm_hide_videos_new">
-        <item quantity="other">Hide %d selected files?</item>
-        <item quantity="one">Hide %d selected file?</item>
+        <item quantity="other">%d seçili dosya gizlensin mi?</item>
+        <item quantity="one">%d seçili dosya gizlensin mi?</item>
     </plurals>
     <plurals name="video_like_text">
         <item quantity="other">%s beğeni</item>

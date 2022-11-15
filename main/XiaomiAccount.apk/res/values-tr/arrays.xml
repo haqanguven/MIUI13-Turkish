@@ -295,6 +295,16 @@
         <item>Mi hesabı şifresini değiştirin</item>
         <item>Değiştir;Şifre;Xiaomi;Mi hesabı;Hesap</item>
     </string-array>
+    <string-array name="settings_search_cloud_space_share">
+        <item>Aile depolama alanı</item>
+        <item>Aile depolama alanını görüntüleyin veya açın</item>
+        <item>Aile depolama alanı;Depolama paylaşımı</item>
+    </string-array>
+    <string-array name="settings_search_family_service">
+        <item>Aile hizmetleri</item>
+        <item>Aile hizmetlerini görüntüleyin veya açın</item>
+        <item>Aile;Aile hizmetleri;Aile paylaşımı</item>
+    </string-array>
     <string-array name="settings_search_help_center">
         <item>Yardım</item>
         <item>Mi hesap yardımı ve desteği alın</item>

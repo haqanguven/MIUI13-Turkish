@@ -244,6 +244,10 @@
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
     </plurals>
+    <plurals name="migrate_gp_data_num">
+        <item quantity="other">%1$d öğe</item>
+        <item quantity="one">%1$d öğe</item>
+    </plurals>
     <plurals name="miplay_time_minute_unit">
         <item quantity="other">%d dakika</item>
         <item quantity="one">%d dakika</item>
@@ -616,6 +620,14 @@
         <item quantity="other"></item>
         <item quantity="one"></item>
     </plurals>
+    <plurals name="tran_notification_complete_msg">
+        <item quantity="other">%1$d öğe aktarılamadı</item>
+        <item quantity="one">%1$d öğe aktarılamadı</item>
+    </plurals>
+    <plurals name="transfer_status_banner_msg_file_failed">
+        <item quantity="other">"%1$d öğe aktarılamadı. İndirmek için i.mi.com'u ziyaret edin"</item>
+        <item quantity="one">"%1$d öğe aktarılamadı. İndirmek için i.mi.com'u ziyaret edin"</item>
+    </plurals>
     <plurals name="trash_purge_dialog_message_cloud">
         <item quantity="other">%d seçili öğe buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>
         <item quantity="one">%d seçili öğe buluttan ve tüm senkronize edilmiş cihazlardan kalıcı olarak silinecek. Yine de silinsin mi?</item>
@@ -639,6 +651,14 @@
     <plurals name="trash_vip_info_text_login">
         <item quantity="other">Öğeler burada %1$d güne kadar saklanabilir (%2$s)</item>
         <item quantity="one">Öğeler burada %1$d güne kadar saklanabilir (%2$s)</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_login_medium_or_low_level">
+        <item quantity="other">Öğeler burada %1$s gün saklanabilir. Bu süreyi uzatmak için dokunun</item>
+        <item quantity="one">Öğeler burada %1$s gün saklanabilir. Bu süreyi uzatmak için dokunun</item>
+    </plurals>
+    <plurals name="trash_vip_info_text_no_sync_server">
+        <item quantity="other">Silinen öğeler bulutta %1$d gün süreyle saklanır</item>
+        <item quantity="one">Silinen öğeler bulutta %1$d gün süreyle saklanır</item>
     </plurals>
     <plurals name="trash_vip_info_text_unlogin">
         <item quantity="other">Öğeler burada %1$d güne kadar saklanabilir. Bu süreyi uzatmak için planınızı yükseltin</item>

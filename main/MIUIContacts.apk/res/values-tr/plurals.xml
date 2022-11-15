@@ -154,7 +154,7 @@
         <item quantity="one">(%1$d)</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
-        <item quantity="other">Simdi</item>
+        <item quantity="other">Şimdi</item>
     </plurals>
     <plurals name="listTotalAllContacts">
         <item quantity="other">%d kişi</item>
@@ -167,6 +167,10 @@
     <plurals name="miuix_appcompat_items_selected">
         <item quantity="other">%d öğe seçildi</item>
         <item quantity="one">%d öğe seçildi</item>
+    </plurals>
+    <plurals name="notification_missedCallsMsg">
+        <item quantity="other">%d cevapsız arama</item>
+        <item quantity="one">%d cevapsız arama</item>
     </plurals>
     <plurals name="numSelectedSimContacts">
         <item quantity="other">%1$d kişi seçildi</item>

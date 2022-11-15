@@ -895,6 +895,11 @@ Bu kodu amirinize gönderin"</string>
     <string name="push_notify_dialog_title">Hesap doğrulama</string>
     <string name="pwd_width_phone_number_or_mail_num">Şifreniz telefon numaranızı, e-postanızı veya Mi hesap kimliğinizi içeremez</string>
     <string name="qq">QQ</string>
+    <string name="qrcode_login_entry_text">Farklı bir cihazda mı oturum açtınız? Hızlı oturum açmayı kullanın</string>
+    <string name="qrcode_login_load_refresh">Bu QR kodunun süresi doldu</string>
+    <string name="qrcode_login_load_retry">Yüklenemedi. Tekrar deneyin</string>
+    <string name="qrcode_login_message">Oturum açmak için Xiaomi telefonunuzun veya tabletinizin tarayıcı uygulaması, Mi ev veya başka bir Xiaomi uygulamasıyla tarayın</string>
+    <string name="qrcode_login_title">Oturum açmak için tarayın</string>
     <string name="recycle_phone_notification_msg">Telefon numaranız geri dönüştürülmüş gibi görünüyor. Güncellemek için dokunun</string>
     <string name="recycle_phone_notification_title">Mi hesabı güvenlik riski</string>
     <string name="removing_account">Oturum kapatılıyor</string>

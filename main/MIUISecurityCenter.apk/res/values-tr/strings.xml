@@ -4183,7 +4183,7 @@ Yönlendiriciniz ile bağlantı için kullandığınız ethernet kablosunu deği
     <string name="power_setting_background_app_save_summary">İşlevselliği etkilemeden arka planda uygulamaların etkinliğini sınırla</string>
     <string name="power_setting_background_app_save_title">Arka plan pil tasarrufu</string>
     <string name="power_setting_category_other">Ek ayarlar</string>
-    <string name="power_setting_config_scenario_policies_title">Senaryolar</string>
+    <string name="power_setting_config_scenario_policies_title">Akıllı senaryolar</string>
     <string name="power_setting_features">Özel özellikler</string>
     <string name="power_setting_important_warning">Dikkat</string>
     <string name="power_setting_power_save_summary_text">Pil tasarrufu için sistem ayarlarını optimize edin</string>

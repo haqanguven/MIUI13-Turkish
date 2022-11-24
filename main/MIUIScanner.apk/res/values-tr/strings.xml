@@ -325,7 +325,6 @@
     <string name="error_server_error">Bir sunucu hatası oluştu</string>
     <string name="evening">Öğleden sonra</string>
     <string name="examples_form_guide">Tablo nasıl taranır</string>
-    <string name="examples_ppt_guide">Tanıtım</string>
     <string name="examples_text_guide">Metin nasıl taranır</string>
     <string name="expand_button_title">Gelişmiş</string>
     <string name="experience_new_feature_tips">Beta sürümünü kullanma izinlerini almak için Mi hesabınızda oturum açın. Başvurunuzu inceledikten sonra beta sürümünü kullanabileceksiniz. Beta sürümü hatalar içerebilir</string>
@@ -428,6 +427,7 @@
     <string name="general_location_prompt">Mağaza hizmeti konum izni gerektirir</string>
     <string name="general_no">Öğe bilgisi bulunamadı</string>
     <string name="general_no_found">Sizin için benzer ürünleri önerin</string>
+    <string name="general_object_restart_tips">Tanınıyor</string>
     <string name="general_object_tips">Resimdeki bilgelik</string>
     <string name="general_plant">Aradığınız şey olabilir:</string>
     <string name="general_recognized">"Sonuç: "</string>
@@ -664,7 +664,8 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="no_one_phone">Geçerli bir telefon numarası girin</string>
     <string name="no_storage">Dahili depolama alanı yok</string>
     <string name="no_support_to_translate_type">Bu dil desteklenmiyor</string>
-    <string name="noon">ÖS</string>
+    <string name="noon">Öğlen</string>
+    <string name="not_camera_permissions_hint">Bu özelliği kullanabilmek için kamera izinlerini verin</string>
     <string name="not_identification_form">Tablo tanınamadı. Tekrar seçin ve baştan başlayın</string>
     <string name="not_insert_contact">Kişi eklenemiyor</string>
     <string name="not_network">Ağa bağlanılamadı. Bir iki dakika bekleyin ve tekrar deneyin</string>
@@ -805,11 +806,19 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="ppt_preview_dialog_delete_content">Bu sayfayı silmek istediğinizden emin misiniz? Bu işlem geri alınamaz</string>
     <string name="ppt_preview_dialog_delete_hint">Hatırlatma</string>
     <string name="ppt_preview_dialog_delete_title">Sayfayı sil</string>
-    <string name="ppt_preview_dialog_transform_title">PDF belgesi olarak dışa aktar</string>
     <string name="ppt_preview_loading_color">Ayarlanıyor</string>
-    <string name="ppt_preview_loading_save">Dışa aktarılıyor</string>
-    <string name="ppt_preview_title">PPT önizlemesi</string>
-    <string name="ppt_preview_transform">"PDF'yi dışa aktar"</string>
+    <string name="ppt_preview_loading_photo">Dışa aktarılıyor</string>
+    <string name="ppt_preview_loading_save">Dışa aktarılıyor. Bu sayfadan ayrılmayın</string>
+    <string name="ppt_preview_save_pdf">PDF</string>
+    <string name="ppt_preview_save_photo">Fotoğraf</string>
+    <string name="ppt_preview_save_title">Farklı dışa aktar</string>
+    <string name="ppt_preview_title">Önizleme</string>
+    <string name="ppt_preview_toast_save_pdf">PDF başarıyla dışa aktarıldı</string>
+    <string name="ppt_preview_toast_save_photo">Galeriye başarıyla kaydedildi</string>
+    <string name="ppt_preview_transform">Dışa aktar</string>
+    <string name="ppt_sort_dialog_content">Düzenlemeyi şimdi durdurmak ister misiniz? Değişiklikleriniz kaydedilmeyecek</string>
+    <string name="ppt_sort_dialog_title">Düzenlemeyi durdur</string>
+    <string name="ppt_sort_title">Sırala</string>
     <string name="ppt_toast_max">Hatırlatma: Şu anda 50 parçaya kadar desteklenmektedir</string>
     <string name="ppt_toast_recovery_fail">Veriler geri yüklenemedi</string>
     <string name="pref_camera_focusmode_default">continuous-picture</string>
@@ -821,7 +830,7 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="previous">Geri</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_policy_update">Güncellenmiş gizlilik politikası</string>
-    <string name="privacy_policy_update_message">"<a href="%1$s">Gizlilik politikasının</a> yeni sürümünü kabul etmedikçe barkod okuyucuyu kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını şimdi kabul ediyor musunuz?"</string>
+    <string name="privacy_policy_update_message">%1$s Gizlilik politikasının yeni sürümünü kabul etmedikçe barkod okuyucuyu kullanmaya devam edemezsiniz. Güncellenen gizlilik politikasını şimdi kabul ediyor musunuz?</string>
     <string name="privacy_policy_update_welcome">Barkod okuyucunun gizlilik politikası güncellendi:</string>
     <string name="privacy_policy_withdrawal_error">Onay geri alınamadı. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="privacy_policy_withdrawal_message">"Devam ederseniz barkod okuyucunun gizlilik politikasına verdiğiniz izni geri çekeceksiniz. Bu barkod okuyucu hizmetlerini kabul etmeyi reddetmek olarak değerlendirilecektir. Tarayıcıyı kullanmaya karar verirseniz <a href="%1$s">Gizlilik Politikasını</a> tekrar kabul etmeniz gerekecektir"</string>
@@ -897,17 +906,22 @@ Cihazı yerleştirmek için lütfen resimdeki açıya bakın ve tekrar deneyin"<
     <string name="scan_code_object_guard">Kod, çiçek ve bitkileri tarayın</string>
     <string name="scan_code_object_summary">Çiçekleri ve bitkileri tanımlayın, aynı modeli bulun ve QR kodunu veya barkodu tarayın</string>
     <string name="scan_code_permanent">QR kodunu, çiçekleri, evcil hayvanları tanımlayın ve aynı ürünü bulun</string>
-    <string name="scan_content_warning">"Metin tanıma sonuçları şu anda desteklenmiyor
-Acil onarım. Lütfen sabırlı olun"</string>
+    <string name="scan_code_tip">Hangi kodun taranacağını seçin</string>
+    <string name="scan_content_error">"Bu istek zaman aşımına uğradı
+Sorunu çözüyoruz. Daha sonra tekrar deneyin"</string>
+    <string name="scan_content_no_network_warning">"Taradığınız öğe bir metin QR kodudur
+Ağa bağlanın ve yeniden tarayın"</string>
+    <string name="scan_content_no_pass_warning">"Bu metin yasaklanmış içeriğe sahiptir
+Bunun yerine başka bir şey tarayın"</string>
     <string name="scan_document_top_tip">Belge tarayın ve PDF dosyası oluşturun</string>
     <string name="scan_document_top_tip_second">Belgeleri tarayın ve PDF dosyası oluşturun</string>
     <string name="scan_form">Tablo tara</string>
     <string name="scan_form_guard">Kağıt formları düzenlenebilir excel dosyasına dönüştürün</string>
     <string name="scan_form_top_tip">Tabloları tarayın, kaydedin ve düzenleyin</string>
     <string name="scan_general_top_tip">Bitkileri, insanları ve ürünleri tanıyın</string>
-    <string name="scan_pdf">PDF olarak tara</string>
+    <string name="scan_pdf">PDF oluştur</string>
     <string name="scan_pdf_guard">PDF oluşturmak için kağıt belgeleri tarayın</string>
-    <string name="scan_ppt">PPT olarak ayıkla</string>
+    <string name="scan_ppt">PPT</string>
     <string name="scan_ppt_guard">Ekran içeriğini ayıklayın ve tek tıklamayla ekleyin</string>
     <string name="scan_ppt_top_tip">"Tara ve ppt'yi kaydet"</string>
     <string name="scan_result">Sonuç</string>
@@ -936,12 +950,12 @@ Acil onarım. Lütfen sabırlı olun"</string>
     <string name="send_email">E-posta gönder</string>
     <string name="send_mail">E-posta gönder</string>
     <string name="setting_alipay">Alipay</string>
-    <string name="setting_choose_every_time">Her zaman sor</string>
-    <string name="setting_default_function">Varsayılan</string>
-    <string name="setting_fifth_banner_content">Tabloları doğru şekilde çıkarmanıza ve excel dosyasına dönüştürmenize yardımcı olur</string>
-    <string name="setting_first_banner_content">"Xiaoai görünüm Xiaoai'nin sınıf arkadaşlarının gözleridir ve dünyayı kendi gözlerinizle görmenize yardımcı olur"</string>
-    <string name="setting_first_banner_title">Xiaoai görünüm (Tarama)</string>
-    <string name="setting_fourth_banner_content">Görüntü metnini doğru bir şekilde çıkarmanıza yardımcı olun ve tek tıklamayla kopyalamayı destekleyin</string>
+	<string name="setting_choose_every_time">Her zaman sor</string>
+	<string name="setting_default_function">Varsayılan özellik</string>
+	<string name="setting_fifth_banner_content">Excel belgeleri oluşturmak için tabloları tarayın</string>
+	<string name="setting_first_banner_content">Barkod okuyucu ile daha fazlasını görün ve daha fazlasını yapın</string>
+	<string name="setting_first_banner_title">Barkod okuyucu</string>
+	<string name="setting_fourth_banner_content">Fotoğraflardaki metni tarayın ve kopyalayın</string>
     <string name="setting_function_sort">Sırala</string>
     <string name="setting_preference_pay">Ödeme yöntemi</string>
     <string name="setting_preference_weixin_process_method">WeChat kodlar</string>
@@ -1016,6 +1030,9 @@ Acil onarım. Lütfen sabırlı olun"</string>
     <string name="taobao">Taobao</string>
     <string name="tel">Telefon</string>
     <string name="text_extraction_demo_dialog_title">Metni tanıma ve kopyalama için dokunun</string>
+    <string name="text_general_guide_btn_tips">Tamam</string>
+    <string name="text_general_guide_tips_first">Nesneleri tarayın ve tanıyın</string>
+    <string name="text_general_guide_tips_second">Kodları tarayın, bitkileri tanıyın ve benzer ürünleri bulun</string>
     <string name="text_price">Fiyat</string>
     <string name="text_to_be_translated_cannot_be_empty">Çevrilecek metin boş bırakılamaz</string>
     <string name="textrecognition_results">Metin tanıma sonuçları</string>
@@ -1072,6 +1089,7 @@ Acil onarım. Lütfen sabırlı olun"</string>
     <string name="to_pay">Ödemeyi tamamla</string>
     <string name="toast_net_2g">Ağ zayıf. Lütfen ağı değiştirip tekrar deneyin</string>
     <string name="toast_net_timeout">İstek zaman aşımına uğradı. Lütfen daha sonra tekrar deneyiniz</string>
+    <string name="toast_save_photo">Fotoğraf albüme kaydedildi</string>
     <string name="today">Bugün</string>
     <string name="toinstall">İndir</string>
     <string name="tomorrow">Yarın</string>
